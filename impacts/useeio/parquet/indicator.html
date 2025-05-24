@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Display Indicators Table</title>
+  <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+  <link href="https://cdn.jsdelivr.net/npm/tabulator-tables@5.6.1/dist/css/tabulator.min.css" rel="stylesheet">
+  <style>
+    body {
+      width: 100%;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+    #content {
+      border: 1px solid #3c3c3c;
+      width: 60%;
+      height: 90vh;
+      margin: auto;
+      overflow: scroll;
+      margin-top:2.5%;
+    }
+
+    .tabulator-cell {
+      font-variant-numeric: tabular-nums;
+    }
+  </style>
+
+  <script type="module">
+    // Import DuckDB (WASM version) and Tabulator
+    // Try using a constants js file and store all static urls there -- 
+    // import {US_STATES, Sector_api_url, Production_complete_api_url} from './constants.js';
+    
+    async function loadData() {
+      // import * as duckdb from "https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1.28.1-dev106.0/+esm";
+      const duckdb = await import("https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1.28.1-dev106.0/+esm");
+      const {TabulatorFull: Tabulator} = await import("https://cdn.jsdelivr.net/npm/tabulator-tables@5.6.1/+esm");
+      // import { TabulatorFull as Tabulator } from 'https://cdn.jsdelivr.net/npm/tabulator-tables@5.6.1/+esm';
+
+    async function instantiate(duckdb) {
+      const CDN_BUNDLES = duckdb.getJsDelivrBundles(),
+              bundle = await duckdb.selectBundle(CDN_BUNDLES),
+              worker_url = URL.createObjectURL(
+                      new Blob([`importScripts("${bundle.mainWorker}");`],{
+                        type: "text/javascript"
+                      })
+              );
+
+      const worker = new Worker(worker_url),
+              logger = new duckdb.ConsoleLogger("DEBUG"),
+              db = new duckdb.AsyncDuckDB(logger, worker);
+      await db.instantiate(bundle.mainModule, bundle.pthreadWorker);
+      URL.revokeObjectURL(worker_url);
+      return db;
+    }
+
+    const DuckDB = await instantiate(duckdb);
+    const db = await DuckDB.connect();
+
+    await db.query(`
+    create table indicator as select * from "https://raw.githubusercontent.com/ModelEarth/profile/main/impacts/useeio/parquet/files/Indicator.parquet";
+    `);
+
+    const values = await db.query(`
+    select Name, Code, Unit, "Group", SimpleUnit, SimpleName
+    from indicator
+    `);
+
+    var table = new Tabulator("#tbl", {
+      data: values.toArray().map(d => {
+        const tmp = d.toJSON()
+        return tmp
+      }),
+      layout: "fitColumns",
+      columns: [
+            { title: "Name", field: "Name" },  // Replace with your actual column names
+            { title: "Code", field: "Code" },  // Replace with your actual column names
+            { title: "Unit", field: "Unit" },  // Replace with your actual column names
+            { title: "Group", field: "Group" },  // Replace with your actual column names
+            { title: "Simple Unit", field: "SimpleUnit" },  // Replace with your actual column names
+            { title: "Simple Name", field: "SimpleName" }   // Replace with your actual column names
+      ]
+    })
+
+      const button = document.getElementById('loadButton');
+      button.style.display = 'none';
+
+      const loadingData = document.getElementById('loadingData');
+      loadingData.style.display = 'none';
+    }
+
+
+    document.addEventListener('DOMContentLoaded', () => {
+      const button = document.getElementById('loadButton');
+      button.addEventListener('click', loadData);
+      button.h
+    });
+
+    loadData();
+
+  </script>
+</head>
+<body>
+  <h1>Indicators Table</h1>
+  <button id="loadButton" style="display:none">Load Data</button>
+  <div id="loadingData">Loading Data...</div>
+  <div id="tbl"></div>
+</body>
+</html>

@@ -1,0 +1,589 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/plae
+best_practice: 44.2204834 kgCO2e
+biogenic_embodied_carbon_z: 0.1777638883463118
+box_id: '522487263474'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-08-27T16:35:41.336470Z'
+  declared_unit: 1 m2
+  default_distance: 960.77598 km
+  default_transport_mode: truck, unspecified
+  description: Resilient floor products (including vinyl, rubber, linoleum, composition
+    cork, etc.) in modular square or rectangle shapes
+  display_name: Resilient Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 8ab304f186094beda76ff15fb15d0081
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 4.66 kg
+  massless: false
+  masterformat: 09 65 00 Resilient Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: ResilientFlooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> ResilientFlooring
+  openepd_name: Finishes >> Flooring >> ResilientFlooring
+  parents: []
+  pct10_gwp: 4.598976761 kgCO2e
+  pct20_gwp: 5.95944833 kgCO2e
+  pct30_gwp: 7.035606692 kgCO2e
+  pct40_gwp: 7.731692971 kgCO2e
+  pct50_gwp: 8.486443639 kgCO2e
+  pct60_gwp: 9.877002209 kgCO2e
+  pct70_gwp: 11.45168711 kgCO2e
+  pct80_gwp: 13.43417162 kgCO2e
+  pct90_gwp: 16.83149619 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Resilient Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161700'
+  updated_on: '2025-05-23T10:09:00.635574Z'
+  use_stored_carbon: OPTIONAL
+conductive_flooring: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 59.7795166 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-09-25T21:32:16.193339Z'
+date_of_issue: '2017-04-18'
+date_validity_ends: '2022-04-17'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "Achieve is the world\u2019s most innovative sports flooring system.\
+  \ Utilizing a patented fusion process, the resilient top layer is fused to our hyper-aggressive\
+  \ PLAETech\u2122 Foundation to create a single layer product. Our PLAETech\u2122\
+  \ Foundation is specifically designed for the best athletes in the world. Engineered\
+  \ for maximum shock absorption and explosive energy return, this product can withstand\
+  \ anything you throw at it, or drop on it. Supplying you and your athletes with\
+  \ confidence and support, while training day-in, day-out. PRODUCT APPLICATION The\
+  \ PLAE Achieve provides the primary function of floor covering in indoor commercial\
+  \ areas including athletic training facilities, fitness centers, military training\
+  \ areas, universities, weight rooms, cardio rooms, and locker rooms."
+doc: buildingtransparency.org/e/ec3ez8663u
+excluded: false
+externally_verified: true
+file_name: SCS-EPD-04467_PLAE-Achieve_073118.pdf
+gwp: 52 kgCO2e
+gwp_per_category_declared_unit: 52 kgCO2e
+gwp_per_kg: 3.058823529 kgCO2e
+gwp_z: 0.1777638883463118
+id: 60633e37bef64182876595f07db2f0d7
+impacts: {}
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: "\n\n## Product Component Notes\nTable 2. Origin and availability\
+  \ of material content.\n                                                       \
+  \                           Availability                             Pre- and Post-\n\
+  \                                               Origin of Raw                  \
+  \                                               Consumer\n     Component       \
+  \         Materials\n                                                 Material \
+  \         Renewable   Non-Renewable             Recycled             Recycled\n\
+  \                                                                              \
+  \                                                Content\n                     \
+  \                                                                              \
+  \  Fossil resource,\n           Layer       Rubber, SBR, Crumb      United States\
+  \                                                                 0%/100%\n    \
+  \                                                                              \
+  \                       limited\n                                              \
+  \                                 Mineral resource,\n            Filler      Calcium\
+  \ carbonate         Global\n                                                   \
+  \                               abundant\n                                     \
+  \                                          Mineral resource,\n            Filler\
+  \                Clay            Global\n                                      \
+  \                                            abundant\n                        \
+  \                                                       Mineral resource,\n    \
+  \        Filler                Talc            Global\n                        \
+  \                                                          abundant\n          \
+  \                    Rubber, SBR,                                              \
+  \             Fossil resource,\n           Layer                               United\
+  \ States                                                                 100%/0%\n\
+  \                                Recycled                                      \
+  \                           limited\n                                          \
+  \                                      Fossil resource,\n           Layer      \
+  \    Rubber, EPDM            Global\n                                          \
+  \                                          limited\n                           \
+  \                                                     Fossil resource,\n       \
+  \   Adhesive        Polymer Binder          Global\n                           \
+  \                                                         limited\n            \
+  \                                                                    Fossil resource,\n\
+  \          Modifier            Process Oil         Global\n                    \
+  \                                                                limited\n     \
+  \                                                                          Mineral\
+  \ Resource,\n          Coloring              Pigment           Global\n        \
+  \                                                                          abundant\n\
+  \                                                                              \
+  \  Fossil resource,\n           Layer                Plastics          Global\n\
+  \                                                                              \
+  \      limited\n                                                               \
+  \      Region\n          Additive               Water         United States\n  \
+  \                                                                 dependent\n  \
+  \                                                                              Fossil\
+  \ resource,\n          Additive             Peroxides          Global\n        \
+  \                                                                            limited\n\
+  \                                                                              \
+  \  Fossil resource,\n          Stabilizer          Antioxidant         Global\n\n\
+  ## LCA Notes\nA cradle to grave life cycle assessment (LCA) was completed for this\
+  \ product group in accordance with ISO 14040, ISO 14044, ISO 21930, and Product\
+  \ Category Rule for Environmental Product Declarations for Flooring: Carpet, Resilient,\
+  \ Laminate, Ceramic, Wood (Version 2).\n\n## Source Data Notes\n1.   ASTM International,\
+  \ 100 Barr Harbor Drive, West Conshohocken, PA, 19428-2959 USA.\nhttp://www.astm.org/Standard/index.shtml\n\
+  2.   Ecoinvent Centre (2010) Ecoinvent data from v2.2. Swiss Center for Life Cycle\
+  \ Inventories, Dubendorf, 2010,\nhttp://www.ecoinvent.org\n3.   ISO 14025: 2006\
+  \ Environmental labels and declarations - Type III environmental declarations -\
+  \ Principles and\nProcedures\n4.   ISO 14040: 2006 Environmental Management - Life\
+  \ cycle assessment - Principles and framework\n5.   ISO 14044: 2006 Environmental\
+  \ Management - Life cycle assessment - Requirements and guidelines\n6.   ISO 21930:\
+  \ 2007 Sustainability in Building Construction - Environmental declaration of building\
+  \ products.\n7.   Product Category Rule (PCR) for preparing an Environmental Product\
+  \ Declaration (EPD) for Flooring: Carpet,\nResilient, Laminate, Ceramic, Wood. NSF\
+  \ International. Version 2. 2014.\n8.   SCS Global Services. Life Cycle Assessment\
+  \ of Rubber Tile and Rolled Flooring. Updated April 2017. Final Report.\nPrepared\
+  \ for Confidential client.\n9.   SCS Type III Environmental Declaration Program:\
+  \ Program Operator Manual v7.0. October 2015. SCS Global\nServices\n10. US EPA.\
+  \ Advancing Sustainable Materials Management: 2013 Fact Sheet. Assessing Trends\
+  \ in Material Generation,\nRecycling and Disposal in the United States. June 2015\n\
+  11. US EPA. WARM Model Transportation Research - Draft. Memorandum from ICF Consulting\
+  \ to United States\nEnvironmental Protection Agency. September 7, 2004.\nhttp://epa.gov/epawaste/conserve/tools/warm/SWMGHGreport.html#background.\n\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\
+  \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026"
+lowest_plausible_gwp: 44.2204834 kgCO2e
+manufacturer:
+  address: 190 Etowah Industrial Court, Canton, GA 30114
+  address_line: 190 Etowah Industrial Court
+  admin_district: GA
+  admin_district2: Cherokee
+  alt_names:
+  - PLAE Vertical Inc.
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/plae
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:58:37.119726Z'
+  email_extensions: []
+  enterprise: true
+  id: 77ced40b9e174819a921f45c0a7a9731
+  is_failed: false
+  latitude: 34.24912
+  locality: Canton
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cherokee
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    extendedPostalCode: 30114-8016
+    freeformAddress: 190 Etowah Industrial Court, Canton, GA 30114
+    localName: Canton
+    municipality: Canton
+    postalCode: '30114'
+    streetName: Etowah Industrial Court
+    streetNumber: '190'
+  longitude: -84.46984
+  name: PLAE
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/77ced40b9e174819a921f45c0a7a9731
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30114'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:06:41.381205Z'
+  web_domain: plae.us
+  website: www.plae.us
+manufacturer_specific: true
+mass_per_declared_unit: 17 kg
+matched_plants_count: 0
+material_id: fb9df4d5a5c74ee2bcbe88e5f7f0d8e9
+multiproduct: true
+my_capabilities: 1
+name: Achieve Sheet Flooring 18 mm
+not_an_epd: false
+open_xpd_uuid: ec3ez866
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ez866
+output_flows: {}
+owner:
+  name: Vicki Rybl
+  user_id: vrybl@uw.edu
+pcr:
+  alt_names:
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, and Wood (NSF 2012)'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood, Version 2. NSF
+    International. 2014.'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2. 2014.'
+  - 'PCR for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2.2014.'
+  - PCR for Environmental Product Declarations, Flooring:Carpet, Resilient, Laminate,
+    Ceramic, Wood
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood (NSF 2012)'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2.2014.'
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood, Version 2.'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient Laminate, Ceramic, Wood. NSF International.
+    Version 2. 2014.'
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood Version 2'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2. 2014'
+  - 'NSF: PCR for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood Version 2'
+  - NSF PCR for Flooring v2.0
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-17T13:03:00.704713Z'
+  date_of_issue: '2014-06-23'
+  date_validity_ends: '2018-09-28'
+  declared_units:
+  - 1 m2
+  doc: http://www.nsf.org/newsroom_pdf/flooring_pcr-new.pdf
+  errors: {}
+  failures: {}
+  id: bd683757a8234358a945e703bcc8cce3
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Product Category Rule for Environmental Product Declarations - Flooring:
+    Carpet, Resilient, Laminate, Ceramic, Wood'
+  open_xpd_uuid: ec3qp4ff
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qp4ff
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qp4ff49
+  short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  status: Sunset
+  updated_on: '2025-05-23T21:40:17.534318Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 59.7795166 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 108 Arnold Mill Road, Woodstock, GA 30188
+  address_line: 108 Arnold Mill Road
+  admin_district: GA
+  admin_district2: Cherokee
+  alt_names: []
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-25T21:29:47.278034Z'
+  id: 570d34121d30443cb124480ea9295953
+  is_failed: false
+  latitude: 34.10055
+  locality: Woodstock
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cherokee
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    extendedPostalCode: 30188-5028
+    freeformAddress: 108 Arnold Mill Road, Woodstock, GA 30188
+    localName: Woodstock
+    municipality: Woodstock
+    postalCode: '30188'
+    streetName: Arnold Mill Road
+    streetNumber: '108'
+  longitude: -84.51598
+  name: PLAE Vertical Inc.
+  openepd_id: 866Q4F2M+6J.plae.us
+  owned_by:
+    address: 190 Etowah Industrial Court, Canton, GA 30114
+    address_line: 190 Etowah Industrial Court
+    admin_district: GA
+    admin_district2: Cherokee
+    alt_names:
+    - PLAE Vertical Inc.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/plae
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:58:37.119726Z'
+    email_extensions: []
+    enterprise: true
+    id: 77ced40b9e174819a921f45c0a7a9731
+    is_failed: false
+    latitude: 34.24912
+    locality: Canton
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cherokee
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      extendedPostalCode: 30114-8016
+      freeformAddress: 190 Etowah Industrial Court, Canton, GA 30114
+      localName: Canton
+      municipality: Canton
+      postalCode: '30114'
+      streetName: Etowah Industrial Court
+      streetNumber: '190'
+    longitude: -84.46984
+    name: PLAE
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/77ced40b9e174819a921f45c0a7a9731
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30114'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:06:41.381205Z'
+    web_domain: plae.us
+    website: www.plae.us
+  postal_code: '30188'
+  total_epds: 3
+  type: Plant
+  units: SI
+  updated_on: '2021-01-12T21:01:52.842874Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-04467
+reference_service_life: 60 years
+requires_ocr: false
+resilient_flooring_form_factor: Sheet
+resilient_flooring_material: Rubber
+resilient_flooring_thickness: "\u2265 10mm"
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ez8663u
+sport_flooring: true
+standard_deviation: 9.243722194 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness: 18 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 59.7795166 kgCO2e
+uncertainty_factor: 1.149606088432256
+updated_on: '2024-03-14T03:07:59.076894Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified

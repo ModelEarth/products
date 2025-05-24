@@ -1,0 +1,607 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 55.31328467 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1517789344158'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.226286945 kgCO2e
+  pct20_gwp: 6.31150987 kgCO2e
+  pct30_gwp: 7.193005662 kgCO2e
+  pct40_gwp: 8.328409228 kgCO2e
+  pct50_gwp: 10.05624338 kgCO2e
+  pct60_gwp: 11.73431683 kgCO2e
+  pct70_gwp: 13.92024591 kgCO2e
+  pct80_gwp: 16.33810585 kgCO2e
+  pct90_gwp: 20.03417486 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-05-23T10:09:00.788295Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 91.08671533 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-04-30T17:19:41.555740Z'
+cushioned: true
+date_of_issue: '2017-10-27'
+date_validity_ends: '2023-10-26'
+declaration_type: Product EPD
+declared_unit: 1 m^2
+description: "Tandus Centiva\u2019s Powerbond\xAE Medfloor\xAE combines a nylon wear\
+  \ layer and\n                                       closed cell cushion in a heterogeneous\
+  \ construction. The nylon and closed cell\n                                    \
+  \   cushion are fused together through heat and pressure to form an integral and\n\
+  \                                       inseparable construction that provides excellent\
+  \ performance, durability and\n                                       comfort underfoot.\
+  \ The product\u2019s molecularly bonded seams provide a\n                      \
+  \                 monolithic, moisture impermeable floor that allows for innovative\
+  \ design\n                                       capabilities. As a result, large\
+  \ scale designs, borders and way findings can be\n                             \
+  \          inlayed seamlessly within the product as part of the floor design."
+developer:
+  org:
+    address: 30000 Aurora Road, Solon, OH 44139
+    address_line: 30000 Aurora Road
+    admin_district: OH
+    admin_district2: Cuyahoga
+    alt_names:
+    - Tandus
+    - Tandus Centiva
+    - Tarkett
+    - Tarkett France
+    - Tarkett SpA
+    - Tarkett S.P.A.
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/tarkett
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-02-13T12:06:28.128107Z'
+    email_extensions:
+    - tarkett.com
+    enterprise: true
+    id: 91a2a12664d148cd90dcf7f2627cc681
+    image: https://static.buildingtransparency.org/images/1a3b205b-1ef4-4049-b778-cd6e521e8aac.png
+    is_failed: false
+    latitude: 41.39718
+    legal_name: Tarkett Group
+    locality: Solon
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cuyahoga
+      countrySubdivision: OH
+      countrySubdivisionName: Ohio
+      extendedPostalCode: '441392728'
+      freeformAddress: 30000 Aurora Road, Solon, OH 44139
+      localName: Solon
+      municipality: Solon
+      municipalitySubdivision: Solon
+      postalCode: '44139'
+      streetName: Aurora Road
+      streetNumber: '30000'
+    longitude: -81.4681
+    name: Tarkett
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/91a2a12664d148cd90dcf7f2627cc681
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '44139'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-12-11T16:25:19.664969Z'
+    web_domain: tarkett.com
+    website: www.tarkett.com
+doc: buildingtransparency.org/e/ec3ecn21d3
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: 104.1_TandusCentiva_EPD_Powerbond Medfloor_226c7bd66cd44b75afdc1408f5095e4c.pdf
+gwp: 73.2 kgCO2e
+gwp_per_category_declared_unit: 73.2 kgCO2e
+gwp_per_kg: 27.36281377 kgCO2e
+gwp_z: 0.2903446228191595
+gypsum_specific_density: 2.675163476 kg / m^2
+id: 59762d7c613e49419c43aa12147ceeaf
+image: https://static.buildingtransparency.org/images/4120173674f540e790fa8d521056c17a.png
+impacts: {}
+intended_application:
+- Com
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 55.31328467 kgCO2e
+manufacturer:
+  address: 30000 Aurora Road, Solon, OH 44139
+  address_line: 30000 Aurora Road
+  admin_district: OH
+  admin_district2: Cuyahoga
+  alt_names:
+  - Tandus
+  - Tandus Centiva
+  - Tarkett
+  - Tarkett France
+  - Tarkett SpA
+  - Tarkett S.P.A.
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/tarkett
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-02-13T12:06:28.128107Z'
+  email_extensions:
+  - tarkett.com
+  enterprise: true
+  id: 91a2a12664d148cd90dcf7f2627cc681
+  image: https://static.buildingtransparency.org/images/1a3b205b-1ef4-4049-b778-cd6e521e8aac.png
+  is_failed: false
+  latitude: 41.39718
+  legal_name: Tarkett Group
+  locality: Solon
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cuyahoga
+    countrySubdivision: OH
+    countrySubdivisionName: Ohio
+    extendedPostalCode: '441392728'
+    freeformAddress: 30000 Aurora Road, Solon, OH 44139
+    localName: Solon
+    municipality: Solon
+    municipalitySubdivision: Solon
+    postalCode: '44139'
+    streetName: Aurora Road
+    streetNumber: '30000'
+  longitude: -81.4681
+  name: Tarkett
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/91a2a12664d148cd90dcf7f2627cc681
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '44139'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-12-11T16:25:19.664969Z'
+  web_domain: tarkett.com
+  website: www.tarkett.com
+manufacturer_specific: true
+mass_per_declared_unit: 2.675163476 kg
+matched_plants_count: 0
+material_id: eca926af431d40a4bb862417fdd0e3e7
+multiproduct: false
+my_capabilities: 1
+name: "Tandus Centiva Powerbond\xAE Medfloor\xAE"
+not_an_epd: false
+open_xpd_uuid: ec3ecn21
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ecn21
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NSF PCR for Flooring Carpet, Resilient, Laminate, Ceramic and Wood
+  - NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and W ood)
+  - USA NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and Wood)
+  - 'NSF  Reference PCR Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  - NSF PCR for Flooring PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and
+    Wood)
+  - NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and Wood)
+  - NSF PCR for Flooring PCR - Flooring (Carpet, Resilient, Laminate, Ceramic, and
+    Wood)
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:57.344402Z'
+  date_of_issue: '2012-05-22'
+  date_validity_ends: '2017-05-22'
+  declared_units:
+  - 1 m2
+  doc: http://www.nsf.org/newsroom_pdf/flooring_pcr-new.pdf
+  errors: {}
+  failures: {}
+  id: 59a08bc797e84eb78fe7ab5ff3e40852
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Product Category Rule for Environmental Product Declarations - Flooring:
+    Carpet, Resilient, Laminate, Ceramic, Wood'
+  open_xpd_uuid: ec3e6jsg
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e6jsg
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e6jsgyf
+  short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  status: Sunset
+  updated_on: '2025-05-23T21:40:17.506828Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 91.08671533 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 311 Smith Industrial Boulevard, Dalton, GA 30721
+  address_line: 311 Smith Industrial Boulevard
+  admin_district: GA
+  admin_district2: Whitfield
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-01-23T15:52:21.955395Z'
+  id: 755e1d05b1e44c13b9ce7100ad8ec219
+  is_failed: false
+  latitude: 34.7972
+  locality: Dalton
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Whitfield
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Dalton
+    extendedPostalCode: '307210900'
+    freeformAddress: 311 Smith Industrial Boulevard, Dalton, GA 30721
+    localName: Dalton
+    municipality: Dalton
+    municipalitySubdivision: Dalton
+    postalCode: '30721'
+    streetName: Smith Industrial Boulevard
+    streetNumber: '311'
+  longitude: -84.95996
+  name: Dalton, GA
+  openepd_id: 866QQ2WR+V2.tarkett.com
+  owned_by:
+    address: 30000 Aurora Road, Solon, OH 44139
+    address_line: 30000 Aurora Road
+    admin_district: OH
+    admin_district2: Cuyahoga
+    alt_names:
+    - Tandus
+    - Tandus Centiva
+    - Tarkett
+    - Tarkett France
+    - Tarkett SpA
+    - Tarkett S.P.A.
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/tarkett
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-02-13T12:06:28.128107Z'
+    email_extensions:
+    - tarkett.com
+    enterprise: true
+    id: 91a2a12664d148cd90dcf7f2627cc681
+    image: https://static.buildingtransparency.org/images/1a3b205b-1ef4-4049-b778-cd6e521e8aac.png
+    is_failed: false
+    latitude: 41.39718
+    legal_name: Tarkett Group
+    locality: Solon
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cuyahoga
+      countrySubdivision: OH
+      countrySubdivisionName: Ohio
+      extendedPostalCode: '441392728'
+      freeformAddress: 30000 Aurora Road, Solon, OH 44139
+      localName: Solon
+      municipality: Solon
+      municipalitySubdivision: Solon
+      postalCode: '44139'
+      streetName: Aurora Road
+      streetNumber: '30000'
+    longitude: -81.4681
+    name: Tarkett
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/91a2a12664d148cd90dcf7f2627cc681
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '44139'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-12-11T16:25:19.664969Z'
+    web_domain: tarkett.com
+    website: www.tarkett.com
+  postal_code: '30721'
+  total_epds: 10
+  type: Plant
+  units: SI
+  updated_on: '2020-08-03T18:09:33.439712Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4788046862.104.1
+reference_service_life: 60 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ecn21d3
+specific_density: 2.675163476 kg / m^2
+standard_deviation: 21.25322639 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 91.08671533 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-05-24T16:41:00.640459Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: 902 Battelle Blvd, Richland, WA 99354, USA
+    address_line: 902 Battelle Blvd
+    admin_district: WA
+    admin_district2: Benton County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-07-06T15:10:33.351172Z'
+    enterprise: false
+    id: 60aef8a9021f4c1a877b7a7b1ea47f06
+    is_failed: false
+    latitude: 46.3449714
+    locality: Richland
+    location:
+    - long_name: '902'
+      short_name: '902'
+      types:
+      - street_number
+    - long_name: Battelle Boulevard
+      short_name: Battelle Blvd
+      types:
+      - route
+    - long_name: Richland
+      short_name: Richland
+      types:
+      - locality
+      - political
+    - long_name: Benton County
+      short_name: Benton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Washington
+      short_name: WA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '99354'
+      short_name: '99354'
+      types:
+      - postal_code
+    - long_name: '1793'
+      short_name: '1793'
+      types:
+      - postal_code_suffix
+    longitude: -119.2791808
+    name: Pacific Northwest National Laboratories (PNNL)
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/60aef8a9021f4c1a877b7a7b1ea47f06
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '99354'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-07-06T15:10:33.351184Z'
+    web_domain: pnnl.gov
+    website: https://www.pnnl.gov/
+warnings:
+  density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  - Not specified
+  developer:
+  - Missing link
+  gypsum_specific_density:
+  - Magnitude presented as a range. It has been replaced with the range's left limit
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  - GWP is suspiciously greater than category's typical values
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  specific_density:
+  - Magnitude presented as a range. It has been replaced with the range's left limit
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  verifier:
+  - Missing link
+yarn_type: Polyester (PET)

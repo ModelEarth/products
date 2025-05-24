@@ -1,0 +1,522 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 18.9258649 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '759357796027'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.226286945 kgCO2e
+  pct20_gwp: 6.31150987 kgCO2e
+  pct30_gwp: 7.193005662 kgCO2e
+  pct40_gwp: 8.328409228 kgCO2e
+  pct50_gwp: 10.05624338 kgCO2e
+  pct60_gwp: 11.73431683 kgCO2e
+  pct70_gwp: 13.92024591 kgCO2e
+  pct80_gwp: 16.33810585 kgCO2e
+  pct90_gwp: 20.03417486 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-05-23T10:09:00.788295Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 27.0741351 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-01-04T09:06:22.817110Z'
+date_of_issue: '2016-04-01'
+date_validity_ends: '2021-04-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: The product is a residential broadloom carpet with Nylon 6 face fiber.
+  Nylon 6 face fiber is made from virgin polymer. The face fiber is tufted into a
+  primary backing sheet, latex is added to hold in the fiber, and a woven secondary
+  backing layer is added.
+doc: buildingtransparency.org/e/ec3ft3jrb9
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: Shaw Hospitality_Broadloom Carpet_EPD_80bdf29cad1343d7aabfeb9e91dcfdea.pdf
+form_factor: Broadloom
+gwp: 23 kgCO2e
+gwp_per_category_declared_unit: 23 kgCO2e
+gwp_per_kg: 9.126984127 kgCO2e
+gwp_z: 0.2104756517984919
+id: d4fe3f0953d841b790e0914e8539fb06
+image: https://static.buildingtransparency.org/images/09484ec4f72a4938bcc20986d4f9bd9b.png
+impacts: {}
+industry_standards: []
+intended_application:
+- Res
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\nFace Yarn Primary Backing Precoat Secondary\
+  \ Backin Manufacture Residential Broadloom Carpet is made with Shaw Nylon 6 face\
+  \ fiber is produced internally at Shaw t into yarn through a variety of processes\
+  \ depending The yarn is tufted into the primary backing layer, bind, followed by\
+  \ the application of a woven polyp Environmental, Health, & Safety During Manu Residential\
+  \ Broadloom Carpet is manufactured in Shaw strives to adhere to all applicable laws\
+  \ rega health and safety, diversity, and equal opportunit commitment to responsible\
+  \ materials sourcing, S safety every day. Our programs include: \u2022 Shaw Behavior\
+  \ Based Safety Program to Shaw associates and visitors to Shaw fa \u2022 Supply\
+  \ chain, raw materials and waste m \u2022 Shaw Management System (SMS) - Bas brings\
+  \ together Shaw\u2019s Quality, Total Pro systems under one umbrella, providing\
+  \ a followed the same way every time.\n\n## Source Data Notes\nPCR Part A: Calculation\
+  \ Rules for the Life Cycle Assessment and Requirements of the Project Report Adapted\
+  \ for UL Environment from the range of Environmental Product Declarations of Institute\
+  \ Construction and Environment e.V. (IBU). Version 1.3, 19.06.2014 PCR Part B: Requirements\
+  \ on the EPD for Floor Coverings From the range of Environmental Product Declarations\
+  \ of Institute Construction and Environment e.V. (IBU). Version 1.6, 30.07.2014\
+  \ PCR Part B: Requirements on the EPD for Floor Coverings, Addendum PCR Addendum\
+  \ for IBU Part B: Floor coverings. Version 1, 8/27/2014 ISO 14025 DIN EN ISO 14025:2011-10:\
+  \ Environmental labels and declarations - Type III environmental declarations -\
+  \ Principles and procedures EN 15804 EN 15804:2012-04: Sustainability of construction\
+  \ works - Environmental Product Declarations - Core rules for the product category\
+  \ of construction products"
+lowest_plausible_gwp: 18.9258649 kgCO2e
+manufacturer:
+  address: 616 East Walnut Avenue, Dalton, GA 30721
+  address_line: 616 East Walnut Avenue
+  admin_district: GA
+  admin_district2: Whitfield
+  alt_names:
+  - Shaw
+  - Shaw Industries
+  - Shaw Industries, Inc.
+  - Shaw Industry Groups Inc.
+  - Shaw Contract
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-04-22T20:14:22.728264Z'
+  email_extensions:
+  - shawcontractgroup.com
+  - shawinc.com
+  enterprise: true
+  id: 1beb3edcbb4c410cb54cc9a69d9d18e4
+  image: https://static.buildingtransparency.org/images/6a1f532f-d33f-4fb2-a3f4-d67839f84b28
+  is_failed: false
+  latitude: 34.76038
+  legal_name: Shaw Industries Group, Inc.
+  locality: Dalton
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Whitfield
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    extendedPostalCode: '307214407'
+    freeformAddress: 616 East Walnut Avenue, Dalton, GA 30721
+    localName: Dalton
+    municipality: Dalton
+    postalCode: '30721'
+    streetName: East Walnut Avenue
+    streetNumber: '616'
+  longitude: -84.95916
+  name: Shaw Industries Group, Inc.
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1beb3edcbb4c410cb54cc9a69d9d18e4
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30721'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2022-01-27T20:22:38.346158Z'
+  web_domain: shawinc.com
+  website: www.shawinc.com
+manufacturer_specific: true
+mass_per_declared_unit: 2.52 kg
+matched_plants_count: 0
+material_id: dc4b6232fc4548e199fe1fa586533bcc
+multiproduct: false
+my_capabilities: 1
+name: Residential Broadloom with Nylon 6 Face Fiber
+not_an_epd: false
+open_xpd_uuid: ec3ft3jr
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ft3jr
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-05T17:10:49.415600Z'
+  date_of_issue: '2014-02-12'
+  declared_units:
+  - 1 kg
+  - 1 m2
+  - 1 m3
+  - 1 m
+  - 1 unit
+  doc: https://www.en-standard.eu/une-en-15804-2012-a1-2014-sustainability-of-construction-works-environmental-product-declarations-core-rules-for-the-product-category-of-construction-products/
+  errors: {}
+  failures: {}
+  id: b4789241a24649db9ebc3934b058eed7
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: EN 15804:2012+A1:2014 Sustainability of construction works - Environmental
+    product declarations - Core rules for the product category of construction products
+  open_xpd_uuid: ec36npc1
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec36npc1
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec36npc1zw
+  short_name: EN 15804:2012+A1:2014
+  updated_on: '2022-09-30T13:57:55.003183Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 27.0741351 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 616 Duvall Road, Chatsworth, GA 30705
+  address_line: 616 Duvall Road
+  admin_district: GA
+  admin_district2: Murray
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-09-23T16:25:53.403383Z'
+  id: 1415cc3c522741f5a5abb6bdf94c3046
+  is_failed: false
+  latitude: 34.78806
+  locality: Chatsworth
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Murray
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    extendedPostalCode: 30705-2085
+    freeformAddress: 616 Duvall Road, Chatsworth, GA 30705
+    localName: Chatsworth
+    municipality: Chatsworth
+    postalCode: '30705'
+    streetName: Duvall Road
+    streetNumber: '616'
+  longitude: -84.7881
+  name: Plant WE
+  openepd_id: 866QQ6Q6+6Q.shawinc.com
+  owned_by:
+    address: 616 East Walnut Avenue, Dalton, GA 30721
+    address_line: 616 East Walnut Avenue
+    admin_district: GA
+    admin_district2: Whitfield
+    alt_names:
+    - Shaw
+    - Shaw Industries
+    - Shaw Industries, Inc.
+    - Shaw Industry Groups Inc.
+    - Shaw Contract
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-04-22T20:14:22.728264Z'
+    email_extensions:
+    - shawcontractgroup.com
+    - shawinc.com
+    enterprise: true
+    id: 1beb3edcbb4c410cb54cc9a69d9d18e4
+    image: https://static.buildingtransparency.org/images/6a1f532f-d33f-4fb2-a3f4-d67839f84b28
+    is_failed: false
+    latitude: 34.76038
+    legal_name: Shaw Industries Group, Inc.
+    locality: Dalton
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Whitfield
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      extendedPostalCode: '307214407'
+      freeformAddress: 616 East Walnut Avenue, Dalton, GA 30721
+      localName: Dalton
+      municipality: Dalton
+      postalCode: '30721'
+      streetName: East Walnut Avenue
+      streetNumber: '616'
+    longitude: -84.95916
+    name: Shaw Industries Group, Inc.
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1beb3edcbb4c410cb54cc9a69d9d18e4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30721'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-01-27T20:22:38.346158Z'
+    web_domain: shawinc.com
+    website: www.shawinc.com
+  postal_code: '30705'
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2020-09-23T16:25:53.403391Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4787366550.125.1
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ft3jrb9
+standard_deviation: 4.840939991 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 27.0741351 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-14T18:05:32.377823Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  pcr:
+  - PCR validity dates not found
+yarn_type: Nylon 6

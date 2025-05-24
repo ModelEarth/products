@@ -1,0 +1,433 @@
+also_shown_in: []
+anodized: false
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '1094852758216'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-05-09T11:43:58Z'
+  declared_unit: 1 kg
+  default_distance: 856.16888 km
+  default_transport_mode: truck, unspecified
+  description: Broad category for construction materials made primarily from Aluminium
+    and its alloys
+  display_name: Aluminium
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 26021028190540229c4994c0ea5ea476
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 05 00 00 METALS
+  may_contain_trusted_vendor_declarations: false
+  name: Aluminium
+  no_statistics: false
+  obsolete: false
+  openepd: Aluminium
+  openepd_name: Aluminium
+  parents: []
+  pct10_gwp: 1.371822801 kgCO2e
+  pct20_gwp: 2.351104363 kgCO2e
+  pct30_gwp: 3.149956411 kgCO2e
+  pct40_gwp: 4.013503958 kgCO2e
+  pct50_gwp: 4.894579369 kgCO2e
+  pct60_gwp: 5.974397803 kgCO2e
+  pct70_gwp: 7.623678608 kgCO2e
+  pct80_gwp: 9.915608625 kgCO2e
+  pct90_gwp: 13.18254733 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Aluminium
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-05-23T10:09:02.278548Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-12-19T19:41:33.136171Z'
+date_of_issue: '2022-10-31'
+declaration_type: Product EPD
+density: 2700 kg / m^3
+description: MetalWorks Mesh panels provide an industrial look for interior spaces
+  in various sizes, patterns, and finishes. They offer high sound absorption and conceal
+  elements in the plenum. The panels are available in lay-in and tegular styles, with
+  coordinating suspension system colors.
+developer:
+  org:
+    address: 2300 Columbia Ave, Lancaster, PA 17603, USA
+    address_line: 2300 Columbia Ave
+    admin_district: PA
+    admin_district2: Lancaster County
+    alt_names:
+    - Armstrong World Industries
+    - Armstrong World Industries, Inc.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/armstrong-ceilings
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-08T13:15:28.906027Z'
+    email_extensions:
+    - armstrongceilings.com
+    - armstrongceiling.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/0ed164fb0bbf460c897a4da54c9201f0.png
+    id: 3625052d06964ba2accc90930766b552
+    image: https://static.buildingtransparency.org/images/5b2cb2ad215f4d5f9bf4e2500fc441e5.png
+    is_failed: false
+    latitude: 40.0396801
+    legal_name: Armstrong World Industries, Inc.
+    locality: Lancaster
+    location:
+    - long_name: '2300'
+      short_name: '2300'
+      types:
+      - street_number
+    - long_name: Columbia Avenue
+      short_name: Columbia Ave
+      types:
+      - route
+    - long_name: Lancaster
+      short_name: Lancaster
+      types:
+      - locality
+      - political
+    - long_name: Manor Township
+      short_name: Manor Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Lancaster County
+      short_name: Lancaster County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '17603'
+      short_name: '17603'
+      types:
+      - postal_code
+    - long_name: '4108'
+      short_name: '4108'
+      types:
+      - postal_code_suffix
+    longitude: -76.36606739999999
+    name: Armstrong World Industries, Inc.
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3625052d06964ba2accc90930766b552
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '17603'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-07-12T17:35:39.941724Z'
+    web_domain: armstrongceilings.com
+    website: www.armstrongceilings.com
+doc: buildingtransparency.org/e/ec3a444p73
+document_version: 'null'
+epd_degraded: false
+errors:
+  date_validity_ends:
+  - Not specified
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+  impacts:
+  - GWP impact not specified
+  program_operator:
+  - Missing link
+file_name: 09_51_33 - Armstrong_metalworks-mesh-data-page_58ee329c1ca148dca656464afccc783c.pdf
+id: e2e7b59d0d0c426a81fcc8aed907114b
+image: https://static.buildingtransparency.org/images/ca676fc2d6bd4db3a8a1104105954706.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+manufacturer:
+  address: 2300 Columbia Ave, Lancaster, PA 17603, USA
+  address_line: 2300 Columbia Ave
+  admin_district: PA
+  admin_district2: Lancaster County
+  alt_names:
+  - Armstrong World Industries
+  - Armstrong World Industries, Inc.
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/armstrong-ceilings
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-08-08T13:15:28.906027Z'
+  email_extensions:
+  - armstrongceilings.com
+  - armstrongceiling.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/0ed164fb0bbf460c897a4da54c9201f0.png
+  id: 3625052d06964ba2accc90930766b552
+  image: https://static.buildingtransparency.org/images/5b2cb2ad215f4d5f9bf4e2500fc441e5.png
+  is_failed: false
+  latitude: 40.0396801
+  legal_name: Armstrong World Industries, Inc.
+  locality: Lancaster
+  location:
+  - long_name: '2300'
+    short_name: '2300'
+    types:
+    - street_number
+  - long_name: Columbia Avenue
+    short_name: Columbia Ave
+    types:
+    - route
+  - long_name: Lancaster
+    short_name: Lancaster
+    types:
+    - locality
+    - political
+  - long_name: Manor Township
+    short_name: Manor Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Lancaster County
+    short_name: Lancaster County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '17603'
+    short_name: '17603'
+    types:
+    - postal_code
+  - long_name: '4108'
+    short_name: '4108'
+    types:
+    - postal_code_suffix
+  longitude: -76.36606739999999
+  name: Armstrong World Industries, Inc.
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3625052d06964ba2accc90930766b552
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '17603'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-07-12T17:35:39.941724Z'
+  web_domain: armstrongceilings.com
+  website: www.armstrongceilings.com
+manufacturer_specific: true
+matched_plants_count: 1
+material_id: 56bb55cc6a4345c5815b6b8007a4772c
+multiproduct: false
+my_capabilities: 1
+name: MetalWorks Mesh
+not_an_epd: false
+open_xpd_uuid: ec3a444p
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3a444p
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+painted: false
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-09T18:21:48.562380Z'
+  id: c1033eadeae44406bb1fc5defefa3cbf
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Marietta, Macon
+  owned_by:
+    address: 2300 Columbia Ave, Lancaster, PA 17603, USA
+    address_line: 2300 Columbia Ave
+    admin_district: PA
+    admin_district2: Lancaster County
+    alt_names:
+    - Armstrong World Industries
+    - Armstrong World Industries, Inc.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/armstrong-ceilings
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-08T13:15:28.906027Z'
+    email_extensions:
+    - armstrongceilings.com
+    - armstrongceiling.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/0ed164fb0bbf460c897a4da54c9201f0.png
+    id: 3625052d06964ba2accc90930766b552
+    image: https://static.buildingtransparency.org/images/5b2cb2ad215f4d5f9bf4e2500fc441e5.png
+    is_failed: false
+    latitude: 40.0396801
+    legal_name: Armstrong World Industries, Inc.
+    locality: Lancaster
+    location:
+    - long_name: '2300'
+      short_name: '2300'
+      types:
+      - street_number
+    - long_name: Columbia Avenue
+      short_name: Columbia Ave
+      types:
+      - route
+    - long_name: Lancaster
+      short_name: Lancaster
+      types:
+      - locality
+      - political
+    - long_name: Manor Township
+      short_name: Manor Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Lancaster County
+      short_name: Lancaster County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '17603'
+      short_name: '17603'
+      types:
+      - postal_code
+    - long_name: '4108'
+      short_name: '4108'
+      types:
+      - postal_code_suffix
+    longitude: -76.36606739999999
+    name: Armstrong World Industries, Inc.
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3625052d06964ba2accc90930766b552
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '17603'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-07-12T17:35:39.941724Z'
+    web_domain: armstrongceilings.com
+    website: www.armstrongceilings.com
+  plants_count: 2
+  total_epds: 6
+  type: PlantGroup
+  updated_on: '2025-05-13T18:01:04.680280Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator_fkey: 'null'
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3a444p73
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-04-12T22:25:35.595387Z'
+use_stored_carbon: false
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  verifier:
+  - Missing link

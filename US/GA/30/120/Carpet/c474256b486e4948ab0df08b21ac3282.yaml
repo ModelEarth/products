@@ -1,0 +1,653 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 42.31617406 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '344649040533'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.226286945 kgCO2e
+  pct20_gwp: 6.31150987 kgCO2e
+  pct30_gwp: 7.193005662 kgCO2e
+  pct40_gwp: 8.328409228 kgCO2e
+  pct50_gwp: 10.05624338 kgCO2e
+  pct60_gwp: 11.73431683 kgCO2e
+  pct70_gwp: 13.92024591 kgCO2e
+  pct80_gwp: 16.33810585 kgCO2e
+  pct90_gwp: 20.03417486 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-05-23T10:09:00.788295Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 69.68382594 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-09-02T14:21:20.975190Z'
+date_of_issue: '2012-11-29'
+date_validity_ends: '2017-11-29'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "EcoWorx\xAE is the flooring industry\u2019s first fully recyclable,\
+  \ non-PVC carpet tile backing and the world\u2019s first Cradle to Cradle\xAESilver\
+  \ Certified commercial carpet tile."
+developer:
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+digitization_qa:
+  address: University of Washington, Seattle, WA 98195
+  address_line: ' University of Washington'
+  admin_district: WA
+  admin_district2: King
+  alt_names:
+  - CLF
+  - Embodied Carbon Network
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-01-11T14:09:43.431233Z'
+  email_extensions:
+  - waldmanlca.com
+  - carbonleadershipforum.org
+  enterprise: true
+  id: 14961b8cc7d4440f9456f7210fdfe76a
+  image: https://static.buildingtransparency.org/images/c2c300af-096b-4770-adde-bea7fb5bd8be.png
+  is_failed: false
+  latitude: 47.65885
+  legal_name: Carbon Leadership Forum
+  locality: Seattle
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: King
+    countrySubdivision: WA
+    countrySubdivisionName: Washington
+    countryTertiarySubdivision: Seattle
+    freeformAddress: University of Washington, Seattle, WA 98195
+    municipality: Seattle
+    municipalitySubdivision: Seattle, University District
+    postalCode: '98195'
+    streetName: University of Washington
+  longitude: -122.30272
+  my_capabilities: 1
+  name: Carbon Leadership Forum
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/14961b8cc7d4440f9456f7210fdfe76a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '98195'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2020-05-21T22:02:04.366702Z'
+  web_domain: carbonleadershipforum.org
+  website: www.carbonleadershipforum.org
+doc: buildingtransparency.org/e/ec3mmpd40d
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: SHAW_101.2_EPD_EcoWorxCommercialCarpetTile_29November2012.pdf
+form_factor: Tiles
+gwp: 56 kgCO2e
+gwp_per_category_declared_unit: 56 kgCO2e
+gwp_per_kg: 17.66561514 kgCO2e
+gwp_z: 0.2903446228191595
+id: 3169bee93a114823929a9b21017e13f5
+image: https://static.buildingtransparency.org/images/4a28933a6f6b43d1b8062fab3b7a962a.png
+impacts: {}
+industry_standards: []
+intended_application:
+- Com
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## LCA Notes\npurposes, the distance traveled for delivery of\
+  \ the product was calculated using a weighted average of total sales.\n\n## Source\
+  \ Data Notes\nProduct Category Rule for Environmental Product Declarations, Flooring:\
+  \ Carpet, Resilient, Laminate, Ceramic, Wood,\nNSF International, National Center\
+  \ for Sustainability Standards, valid through May 22, 2017, ncss@nsf.org\nISO 14025:2006,\
+  \ the International Organization for Standardization, Environmental Labels and Declarations\
+  \ - Type III\nEnvironmental Declarations - Principals and Procedures, Edition 1\n\
+  http://www.iso.org/iso/catalogue_detail?csnumber=38131\nISO 14040:2006, the International\
+  \ Standard of the International Standardization Organization, Environmental\nManagement\
+  \ - Life Cycle Assessment - Principles and Framework, Edition 2\nhttp://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=37456\n\
+  ISO 14044:2006, the International Standard of the International Standardization\
+  \ Organization, Environmental\nManagement - Life Cycle Assessment - Requirements\
+  \ and guidelines, Edition 1, Section 6.1.\nhttp://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=38498\n\
+  ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA, 19428-2959\
+  \ USA\nhttp://www.astm.org/Standard/index.shtml\n16 CFR Ch. 11 (1-1-00 Edition)\
+  \ Part 1630, Document FF 1-70 Surface Flammability of Carpets and Rugs\nAmerican\
+  \ Association of Textile Chemists and Colorists (AATCC), Research Triangle Park,\
+  \ NC., USA, Test Methods\nand Evaluation Procedures http://www.aatcc.org/testing/methods/index.htm\n\
+  Carpet and Rug Institute, Green Label Plus Program, Carpet and Adhesives, http://www.carpet-\n\
+  rug.org/commercialcustomers/green-building-and-the-environment/green-label-plus/carpet-and-adhesive.cfm\n\
+  Page 14 of 14\n\xAE                               \xAE\nEcoWorx Carpet Tile with\
+  \ EcoSolution Q Face Fiber\nCommercial Carpet Tile                             \
+  \                                           According to ISO 14025\nStandard Method\
+  \ for the Testing and Evaluation of Volatile Organic Chemical Emissions From Indoor\
+  \ Sources Using\nEnvironmental Chambers 1.1, Indoor Air Quality Section, Environmental\
+  \ Health Laboratory Branch, Division of\nEnvironmental and Occupational Disease\
+  \ Control, California Department of Public Health February 2010 (also known\nas\
+  \ California Specification 01350) http://www.cal-iaq.org/phocadownload/cdph-\niaq_standardmethod_v1_1_2010%20new1110.pdf\n\
+  South Coast Air Quality Management District, Rule 1168, Adhesives and Sealant Applications;\n\
+  http://www.aqmd.gov/rules/reg/reg11/r1168.pdf\nInternational Organization for Standardization\
+  \ (ISO) ISO 14001:2004(E), Second Edition, Environmental Management\nSystems - Requirements\
+  \ with Guidance for Use http://www.iso.org/iso/home.html\nCradle to Cradle, http://www.c2ccertified.org\n\
+  BRE Global Certification, http://www.bre.co.uk\nNSF/ANSI 140 Sustainability Assessment\
+  \ for Carpet, NSF International, http://www.nsf.org\nSingapore Green Labelling Scheme\
+  \ (SGLS), member of the Global Ecolabelling Network (GEN)\nhttp://www.greenlabel.sg/\n\
+  GaBi 6 software, PE INTERNATIONAL, http://www.gabi-software.com\nU.S. EPA, Tool\
+  \ for the Reduction and Assessment of Chemical and Other Environmental Impacts (TRACI),\
+  \ version 2.1\nhttp://www.epa.gov/nrmrl/std/sab/traci/.\nUniversity of Leiden Institute\
+  \ of Environmental Sciences (CML), Life Cycle Impact Assessment Methodology, 2001\n\
+  version. http://cml.leiden.edu/software/data-cmlia.html."
+lowest_plausible_gwp: 42.31617406 kgCO2e
+manufacturer:
+  address: 230 Douthit Ferry Road, Cartersville, GA 30120
+  address_line: 230 Douthit Ferry Road
+  admin_district: GA
+  admin_district2: Bartow
+  alt_names:
+  - Shaw Europe Ltd
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/shaw-contract
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:51:42.416210Z'
+  email_extensions:
+  - shawcontract.com
+  enterprise: true
+  id: f041974544c74b439ed2abf2efcb4e19
+  image: https://static.buildingtransparency.org/images/6ca7e605-2740-41c4-8647-47bd8a9575c0
+  is_failed: false
+  latitude: 34.14848
+  locality: Cartersville
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Bartow
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    extendedPostalCode: 30120-4010
+    freeformAddress: 230 Douthit Ferry Road, Cartersville, GA 30120
+    localName: Cartersville
+    municipality: Cartersville
+    postalCode: '30120'
+    streetName: Douthit Ferry Road
+    streetNumber: '230'
+  longitude: -84.82364
+  name: Shaw Contract
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f041974544c74b439ed2abf2efcb4e19
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30120'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:14:06.159783Z'
+  web_domain: shawcontract.com
+  website: shawcontract.com
+manufacturer_specific: true
+mass_per_declared_unit: 3.17 kg
+matched_plants_count: 2
+material_id: c474256b486e4948ab0df08b21ac3282
+multiproduct: false
+my_capabilities: 1
+name: "EcoWorx\xAE Carpet Tile with EcoSolution Q\xAE Face Fiber"
+not_an_epd: false
+open_xpd_uuid: ec3mmpd4
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3mmpd4
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NSF PCR for Flooring Carpet, Resilient, Laminate, Ceramic and Wood
+  - NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and W ood)
+  - USA NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and Wood)
+  - 'NSF  Reference PCR Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  - NSF PCR for Flooring PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and
+    Wood)
+  - NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and Wood)
+  - NSF PCR for Flooring PCR - Flooring (Carpet, Resilient, Laminate, Ceramic, and
+    Wood)
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:57.344402Z'
+  date_of_issue: '2012-05-22'
+  date_validity_ends: '2017-05-22'
+  declared_units:
+  - 1 m2
+  doc: http://www.nsf.org/newsroom_pdf/flooring_pcr-new.pdf
+  errors: {}
+  failures: {}
+  id: 59a08bc797e84eb78fe7ab5ff3e40852
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Product Category Rule for Environmental Product Declarations - Flooring:
+    Carpet, Resilient, Laminate, Ceramic, Wood'
+  open_xpd_uuid: ec3e6jsg
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e6jsg
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e6jsgyf
+  short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  status: Sunset
+  updated_on: '2025-05-23T21:40:17.506828Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 69.68382594 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-09-29T19:00:52.161823Z'
+  id: 820c10bbd5954b46b8fe9887edb1c0d0
+  is_failed: false
+  jurisdiction:
+  - US-GA
+  name: Tile Manufacturing
+  owned_by:
+    address: 230 Douthit Ferry Road, Cartersville, GA 30120
+    address_line: 230 Douthit Ferry Road
+    admin_district: GA
+    admin_district2: Bartow
+    alt_names:
+    - Shaw Europe Ltd
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/shaw-contract
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:51:42.416210Z'
+    email_extensions:
+    - shawcontract.com
+    enterprise: true
+    id: f041974544c74b439ed2abf2efcb4e19
+    image: https://static.buildingtransparency.org/images/6ca7e605-2740-41c4-8647-47bd8a9575c0
+    is_failed: false
+    latitude: 34.14848
+    locality: Cartersville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Bartow
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      extendedPostalCode: 30120-4010
+      freeformAddress: 230 Douthit Ferry Road, Cartersville, GA 30120
+      localName: Cartersville
+      municipality: Cartersville
+      postalCode: '30120'
+      streetName: Douthit Ferry Road
+      streetNumber: '230'
+    longitude: -84.82364
+    name: Shaw Contract
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f041974544c74b439ed2abf2efcb4e19
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30120'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:14:06.159783Z'
+    web_domain: shawcontract.com
+    website: shawcontract.com
+  plants_count: 0
+  total_epds: 7
+  type: PlantGroup
+  updated_on: '2020-09-29T19:00:53.635438Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 12CA54711.101.2
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3mmpd40d
+standard_deviation: 16.25929888 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 69.68382594 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-14T03:03:06.045903Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  - GWP is suspiciously greater than category's typical values
+yarn_type: Nylon 6,6
+yarn_weight: 21.3 oz / sy

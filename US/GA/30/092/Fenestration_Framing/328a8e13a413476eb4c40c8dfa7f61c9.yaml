@@ -1,0 +1,516 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 6.755474931 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1352754069536'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:45Z'
+  declared_unit: 1 kg
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Lineal elements ("sticks") for use in fenestration, including frames,
+    sashes, and mullions.
+  display_name: Fenestration Framing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: d6b24d08ddf4431197ea632ee2adf8cf
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 08 80 00 Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: FenestrationFraming
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  openepd_name: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  parents: []
+  pct10_gwp: 2.628373866 kgCO2e
+  pct20_gwp: 2.978715027 kgCO2e
+  pct30_gwp: 3.309981732 kgCO2e
+  pct40_gwp: 3.652378992 kgCO2e
+  pct50_gwp: 5.224620312 kgCO2e
+  pct60_gwp: 6.819060109 kgCO2e
+  pct70_gwp: 9.004767971 kgCO2e
+  pct80_gwp: 12.02045997 kgCO2e
+  pct90_gwp: 18.63875387 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Framing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-05-23T10:09:09.486467Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 11.12452507 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-01-25T18:37:53.332657Z'
+date_of_issue: '2021-10-01'
+date_validity_ends: '2026-10-01'
+declaration_type: Product EPD
+density: 2700 kg / m^3
+description: "The Trifab\u2122 451UT Framing System is a high-performance, sustainable\
+  \ solution designed for thermal control in commercial buildings. It has an Environmental\
+  \ Product Declaration (EPD) for sustainability."
+developer:
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-04-12T22:38:48.073707Z'
+    enterprise: false
+    errors:
+      web_domain:
+      - Not specified
+      website:
+      - Not specified
+    failures:
+      web_domain:
+      - Not specified
+      website:
+      - Not specified
+    id: 2353b1e294e6444f94d7fc72a1abfa55
+    is_failed: false
+    name: Intertek-ATI
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2353b1e294e6444f94d7fc72a1abfa55
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-06-07T20:41:30.128982Z'
+    warnings:
+      address:
+      - Not specified
+doc: buildingtransparency.org/e/ec3yxdfsc3
+document_version: 'null'
+epd_degraded: false
+errors:
+  name:
+  - Name is not extracted in sanitizer
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+file_name: 084113-001-0 215 Aluminum Framed Entrances  Storefronts - EPD_0dfdb29161724116be2f8fa7460f55af.pdf
+gwp: 8.94 kgCO2e
+gwp_z: 0.2903446228191595
+id: 493512d1a2154107a33ee4e2a270263a
+image: https://static.buildingtransparency.org/images/dd620bf5027541cbab08d69ded5023e3.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 6.755474931 kgCO2e
+manufacturer:
+  address: 555 Guthridge Ct NW, Norcross, GA 30092, USA
+  address_line: 555 Guthridge Ct NW
+  admin_district: GA
+  admin_district2: Gwinnett County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/kawneer
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-06-18T07:04:14.092099Z'
+  email_extensions:
+  - kawneer.com
+  enterprise: true
+  id: c50815559c954fde9275e587d697831d
+  is_failed: false
+  latitude: 33.9594197
+  locality: Norcross
+  location:
+  - long_name: '555'
+    short_name: '555'
+    types:
+    - street_number
+  - long_name: Guthridge Court Northwest
+    short_name: Guthridge Ct NW
+    types:
+    - route
+  - long_name: Norcross
+    short_name: Norcross
+    types:
+    - locality
+    - political
+  - long_name: Gwinnett County
+    short_name: Gwinnett County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30092'
+    short_name: '30092'
+    types:
+    - postal_code
+  - long_name: '3503'
+    short_name: '3503'
+    types:
+    - postal_code_suffix
+  longitude: -84.2210869
+  name: Kawneer
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c50815559c954fde9275e587d697831d
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30092'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T12:51:26.966795Z'
+  web_domain: kawneer.com
+  website: www.kawneer.com
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 328a8e13a413476eb4c40c8dfa7f61c9
+multiproduct: false
+my_capabilities: 1
+name: '#name_is_not_extracted'
+not_an_epd: false
+open_xpd_uuid: ec3yxdfs
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3yxdfs
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-06-27T22:48:47.178484Z'
+  date_of_issue: '2022-02-01'
+  date_validity_ends: '2027-01-31'
+  declared_units:
+  - 1 m2
+  - 1 m
+  - 1 kg
+  - 1 unit
+  - 1 m3
+  doc: https://www.epdhub.com/_files/ugd/837f9c_aa0443bcebd34e9db50cf337289ac7b2.pdf
+  id: 6f37c5d9c38543efae0d9f741b74479f
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+  name: Core Product Category Rules
+  open_xpd_uuid: ec3g099n
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3g099n
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3g099n8d
+  short_name: "Core Product Category Rules, Version 1.0 \u2013 1 February 2022"
+  status: Published
+  updated_on: '2022-09-30T15:53:02.824301Z'
+  version: '1'
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 555 Guthridge Ct NW, Peachtree Corners, GA 30092, USA
+  address_line: 555 Guthridge Ct NW
+  admin_district: GA
+  admin_district2: Gwinnett County
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-06-07T20:41:23.917569Z'
+  id: 868c1213900f44bca6c6b30397fc781b
+  is_failed: false
+  latitude: 33.9593995
+  locality: Peachtree Corners
+  location:
+  - long_name: '555'
+    short_name: '555'
+    types:
+    - street_number
+  - long_name: Guthridge Court Northwest
+    short_name: Guthridge Ct NW
+    types:
+    - route
+  - long_name: Peachtree Corners
+    short_name: Peachtree Corners
+    types:
+    - locality
+    - political
+  - long_name: Gwinnett County
+    short_name: Gwinnett County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30092'
+    short_name: '30092'
+    types:
+    - postal_code
+  - long_name: '3503'
+    short_name: '3503'
+    types:
+    - postal_code_suffix
+  longitude: -84.2211372
+  name: Technology Park
+  openepd_id: 865QXQ5H+QG.kawneer.com
+  owned_by:
+    address: 555 Guthridge Ct NW, Norcross, GA 30092, USA
+    address_line: 555 Guthridge Ct NW
+    admin_district: GA
+    admin_district2: Gwinnett County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/kawneer
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:04:14.092099Z'
+    email_extensions:
+    - kawneer.com
+    enterprise: true
+    id: c50815559c954fde9275e587d697831d
+    is_failed: false
+    latitude: 33.9594197
+    locality: Norcross
+    location:
+    - long_name: '555'
+      short_name: '555'
+      types:
+      - street_number
+    - long_name: Guthridge Court Northwest
+      short_name: Guthridge Ct NW
+      types:
+      - route
+    - long_name: Norcross
+      short_name: Norcross
+      types:
+      - locality
+      - political
+    - long_name: Gwinnett County
+      short_name: Gwinnett County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Georgia
+      short_name: GA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '30092'
+      short_name: '30092'
+      types:
+      - postal_code
+    - long_name: '3503'
+      short_name: '3503'
+      types:
+      - postal_code_suffix
+    longitude: -84.2210869
+    name: Kawneer
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c50815559c954fde9275e587d697831d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30092'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T12:51:26.966795Z'
+    web_domain: kawneer.com
+    website: www.kawneer.com
+  postal_code: '30092'
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-06-07T20:41:23.917579Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-12T22:38:48.073707Z'
+  enterprise: false
+  errors:
+    web_domain:
+    - Not specified
+    website:
+    - Not specified
+  failures:
+    web_domain:
+    - Not specified
+    website:
+    - Not specified
+  id: 2353b1e294e6444f94d7fc72a1abfa55
+  is_failed: false
+  name: Intertek-ATI
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2353b1e294e6444f94d7fc72a1abfa55
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-06-07T20:41:30.128982Z'
+  warnings:
+    address:
+    - Not specified
+program_operator_fkey: 4789733794.107.1
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3yxdfsc3
+standard_deviation: 2.595680928 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 11.12452507 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-07T20:41:31.796093Z'
+use_stored_carbon: false
+verifier:
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-02-20T17:14:50.589348Z'
+    enterprise: false
+    errors:
+      web_domain:
+      - Not specified
+      website:
+      - Not specified
+    failures:
+      web_domain:
+      - Not specified
+      website:
+      - Not specified
+    id: e998649c1c1f4470a6647713636af507
+    is_failed: false
+    name: 'null'
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e998649c1c1f4470a6647713636af507
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2025-05-17T05:25:08.374305Z'
+    warnings:
+      address:
+      - Not specified
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link

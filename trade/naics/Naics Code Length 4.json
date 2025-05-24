@@ -1,0 +1,1542 @@
+[
+    {
+        "code": "1111",
+        "title": "Oilseed and Grain Farming",
+        "description": "This industry group comprises establishments primarily engaged in (1) growing oilseed and/or grain crops and/or (2) producing oilseed and grain seeds.  These crops have an annual life cycle and are typically grown in open fields."
+    },
+    {
+        "code": "1112",
+        "title": "Vegetable and Melon Farming",
+        "description": "nan"
+    },
+    {
+        "code": "1113",
+        "title": "Fruit and Tree Nut Farming",
+        "description": "This industry group comprises establishments primarily engaged in growing fruit and/or tree nut crops.  The crops included in this industry group are generally not grown from seeds and have a perennial life cycle."
+    },
+    {
+        "code": "1114",
+        "title": "Greenhouse, Nursery, and Floriculture Production",
+        "description": "This industry group comprises establishments primarily engaged in growing crops of any kind under cover and/or growing nursery stock and flowers.  \"Under cover\" is generally defined as greenhouses, cold frames, cloth houses, and lath houses.  The crops grown are removed at various stages of maturity and have annual and perennial life cycles.  The nursery stock includes short rotation woody crops that have growth cycles of 10 years or less."
+    },
+    {
+        "code": "1119",
+        "title": "Other Crop Farming",
+        "description": "This industry group comprises establishments primarily engaged in (1) growing crops (except oilseed and/or grain; vegetable and/or melon; fruit and tree nut; and greenhouse, nursery, and/or floriculture products), such as tobacco, cotton, sugarcane, hay, sugar beets, peanuts, agave, herbs and spices, and hay and grass seeds, or (2) growing a combination of crops (except a combination of oilseed(s) and grain(s) and a combination of fruit(s) and tree nut(s))."
+    },
+    {
+        "code": "1121",
+        "title": "Cattle Ranching and Farming",
+        "description": "This industry group comprises establishments primarily engaged in raising cattle, milking dairy cattle, or feeding cattle for fattening."
+    },
+    {
+        "code": "1122",
+        "title": "Hog and Pig Farming",
+        "description": "nan"
+    },
+    {
+        "code": "1123",
+        "title": "Poultry and Egg Production",
+        "description": "This industry group comprises establishments primarily engaged in breeding, hatching, and raising poultry for meat or egg production."
+    },
+    {
+        "code": "1124",
+        "title": "Sheep and Goat Farming",
+        "description": "This industry group comprises establishments primarily engaged in raising sheep, lambs, and goats, or feeding lambs for fattening."
+    },
+    {
+        "code": "1125",
+        "title": "Aquaculture",
+        "description": "nan"
+    },
+    {
+        "code": "1129",
+        "title": "Other Animal Production",
+        "description": "This industry group comprises establishments primarily engaged in raising animals and insects (except cattle, hogs and pigs, poultry, sheep and goats, and aquaculture) for sale or product production.  These establishments are primarily engaged in raising one of the following: bees, horses and other equines, rabbits and other fur-bearing animals, and so forth, and producing products, such as honey and other bee products.  Establishments primarily engaged in raising a combination of animals with no one animal or family of animals accounting for one-half of the establishment's agricultural production (i.e., value of animals for market) are included in this industry group."
+    },
+    {
+        "code": "1131",
+        "title": "Timber Tract Operations",
+        "description": "nan"
+    },
+    {
+        "code": "1132",
+        "title": "Forest Nurseries and Gathering of Forest Products",
+        "description": "nan"
+    },
+    {
+        "code": "1133",
+        "title": "Logging",
+        "description": "nan"
+    },
+    {
+        "code": "1141",
+        "title": "Fishing",
+        "description": "nan"
+    },
+    {
+        "code": "1142",
+        "title": "Hunting and Trapping",
+        "description": "nan"
+    },
+    {
+        "code": "1151",
+        "title": "Support Activities for Crop Production",
+        "description": "nan"
+    },
+    {
+        "code": "1152",
+        "title": "Support Activities for Animal Production",
+        "description": "nan"
+    },
+    {
+        "code": "1153",
+        "title": "Support Activities for Forestry",
+        "description": "nan"
+    },
+    {
+        "code": "2111",
+        "title": "Oil and Gas Extraction",
+        "description": "nan"
+    },
+    {
+        "code": "2121",
+        "title": "Coal Mining",
+        "description": "nan"
+    },
+    {
+        "code": "2122",
+        "title": "Metal Ore Mining",
+        "description": "This industry group comprises establishments primarily engaged in developing mine sites or mining metallic minerals, and establishments primarily engaged in ore dressing and beneficiating (i.e., preparing) operations, such as crushing, grinding, washing, drying, sintering, concentrating, calcining, and leaching.  Beneficiating may be performed at mills operated in conjunction with the mines served or at mills, such as custom mills, operated separately."
+    },
+    {
+        "code": "2123",
+        "title": "Nonmetallic Mineral Mining and Quarrying",
+        "description": "This industry group comprises establishments primarily engaged in developing mine sites, or in mining or quarrying nonmetallic minerals (except fuels).  Also included are certain well and brine operations, and preparation plants primarily engaged in beneficiating (e.g., crushing, grinding, washing, and concentrating) nonmetallic minerals.\n\nBeneficiation is the process whereby the extracted material is reduced to particles which can be separated into mineral and waste, the former suitable for further processing or direct use.  The operations that take place in beneficiation are primarily mechanical, such as grinding, washing, magnetic separation, and centrifugal separation.  In contrast, manufacturing operations primarily use chemical and electrochemical processes, such as electrolysis and distillation.  However, some treatments, such as heat treatments, take place in both the beneficiation and the manufacturing (i.e., smelting/refining) stages.  The range of preparation activities varies by mineral and the purity of any given ore deposit.  While some minerals, such as petroleum and natural gas, require little or no preparation, others are washed and screened, while yet others, such as gold and silver, can be transformed into bullion before leaving the mine site."
+    },
+    {
+        "code": "2131",
+        "title": "Support Activities for Mining",
+        "description": "nan"
+    },
+    {
+        "code": "2211",
+        "title": "Electric Power Generation, Transmission and Distribution",
+        "description": "This industry group comprises establishments primarily engaged in generating, transmitting, and/or distributing electric power.  Establishments in this industry group may perform one or more of the following activities: (1) operate generation facilities that produce electric energy; (2) operate transmission systems that convey the electricity from the generation facility to the distribution system; and (3) operate distribution systems that convey electric power received from the generation facility or the transmission system to the final consumer."
+    },
+    {
+        "code": "2212",
+        "title": "Natural Gas Distribution",
+        "description": "nan"
+    },
+    {
+        "code": "2213",
+        "title": "Water, Sewage and Other Systems",
+        "description": "This industry group comprises establishments primarily engaged in: (1) operating water treatment plants and/or water supply systems; (2) operating sewer systems or sewage treatment facilities; or (3) providing steam, heated air, or cooled air."
+    },
+    {
+        "code": "2361",
+        "title": "Residential Building Construction",
+        "description": "nan"
+    },
+    {
+        "code": "2362",
+        "title": "Nonresidential Building Construction",
+        "description": "This industry group comprises establishments primarily responsible for the construction (including new work, additions, alterations, maintenance, and repairs) of nonresidential buildings.  This industry group includes nonresidential general contractors, nonresidential for-sale builders, nonresidential design-build firms, and nonresidential project construction management firms."
+    },
+    {
+        "code": "2371",
+        "title": "Utility System Construction",
+        "description": "This industry group comprises establishments primarily engaged in the construction of distribution lines and related buildings and structures for utilities (i.e., water, sewer, petroleum, gas, power, and communication).  All structures (including buildings) that are integral parts of utility systems (e.g., storage tanks, pumping stations, power plants, and refineries) are included in this industry group."
+    },
+    {
+        "code": "2372",
+        "title": "Land Subdivision",
+        "description": "nan"
+    },
+    {
+        "code": "2373",
+        "title": "Highway, Street, and Bridge Construction",
+        "description": "nan"
+    },
+    {
+        "code": "2379",
+        "title": "Other Heavy and Civil Engineering Construction",
+        "description": "nan"
+    },
+    {
+        "code": "2381",
+        "title": "Foundation, Structure, and Building Exterior Contractors",
+        "description": "This industry group comprises establishments primarily engaged in the specialty trades needed to complete the basic structure (i.e., foundation, frame, and shell) of buildings.  The work performed may include new work, additions, alterations, maintenance, and repairs."
+    },
+    {
+        "code": "2382",
+        "title": "Building Equipment Contractors",
+        "description": "This industry group comprises establishments primarily engaged in installing or servicing equipment that forms part of a building mechanical system (e.g., electricity, water, heating, and cooling).  The work performed may include new work, additions, alterations, maintenance, and repairs.  Contractors installing specialized building equipment, such as elevators, escalators, service station equipment, and central vacuum cleaning systems, are also included."
+    },
+    {
+        "code": "2383",
+        "title": "Building Finishing Contractors",
+        "description": "This industry group comprises establishments primarily engaged in the specialty trades needed to finish buildings.  The work performed may include new work, additions, alterations, maintenance, and repairs."
+    },
+    {
+        "code": "2389",
+        "title": "Other Specialty Trade Contractors",
+        "description": "This industry group comprises establishments primarily engaged in site preparation activities and in specialized trades (except foundation, structure, and building exterior contractors; building equipment contractors; and building finishing contractors).  The specialty trade work performed includes new work, additions, alterations, maintenance, and repairs."
+    },
+    {
+        "code": "3111",
+        "title": "Animal Food Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3112",
+        "title": "Grain and Oilseed Milling",
+        "description": "This industry group comprises establishments primarily engaged in milling flour or meal from grains or vegetables, manufacturing malt, wet milling corn and other vegetables, crushing oilseeds and tree nuts, refining and/or blending vegetable oils, and manufacturing breakfast cereals."
+    },
+    {
+        "code": "3113",
+        "title": "Sugar and Confectionery Product Manufacturing",
+        "description": "This industry group comprises (1) establishments that process agricultural inputs, such as sugarcane, beet, and cacao, to give rise to a new product (sugar or chocolate) and (2) establishments that begin with sugar and chocolate and process these further."
+    },
+    {
+        "code": "3114",
+        "title": "Fruit and Vegetable Preserving and Specialty Food Manufacturing",
+        "description": "This industry group includes (1) establishments that freeze food and (2) establishments that use preservation processes, such as pickling, canning, and dehydrating.  Both types begin their production process with inputs of vegetable or animal origin."
+    },
+    {
+        "code": "3115",
+        "title": "Dairy Product Manufacturing",
+        "description": "This industry group comprises establishments that manufacture dairy products from raw milk, processed milk, and dairy substitutes (except butter substitutes)."
+    },
+    {
+        "code": "3116",
+        "title": "Animal Slaughtering and Processing",
+        "description": "nan"
+    },
+    {
+        "code": "3117",
+        "title": "Seafood Product Preparation and Packaging",
+        "description": "nan"
+    },
+    {
+        "code": "3118",
+        "title": "Bakeries and Tortilla Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in one of the following: (1) manufacturing fresh and frozen bread and other bakery products; (2) retailing bread and other bakery products not for immediate consumption made on the premises from flour, not from prepared dough; (3) manufacturing cookies, crackers, and dry pasta; (4) manufacturing prepared flour mixes or dough from flour ground elsewhere; or (5) manufacturing tortillas."
+    },
+    {
+        "code": "3119",
+        "title": "Other Food Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in manufacturing food (except animal food; grain and oilseed milling; sugar and confectionery products; preserved fruits, vegetables, and specialty foods; dairy products; meat products; seafood products; and bakery products and tortillas).  This industry group includes industries with different production processes, such as snack food manufacturing; coffee and tea manufacturing; concentrate, syrup, condiment, and spice manufacturing; and, in general, an entire range of other miscellaneous food product manufacturing."
+    },
+    {
+        "code": "3121",
+        "title": "Beverage Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in manufacturing soft drinks and ice; purifying and bottling water; and manufacturing brewery, winery, and distillery products."
+    },
+    {
+        "code": "3122",
+        "title": "Tobacco Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3131",
+        "title": "Fiber, Yarn, and Thread Mills",
+        "description": "nan"
+    },
+    {
+        "code": "3132",
+        "title": "Fabric Mills",
+        "description": "This industry group comprises establishments primarily engaged in one of the following: (1) weaving broadwoven fabrics and felts (except tire fabrics and rugs); (2) weaving or braiding narrow fabrics; (3) making fabric-covered elastic yarn and thread; (4) manufacturing Schiffli machine embroideries; (5) manufacturing nonwoven fabrics and felts; (6) knitting weft (i.e., circular) and warp (i.e., flat) fabric; (7) knitting and finishing weft and warp fabric; (8) manufacturing lace; or (9) manufacturing, dyeing, and finishing lace and lace goods."
+    },
+    {
+        "code": "3133",
+        "title": "Textile and Fabric Finishing and Fabric Coating Mills",
+        "description": "This industry group comprises establishments primarily engaged in one of the following: (1) finishing textiles, fabrics, and apparel; (2) converting fabrics and textiles by buying fabric goods in the grey, having them finished on contract, and selling them at wholesale; or (3) coating, laminating, varnishing, waxing, and rubberizing textiles and apparel."
+    },
+    {
+        "code": "3141",
+        "title": "Textile Furnishings Mills",
+        "description": "This industry group comprises establishments primarily engaged in (1) manufacturing woven, tufted, and other carpets and rugs and (2) manufacturing household textile products from purchased materials.  The household textile products may be made on a stock or custom basis for sale to individual retail customers."
+    },
+    {
+        "code": "3149",
+        "title": "Other Textile Product Mills",
+        "description": "This industry group comprises establishments primarily engaged in making textile products (except carpets and rugs, curtains and draperies, and other household textile products) from purchased materials."
+    },
+    {
+        "code": "3151",
+        "title": "Apparel Knitting Mills",
+        "description": "nan"
+    },
+    {
+        "code": "3152",
+        "title": "Cut and Sew Apparel Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in manufacturing cut and sew apparel from woven fabric or purchased knit fabric.  Included in this industry group is a diverse range of establishments manufacturing full lines of ready-to-wear apparel and custom apparel: apparel contractors, performing cutting or sewing operations on materials owned by others; jobbers, performing entrepreneurial functions involved in apparel manufacturing; and tailors, manufacturing custom garments for individual clients.  Establishments weaving or knitting fabric, without manufacturing apparel, are classified in Subsector 313, Textile Mills."
+    },
+    {
+        "code": "3159",
+        "title": "Apparel Accessories and Other Apparel Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3161",
+        "title": "Leather and Hide Tanning and Finishing",
+        "description": "nan"
+    },
+    {
+        "code": "3162",
+        "title": "Footwear Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3169",
+        "title": "Other Leather and Allied Product Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3211",
+        "title": "Sawmills and Wood Preservation",
+        "description": "nan"
+    },
+    {
+        "code": "3212",
+        "title": "Veneer, Plywood, and Engineered Wood Product Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3219",
+        "title": "Other Wood Product Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in manufacturing wood products (except establishments operating sawmills and wood preservation facilities; and establishments manufacturing veneer, plywood, or engineered wood products)."
+    },
+    {
+        "code": "3221",
+        "title": "Pulp, Paper, and Paperboard Mills",
+        "description": "This industry group comprises establishments primarily engaged in manufacturing pulp, paper, or paperboard."
+    },
+    {
+        "code": "3222",
+        "title": "Converted Paper Product Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in converting paper or paperboard without manufacturing paper or paperboard."
+    },
+    {
+        "code": "3231",
+        "title": "Printing and Related Support Activities",
+        "description": "nan"
+    },
+    {
+        "code": "3241",
+        "title": "Petroleum and Coal Products Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3251",
+        "title": "Basic Chemical Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in manufacturing chemicals using basic processes, such as thermal cracking and distillation.  Chemicals manufactured in this industry group are usually separate chemical elements or separate chemically-defined compounds."
+    },
+    {
+        "code": "3252",
+        "title": "Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in one of the following: (1) manufacturing synthetic resins, plastics materials, and nonvulcanizable elastomers and mixing and blending resins on a custom basis; (2) manufacturing noncustomized synthetic resins; (3) manufacturing synthetic rubber; (4) manufacturing cellulosic (e.g., rayon, acetate) and noncellulosic (e.g., nylon, polyolefin, polyester) fibers and filaments in the form of monofilament, filament yarn, staple, or tow; or (5) manufacturing and texturizing cellulosic and noncellulosic fibers and filaments."
+    },
+    {
+        "code": "3253",
+        "title": "Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in one or more of the following: (1) manufacturing nitrogenous or phosphatic fertilizer materials; (2) manufacturing fertilizers from sewage or animal waste; (3) manufacturing nitrogenous or phosphatic materials and mixing with other ingredients into fertilizers; (4) mixing ingredients made elsewhere into fertilizers; (5) manufacturing compost; and (6) formulating and preparing pesticides and other agricultural chemicals."
+    },
+    {
+        "code": "3254",
+        "title": "Pharmaceutical and Medicine Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3255",
+        "title": "Paint, Coating, and Adhesive Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in one or more of the following: (1) mixing pigments, solvents, and binders into paints and other coatings; (2) manufacturing allied paint products; and (3) manufacturing adhesives, glues, and caulking compounds."
+    },
+    {
+        "code": "3256",
+        "title": "Soap, Cleaning Compound, and Toilet Preparation Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in (1) manufacturing and packaging soaps, detergents, polishes, surface active agents, textile and leather finishing agents, and other sanitation goods or (2) preparing, blending, compounding, and packaging toilet preparations."
+    },
+    {
+        "code": "3259",
+        "title": "Other Chemical Product and Preparation Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in manufacturing chemical products (except basic chemicals; resins, synthetic rubber, cellulosic and noncellulosic fibers and filaments; pesticides, fertilizers, and other agricultural chemicals; pharmaceuticals and medicines; paints, coatings, and adhesives; soaps and cleaning compounds; and toilet preparations)."
+    },
+    {
+        "code": "3261",
+        "title": "Plastics Product Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in processing new or spent (i.e., recycled) plastics resins into intermediate or final products, using such processes as compression molding; extrusion molding; injection molding; blow molding; and casting.  Within most of these industries, the production process is such that a wide variety of products can be made."
+    },
+    {
+        "code": "3262",
+        "title": "Rubber Product Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in processing natural, synthetic, or reclaimed rubber materials into intermediate or final products using processes, such as vulcanizing, cementing, molding, extruding, and lathe-cutting."
+    },
+    {
+        "code": "3271",
+        "title": "Clay Product and Refractory Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in (1) shaping, molding, glazing, and firing pottery, ceramics, and plumbing fixtures, and electrical supplies made entirely or partly of clay or other ceramic materials or (2) shaping, molding, baking, burning, or hardening clay refractories, nonclay refractories, ceramic tile, structural clay tile, brick, and other structural clay building materials."
+    },
+    {
+        "code": "3272",
+        "title": "Glass and Glass Product Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3273",
+        "title": "Cement and Concrete Product Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in one of the following: (1) manufacturing Portland, natural, masonry, pozzolanic, and other hydraulic cements; (2) acting as batch or mixing plants, manufacturing concrete delivered to a purchaser in a plastic and unhardened state; (3) manufacturing concrete pipe, brick, and block; or (4) manufacturing other concrete products (except block, brick, and pipe)."
+    },
+    {
+        "code": "3274",
+        "title": "Lime and Gypsum Product Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in (1) manufacturing lime from calcitic limestone, dolomitic limestone, or other calcareous materials or (2) manufacturing gypsum products."
+    },
+    {
+        "code": "3279",
+        "title": "Other Nonmetallic Mineral Product Manufacturing",
+        "description": "This industry group comprises establishments manufacturing nonmetallic mineral products (except clay products, refractory products, glass products, cement and concrete products, lime, and gypsum products)."
+    },
+    {
+        "code": "3311",
+        "title": "Iron and Steel Mills and Ferroalloy Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3312",
+        "title": "Steel Product Manufacturing from Purchased Steel",
+        "description": "This industry group comprises establishments primarily engaged in manufacturing iron and steel tube and pipe, drawing steel wire, and rolling or drawing shapes from purchased iron or steel."
+    },
+    {
+        "code": "3313",
+        "title": "Alumina and Aluminum Production and Processing",
+        "description": "nan"
+    },
+    {
+        "code": "3314",
+        "title": "Nonferrous Metal (except Aluminum) Production and Processing",
+        "description": "This industry group comprises establishments primarily engaged in nonferrous metal (except aluminum) smelting, refining, rolling, drawing, extruding, and alloying."
+    },
+    {
+        "code": "3315",
+        "title": "Foundries",
+        "description": "This industry group comprises establishments primarily engaged in pouring molten metal into molds or dies to form castings.  Establishments making castings and further manufacturing, such as machining or assembling, a specific manufactured product are classified in the industry of the finished product.  Foundries may perform operations, such as cleaning and deburring, on the castings they manufacture.  More involved processes, such as tapping, threading, milling, or machining to tight tolerances, that transform castings into more finished products are classified elsewhere in the Manufacturing sector based on the product made.\n\nEstablishments in this industry group make castings from purchased metals or in integrated secondary smelting and casting facilities.  When the production of primary metals is combined with making castings, the establishment is classified in Subsector 331, Primary Metal Manufacturing, with the primary metal made."
+    },
+    {
+        "code": "3321",
+        "title": "Forging and Stamping",
+        "description": "nan"
+    },
+    {
+        "code": "3322",
+        "title": "Cutlery and Handtool Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3323",
+        "title": "Architectural and Structural Metals Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in manufacturing one or more of the following: (1) prefabricated metal buildings, panels, and sections; (2) structural metal products; (3) metal plate work products; (4) metal framed windows (i.e., typically using purchased glass) and metal doors; (5) sheet metal work; and (6) ornamental and architectural metal products."
+    },
+    {
+        "code": "3324",
+        "title": "Boiler, Tank, and Shipping Container Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in one of the following: (1) manufacturing power boilers and heat exchangers; (2) cutting, forming, and joining heavy gauge metal to manufacture tanks, vessels, and other containers; or (3) forming light gauge metal containers."
+    },
+    {
+        "code": "3325",
+        "title": "Hardware Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3326",
+        "title": "Spring and Wire Product Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3327",
+        "title": "Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in one of the following: (1) operating machine shops primarily engaged in machining metal and plastic parts and parts of other composite materials on a job or order basis; (2) machining precision turned products; or (3) manufacturing metal bolts, nuts, screws, rivets, and other industrial fasteners."
+    },
+    {
+        "code": "3328",
+        "title": "Coating, Engraving, Heat Treating, and Allied Activities",
+        "description": "nan"
+    },
+    {
+        "code": "3329",
+        "title": "Other Fabricated Metal Product Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in manufacturing fabricated metal products (except forgings and stampings, cutlery and handtools, architectural and structural metals, boilers, tanks, shipping containers, hardware, spring and wire products, machine shop products, turned products, screws, and nuts and bolts)."
+    },
+    {
+        "code": "3331",
+        "title": "Agriculture, Construction, and Mining Machinery Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in manufacturing one or more of the following: (1) farm machinery and equipment, power mowing equipment, and other powered home lawn and garden equipment; (2) construction machinery, surface mining machinery, and logging equipment; and (3) oil and gas field and underground mining machinery and equipment."
+    },
+    {
+        "code": "3332",
+        "title": "Industrial Machinery Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3333",
+        "title": "Commercial and Service Industry Machinery Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3334",
+        "title": "Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3335",
+        "title": "Metalworking Machinery Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3336",
+        "title": "Engine, Turbine, and Power Transmission Equipment Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3339",
+        "title": "Other General Purpose Machinery Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in manufacturing pumps and compressors, material handling equipment, and all other general purpose machinery (except ventilation, heating, air-conditioning, and commercial refrigeration equipment; metalworking machinery; and engines, turbines, and power transmission equipment)."
+    },
+    {
+        "code": "3341",
+        "title": "Computer and Peripheral Equipment Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3342",
+        "title": "Communications Equipment Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in manufacturing wire telephone and data communications equipment, radio and television broadcast and wireless communications equipment, and all other communications equipment."
+    },
+    {
+        "code": "3343",
+        "title": "Audio and Video Equipment Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3344",
+        "title": "Semiconductor and Other Electronic Component Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3345",
+        "title": "Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3346",
+        "title": "Manufacturing and Reproducing Magnetic and Optical Media",
+        "description": "nan"
+    },
+    {
+        "code": "3351",
+        "title": "Electric Lighting Equipment Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3352",
+        "title": "Household Appliance Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in manufacturing small electric appliances, electric housewares, and major household appliances."
+    },
+    {
+        "code": "3353",
+        "title": "Electrical Equipment Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3359",
+        "title": "Other Electrical Equipment and Component Manufacturing",
+        "description": "This industry group comprises establishments manufacturing electrical equipment and components (except electric lighting equipment, household-type appliances, transformers, switchgear, relays, motors, and generators)."
+    },
+    {
+        "code": "3361",
+        "title": "Motor Vehicle Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in (1) manufacturing complete automobiles, light duty motor vehicles, and heavy duty trucks (i.e., body and chassis or unibody) or (2) manufacturing motor vehicle chassis only."
+    },
+    {
+        "code": "3362",
+        "title": "Motor Vehicle Body and Trailer Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3363",
+        "title": "Motor Vehicle Parts Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in manufacturing motor vehicle gasoline engines and engine parts, motor vehicle electrical and electronic equipment, motor vehicle steering and suspension components (except springs), motor vehicle brake systems, motor vehicle transmission and power train parts, motor vehicle seating and interior trim, motor vehicle metal stampings, and other motor vehicle parts and accessories.  This industry group includes establishments that rebuild motor vehicle parts."
+    },
+    {
+        "code": "3364",
+        "title": "Aerospace Product and Parts Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3365",
+        "title": "Railroad Rolling Stock Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3366",
+        "title": "Ship and Boat Building",
+        "description": "nan"
+    },
+    {
+        "code": "3369",
+        "title": "Other Transportation Equipment Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3371",
+        "title": "Household and Institutional Furniture and Kitchen Cabinet Manufacturing",
+        "description": "This industry group comprises establishments manufacturing household-type furniture, such as living room, kitchen and bedroom furniture and institutional (i.e., public building) furniture, such as furniture for schools, theaters, and churches."
+    },
+    {
+        "code": "3372",
+        "title": "Office Furniture (including Fixtures) Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3379",
+        "title": "Other Furniture Related Product Manufacturing",
+        "description": "This industry group comprises establishments manufacturing furniture related products, such as mattresses, blinds, and shades."
+    },
+    {
+        "code": "3391",
+        "title": "Medical Equipment and Supplies Manufacturing",
+        "description": "nan"
+    },
+    {
+        "code": "3399",
+        "title": "Other Miscellaneous Manufacturing",
+        "description": "This industry group comprises establishments primarily engaged in miscellaneous manufacturing, such as jewelry and silverware manufacturing, sporting and athletic goods manufacturing, doll, toy, and game manufacturing, office supplies (except paper) manufacturing, sign manufacturing, and all other miscellaneous manufacturing."
+    },
+    {
+        "code": "4231",
+        "title": "Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers",
+        "description": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of automobiles and other motor vehicles, motor vehicle supplies, tires, and new and used parts."
+    },
+    {
+        "code": "4232",
+        "title": "Furniture and Home Furnishing Merchant Wholesalers",
+        "description": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of furniture (except hospital beds, medical furniture, and drafting tables), home furnishings, and/or housewares."
+    },
+    {
+        "code": "4233",
+        "title": "Lumber and Other Construction Materials Merchant Wholesalers",
+        "description": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of lumber, plywood, millwork, and wood panels; brick, stone, and related construction materials; roofing, siding, and insulation materials; and other construction materials, including manufactured homes (i.e., mobile homes) and/or prefabricated buildings."
+    },
+    {
+        "code": "4234",
+        "title": "Professional and Commercial Equipment and Supplies Merchant Wholesalers",
+        "description": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of photographic equipment and supplies; office, computer, and computer peripheral equipment; and medical, dental, hospital, ophthalmic, and other commercial and professional equipment and supplies."
+    },
+    {
+        "code": "4235",
+        "title": "Metal and Mineral (except Petroleum) Merchant Wholesalers",
+        "description": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of products of the primary metals industries (including metal service centers) and coal, coke, metal ores, and/or nonmetallic minerals (except precious and semiprecious stones and minerals used in construction)."
+    },
+    {
+        "code": "4236",
+        "title": "Household Appliances and Electrical and Electronic Goods Merchant Wholesalers",
+        "description": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of electrical apparatus and equipment, wiring supplies, and related equipment; household appliances, electric housewares, and consumer electronics; and other electronic parts and equipment."
+    },
+    {
+        "code": "4237",
+        "title": "Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers",
+        "description": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of hardware; plumbing and heating equipment and supplies (hydronics); warm air heating and air-conditioning equipment and supplies; and refrigeration equipment and supplies."
+    },
+    {
+        "code": "4238",
+        "title": "Machinery, Equipment, and Supplies Merchant Wholesalers",
+        "description": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of construction, mining, farm, garden, industrial, service establishment, and transportation machinery, equipment, and supplies."
+    },
+    {
+        "code": "4239",
+        "title": "Miscellaneous Durable Goods Merchant Wholesalers",
+        "description": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of sporting, recreational, toy, hobby, and jewelry goods and supplies, and precious stones and metals."
+    },
+    {
+        "code": "4241",
+        "title": "Paper and Paper Product Merchant Wholesalers",
+        "description": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of bulk printing and writing paper; stationery and office supplies; and industrial and personal service paper."
+    },
+    {
+        "code": "4242",
+        "title": "Drugs and Druggists' Sundries Merchant Wholesalers",
+        "description": "nan"
+    },
+    {
+        "code": "4243",
+        "title": "Apparel, Piece Goods, and Notions Merchant Wholesalers",
+        "description": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of piece goods, notions, and other dry goods; footwear; and clothing and clothing accessories."
+    },
+    {
+        "code": "4244",
+        "title": "Grocery and Related Product Merchant Wholesalers",
+        "description": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of (1) a general line of groceries; (2) packaged frozen food; (3) dairy products; (4) poultry and poultry products; (5) confectioneries; (6) fish and seafood; (7) meats and meat products; (8) fresh fruits and vegetables; and (9) other grocery and related products."
+    },
+    {
+        "code": "4245",
+        "title": "Farm Product Raw Material Merchant Wholesalers",
+        "description": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of agricultural products (except raw milk, live poultry, and fresh fruits and vegetables), such as grains, field beans, livestock, and other farm product raw materials (excluding seeds)."
+    },
+    {
+        "code": "4246",
+        "title": "Chemical and Allied Products Merchant Wholesalers",
+        "description": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of chemicals, plastics materials and basic forms and shapes, and allied products."
+    },
+    {
+        "code": "4247",
+        "title": "Petroleum and Petroleum Products Merchant Wholesalers",
+        "description": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of petroleum and petroleum products, including liquefied petroleum gas."
+    },
+    {
+        "code": "4248",
+        "title": "Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers",
+        "description": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of beer, ale, wine, and/or distilled alcoholic beverages."
+    },
+    {
+        "code": "4249",
+        "title": "Miscellaneous Nondurable Goods Merchant Wholesalers",
+        "description": "This industry group comprises establishments primarily engaged in the merchant wholesale distribution of nondurable goods, such as farm supplies; books, periodicals, and newspapers; flowers; nursery stock; paints; varnishes; tobacco and tobacco products; and other miscellaneous nondurable goods, such as cut Christmas trees and pet supplies."
+    },
+    {
+        "code": "4251",
+        "title": "Wholesale Trade Agents and Brokers",
+        "description": "nan"
+    },
+    {
+        "code": "4411",
+        "title": "Automobile Dealers",
+        "description": "This industry group comprises establishments primarily engaged in retailing new and used automobiles and light trucks, such as sport utility vehicles, and passenger and cargo vans."
+    },
+    {
+        "code": "4412",
+        "title": "Other Motor Vehicle Dealers",
+        "description": "This industry group comprises establishments primarily engaged in retailing new and used vehicles (except automobiles, light trucks, such as sport utility vehicles, and passenger and cargo vans)."
+    },
+    {
+        "code": "4413",
+        "title": "Automotive Parts, Accessories, and Tire Retailers",
+        "description": "This industry group comprises establishments primarily engaged in retailing new, used, and/or rebuilt automotive parts and accessories, including tires and tubes.  Included in this industry group are establishments primarily engaged in retailing automotive parts and accessories in combination with automotive repair services."
+    },
+    {
+        "code": "4441",
+        "title": "Building Material and Supplies Dealers",
+        "description": "This industry group comprises establishments primarily engaged in retailing new building materials and supplies."
+    },
+    {
+        "code": "4442",
+        "title": "Lawn and Garden Equipment and Supplies Retailers",
+        "description": "This industry group comprises establishments primarily engaged in retailing new lawn and garden equipment and supplies."
+    },
+    {
+        "code": "4451",
+        "title": "Grocery and Convenience Retailers",
+        "description": "This industry group comprises establishments primarily engaged in retailing a general line of food products. This industry group also includes vending machine operators."
+    },
+    {
+        "code": "4452",
+        "title": "Specialty Food Retailers",
+        "description": "This industry group comprises establishments primarily engaged in retailing specialized lines of food not for immediate consumption."
+    },
+    {
+        "code": "4453",
+        "title": "Beer, Wine, and Liquor Retailers",
+        "description": "nan"
+    },
+    {
+        "code": "4491",
+        "title": "Furniture and Home Furnishings Retailers",
+        "description": "This industry group comprises establishments primarily engaged in retailing new furniture and home furnishings.  Establishments in this industry group with fixed point-of-sale locations may operate from showrooms and have substantial areas for the presentation of their products.  Establishments in this industry group may provide incidental services, including interior decorating, product assembly, installation, or repair services."
+    },
+    {
+        "code": "4492",
+        "title": "Electronics and Appliance Retailers",
+        "description": "nan"
+    },
+    {
+        "code": "4551",
+        "title": "Department Stores",
+        "description": "nan"
+    },
+    {
+        "code": "4552",
+        "title": "Warehouse Clubs, Supercenters, and Other General Merchandise Retailers",
+        "description": "nan"
+    },
+    {
+        "code": "4561",
+        "title": "Health and Personal Care Retailers",
+        "description": "nan"
+    },
+    {
+        "code": "4571",
+        "title": "Gasoline Stations",
+        "description": "This industry group comprises establishments primarily engaged in retailing automotive fuels (e.g., gasoline, diesel fuel, gasohol, alternative fuels) and automotive oils or retailing these products in combination with convenience store items.  These establishments have specialized equipment for storing and dispensing automotive fuels."
+    },
+    {
+        "code": "4572",
+        "title": "Fuel Dealers",
+        "description": "nan"
+    },
+    {
+        "code": "4581",
+        "title": "Clothing and Clothing Accessories Retailers",
+        "description": "nan"
+    },
+    {
+        "code": "4582",
+        "title": "Shoe Retailers",
+        "description": "nan"
+    },
+    {
+        "code": "4583",
+        "title": "Jewelry, Luggage, and Leather Goods Retailers",
+        "description": "This industry group comprises establishments primarily engaged in retailing new jewelry (except costume jewelry); new sterling and plated silverware; new watches and clocks; and new luggage with or without a general line of new leather goods and accessories, such as hats, gloves, handbags, ties, and belts."
+    },
+    {
+        "code": "4591",
+        "title": "Sporting Goods, Hobby, and Musical Instrument Retailers",
+        "description": "This industry group comprises establishments primarily engaged in retailing new sporting goods, toys, games, hobby supplies, sewing supplies, needlework accessories, and musical instruments."
+    },
+    {
+        "code": "4592",
+        "title": "Book Retailers and News Dealers",
+        "description": "nan"
+    },
+    {
+        "code": "4593",
+        "title": "Florists",
+        "description": "nan"
+    },
+    {
+        "code": "4594",
+        "title": "Office Supplies, Stationery, and Gift Retailers",
+        "description": "This industry group comprises establishments primarily engaged in retailing new office supplies, stationery, gifts, novelty merchandise, and souvenirs."
+    },
+    {
+        "code": "4595",
+        "title": "Used Merchandise Retailers",
+        "description": "nan"
+    },
+    {
+        "code": "4599",
+        "title": "Other Miscellaneous Retailers",
+        "description": "This industry group comprises establishments primarily engaged in retailing miscellaneous specialized lines of merchandise (except motor vehicle and parts dealers; building material and garden equipment and supplies dealers; food and beverage retailers; furniture, home furnishings, electronics, and appliance retailers; general merchandise retailers; health and personal care retailers; gasoline stations and fuel dealers; clothing, clothing accessories, shoe, and jewelry retailers; sporting goods, hobby, and musical instrument retailers; book retailers and news dealers; florists; office supplies, stationery, and gift retailers; and used merchandise retailers)."
+    },
+    {
+        "code": "4811",
+        "title": "Scheduled Air Transportation",
+        "description": "nan"
+    },
+    {
+        "code": "4812",
+        "title": "Nonscheduled Air Transportation",
+        "description": "nan"
+    },
+    {
+        "code": "4821",
+        "title": "Rail Transportation",
+        "description": "nan"
+    },
+    {
+        "code": "4831",
+        "title": "Deep Sea, Coastal, and Great Lakes Water Transportation",
+        "description": "nan"
+    },
+    {
+        "code": "4832",
+        "title": "Inland Water Transportation",
+        "description": "nan"
+    },
+    {
+        "code": "4841",
+        "title": "General Freight Trucking",
+        "description": "This industry group comprises establishments primarily engaged in providing general freight trucking.  General freight trucking establishments handle a wide variety of commodities, generally palletized, and transported in a container or van trailer.  The establishments of this industry group provide a combination of the following network activities: local pick-up, local sorting and terminal operations, line-haul, destination sorting and terminal operations, and local delivery."
+    },
+    {
+        "code": "4842",
+        "title": "Specialized Freight Trucking",
+        "description": "This industry group comprises establishments primarily engaged in providing local or long-distance specialized freight trucking.  The establishments of this industry are primarily engaged in the transportation of freight which, because of size, weight, shape, or other inherent characteristics, requires specialized equipment, such as flatbeds, tankers, or refrigerated trailers.  This industry includes the transportation of used household, institutional, and commercial furniture and equipment."
+    },
+    {
+        "code": "4851",
+        "title": "Urban Transit Systems",
+        "description": "nan"
+    },
+    {
+        "code": "4852",
+        "title": "Interurban and Rural Bus Transportation",
+        "description": "nan"
+    },
+    {
+        "code": "4853",
+        "title": "Taxi and Limousine Service",
+        "description": "This industry group comprises establishments primarily engaged in providing passenger transportation by automobile or van or providing an array of specialty and luxury passenger transportation services via limousine or luxury sedan generally on a reserved basis.  These establishments do not operate over regular routes and on regular schedules."
+    },
+    {
+        "code": "4854",
+        "title": "School and Employee Bus Transportation",
+        "description": "nan"
+    },
+    {
+        "code": "4855",
+        "title": "Charter Bus Industry",
+        "description": "nan"
+    },
+    {
+        "code": "4859",
+        "title": "Other Transit and Ground Passenger Transportation",
+        "description": "nan"
+    },
+    {
+        "code": "4861",
+        "title": "Pipeline Transportation of Crude Oil",
+        "description": "nan"
+    },
+    {
+        "code": "4862",
+        "title": "Pipeline Transportation of Natural Gas",
+        "description": "nan"
+    },
+    {
+        "code": "4869",
+        "title": "Other Pipeline Transportation",
+        "description": "This industry group comprises establishments primarily engaged in the pipeline transportation of products (except crude oil and natural gas)."
+    },
+    {
+        "code": "4871",
+        "title": "Scenic and Sightseeing Transportation, Land",
+        "description": "nan"
+    },
+    {
+        "code": "4872",
+        "title": "Scenic and Sightseeing Transportation, Water",
+        "description": "nan"
+    },
+    {
+        "code": "4879",
+        "title": "Scenic and Sightseeing Transportation, Other",
+        "description": "nan"
+    },
+    {
+        "code": "4881",
+        "title": "Support Activities for Air Transportation",
+        "description": "This industry group comprises establishments primarily engaged in providing services to the air transportation industry.  These services include airport operation, servicing, repairing (except factory conversion and overhaul of aircraft), maintaining and storing aircraft, and ferrying aircraft."
+    },
+    {
+        "code": "4882",
+        "title": "Support Activities for Rail Transportation",
+        "description": "nan"
+    },
+    {
+        "code": "4883",
+        "title": "Support Activities for Water Transportation",
+        "description": "This industry group comprises establishments primarily engaged in one of the following: (1) operating ports, harbors (including docking and pier facilities), or canals; (2) providing stevedoring and other marine cargo handling services (except warehousing); (3) providing navigational services to shipping; or (4) providing other services to water transportation."
+    },
+    {
+        "code": "4884",
+        "title": "Support Activities for Road Transportation",
+        "description": "This industry group comprises establishments primarily engaged in (1) towing light or heavy motor vehicles, both local and long-distance, or (2) providing other services to road network users."
+    },
+    {
+        "code": "4885",
+        "title": "Freight Transportation Arrangement",
+        "description": "nan"
+    },
+    {
+        "code": "4889",
+        "title": "Other Support Activities for Transportation",
+        "description": "nan"
+    },
+    {
+        "code": "4911",
+        "title": "Postal Service",
+        "description": "nan"
+    },
+    {
+        "code": "4921",
+        "title": "Couriers and Express Delivery Services",
+        "description": "nan"
+    },
+    {
+        "code": "4922",
+        "title": "Local Messengers and Local Delivery",
+        "description": "nan"
+    },
+    {
+        "code": "4931",
+        "title": "Warehousing and Storage",
+        "description": "nan"
+    },
+    {
+        "code": "5121",
+        "title": "Motion Picture and Video Industries",
+        "description": "This industry group comprises establishments primarily engaged in the production and/or distribution of motion pictures, videos, television programs, or commercials; in the exhibition of motion pictures; or in the provision of postproduction and related services."
+    },
+    {
+        "code": "5122",
+        "title": "Sound Recording Industries",
+        "description": "This industry group comprises establishments primarily engaged in producing and distributing musical recordings, publishing music, or providing sound recording and related services."
+    },
+    {
+        "code": "5131",
+        "title": "Newspaper, Periodical, Book, and Directory Publishers",
+        "description": "This industry group comprises establishments primarily engaged in publishing newspapers, magazines, other periodicals, books, directories and mailing lists, and other works, such as calendars, greeting cards, and maps.  These works are characterized by the intellectual creativity required in their development and are usually protected by copyright.  Publishers distribute or arrange for the distribution of these works.\n\nPublishing establishments may create the works in-house, or contract for, purchase, or compile works that were originally created by others.  These works may be published in one or more formats, such as print and/or electronic form, including proprietary electronic networks or exclusively on the Internet.  Establishments in this industry may print, reproduce, or offer direct access to the works themselves or may arrange with others to carry out such functions.\n\nEstablishments that both print and publish may fill excess capacity with commercial or job printing.  However, the publishing activity is still considered to be the primary activity of these establishments."
+    },
+    {
+        "code": "5132",
+        "title": "Software Publishers",
+        "description": "nan"
+    },
+    {
+        "code": "5161",
+        "title": "Radio and Television Broadcasting Stations",
+        "description": "This industry group comprises establishments operating radio or television broadcasting stations for the programming and transmission of programs to the public.  Programming may originate in their own studio, from an affiliated network, or from external sources."
+    },
+    {
+        "code": "5162",
+        "title": "Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",
+        "description": "nan"
+    },
+    {
+        "code": "5171",
+        "title": "Wired and Wireless Telecommunications (except Satellite)",
+        "description": "This industry group comprises establishments primarily engaged in (1) operating transmission facilities and infrastructure that they own and/or lease, and providing telecommunications services using wired and wireless telecommunications networks; (2) reselling wired and wireless telecommunications services (except satellite); and (3) acting as agents for wireless telecommunications services."
+    },
+    {
+        "code": "5174",
+        "title": "Satellite Telecommunications",
+        "description": "nan"
+    },
+    {
+        "code": "5178",
+        "title": "All Other Telecommunications",
+        "description": "nan"
+    },
+    {
+        "code": "5182",
+        "title": "Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",
+        "description": "nan"
+    },
+    {
+        "code": "5192",
+        "title": "Web Search Portals, Libraries, Archives, and Other Information Services",
+        "description": "nan"
+    },
+    {
+        "code": "5211",
+        "title": "Monetary Authorities-Central Bank",
+        "description": "nan"
+    },
+    {
+        "code": "5221",
+        "title": "Depository Credit Intermediation",
+        "description": "This industry group comprises establishments primarily engaged in accepting deposits (or share deposits) and in lending funds from these deposits.  Within this group, industries are defined on the basis of differences in the types of deposit liabilities assumed and in the nature of the credit extended."
+    },
+    {
+        "code": "5222",
+        "title": "Nondepository Credit Intermediation",
+        "description": "This industry group comprises establishments, both public (government-sponsored enterprises) and private, primarily engaged in extending credit or lending funds raised by credit market borrowing, such as issuing commercial paper or other debt instruments or by borrowing from other financial intermediaries.  Within this group, industries are defined on the basis of the type of credit being extended."
+    },
+    {
+        "code": "5223",
+        "title": "Activities Related to Credit Intermediation",
+        "description": "This industry group comprises establishments primarily engaged in facilitating credit intermediation by performing activities, such as arranging loans by bringing borrowers and lenders together and clearing checks and credit card transactions."
+    },
+    {
+        "code": "5231",
+        "title": "Securities and Commodity Contracts Intermediation and Brokerage",
+        "description": "This industry group comprises establishments primarily engaged in putting capital at risk in the process of underwriting securities issues or in making markets for securities and commodities; and those acting as agents and/or brokers between buyers and sellers of securities and commodities, usually charging a commission."
+    },
+    {
+        "code": "5232",
+        "title": "Securities and Commodity Exchanges",
+        "description": "nan"
+    },
+    {
+        "code": "5239",
+        "title": "Other Financial Investment Activities",
+        "description": "This industry group comprises establishments primarily engaged in one of the following: (1) acting as principals in buying or selling financial contracts (except investment bankers, securities dealers, and commodity contracts dealers); (2) acting as agents (i.e., brokers) (except securities brokerages and commodity contracts brokerages) in buying or selling financial contracts; or (3) providing other investment services (except securities and commodity exchanges), such as portfolio management; investment advice; and trust, fiduciary, and custody services."
+    },
+    {
+        "code": "5241",
+        "title": "Insurance Carriers",
+        "description": "This industry group comprises establishments primarily engaged in underwriting (assuming the risk, assigning premiums, and so forth) annuities and insurance policies and investing premiums to build up a portfolio of financial assets to be used against future claims.  Direct insurance carriers are establishments that are primarily engaged in initially underwriting and assuming the risk of annuities and insurance policies.  Reinsurance carriers are establishments that are primarily engaged in assuming all or part of the risk associated with an existing insurance policy (or set of policies) originally underwritten by another insurance carrier.\n\nIndustries are defined in terms of the type of risk being insured against, such as death, loss of employment because of age or disability, and/or property damage.  Contributions and premiums are set on the basis of actuarial calculations of probable payouts based on risk factors from experience tables and expected investment returns on reserves."
+    },
+    {
+        "code": "5242",
+        "title": "Agencies, Brokerages, and Other Insurance Related Activities",
+        "description": "This industry group comprises establishments primarily engaged in (1) acting as agents (i.e., brokers) in selling annuities and insurance policies or (2) providing other employee benefits and insurance related services, such as claims adjustment and third party administration."
+    },
+    {
+        "code": "5251",
+        "title": "Insurance and Employee Benefit Funds",
+        "description": "This industry group comprises legal entities (i.e., funds, plans, and/or programs) organized to provide insurance and employee benefits exclusively for the sponsor, firm, or its employees or members."
+    },
+    {
+        "code": "5259",
+        "title": "Other Investment Pools and Funds",
+        "description": "This industry group comprises legal entities (i.e., investment pools and/or funds) organized to pool securities or other assets (except insurance and employee benefit funds) on behalf of shareholders, unitholders, or beneficiaries."
+    },
+    {
+        "code": "5311",
+        "title": "Lessors of Real Estate",
+        "description": "This industry group comprises establishments primarily engaged in acting as lessors of (1) residential buildings and dwellings; (2) nonresidential buildings (except miniwarehouses); (3) miniwarehouses and self-storage units; and (4) other real estate property.  This industry group includes equity real estate investment trusts (REITs) primarily engaged in leasing buildings, dwellings, or other real estate property to others."
+    },
+    {
+        "code": "5312",
+        "title": "Offices of Real Estate Agents and Brokers",
+        "description": "nan"
+    },
+    {
+        "code": "5313",
+        "title": "Activities Related to Real Estate",
+        "description": "This industry group comprises establishments primarily engaged in providing real estate services (except lessors of real estate and offices of real estate agents and brokers).  Included in this industry group are establishments primarily engaged in managing real estate for others and appraising real estate."
+    },
+    {
+        "code": "5321",
+        "title": "Automotive Equipment Rental and Leasing",
+        "description": "This industry group comprises establishments primarily engaged in renting or leasing passenger cars and trucks without drivers and utility trailers.  These establishments generally operate from a retail-like facility.  Some establishments offer only short-term rental, others only longer-term leases, and some provide both types of services."
+    },
+    {
+        "code": "5322",
+        "title": "Consumer Goods Rental",
+        "description": "This industry group comprises establishments primarily engaged in renting personal and household-type goods.  Establishments classified in this industry group generally provide short-term rental although in some instances, the goods may be leased for longer periods of time.  These establishments often operate from a retail-like or storefront facility."
+    },
+    {
+        "code": "5323",
+        "title": "General Rental Centers",
+        "description": "nan"
+    },
+    {
+        "code": "5324",
+        "title": "Commercial and Industrial Machinery and Equipment Rental and Leasing",
+        "description": "This industry group comprises establishments primarily engaged in renting or leasing commercial-type and industrial-type machinery and equipment.  Establishments included in this industry group are generally involved in providing capital or investment-type equipment that clients use in their business operations.  These establishments typically cater to a business clientele and do not generally operate a retail-like or storefront facility."
+    },
+    {
+        "code": "5331",
+        "title": "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)",
+        "description": "nan"
+    },
+    {
+        "code": "5411",
+        "title": "Legal Services",
+        "description": "This industry group comprises establishments primarily engaged in offering legal services, such as those offered by offices of lawyers, offices of notaries, and title abstract and settlement offices, and paralegal services."
+    },
+    {
+        "code": "5412",
+        "title": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services",
+        "description": "nan"
+    },
+    {
+        "code": "5413",
+        "title": "Architectural, Engineering, and Related Services",
+        "description": "This industry group comprises establishments primarily engaged in architectural, engineering, and related services, such as drafting services, building inspection services, geophysical surveying and mapping services, surveying and mapping (except geophysical) services, and testing services."
+    },
+    {
+        "code": "5414",
+        "title": "Specialized Design Services",
+        "description": "This industry group comprises establishments providing specialized design services (except architectural, engineering, and computer systems design)."
+    },
+    {
+        "code": "5415",
+        "title": "Computer Systems Design and Related Services",
+        "description": "nan"
+    },
+    {
+        "code": "5416",
+        "title": "Management, Scientific, and Technical Consulting Services",
+        "description": "This industry group comprises establishments primarily engaged in providing advice and assistance to businesses and other organizations on management, environmental, scientific, and technical issues."
+    },
+    {
+        "code": "5417",
+        "title": "Scientific Research and Development Services",
+        "description": "This industry group comprises establishments engaged in conducting original investigation undertaken on a systematic basis to gain new knowledge (research) and/or the application of research findings or other scientific knowledge for the creation of new or significantly improved products or processes (experimental development).  Techniques may include modeling and simulation.  The industries within this industry group are defined on the basis of the domain of research; that is, on the scientific expertise of the establishment."
+    },
+    {
+        "code": "5418",
+        "title": "Advertising, Public Relations, and Related Services",
+        "description": "This industry group comprises establishments primarily engaged in advertising, public relations, and related services, such as media buying, independent media representation, indoor and outdoor display advertising, direct mail advertising, advertising material distribution services, and other services related to advertising."
+    },
+    {
+        "code": "5419",
+        "title": "Other Professional, Scientific, and Technical Services",
+        "description": "This industry group comprises establishments engaged in professional, scientific, and technical services (except legal services; accounting, tax preparation, bookkeeping, and related services; architectural, engineering, and related services; specialized design services; computer systems design and related services; management, scientific, and technical consulting services; scientific research and development services; and advertising, public relations, and related services)."
+    },
+    {
+        "code": "5511",
+        "title": "Management of Companies and Enterprises",
+        "description": "nan"
+    },
+    {
+        "code": "5611",
+        "title": "Office Administrative Services",
+        "description": "nan"
+    },
+    {
+        "code": "5612",
+        "title": "Facilities Support Services",
+        "description": "nan"
+    },
+    {
+        "code": "5613",
+        "title": "Employment Services",
+        "description": "This industry group comprises establishments primarily engaged in one of the following: (1) listing employment vacancies and referring or placing applicants for employment; (2) providing executive search, recruitment, and placement services; (3) supplying workers to clients' businesses for limited periods of time to supplement the working force of the client; or (4) providing human resources and human resource management services to client businesses and households."
+    },
+    {
+        "code": "5614",
+        "title": "Business Support Services",
+        "description": "This industry group comprises establishments engaged in performing activities that are ongoing routine business support functions for clients on a contract or fee basis, or serving other establishments of the same enterprise."
+    },
+    {
+        "code": "5615",
+        "title": "Travel Arrangement and Reservation Services",
+        "description": "This industry group comprises establishments primarily engaged in one of the following: (1) travel agency services; (2) arranging and assembling tours; or (3) other travel arrangement and reservation services."
+    },
+    {
+        "code": "5616",
+        "title": "Investigation and Security Services",
+        "description": "This industry group comprises establishments primarily engaged in one of the following: (1) investigation, guard, and armored car services; (2) selling security systems, such as burglar and fire alarms and locking devices, along with installation, repair, or monitoring services; or (3) remote monitoring of electronic security alarm systems."
+    },
+    {
+        "code": "5617",
+        "title": "Services to Buildings and Dwellings",
+        "description": "This industry group comprises establishments primarily engaged in one of the following: (1) exterminating and pest control services; (2) janitorial services; (3) landscaping services; (4) carpet and upholstery cleaning services; or (5) other services to buildings and dwellings."
+    },
+    {
+        "code": "5619",
+        "title": "Other Support Services",
+        "description": "This industry group comprises establishments primarily engaged in providing day-to-day business and other organizational support services (except office administrative services; facilities support services; employment services; business support services; travel arrangement and reservation services; security and investigation services; and services to buildings and dwellings)."
+    },
+    {
+        "code": "5621",
+        "title": "Waste Collection",
+        "description": "nan"
+    },
+    {
+        "code": "5622",
+        "title": "Waste Treatment and Disposal",
+        "description": "nan"
+    },
+    {
+        "code": "5629",
+        "title": "Remediation and Other Waste Management Services",
+        "description": "This industry group comprises establishments primarily engaged in remediation and other waste management services (except waste collection, waste treatment and disposal, and waste management consulting services)."
+    },
+    {
+        "code": "6111",
+        "title": "Elementary and Secondary Schools",
+        "description": "nan"
+    },
+    {
+        "code": "6112",
+        "title": "Junior Colleges",
+        "description": "nan"
+    },
+    {
+        "code": "6113",
+        "title": "Colleges, Universities, and Professional Schools",
+        "description": "nan"
+    },
+    {
+        "code": "6114",
+        "title": "Business Schools and Computer and Management Training",
+        "description": "This industry group comprises establishments primarily engaged in one of the following: (1) offering courses in office procedures and secretarial and stenographic skills and may offer courses in basic office skills, such as word processing; (2) conducting computer training (except computer repair); or (3) offering an array of short duration courses and seminars for management and professional development.  Instruction may be provided in diverse settings, such as the establishment's or client's training facilities, educational institutions, the workplace, or the home, and through diverse means, such as correspondence, television, the Internet, or other electronic and distance-learning methods.  The training provided by these establishments may include the use of simulators and simulation methods."
+    },
+    {
+        "code": "6115",
+        "title": "Technical and Trade Schools",
+        "description": "nan"
+    },
+    {
+        "code": "6116",
+        "title": "Other Schools and Instruction",
+        "description": "This industry group comprises establishments primarily engaged in offering or providing instruction (except academic schools, colleges, and universities; business, computer, and management instruction; and technical and trade instruction).  Instruction may be provided in diverse settings, such as the establishment's or client's training facilities, educational institutions, the workplace, or the home, and through diverse means, such as correspondence, television, the Internet, or other electronic and distance-learning methods.  The training provided by these establishments may include the use of simulators and simulation methods."
+    },
+    {
+        "code": "6117",
+        "title": "Educational Support Services",
+        "description": "nan"
+    },
+    {
+        "code": "6211",
+        "title": "Offices of Physicians",
+        "description": "nan"
+    },
+    {
+        "code": "6212",
+        "title": "Offices of Dentists",
+        "description": "nan"
+    },
+    {
+        "code": "6213",
+        "title": "Offices of Other Health Practitioners",
+        "description": "This industry group comprises establishments of independent health practitioners (except physicians and dentists)."
+    },
+    {
+        "code": "6214",
+        "title": "Outpatient Care Centers",
+        "description": "This industry group comprises establishments with medical staff primarily engaged in providing a range of outpatient services, such as family planning, diagnosis and treatment of mental health disorders and alcohol and other substance abuse, and other general or specialized outpatient care."
+    },
+    {
+        "code": "6215",
+        "title": "Medical and Diagnostic Laboratories",
+        "description": "nan"
+    },
+    {
+        "code": "6216",
+        "title": "Home Health Care Services",
+        "description": "nan"
+    },
+    {
+        "code": "6219",
+        "title": "Other Ambulatory Health Care Services",
+        "description": "This industry group comprises establishments primarily engaged in providing ambulatory health care services (except offices of physicians, dentists, and other health practitioners; outpatient care centers; medical laboratories and diagnostic imaging centers; and home health care providers)."
+    },
+    {
+        "code": "6221",
+        "title": "General Medical and Surgical Hospitals",
+        "description": "nan"
+    },
+    {
+        "code": "6222",
+        "title": "Psychiatric and Substance Abuse Hospitals",
+        "description": "nan"
+    },
+    {
+        "code": "6223",
+        "title": "Specialty (except Psychiatric and Substance Abuse) Hospitals",
+        "description": "nan"
+    },
+    {
+        "code": "6231",
+        "title": "Nursing Care Facilities (Skilled Nursing Facilities)",
+        "description": "nan"
+    },
+    {
+        "code": "6232",
+        "title": "Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",
+        "description": "This industry group comprises establishments primarily engaged in providing residential care (but not licensed hospital care) to people with intellectual and developmental disabilities, mental illness, or substance abuse problems."
+    },
+    {
+        "code": "6233",
+        "title": "Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly",
+        "description": "nan"
+    },
+    {
+        "code": "6239",
+        "title": "Other Residential Care Facilities",
+        "description": "nan"
+    },
+    {
+        "code": "6241",
+        "title": "Individual and Family Services",
+        "description": "This industry group comprises establishments primarily engaged in providing nonresidential social assistance to children and youth, the elderly, persons with disabilities, and all other individuals and families."
+    },
+    {
+        "code": "6242",
+        "title": "Community Food and Housing, and Emergency and Other Relief Services",
+        "description": "This industry group comprises establishments primarily engaged in one of the following: (1) collecting, preparing, and delivering food for the needy; (2) providing short-term emergency shelter, temporary residential shelter, transitional housing, volunteer construction or repair of low-cost housing, and/or repair of homes for individuals or families in need; or (3) providing food, shelter, clothing, medical relief, resettlement, and counseling to victims of domestic or international disasters or conflicts (e.g., wars)."
+    },
+    {
+        "code": "6243",
+        "title": "Vocational Rehabilitation Services",
+        "description": "nan"
+    },
+    {
+        "code": "6244",
+        "title": "Child Care Services",
+        "description": "nan"
+    },
+    {
+        "code": "7111",
+        "title": "Performing Arts Companies",
+        "description": "This industry group comprises establishments primarily engaged in producing live presentations involving the performances of actors and actresses, singers, dancers, musical groups and artists, and other performing artists."
+    },
+    {
+        "code": "7112",
+        "title": "Spectator Sports",
+        "description": "nan"
+    },
+    {
+        "code": "7113",
+        "title": "Promoters of Performing Arts, Sports, and Similar Events",
+        "description": "This industry group comprises establishments primarily engaged in organizing, promoting, and/or managing live performing arts productions, sports events, and similar events, held in facilities that they manage and operate or in facilities that are managed and operated by others."
+    },
+    {
+        "code": "7114",
+        "title": "Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",
+        "description": "nan"
+    },
+    {
+        "code": "7115",
+        "title": "Independent Artists, Writers, and Performers",
+        "description": "nan"
+    },
+    {
+        "code": "7121",
+        "title": "Museums, Historical Sites, and Similar Institutions",
+        "description": "nan"
+    },
+    {
+        "code": "7131",
+        "title": "Amusement Parks and Arcades",
+        "description": "This industry group comprises establishments primarily engaged in operating amusement parks and amusement arcades and parlors."
+    },
+    {
+        "code": "7132",
+        "title": "Gambling Industries",
+        "description": "This industry group comprises establishments (except casino hotels) primarily engaged in operating gambling facilities, such as casinos, bingo halls, and video gaming terminals, or in the provision of gambling services, such as lotteries and off-track betting.  Casino hotels are classified in Industry 72112, Casino Hotels."
+    },
+    {
+        "code": "7139",
+        "title": "Other Amusement and Recreation Industries",
+        "description": "This industry group comprises establishments primarily engaged in operating golf courses and country clubs; skiing facilities; marinas; fitness and recreational sports centers; bowling centers; and providing other amusement and recreation services."
+    },
+    {
+        "code": "7211",
+        "title": "Traveler Accommodation",
+        "description": "This industry group comprises establishments primarily engaged in providing short-term lodging in facilities, such as hotels, motels, casino hotels, and bed-and-breakfast inns.  In addition to lodging, these establishments may provide a range of other services to their guests."
+    },
+    {
+        "code": "7212",
+        "title": "RV (Recreational Vehicle) Parks and Recreational Camps",
+        "description": "nan"
+    },
+    {
+        "code": "7213",
+        "title": "Rooming and Boarding Houses, Dormitories, and Workers' Camps",
+        "description": "nan"
+    },
+    {
+        "code": "7223",
+        "title": "Special Food Services",
+        "description": "This industry group comprises establishments primarily engaged in providing food services at one or more of the following locations: (1) the customer's location; (2) a location designated by the customer; or (3) from motorized vehicles or nonmotorized carts."
+    },
+    {
+        "code": "7224",
+        "title": "Drinking Places (Alcoholic Beverages)",
+        "description": "nan"
+    },
+    {
+        "code": "7225",
+        "title": "Restaurants and Other Eating Places",
+        "description": "nan"
+    },
+    {
+        "code": "8111",
+        "title": "Automotive Repair and Maintenance",
+        "description": "This industry group comprises establishments involved in providing repair and maintenance services for automotive vehicles, such as passenger cars, trucks, and vans, and all trailers.  Establishments in this industry group employ mechanics with specialized technical skills to diagnose and repair the mechanical and electrical systems for automotive vehicles, repair automotive interiors, and paint or repair automotive exteriors."
+    },
+    {
+        "code": "8112",
+        "title": "Electronic and Precision Equipment Repair and Maintenance",
+        "description": "nan"
+    },
+    {
+        "code": "8113",
+        "title": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance",
+        "description": "nan"
+    },
+    {
+        "code": "8114",
+        "title": "Personal and Household Goods Repair and Maintenance",
+        "description": "This industry group comprises establishments primarily engaged in home and garden equipment and appliance repair and maintenance; reupholstery and furniture repair; footwear and leather goods repair; and other personal and household goods repair and maintenance."
+    },
+    {
+        "code": "8121",
+        "title": "Personal Care Services",
+        "description": "This industry group comprises establishments, such as barber and beauty shops, that provide appearance care services to individual consumers."
+    },
+    {
+        "code": "8122",
+        "title": "Death Care Services",
+        "description": "This industry group comprises establishments primarily engaged in preparing the dead for burial or interment, conducting funerals, operating sites or structures reserved for the interment of human or animals remains, and/or cremating the dead."
+    },
+    {
+        "code": "8123",
+        "title": "Drycleaning and Laundry Services",
+        "description": "This industry group comprises establishments primarily engaged in operating coin- or card-operated or similar self-service laundries and drycleaners; providing drycleaning and laundry services (except coin- or card-operated); and supplying, on a rental or contract basis, laundered items (e.g., uniforms, gowns, shop towels, etc.).  Included in this industry group are establishments primarily engaged in supplying and servicing coin- or card-operated laundry and drycleaning equipment in places of business operated by others, such as apartments and dormitories."
+    },
+    {
+        "code": "8129",
+        "title": "Other Personal Services",
+        "description": "This industry group comprises establishments primarily engaged in providing personal services (except personal care services, death care services, or drycleaning and laundry services)."
+    },
+    {
+        "code": "8131",
+        "title": "Religious Organizations",
+        "description": "nan"
+    },
+    {
+        "code": "8132",
+        "title": "Grantmaking and Giving Services",
+        "description": "nan"
+    },
+    {
+        "code": "8133",
+        "title": "Social Advocacy Organizations",
+        "description": "nan"
+    },
+    {
+        "code": "8134",
+        "title": "Civic and Social Organizations",
+        "description": "nan"
+    },
+    {
+        "code": "8139",
+        "title": "Business, Professional, Labor, Political, and Similar Organizations",
+        "description": "This industry group comprises establishments primarily engaged in promoting the interests of their members (except religious organizations, social advocacy organizations, and civic and social organizations).  Examples of establishments in this industry are business associations, professional organizations, labor unions, and political organizations."
+    },
+    {
+        "code": "8141",
+        "title": "Private Households",
+        "description": "nan"
+    },
+    {
+        "code": "9211",
+        "title": "Executive, Legislative, and Other General Government Support",
+        "description": "nan"
+    },
+    {
+        "code": "9221",
+        "title": "Justice, Public Order, and Safety Activities",
+        "description": "nan"
+    },
+    {
+        "code": "9231",
+        "title": "Administration of Human Resource Programs",
+        "description": "nan"
+    },
+    {
+        "code": "9241",
+        "title": "Administration of Environmental Quality Programs",
+        "description": "nan"
+    },
+    {
+        "code": "9251",
+        "title": "Administration of Housing Programs, Urban Planning, and Community Development",
+        "description": "nan"
+    },
+    {
+        "code": "9261",
+        "title": "Administration of Economic Programs",
+        "description": "nan"
+    },
+    {
+        "code": "9271",
+        "title": "Space Research and Technology",
+        "description": "nan"
+    },
+    {
+        "code": "9281",
+        "title": "National Security and International Affairs",
+        "description": "nan"
+    }
+]

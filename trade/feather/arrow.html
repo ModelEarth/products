@@ -1,0 +1,38 @@
+<script src="https://cdn.jsdelivr.net/npm/apache-arrow"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", async function () {
+    try {
+      // Ensure Arrow is loaded
+      if (typeof arrow === "undefined") {
+        console.error("Apache Arrow library not loaded.");
+        return;
+      }
+
+      // Fetch the Feather file
+      const response = await fetch("/global-trade/maps/2020/IOT_2020_pxp.feather"); // Replace with actual path
+      const buffer = await response.arrayBuffer();
+
+      // Convert to Arrow Table
+      const table = arrow.tableFromIPC(new Uint8Array(buffer));
+
+      // Log column names
+      const columnNames = table.schema.fields.map(f => f.name);
+      console.log("Columns:", columnNames);
+
+      // Convert table to an array of JavaScript objects
+      const data = [];
+      for (let i = 0; i < table.numRows; i++) {
+        const row = {};
+        columnNames.forEach((name, colIndex) => {
+          row[name] = table.getChildAt(colIndex).get(i);
+        });
+        data.push(row);
+      }
+
+      console.log("Parsed Data:", data);
+
+    } catch (error) {
+      console.error("Error processing Feather file:", error);
+    }
+  });
+</script>

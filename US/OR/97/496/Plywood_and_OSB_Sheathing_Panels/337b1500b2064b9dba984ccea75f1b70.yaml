@@ -1,0 +1,571 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 33.83583694 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '1436161684104'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-06-06T12:54:52.588197Z'
+  declared_unit: 1 m3
+  default_distance: 362.1015 km
+  default_transport_mode: truck, unspecified
+  description: Wood sheets used for structural sheathing, including plywood and Oriented
+    Strand Board
+  display_name: Plywood and OSB Sheathing Panels
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: e4aa9c1808ad41b6944db88e51d877ba
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 500 kg
+  massless: false
+  masterformat: 06 16 00 Sheathing
+  may_contain_trusted_vendor_declarations: false
+  name: SheathingPanels
+  no_statistics: false
+  obsolete: false
+  openepd: Wood >> SheathingPanels
+  openepd_name: Wood >> SheathingPanels
+  parents: []
+  pct10_gwp: -12.57019394 kgCO2e
+  pct20_gwp: 4.830421522 kgCO2e
+  pct30_gwp: 128.7387255 kgCO2e
+  pct40_gwp: 157.1914141 kgCO2e
+  pct50_gwp: 181.256305 kgCO2e
+  pct60_gwp: 217.9239957 kgCO2e
+  pct70_gwp: 247.2615684 kgCO2e
+  pct80_gwp: 290.3850349 kgCO2e
+  pct90_gwp: 504.3761348 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Plywood and OSB Sheathing Panels
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103604'
+  updated_on: '2025-05-23T10:09:03.186757Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 55.56416306 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-02-27T23:15:31.514714Z'
+date_of_issue: '2018-06-06'
+date_validity_ends: '2023-06-06'
+declaration_type: Product EPD
+declared_unit: 1.0 m^3
+density: 500 kg / m^3
+description: Softwood lumber is produced through a series of processes at a lumber
+  mill, including debarking, sawing, kiln drying, and planing. It is then packaged
+  for shipping. The EPD focuses on the environmental impacts of producing 1 m3 of
+  kiln-dried and planed softwood lumber.
+developer:
+  email: info@thinkstep.com
+  name: Thinkstep Staff
+  org:
+    address: 7500 Stewart Ave, Wausau, WI 54401, USA
+    address_line: 7500 Stewart Ave
+    admin_district: WI
+    admin_district2: Marathon County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-02-03T17:40:00.183142Z'
+    enterprise: false
+    id: 215fe49edac1494f85255ad38e55ea12
+    invalid_after: '2015-01-01'
+    is_failed: false
+    latitude: 44.9562397
+    locality: Wausau
+    location:
+    - long_name: '7500'
+      short_name: '7500'
+      types:
+      - street_number
+    - long_name: Stewart Avenue
+      short_name: Stewart Ave
+      types:
+      - route
+    - long_name: Wausau
+      short_name: Wausau
+      types:
+      - locality
+      - political
+    - long_name: Marathon County
+      short_name: Marathon County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Wisconsin
+      short_name: WI
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '54401'
+      short_name: '54401'
+      types:
+      - postal_code
+    longitude: -89.73007299999999
+    name: thinkstep AG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/215fe49edac1494f85255ad38e55ea12
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '54401'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-03-14T14:05:21.980894Z'
+    web_domain: thinkstep.com
+    website: https://thinkstep.com/
+doc: buildingtransparency.org/e/ec34uc9b2t
+epd_degraded: false
+excluded: false
+externally_verified: false
+file_name: EPD_-_Softwood_Lumber-2_4ff870bb2f1d44eca578eae006c3f7a1.pdf
+forest_practices_certifiers: []
+gwp: 44.7 kgCO2e
+gwp_per_category_declared_unit: 44.7 kgCO2e
+gwp_per_kg: 0.0894 kgCO2e
+gwp_z: 0.28879058156387305
+id: 9fef155669dc447ba01a80eec01522a6
+image: https://static.buildingtransparency.org/images/42fe2b22d8dc402ea563ee61e402ee18.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 33.83583694 kgCO2e
+manufacturer:
+  address: 3660 Gateway Street, Springfield, OR 97477
+  address_line: 3660 Gateway Street
+  admin_district: OR
+  admin_district2: Lane
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/roseburg
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-06-18T07:25:17.783947Z'
+  email_extensions:
+  - roseburg.com
+  - rfpco.com
+  enterprise: true
+  id: 7671de729ca64810abe64f68fa5dbfed
+  image: https://static.buildingtransparency.org/images/32f57045fbba47f18f2ba0c432bed507.png
+  is_failed: false
+  latitude: 44.08757
+  legal_name: Roseburg Forest Products
+  locality: Springfield
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Lane
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    countryTertiarySubdivision: Eugene-Springfield
+    extendedPostalCode: '974776010'
+    freeformAddress: 3660 Gateway Street, Springfield, OR 97477
+    localName: Springfield
+    municipality: Springfield
+    municipalitySubdivision: Springfield
+    postalCode: '97477'
+    streetName: Gateway Street
+    streetNumber: '3660'
+  longitude: -123.04527
+  name: Roseburg Forest Products
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7671de729ca64810abe64f68fa5dbfed
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '97477'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:11:33.373644Z'
+  web_domain: roseburg.com
+  website: https://www.roseburg.com/
+manufacturer_specific: true
+mass_per_declared_unit: 500 kg
+matched_plants_count: 0
+material_id: 337b1500b2064b9dba984ccea75f1b70
+multiproduct: false
+my_capabilities: 1
+name: Softwood Lumber
+not_an_epd: false
+open_xpd_uuid: ec34uc9b
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec34uc9b
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'FP Innovations: 2011. Product Category Rules (PCR) for preparing an Environmental
+    Product Declaration for North American Structural and Architectural Wood Products,
+    Version 1 (UN CPC 31, NAICS 321), November 8, 2011.'
+  - 'FPInnovations: 2011. Product Category Rules (PCR) for preparing an Environmental
+    Product Declaration for North American Structural and Architectural Wood Products,
+    Version 1 (UN CPC 31, NAICS 321), November 8, 2011.'
+  - FPInnovations PCR for North American Structural and Architectural Wood Products
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:32.380825Z'
+  date_of_issue: '2011-08-11'
+  date_validity_ends: '2016-08-11'
+  declared_units:
+  - 1 m3
+  - 1 m2
+  - 1 m
+  doc: https://app.box.com/file/596557245435
+  id: 2c32918fcfeb447697ac69056cf8e421
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      order: 1
+  name: North American Structural and Architectural Wood Products
+  open_xpd_uuid: ec3p5nqs
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3p5nqs
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3p5nqsw3
+  short_name: North American Structural and Architectural Wood Products
+  status: Sunset
+  updated_on: '2025-05-23T21:40:17.351951Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 55.56416306 kgCO2e
+plant_geography:
+- US-OR
+plant_or_group:
+  address: 99 Southwest Main Street, Winston, OR 97496
+  address_line: 99 Southwest Main Street
+  admin_district: OR
+  admin_district2: Douglas
+  alt_names: []
+  carbon_intensity: 643.363 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-06-29T01:43:30.278046Z'
+  id: c6cf83f478a64673b86b1dce4a1ea140
+  is_failed: false
+  latitude: 43.12136
+  locality: Winston
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Douglas
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    extendedPostalCode: 97496-6568
+    freeformAddress: 99 Southwest Main Street, Winston, OR 97496
+    localName: Winston
+    municipality: Winston
+    postalCode: '97496'
+    streetName: Southwest Main Street
+    streetNumber: '99'
+  longitude: -123.41322
+  name: Dillard, Oregon
+  openepd_id: 84MR4HCP+GP.roseburg.com
+  owned_by:
+    address: 3660 Gateway Street, Springfield, OR 97477
+    address_line: 3660 Gateway Street
+    admin_district: OR
+    admin_district2: Lane
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/roseburg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:25:17.783947Z'
+    email_extensions:
+    - roseburg.com
+    - rfpco.com
+    enterprise: true
+    id: 7671de729ca64810abe64f68fa5dbfed
+    image: https://static.buildingtransparency.org/images/32f57045fbba47f18f2ba0c432bed507.png
+    is_failed: false
+    latitude: 44.08757
+    legal_name: Roseburg Forest Products
+    locality: Springfield
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Lane
+      countrySubdivision: OR
+      countrySubdivisionName: Oregon
+      countryTertiarySubdivision: Eugene-Springfield
+      extendedPostalCode: '974776010'
+      freeformAddress: 3660 Gateway Street, Springfield, OR 97477
+      localName: Springfield
+      municipality: Springfield
+      municipalitySubdivision: Springfield
+      postalCode: '97477'
+      streetName: Gateway Street
+      streetNumber: '3660'
+    longitude: -123.04527
+    name: Roseburg Forest Products
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7671de729ca64810abe64f68fa5dbfed
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '97477'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:11:33.373644Z'
+    web_domain: roseburg.com
+    website: https://www.roseburg.com/
+  postal_code: '97496'
+  total_epds: 4
+  type: Plant
+  units: SI
+  updated_on: '2024-06-20T22:00:03.252335Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4786969381.105.1
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec34uc9b2t
+standard_deviation: 12.908939 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 55.56416306 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2024-06-20T21:42:26.383442Z'
+use_stored_carbon: true
+verifier:
+  org:
+    address: 902 Battelle Blvd, Richland, WA 99354, USA
+    address_line: 902 Battelle Blvd
+    admin_district: WA
+    admin_district2: Benton County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-07-06T15:10:33.351172Z'
+    enterprise: false
+    id: 60aef8a9021f4c1a877b7a7b1ea47f06
+    is_failed: false
+    latitude: 46.3449714
+    locality: Richland
+    location:
+    - long_name: '902'
+      short_name: '902'
+      types:
+      - street_number
+    - long_name: Battelle Boulevard
+      short_name: Battelle Blvd
+      types:
+      - route
+    - long_name: Richland
+      short_name: Richland
+      types:
+      - locality
+      - political
+    - long_name: Benton County
+      short_name: Benton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Washington
+      short_name: WA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '99354'
+      short_name: '99354'
+      types:
+      - postal_code
+    - long_name: '1793'
+      short_name: '1793'
+      types:
+      - postal_code_suffix
+    longitude: -119.2791808
+    name: Pacific Northwest National Laboratories (PNNL)
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/60aef8a9021f4c1a877b7a7b1ea47f06
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '99354'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-07-06T15:10:33.351184Z'
+    web_domain: pnnl.gov
+    website: https://www.pnnl.gov/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+weather_exposed: false

@@ -1,0 +1,676 @@
+abuse_resistant: false
+also_shown_in:
+- allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-04-26T10:43:43Z'
+  declared_unit: 1 m2
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Gypsum board used for sheathing exteriors, shaft walls, and interior
+    walls/ceilings requiring moisture resistance.
+  display_name: Gypsum Sheathing Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 4063336edfe749b480a9f932d4109fe6
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 10.89757848 kg
+  massless: false
+  masterformat: 06 16 43 Gypsum Sheathing
+  may_contain_trusted_vendor_declarations: false
+  name: GypsumSheathingBoard
+  no_statistics: false
+  obsolete: false
+  openepd: Sheathing >> GypsumSheathingBoard
+  openepd_name: Sheathing >> GypsumSheathingBoard
+  parents: []
+  pct10_gwp: 1.957192666 kgCO2e
+  pct20_gwp: 2.122872152 kgCO2e
+  pct30_gwp: 2.329147833 kgCO2e
+  pct40_gwp: 2.575819176 kgCO2e
+  pct50_gwp: 2.650474094 kgCO2e
+  pct60_gwp: 3.194317216 kgCO2e
+  pct70_gwp: 3.607764525 kgCO2e
+  pct80_gwp: 3.921873585 kgCO2e
+  pct90_gwp: 5.131716039 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Gypsum Sheathing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30161509'
+  updated_on: '2025-05-23T10:09:06.432184Z'
+  use_stored_carbon: ABSENT
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/usg
+best_practice: 174.0058505 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '348842533665'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:29.851882Z'
+  declared_unit: 1000 sqft
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Gypsum board used for interior walls, ceilings, and similar applications.
+  display_name: Gypsum Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 0d1d4544c70f4a82938c79d88f86ec5d
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1022.983474 kg
+  massless: false
+  masterformat: 09 29 00 Gypsum Board
+  may_contain_trusted_vendor_declarations: false
+  name: Gypsum
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Gypsum
+  openepd_name: Finishes >> Gypsum
+  parents: []
+  pct10_gwp: 122.4249247 kgCO2e
+  pct20_gwp: 179.1490273 kgCO2e
+  pct30_gwp: 217.4107305 kgCO2e
+  pct40_gwp: 255.411927 kgCO2e
+  pct50_gwp: 290.1039577 kgCO2e
+  pct60_gwp: 326.0429218 kgCO2e
+  pct70_gwp: 381.4761214 kgCO2e
+  pct80_gwp: 448.2658629 kgCO2e
+  pct90_gwp: 550.9776326 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Gypsum Board
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161509'
+  updated_on: '2025-05-23T10:09:01.570849Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 247.9941495 kgCO2e
+corrections_count: 0
+cqd_sync_id: 09d635608a7b440abf8174b2ca85bb04
+cqd_sync_server_from: openepd.ul.com
+cqd_sync_server_original: buildingtransparency.org
+cqd_sync_unlocked: false
+created_on: '2022-03-04T06:04:56.024015Z'
+date_of_issue: '2018-05-09'
+date_validity_ends: '2023-05-09'
+declaration_type: Product EPD
+declared_unit: 1000 sf
+density: 523 kg / m3
+description: Non-combustable gypsum core encased in  100% recycled papers. UL classified
+  for fire resistance as Type FC30.
+developer:
+  email: lstevens@usg.com
+  name: lstevens
+  org:
+    address: 333 South 270th Avenue, Alton, KS 67623
+    address_line: 333 South 270th Avenue
+    admin_district: KS
+    admin_district2: Osborne
+    alt_names:
+    - USG Cellings
+    - USG Sheetrock
+    - CGC
+    - "USG M\xE9xico, S.A. de C.V."
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/usg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-10-02T02:46:59.108322Z'
+    email_extensions:
+    - usg.com
+    enterprise: true
+    id: 139773b6950245eaa7181b669ba75ebd
+    image: https://static.buildingtransparency.org/images/724b4876-68d8-49f0-965b-ccd6b309d4b1.png
+    is_failed: false
+    latitude: 39.495907
+    legal_name: USG
+    locality: Alton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 39.509538,-98.989432
+        southWest: 39.494853,-98.989622
+      buildingNumber: '333'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Osborne
+      countrySubdivision: KS
+      countrySubdivisionName: Kansas
+      countryTertiarySubdivision: Grant
+      freeformAddress: 333 South 270th Avenue, Alton, KS 67623
+      municipality: Alton
+      municipalitySubdivision: Alton
+      postalCode: '67623'
+      routeNumbers: []
+      street: South 270th Avenue
+      streetName: South 270th Avenue
+      streetNameAndNumber: 333 South 270th Avenue
+      streetNumber: '333'
+    longitude: -98.989456
+    name: USG
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/139773b6950245eaa7181b669ba75ebd
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '67623'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:24:00.773460Z'
+    web_domain: usg.com
+    website: https://www.usg.com
+doc: buildingtransparency.org/e/ec34hw78q7
+excluded: false
+externally_verified: true
+file_name: usg-sheetrock-ecosmart-panels-firecode-30-epd-en-4787352797-108-1-west.pdf
+foil_backing: false
+gwp: 211 kgCO2e
+gwp_per_category_declared_unit: 211 kgCO2e
+gwp_per_kg: 0.2736325725 kgCO2e
+gwp_z: 0.2083266665599966
+gypsum_fire_rating: F
+gypsum_flame_spread_astm_e84: 15.0
+gypsum_smoke_production_astm_e84: 0
+gypsum_thickness: 0.625 in
+id: 29fbcc23c1ed4ec98a8d9035261813c5
+impacts: {}
+includes: []
+industry_standards:
+- C473
+- E84
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: '## Product Component Notes
+
+  Gypsum: 0.916, Fiberglass: 0.003, Paper: 0.057, Additives: 0.025
+
+
+  ## LCA Notes
+
+  A1-A3
+
+
+  ## Source Data Notes
+
+  Primary data from USG plants and Thinkstep secondary datasets.'
+lowest_plausible_gwp: 174.0058505 kgCO2e
+manufacturer:
+  address: 333 South 270th Avenue, Alton, KS 67623
+  address_line: 333 South 270th Avenue
+  admin_district: KS
+  admin_district2: Osborne
+  alt_names:
+  - USG Cellings
+  - USG Sheetrock
+  - CGC
+  - "USG M\xE9xico, S.A. de C.V."
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/usg
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-02T02:46:59.108322Z'
+  email_extensions:
+  - usg.com
+  enterprise: true
+  id: 139773b6950245eaa7181b669ba75ebd
+  image: https://static.buildingtransparency.org/images/724b4876-68d8-49f0-965b-ccd6b309d4b1.png
+  is_failed: false
+  latitude: 39.495907
+  legal_name: USG
+  locality: Alton
+  location:
+    boundingBox:
+      entity: position
+      northEast: 39.509538,-98.989432
+      southWest: 39.494853,-98.989622
+    buildingNumber: '333'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Osborne
+    countrySubdivision: KS
+    countrySubdivisionName: Kansas
+    countryTertiarySubdivision: Grant
+    freeformAddress: 333 South 270th Avenue, Alton, KS 67623
+    municipality: Alton
+    municipalitySubdivision: Alton
+    postalCode: '67623'
+    routeNumbers: []
+    street: South 270th Avenue
+    streetName: South 270th Avenue
+    streetNameAndNumber: 333 South 270th Avenue
+    streetNumber: '333'
+  longitude: -98.989456
+  name: USG
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/139773b6950245eaa7181b669ba75ebd
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '67623'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:24:00.773460Z'
+  web_domain: usg.com
+  website: https://www.usg.com
+manufacturer_specific: true
+mass_per_declared_unit: 1700 lb
+matched_plants_count: 0
+material_id: 2f38bd40e43c41ef99f45c2b38f4a49b
+moisture_resistant: false
+mold_resistant: false
+multiproduct: true
+my_capabilities: 1
+name: "Sheetrock\xAE EcoSmart Panels Firecode\xAE 30 (Western US)"
+not_an_epd: false
+open_xpd_uuid: ec3hc9g0
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3hc9g0
+output_flows: {}
+owner:
+  name: Data Sync
+  user_id: data-sync@buildingtransparency.org
+pcr:
+  alt_names:
+  - FPInnovations, "Product Category Rules for North American Gypsum Boards", 2013
+  - Product Category Rules for North American Gypsum Boards FP innovations - Gypsum
+    PCR 2013 - V1
+  - Moundsville 1/2 inch (12.7mm) AirRenew essential Product Category Rules for North
+    American Gypsum Boards FP innovations - Gypsum PCR 2013 - V1
+  - FPInnovationss North American Gypsum Boards
+  - "Product Category Rules for North American Gypsum Boards FP innovations \xC2\xB1\
+    \ Gypsum PCR 2013 \xC2\xB1 V1"
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:32.753337Z'
+  date_of_issue: '2013-09-30'
+  date_validity_ends: '2018-09-30'
+  declared_units:
+  - 1000 sf
+  doc: '#broken-link https://www.americangypsum.com/sites/default/files/documents/Product%20Category%20Rules%20for%20North%20American%20Boards.pdf'
+  id: fe4cde72c04b4d759d0de1472e028b6a
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      order: 1
+  name: North American Gypsum Boards
+  open_xpd_uuid: ec30h8m6
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec30h8m6
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec30h8m63d
+  short_name: North American Gypsum Boards
+  status: Sunset
+  updated_on: '2023-10-01T00:01:14.931772Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 247.9941495 kgCO2e
+plant_geography:
+- US-OR
+plant_or_group:
+  address: 29073 Dike Road, Rainier, OR 97048
+  address_line: 29073 Dike Road
+  admin_district: OR
+  admin_district2: Columbia
+  carbon_intensity: 643.363 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-30T12:07:29.135151Z'
+  id: 7e825d3f13e046a48c1a515d59bd7e7d
+  is_failed: false
+  latitude: 46.10475
+  locality: Rainier
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Columbia
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    countryTertiarySubdivision: Rainier
+    extendedPostalCode: '970482220'
+    freeformAddress: 29073 Dike Road, Rainier, OR 97048
+    localName: Rainier
+    municipality: Rainier
+    municipalitySubdivision: Rainier
+    postalCode: '97048'
+    streetName: Dike Road
+    streetNumber: '29073'
+  longitude: -122.97295
+  name: Rainier, OR
+  openepd_id: 84RV423G+WR.usg.com
+  owned_by:
+    address: 333 South 270th Avenue, Alton, KS 67623
+    address_line: 333 South 270th Avenue
+    admin_district: KS
+    admin_district2: Osborne
+    alt_names:
+    - USG Cellings
+    - USG Sheetrock
+    - CGC
+    - "USG M\xE9xico, S.A. de C.V."
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/usg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-10-02T02:46:59.108322Z'
+    email_extensions:
+    - usg.com
+    enterprise: true
+    id: 139773b6950245eaa7181b669ba75ebd
+    image: https://static.buildingtransparency.org/images/724b4876-68d8-49f0-965b-ccd6b309d4b1.png
+    is_failed: false
+    latitude: 39.495907
+    legal_name: USG
+    locality: Alton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 39.509538,-98.989432
+        southWest: 39.494853,-98.989622
+      buildingNumber: '333'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Osborne
+      countrySubdivision: KS
+      countrySubdivisionName: Kansas
+      countryTertiarySubdivision: Grant
+      freeformAddress: 333 South 270th Avenue, Alton, KS 67623
+      municipality: Alton
+      municipalitySubdivision: Alton
+      postalCode: '67623'
+      routeNumbers: []
+      street: South 270th Avenue
+      streetName: South 270th Avenue
+      streetNameAndNumber: 333 South 270th Avenue
+      streetNumber: '333'
+    longitude: -98.989456
+    name: USG
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/139773b6950245eaa7181b669ba75ebd
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '67623'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:24:00.773460Z'
+    web_domain: usg.com
+    website: https://www.usg.com
+  postal_code: '97048'
+  total_epds: 3
+  type: Plant
+  units: SI
+  updated_on: '2021-08-04T13:32:49.320192Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4787352797.108.1
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3hc9g0ts
+standard_deviation: 43.95692664 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 247.9941495 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T19:44:18.858881Z'
+use_stored_carbon: false
+verifier:
+  email: brad@wapsustainability.com
+  name: Brad McAllister
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+warnings:
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified

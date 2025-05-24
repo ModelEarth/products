@@ -1,0 +1,500 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 3.822616925 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '478497911336'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-07-18T14:11:52.296054Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Roofing materials typically for slopes of 3:12 and greater
+  display_name: Steep Slope Roofing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 7bbff43e19124317a307ede6e0179b4c
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 14 kg
+  massless: false
+  masterformat: 07 30 00 Steep Slope Roofing
+  may_contain_trusted_vendor_declarations: false
+  name: SteepSlopeRoofing
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> SteepSlopeRoofing
+  openepd_name: ThermalMoistureProtection >> SteepSlopeRoofing
+  parents: []
+  pct10_gwp: 3.059860545 kgCO2e
+  pct20_gwp: 3.324461879 kgCO2e
+  pct30_gwp: 3.5885811 kgCO2e
+  pct40_gwp: 3.860932883 kgCO2e
+  pct50_gwp: 4.149107128 kgCO2e
+  pct60_gwp: 4.26388721 kgCO2e
+  pct70_gwp: 4.537354506 kgCO2e
+  pct80_gwp: 4.900750958 kgCO2e
+  pct90_gwp: 5.324634404 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Steep Slope Roofing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30151500'
+  updated_on: '2025-05-23T10:09:05.949174Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 6.277383075 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-03-17T10:07:24.079220Z'
+date_of_issue: '2015-07-07'
+date_validity_ends: '2020-07-07'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 145 kg / m3
+description: "Owens Corning\xAE asphalt shingles use a fiberglass mat as the core\
+  \ substrate material, which is coated on both sides with weathering-grade asphalt."
+doc: buildingtransparency.org/e/ec31zrb68y
+excluded: false
+externally_verified: true
+file_name: EPD - Product Specific_OwensCorning_Shingles.pdf
+gwp: 5.05 kgCO2e
+gwp_per_category_declared_unit: 5.05 kgCO2e
+gwp_per_kg: 0.2393364929 kgCO2e
+gwp_z: 0.28879058156387305
+id: 5c2abf1a6d7943768f32438676085629
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: "## Source Data Notes\n\u25A01\n\u25A0   Product Category Rules for\
+  \ Preparing an Environmental Product Declaration for Product Group: Asphalt Shingles,\
+  \ Built-\nup Asphalt Membrane Roofing and Modified Bituminous Membrane Roofing,\
+  \ Version 1.0, 31 July 2014\n\u2022   ISO 14025:2006(E), Environmental labels and\
+  \ declarations - Type III environmental declarations - Principles and\nprocedures,\
+  \ 1 July 2006\n\u2022   ISO 14040:2006(E), Environmental management - Life cycle\
+  \ assessment - Principles and framework, 1 July 2006\n\u25A0   ISO 14044:2006(E),\
+  \ Environmental management - Life cycle assessment - Requirements and guidelines,\
+  \ 1 July 2006\n\u25A0   ASTM D3462/D3462M REV A, Standard Specification for Asphalt\
+  \ Shingles Made from Glass Felt and Surfaced with\nMineral Granules\nEnvironment\
+  \                              Pub. No. 10020271. \xA92015 Owens Corning. All Rights\
+  \ Reserved."
+lowest_plausible_gwp: 3.822616925 kgCO2e
+manufacturer:
+  address: Toledo, OH, USA
+  admin_district: OH
+  admin_district2: Lucas County
+  alt_names:
+  - OwensCorning
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/owens-corning
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-06-18T07:54:04.140960Z'
+  email_extensions:
+  - owenscorning.com
+  enterprise: true
+  id: affc3c4ff6db42da943316a8f84c3dc2
+  image: https://static.buildingtransparency.org/images/f688af9d-209f-426a-89a8-fe9fd5dd6d9d.png
+  is_failed: false
+  latitude: 41.6528052
+  locality: Toledo
+  location:
+  - long_name: Toledo
+    short_name: Toledo
+    types:
+    - locality
+    - political
+  - long_name: Lucas County
+    short_name: Lucas County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Ohio
+    short_name: OH
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  longitude: -83.5378674
+  name: Owens Corning
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/affc3c4ff6db42da943316a8f84c3dc2
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '64804'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-03-08T15:08:50.605536Z'
+  web_domain: owenscorning.com
+  website: www.owenscorning.com
+manufacturer_specific: true
+mass_per_declared_unit: 21.1 kg
+matched_plants_count: 1
+material_id: 44c69a72d5e24798952aba506000d9c1
+multiproduct: true
+my_capabilities: 1
+name: "Oakridge\xAE Shingles"
+not_an_epd: false
+open_xpd_uuid: ec31zrb6
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec31zrb6
+output_flows: {}
+owner:
+  name: Data Entry
+  user_id: data_entry@buildingtransparency.org
+pcr:
+  alt_names:
+  - ASTM PCR for asphalt shingles, built-up asphalt membrane roofing and modified
+    bituminous membrand roofing
+  - PCR Asphalt Shingles, Built-up Asphalt Membrane Roofing and Modified Bituminous
+    Membrane Roofing, v1.0, ASTM International, July 2014
+  - 'ASTM: Asphalt shingles, built-up and modified bituminous membrane roofing. 2014'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:55:55.690433Z'
+  date_of_issue: '2014-07-01'
+  date_validity_ends: '2019-06-01'
+  declared_units:
+  - 1 m2
+  doc: '#broken-link https://www.astm.org/CERTIFICATION/DOCS/260.PCR_for_Asphalt_Shingles_Built-up_Asphalt_Membrane_Roofing_and_Modified_Bituminous_Membrane_Roofing.pdf'
+  id: 3aab2b3f750a4840931665b47b0ee100
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      order: 1
+  name: Asphalt Shingles, Built-up Asphalt and Modified Bituminous Membrane Roofing
+  open_xpd_uuid: ec314m1y
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec314m1y
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec314m1y4j
+  short_name: Asphalt Shingles, Built-up Asphalt and Modified Bituminous Membrane
+    Roofing
+  status: Sunset
+  updated_on: '2025-05-23T21:40:17.004191Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 6.277383075 kgCO2e
+plant_geography:
+- US-OR
+- US-TX
+- US-OH
+- US-GA
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-12-23T17:37:38.369119Z'
+  id: 34ca1d23495b401fbfa5cd2278eb94a1
+  is_failed: false
+  jurisdiction:
+  - US-OR
+  - US-TX
+  - US-OH
+  - US-GA
+  name: Medina Roofing Plant, Atlanta Roofing Plant, Portland Roofing Plant", Irving
+    Roofing Plant
+  owned_by:
+    address: Toledo, OH, USA
+    admin_district: OH
+    admin_district2: Lucas County
+    alt_names:
+    - OwensCorning
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/owens-corning
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:54:04.140960Z'
+    email_extensions:
+    - owenscorning.com
+    enterprise: true
+    id: affc3c4ff6db42da943316a8f84c3dc2
+    image: https://static.buildingtransparency.org/images/f688af9d-209f-426a-89a8-fe9fd5dd6d9d.png
+    is_failed: false
+    latitude: 41.6528052
+    locality: Toledo
+    location:
+    - long_name: Toledo
+      short_name: Toledo
+      types:
+      - locality
+      - political
+    - long_name: Lucas County
+      short_name: Lucas County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Ohio
+      short_name: OH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    longitude: -83.5378674
+    name: Owens Corning
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/affc3c4ff6db42da943316a8f84c3dc2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '64804'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-03-08T15:08:50.605536Z'
+    web_domain: owenscorning.com
+    website: www.owenscorning.com
+  plants_count: 0
+  total_epds: 3
+  type: PlantGroup
+  updated_on: '2020-12-23T17:37:40.597830Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4786825641.101.1
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec31zrb68y
+standard_deviation: 1.458392437 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 6.277383075 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-01-14T13:11:51.851983Z'
+use_stored_carbon: false
+verifier:
+  email: wade.stout@ul.com
+  name: Wade Stout
+  org:
+    address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    address_line: 2211 New Market Parkway Southeast
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - ULE EPM
+    - Underwriters Labs
+    - Underwriters Laboratories
+    - UL E
+    - UL Enviornment
+    - UL Environment
+    - UL Solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-19T16:12:16.017515Z'
+    email: epd@ul.com
+    email_extensions:
+    - ul.com
+    - ulenvironment.com
+    enterprise: true
+    id: 5b22feac0d67472191705631612b68fb
+    image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+    is_failed: false
+    latitude: 33.917988
+    legal_name: UL
+    locality: Marietta
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.918196,-84.495564
+        southWest: 33.917305,-84.497793
+      buildingNumber: '2211'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Marietta
+      extendedPostalCode: '300679393'
+      freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+      municipality: Marietta
+      municipalitySubdivision: Marietta
+      postalCode: '30067'
+      routeNumbers: []
+      street: New Market Parkway Southeast
+      streetName: New Market Parkway Southeast
+      streetNameAndNumber: 2211 New Market Parkway Southeast
+      streetNumber: '2211'
+    longitude: -84.49678
+    name: UL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    - CA
+    postal_code: '30067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2025-04-26T00:06:55.791242Z'
+    web_domain: ul.com
+    website: https://www.ul.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified

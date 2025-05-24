@@ -1,0 +1,588 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+astm_standards: []
+best_practice: 2.247701901 kgCO2e
+biogenic_embodied_carbon_z: 0.30967725134404045
+box_id: '1486461154994'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-09-10T11:28:49.082078Z'
+  declared_unit: 1 t
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Steel suspension assemblies for suspended (e.g. acoustical) ceiling
+    systems
+  display_name: Steel Suspension Assemblies
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 403a3d004f25416eac881a89f40e90a8
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 09 53 00 Suspension Assemblies
+  may_contain_trusted_vendor_declarations: false
+  name: SteelSuspensionAssembly
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> ColdFormedSteel >> SteelSuspensionAssembly
+  openepd_name: Steel >> ColdFormedSteel >> SteelSuspensionAssembly
+  parents: []
+  pct10_gwp: 3134.17669 kgCO2e
+  pct20_gwp: 3406.980068 kgCO2e
+  pct30_gwp: 3446.825385 kgCO2e
+  pct40_gwp: 3514.761708 kgCO2e
+  pct50_gwp: 3712.188699 kgCO2e
+  pct60_gwp: 3885.48708 kgCO2e
+  pct70_gwp: 4113.612971 kgCO2e
+  pct80_gwp: 4328.12653 kgCO2e
+  pct90_gwp: 5028.450211 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Suspension Assemblies
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: ''
+  updated_on: '2025-05-23T10:08:58.152657Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 3.832298099 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-03-30T04:16:09.196988Z'
+date_of_issue: '2024-04-01'
+date_validity_ends: '2029-04-01'
+declaration_type: Product EPD
+declared_unit: 1.06 kg
+density: 7870 kg / m3
+description: "The USG\u2122 Donn\xAE Brand ZXLA\u2122 Acoustical Suspension System\
+  \ is roll formed with a hot dipped galvanized body, and\na painted aluminum cap.\
+  \ The system is generally used to suspend acoustical ceiling tiles and/or metal\
+  \ panels in\ndemanding applications. It is manufactured by USG in Cartersville,\
+  \ GA, and Westlake, OH. It is tested in accordance\nwith ASTM C635 Standard Specification\
+  \ for the Manufacture, Performance, and Testing of Metal Suspension Systems\nfor\
+  \ Acoustical Tile and Lay-in Panel Ceilings. This EPD covers the USG\u2122 Donn\xAE\
+  \ Brand ZXLA\u2122 profiles.\nThe USG\u2122 Donn\xAE Brand ZXLA\u2122 Acoustical\
+  \ Suspension System is covered by the following Construction Specification\nInstitute\
+  \ (CSI) MasterFormat\xAE codes.\n        09 22 26.23 Metal Suspension System\n \
+  \       09 53 00 Acoustical Ceiling Suspension System\n        09 53 23 Metal Acoustical\
+  \ Ceiling Suspension Assemblies\n        09 54 36 Suspended Decorative Grids\nCorresponding\
+  \ applicable UNSPSC codes include:\n        25172000 Suspension System Components"
+developer:
+  org:
+    address: 333 South 270th Avenue, Alton, KS 67623
+    address_line: 333 South 270th Avenue
+    admin_district: KS
+    admin_district2: Osborne
+    alt_names:
+    - USG Cellings
+    - USG Sheetrock
+    - CGC
+    - "USG M\xE9xico, S.A. de C.V."
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/usg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-10-02T02:46:59.108322Z'
+    email_extensions:
+    - usg.com
+    enterprise: true
+    id: 139773b6950245eaa7181b669ba75ebd
+    image: https://static.buildingtransparency.org/images/724b4876-68d8-49f0-965b-ccd6b309d4b1.png
+    is_failed: false
+    latitude: 39.495907
+    legal_name: USG
+    locality: Alton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 39.509538,-98.989432
+        southWest: 39.494853,-98.989622
+      buildingNumber: '333'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Osborne
+      countrySubdivision: KS
+      countrySubdivisionName: Kansas
+      countryTertiarySubdivision: Grant
+      freeformAddress: 333 South 270th Avenue, Alton, KS 67623
+      municipality: Alton
+      municipalitySubdivision: Alton
+      postalCode: '67623'
+      routeNumbers: []
+      street: South 270th Avenue
+      streetName: South 270th Avenue
+      streetNameAndNumber: 333 South 270th Avenue
+      streetNumber: '333'
+    longitude: -98.989456
+    name: USG
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/139773b6950245eaa7181b669ba75ebd
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '67623'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:24:00.773460Z'
+    web_domain: usg.com
+    website: https://www.usg.com
+doc: buildingtransparency.org/e/ec3dwwtgnr
+en_standards: []
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: USGDonn%C2%AEBrandIdentitee%C2%AEZXLA%E2%84%A2AcousticalSuspen_da39a3ee5e6b4b0d3255bfef95601890afd80709.pdf
+galvanized: false
+gwp: 3.04 kgCO2e
+gwp_per_category_declared_unit: 2867.924528 kgCO2e
+gwp_per_kg: 2.867924528 kgCO2e
+gwp_z: 0.30967725134404045
+id: ce4e784883444cd5bcc4f2fc6a94acd7
+image: https://static.buildingtransparency.org/images/47be557d41b64ea0a6562b3ff46a4d05.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 2.247701901 kgCO2e
+manufacturer:
+  address: 333 South 270th Avenue, Alton, KS 67623
+  address_line: 333 South 270th Avenue
+  admin_district: KS
+  admin_district2: Osborne
+  alt_names:
+  - USG Cellings
+  - USG Sheetrock
+  - CGC
+  - "USG M\xE9xico, S.A. de C.V."
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/usg
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-02T02:46:59.108322Z'
+  email_extensions:
+  - usg.com
+  enterprise: true
+  id: 139773b6950245eaa7181b669ba75ebd
+  image: https://static.buildingtransparency.org/images/724b4876-68d8-49f0-965b-ccd6b309d4b1.png
+  is_failed: false
+  latitude: 39.495907
+  legal_name: USG
+  locality: Alton
+  location:
+    boundingBox:
+      entity: position
+      northEast: 39.509538,-98.989432
+      southWest: 39.494853,-98.989622
+    buildingNumber: '333'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Osborne
+    countrySubdivision: KS
+    countrySubdivisionName: Kansas
+    countryTertiarySubdivision: Grant
+    freeformAddress: 333 South 270th Avenue, Alton, KS 67623
+    municipality: Alton
+    municipalitySubdivision: Alton
+    postalCode: '67623'
+    routeNumbers: []
+    street: South 270th Avenue
+    streetName: South 270th Avenue
+    streetNameAndNumber: 333 South 270th Avenue
+    streetNumber: '333'
+  longitude: -98.989456
+  name: USG
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/139773b6950245eaa7181b669ba75ebd
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '67623'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:24:00.773460Z'
+  web_domain: usg.com
+  website: https://www.usg.com
+manufacturer_specific: true
+mass_per_declared_unit: 1.06 kg
+matched_plants_count: 1
+material_id: a340d232987a4d6db9cc41e93aee884f
+multiproduct: false
+my_capabilities: 1
+name: "USG Donn\xAE Brand ZXLA\u2122 15/16\u201D Acoustical Suspension System"
+not_an_epd: false
+open_xpd_uuid: ec3dwwtg
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3dwwtg
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Non- Metal Ceiling Panel EPD Requirements'
+  - 'Part B: Non-Metal Ceiling Panels'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:57:03.266944Z'
+  date_of_issue: '2015-10-16'
+  date_validity_ends: '2020-10-16'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=35840
+  id: cf6ddd56fd064633a5a62349694b3c9b
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 1
+  name: Non-Metal Ceiling Panels
+  open_xpd_uuid: ec39w7gy
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec39w7gy
+  requires_mass: true
+  short_link: buildingtransparency.org/p/ec39w7gybd
+  short_name: Non-Metal Ceiling Panels
+  status: Expired
+  updated_on: '2022-06-24T09:27:40.716455Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 3615.375565 kgCO2e
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2025-03-07T00:31:57.552295Z'
+  id: 29541dfd365e4654b7feb5920b2b5b27
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Cartersville, Westlake
+  owned_by:
+    address: 333 South 270th Avenue, Alton, KS 67623
+    address_line: 333 South 270th Avenue
+    admin_district: KS
+    admin_district2: Osborne
+    alt_names:
+    - USG Cellings
+    - USG Sheetrock
+    - CGC
+    - "USG M\xE9xico, S.A. de C.V."
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/usg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-10-02T02:46:59.108322Z'
+    email_extensions:
+    - usg.com
+    enterprise: true
+    id: 139773b6950245eaa7181b669ba75ebd
+    image: https://static.buildingtransparency.org/images/724b4876-68d8-49f0-965b-ccd6b309d4b1.png
+    is_failed: false
+    latitude: 39.495907
+    legal_name: USG
+    locality: Alton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 39.509538,-98.989432
+        southWest: 39.494853,-98.989622
+      buildingNumber: '333'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Osborne
+      countrySubdivision: KS
+      countrySubdivisionName: Kansas
+      countryTertiarySubdivision: Grant
+      freeformAddress: 333 South 270th Avenue, Alton, KS 67623
+      municipality: Alton
+      municipalitySubdivision: Alton
+      postalCode: '67623'
+      routeNumbers: []
+      street: South 270th Avenue
+      streetName: South 270th Avenue
+      streetNameAndNumber: 333 South 270th Avenue
+      streetNumber: '333'
+    longitude: -98.989456
+    name: USG
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/139773b6950245eaa7181b669ba75ebd
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '67623'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:24:00.773460Z'
+    web_domain: usg.com
+    website: https://www.usg.com
+  plants_count: 2
+  total_epds: 7
+  type: PlantGroup
+  updated_on: '2025-03-18T12:00:06.104561Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+program_operator_fkey: EPD 661
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3dwwtgnr
+stainless: false
+standard_deviation: 0.9414188441 kgCO2e
+steel_recycled_content: 0.0
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3.832298099 kgCO2e
+uncertainty_factor: 1.2606243747311445
+updated_on: '2025-03-07T00:34:47.289543Z'
+use_stored_carbon: false
+verifier:
+  email: tgloria@industrial-ecology.com
+  name: Thomas P. Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

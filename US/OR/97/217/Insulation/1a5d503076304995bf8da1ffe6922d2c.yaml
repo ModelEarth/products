@@ -1,0 +1,334 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '977547842375'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2018-06-26T01:11:49.255838Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Thermal insulation materials for use in construction
+  display_name: Insulation
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: bf1c8882d7784db4b10d9d5698b8b5cc
+  includes_b1_stage: true
+  lcia_uncertainty: 0.05
+  mass_per_declared_unit: 1.39 kg
+  massless: false
+  masterformat: 07 21 00 Thermal Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: Insulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation
+  openepd_name: ThermalMoistureProtection >> Insulation
+  parents: []
+  pct10_gwp: 1.203530852 kgCO2e
+  pct20_gwp: 1.83954031 kgCO2e
+  pct30_gwp: 2.545212176 kgCO2e
+  pct40_gwp: 3.287871087 kgCO2e
+  pct50_gwp: 4.210000135 kgCO2e
+  pct60_gwp: 5.671252263 kgCO2e
+  pct70_gwp: 8.121514563 kgCO2e
+  pct80_gwp: 11.91932427 kgCO2e
+  pct90_gwp: 19.6585355 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Insulation
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2025-05-23T10:09:04.994064Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-04-08T12:07:54.752804Z'
+date_of_issue: '2021-12-23'
+date_validity_ends: '2026-12-23'
+declaration_type: Product EPD
+declared_unit: 10000 m^2
+description: "                                           Legacy\xAE Shingle Line"
+doc: https://spot.ul.com/main-appproducts/detail/61c4ab2b9d2a981d888f73e6
+errors:
+  geography:
+  - Not specified
+excluded: false
+externally_verified: false
+failures: {}
+file_name: Legacy_043cc861c192893803c00e708a628fd67ce1dac0.pdf
+id: 0230a4a441974ff79486b025825ae94e
+impacts: {}
+insulating_material: Polyisocyanurate
+insulation_intended_application:
+- Duct
+- Roof
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+manufacturer:
+  address: 3131 N Columbia Blvd, Portland, OR 97217, USA
+  address_line: 3131 N Columbia Blvd
+  admin_district: OR
+  admin_district2: Multnomah County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/malarkey-roofing
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:45:38.751371Z'
+  email_extensions: []
+  enterprise: true
+  id: c109f22777ea414193e5c176d17de28f
+  is_failed: false
+  latitude: 45.5910333
+  locality: Portland
+  location:
+  - long_name: '3131'
+    short_name: '3131'
+    types:
+    - street_number
+  - long_name: North Columbia Boulevard
+    short_name: N Columbia Blvd
+    types:
+    - route
+  - long_name: North Portland
+    short_name: North Portland
+    types:
+    - neighborhood
+    - political
+  - long_name: Portland
+    short_name: Portland
+    types:
+    - locality
+    - political
+  - long_name: Multnomah County
+    short_name: Multnomah County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Oregon
+    short_name: OR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '97217'
+    short_name: '97217'
+    types:
+    - postal_code
+  - long_name: '7472'
+    short_name: '7472'
+    types:
+    - postal_code_suffix
+  longitude: -122.7006254
+  name: Malarkey Roofing
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c109f22777ea414193e5c176d17de28f
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '97217'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-12-15T14:59:24.761661Z'
+  web_domain: malarkeyroofing.com
+  website: https://www.malarkeyroofing.com/
+manufacturer_specific: true
+matched_plants_count: 1
+material_id: 1a5d503076304995bf8da1ffe6922d2c
+multiproduct: true
+my_capabilities: 1
+name: Legacy
+not_an_epd: false
+open_xpd_uuid: ec3h0k0d
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3h0k0d
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Mechanical, Specialty, Thermal, and Acoustic Insulation
+  - 'Product Category Rule (PCR) Guidance for Building-Related Products and Services
+    Part B: Mechanical, Specialty, Thermal, and Acoustic Insulation Product EPD Requirements'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:14.628117Z'
+  date_of_issue: '2019-09-03'
+  date_validity_ends: '2024-09-03'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=36225
+  id: e8caac1b940d4be491fbb0eb67686c36
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Mechanical, Specialty, Thermal, and Acoustic Insulation Products'
+  open_xpd_uuid: ec3r819p
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3r819p
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3r819pge
+  short_name: 'Part B: Mechanical, Specialty, Thermal, and Acoustic Insulation'
+  status: Expired
+  updated_on: '2024-09-04T00:03:58.918429Z'
+  version: '1'
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2022-08-23T07:50:27.535808Z'
+  id: 170e8fc3cfe2432aa6192f1aca55f022
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Portland, OR; Oklahoma City, OK
+  owned_by:
+    address: 3131 N Columbia Blvd, Portland, OR 97217, USA
+    address_line: 3131 N Columbia Blvd
+    admin_district: OR
+    admin_district2: Multnomah County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/malarkey-roofing
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:45:38.751371Z'
+    email_extensions: []
+    enterprise: true
+    id: c109f22777ea414193e5c176d17de28f
+    is_failed: false
+    latitude: 45.5910333
+    locality: Portland
+    location:
+    - long_name: '3131'
+      short_name: '3131'
+      types:
+      - street_number
+    - long_name: North Columbia Boulevard
+      short_name: N Columbia Blvd
+      types:
+      - route
+    - long_name: North Portland
+      short_name: North Portland
+      types:
+      - neighborhood
+      - political
+    - long_name: Portland
+      short_name: Portland
+      types:
+      - locality
+      - political
+    - long_name: Multnomah County
+      short_name: Multnomah County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Oregon
+      short_name: OR
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '97217'
+      short_name: '97217'
+      types:
+      - postal_code
+    - long_name: '7472'
+      short_name: '7472'
+      types:
+      - postal_code_suffix
+    longitude: -122.7006254
+    name: Malarkey Roofing
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c109f22777ea414193e5c176d17de28f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '97217'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-12-15T14:59:24.761661Z'
+    web_domain: malarkeyroofing.com
+    website: https://www.malarkeyroofing.com/
+  plants_count: 2
+  total_epds: 12
+  type: PlantGroup
+  updated_on: '2025-02-15T09:47:07.641585Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator_fkey: 251939-4150
+reference_service_life: 35 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3h0k0dzg
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-04-08T12:07:54.752819Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  language:
+  - Language detected with low confidence.  Please confirm manually.

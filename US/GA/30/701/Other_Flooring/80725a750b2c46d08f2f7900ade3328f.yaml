@@ -1,0 +1,529 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/atlas-carpet-mills
+best_practice: 15.63441014 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '893269606990'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2020-10-12T14:52:08Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Other not yet classified kinds of flooring
+  display_name: Other Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 2c2f27b4aab140a898822424e94ec3ad
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.99 kg
+  massless: false
+  masterformat: 09 60 00 Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: OtherFlooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> OtherFlooring
+  openepd_name: Finishes >> Flooring >> OtherFlooring
+  parents: []
+  pct10_gwp: 1.146290369 kgCO2e
+  pct20_gwp: 1.745633546 kgCO2e
+  pct30_gwp: 3.930295904 kgCO2e
+  pct40_gwp: 7.193469284 kgCO2e
+  pct50_gwp: 11.18279493 kgCO2e
+  pct60_gwp: 14.82317509 kgCO2e
+  pct70_gwp: 18.01435573 kgCO2e
+  pct80_gwp: 22.1901874 kgCO2e
+  pct90_gwp: 26.66401825 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Other Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-05-23T10:08:59.946586Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 22.36558986 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-03-24T13:18:24.844301Z'
+date_of_issue: '2019-03-15'
+date_validity_ends: '2024-03-14'
+declaration_type: Product EPD
+declared_unit: "1 m\xB2"
+description: "This declaration covers both Infinity 2 Modular and Infinity 2 Six Foot\
+  \ products. These products have identical\n      composition, manufacturing, use,\
+  \ and disposal, and vary only in final product dimensions. Per functional unit,\
+  \ Infinity 2\n      Modular and Infinity 2 Six Foot have identical impacts as shown\
+  \ below."
+developer:
+  email: jeremy@sustainablesolutionscorporation.com
+  name: Jeremy Rafter
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-04-12T23:01:57.814017Z'
+    enterprise: false
+    id: a5767c7fa046457fa698e985912c1023
+    is_failed: false
+    name: NSF International
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a5767c7fa046457fa698e985912c1023
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-06-29T04:18:08.698841Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: nsfsustainability.org
+    website: nsfsustainability.org
+doc: buildingtransparency.org/e/ec3a5aake6
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP must be greater then zero
+file_name: Flooring EPD.pdf
+gwp: 19 kgCO2e
+gwp_per_category_declared_unit: 19 kgCO2e
+gwp_per_kg: 4320.145521 kgCO2e
+gwp_z: 0.2104756517984919
+gypsum_specific_density: 0.004398 kg / m^2
+id: dfcea01b61b843e2a33f1607607c8d7a
+image: https://static.buildingtransparency.org/images/352ae6172ec14ff783bceb3f00e89160.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 15.63441014 kgCO2e
+manufacturer:
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/mannington-mills
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-16T12:56:57.022919Z'
+  enterprise: false
+  id: f7b96c1a3d7049c4af96a5984e5caa33
+  is_failed: false
+  name: Mannington Mills
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f7b96c1a3d7049c4af96a5984e5caa33
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-06-20T21:53:13.688267Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: mannington.com
+  website: http://www.mannington.com
+manufacturer_specific: true
+mass_per_declared_unit: 0.004398 kg
+matched_plants_count: 0
+material_id: 80725a750b2c46d08f2f7900ade3328f
+multiproduct: false
+my_capabilities: 1
+name: "Infinity 2\xAE modular backing system"
+not_an_epd: false
+open_xpd_uuid: ec3a5aak
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3a5aak
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NSF PCR for Flooring Carpet, Resilient, Laminate, Ceramic and Wood
+  - NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and W ood)
+  - USA NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and Wood)
+  - 'NSF  Reference PCR Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  - NSF PCR for Flooring PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and
+    Wood)
+  - NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and Wood)
+  - NSF PCR for Flooring PCR - Flooring (Carpet, Resilient, Laminate, Ceramic, and
+    Wood)
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:57.344402Z'
+  date_of_issue: '2012-05-22'
+  date_validity_ends: '2017-05-22'
+  declared_units:
+  - 1 m2
+  doc: http://www.nsf.org/newsroom_pdf/flooring_pcr-new.pdf
+  errors: {}
+  failures: {}
+  id: 59a08bc797e84eb78fe7ab5ff3e40852
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Product Category Rule for Environmental Product Declarations - Flooring:
+    Carpet, Resilient, Laminate, Ceramic, Wood'
+  open_xpd_uuid: ec3e6jsg
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e6jsg
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e6jsgyf
+  short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  status: Sunset
+  updated_on: '2025-05-23T21:40:17.506828Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 22.36558986 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 1844 US-41, Calhoun, GA 30701, USA
+  address_line: 1844 US-41
+  admin_district: GA
+  admin_district2: Gordon County
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-06-20T21:53:06.344072Z'
+  id: 152b9748d9c34f9aaeab9dc71f84c721
+  is_failed: false
+  latitude: 34.4572504
+  locality: Calhoun
+  location:
+  - long_name: '1844'
+    short_name: '1844'
+    types:
+    - street_number
+  - long_name: U.S. 41
+    short_name: US-41
+    types:
+    - route
+  - long_name: Calhoun
+    short_name: Calhoun
+    types:
+    - locality
+    - political
+  - long_name: Gordon County
+    short_name: Gordon County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30701'
+    short_name: '30701'
+    types:
+    - postal_code
+  - long_name: '3683'
+    short_name: '3683'
+    types:
+    - postal_code_suffix
+  longitude: -84.93237870000002
+  name: Mannington Commercial
+  openepd_id: 866QF349+W2.mannington.com
+  owned_by:
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/mannington-mills
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2023-05-16T12:56:57.022919Z'
+    enterprise: false
+    id: f7b96c1a3d7049c4af96a5984e5caa33
+    is_failed: false
+    name: Mannington Mills
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f7b96c1a3d7049c4af96a5984e5caa33
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-06-20T21:53:13.688267Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: mannington.com
+    website: http://www.mannington.com
+  postal_code: '30701'
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-06-20T22:00:20.670794Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: 789 North Dixboro Road, Ann Arbor, MI 48105
+  address_line: 789 North Dixboro Road
+  admin_district: MI
+  admin_district2: Washtenaw
+  alt_names:
+  - NSF
+  - NSF Certification LLC
+  - NSF Certification
+  attachments:
+    Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-08-01T22:31:34.491119Z'
+  email_extensions:
+  - nsf.org
+  enterprise: true
+  id: a44683606c014062ac954e094362582e
+  image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+  is_failed: false
+  latitude: 42.28365
+  legal_name: NSF International
+  locality: Ann Arbor
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Washtenaw
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+    freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+    localName: Ann Arbor
+    municipality: Ann Arbor
+    municipalitySubdivision: Ann Arbor
+    postalCode: '48105'
+    streetName: North Dixboro Road
+    streetNumber: '789'
+  longitude: -83.67447
+  name: NSF International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48105'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:00:07.818662Z'
+  web_domain: nsf.org
+  website: https://www.nsf.org/
+program_operator_fkey: EPD10179
+reference_service_life: 15 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3a5aake6
+specific_density: 0.004398 kg / m^2
+standard_deviation: 3.999037384 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 22.36558986 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-06-20T21:53:15.407965Z'
+use_stored_carbon: false
+verifier:
+  email: joorbeck@nsf.org
+  name: Jenny Oorbeck
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+warnings:
+  density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  - Magnitude presented as a range. It has been replaced with the range's left limit
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  gypsum_specific_density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  - Magnitude presented as a range. It has been replaced with the range's left limit
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  specific_density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  - Magnitude presented as a range. It has been replaced with the range's left limit
+  verifier:
+  - Verifier is not employee of verifier org

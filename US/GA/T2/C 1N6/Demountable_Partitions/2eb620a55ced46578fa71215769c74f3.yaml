@@ -1,0 +1,548 @@
+also_shown_in: []
+applicable_in:
+- '021'
+approved_fields: {}
+best_practice: 42.05828615 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2023-01-30T14:33:26Z'
+  declared_unit: 1 m2
+  description: Demountable partitions
+  display_name: Demountable Partitions
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 50978a80b4a844c8a31c2f5e94b10808
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: false
+  masterformat: 10 22 00 Partitions
+  may_contain_trusted_vendor_declarations: false
+  name: DemountablePartitions
+  no_statistics: false
+  obsolete: false
+  openepd: Furnishings >> DemountablePartitions
+  openepd_name: Furnishings >> DemountablePartitions
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Partitions
+  short_service_life_disclaimer: false
+  subcategories: []
+  unspsc: '56101510'
+  updated_on: '2023-11-16T18:33:19.599814Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 59.94171385 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-01-07T18:48:26.003346Z'
+date_of_issue: '2025-01-07'
+date_validity_ends: '2030-01-07'
+declaration_type: Product EPD
+declared_unit: 1 m^2
+description: "<p>Inspire\u2122 Glass Walls feature aluminum frames and glass panels,\
+  \ offering a sleek, timeless design. With low-profile ceiling connections and precision-engineered\
+  \ components, it integrates seamlessly with building conditions. Its modular design\
+  \ ensures adaptability for future needs.</p>"
+developer:
+  org:
+    address: 7303 30 St SE, Calgary, AB T2C 1N6, Canada
+    address_line: 7303 30 St SE
+    admin_district: AB
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2021-11-15T17:00:42.803126Z'
+    enterprise: false
+    id: 197bd907fb3248f0a8d5b7e061b1e033
+    is_failed: false
+    latitude: 50.989524
+    locality: Calgary
+    location:
+    - long_name: '7303'
+      short_name: '7303'
+      types:
+      - street_number
+    - long_name: 30 Street Southeast
+      short_name: 30 St SE
+      types:
+      - route
+    - long_name: Southeast Calgary
+      short_name: Southeast Calgary
+      types:
+      - neighborhood
+      - political
+    - long_name: Calgary
+      short_name: Calgary
+      types:
+      - locality
+      - political
+    - long_name: Alberta
+      short_name: AB
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Canada
+      short_name: CA
+      types:
+      - country
+      - political
+    - long_name: T2C 1N6
+      short_name: T2C 1N6
+      types:
+      - postal_code
+    longitude: -113.9851511
+    name: DIRTT Environmental Solutions
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/197bd907fb3248f0a8d5b7e061b1e033
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: T2C 1N6
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-04-02T07:32:05.635183Z'
+    web_domain: dirtt.com
+    website: https://www.dirtt.com/
+doc: smartepd.com/epd-library/67535a635740ef8e3c37643e
+epd_degraded: false
+excluded: false
+externally_verified: true
+gwp: 51 kgCO2e
+gwp_per_category_declared_unit: 51 kgCO2e
+gwp_per_kg: 2.727272727 kgCO2e
+gwp_z: 0.2083266665599966
+id: ec07f0c62a3f4fada8fc9c566088a3d8
+image: https://www.smartepd.com/api/epd-library/gallery/6772d7fea0de86eb82fa28e5
+impacts: {}
+is_downloadable: false
+is_failed: false
+jurisdiction:
+- '021'
+- US-GA
+language: en
+lowest_plausible_gwp: 42.05828615 kgCO2e
+manufacturer:
+  address: 7303 30 St SE, Calgary, AB T2C 1N6, Canada
+  address_line: 7303 30 St SE
+  admin_district: AB
+  confirmable_fields: []
+  confirmed_fields: []
+  country: CA
+  cqd_sync_unlocked: true
+  created_on: '2021-11-15T17:00:42.803126Z'
+  enterprise: false
+  id: 197bd907fb3248f0a8d5b7e061b1e033
+  is_failed: false
+  latitude: 50.989524
+  locality: Calgary
+  location:
+  - long_name: '7303'
+    short_name: '7303'
+    types:
+    - street_number
+  - long_name: 30 Street Southeast
+    short_name: 30 St SE
+    types:
+    - route
+  - long_name: Southeast Calgary
+    short_name: Southeast Calgary
+    types:
+    - neighborhood
+    - political
+  - long_name: Calgary
+    short_name: Calgary
+    types:
+    - locality
+    - political
+  - long_name: Alberta
+    short_name: AB
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Canada
+    short_name: CA
+    types:
+    - country
+    - political
+  - long_name: T2C 1N6
+    short_name: T2C 1N6
+    types:
+    - postal_code
+  longitude: -113.9851511
+  name: DIRTT Environmental Solutions
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/197bd907fb3248f0a8d5b7e061b1e033
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: T2C 1N6
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-04-02T07:32:05.635183Z'
+  web_domain: dirtt.com
+  website: https://www.dirtt.com/
+manufacturer_specific: true
+manufacturing_image: https://www.smartepd.com/api/epd-library/gallery/6772d855a0de86eb82fa2a0a
+mass_per_declared_unit: 18.7 kg
+matched_plants_count: 0
+material_id: 2eb620a55ced46578fa71215769c74f3
+my_capabilities: 1
+name: Inspire Glass Wall (Savannah)
+not_an_epd: false
+open_xpd_uuid: ec3rm898
+original_data_format: openEPDv1.0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3rm898
+output_flows: {}
+owner:
+  name: Mariya Verovko
+  user_id: mariya.verovko@smartepd.com
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2023-09-27T12:02:06.604118Z'
+  date_of_issue: '2023-09-26'
+  date_validity_ends: '2024-01-14'
+  declared_units: []
+  doc: '#broken-link cqd.io/p/ec3kngxche'
+  id: a62983986a084ceca106ebf032a94a48
+  is_failed: false
+  name: Smart EPD Part A Product Category Rules for Building and Construction Products
+    and Services v1.0
+  open_xpd_uuid: ec3kngxc
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3kngxc
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3kngxche
+  short_name: Smart EPD Part A
+  status: Expired
+  updated_on: '2024-07-20T17:33:04.120621Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 59.94171385 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: Savannah, GA, USA
+  admin_district: GA
+  admin_district2: Chatham County
+  carbon_intensity: 952.9 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-12-13T18:29:39.631080Z'
+  id: cb9b1b99878a48959f1440c529bb0896
+  is_failed: false
+  latitude: 32.0808989
+  locality: Savannah
+  location:
+  - long_name: Savannah
+    short_name: Savannah
+    types:
+    - locality
+    - political
+  - long_name: Chatham County
+    short_name: Chatham County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  longitude: -81.091203
+  name: Dirtt-Savannah
+  openepd_id: 864W3WJ5+9G.dirtt.com
+  owned_by:
+    address: 7303 30 St SE, Calgary, AB T2C 1N6, Canada
+    address_line: 7303 30 St SE
+    admin_district: AB
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2021-11-15T17:00:42.803126Z'
+    enterprise: false
+    id: 197bd907fb3248f0a8d5b7e061b1e033
+    is_failed: false
+    latitude: 50.989524
+    locality: Calgary
+    location:
+    - long_name: '7303'
+      short_name: '7303'
+      types:
+      - street_number
+    - long_name: 30 Street Southeast
+      short_name: 30 St SE
+      types:
+      - route
+    - long_name: Southeast Calgary
+      short_name: Southeast Calgary
+      types:
+      - neighborhood
+      - political
+    - long_name: Calgary
+      short_name: Calgary
+      types:
+      - locality
+      - political
+    - long_name: Alberta
+      short_name: AB
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Canada
+      short_name: CA
+      types:
+      - country
+      - political
+    - long_name: T2C 1N6
+      short_name: T2C 1N6
+      types:
+      - postal_code
+    longitude: -113.9851511
+    name: DIRTT Environmental Solutions
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/197bd907fb3248f0a8d5b7e061b1e033
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: T2C 1N6
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-04-02T07:32:05.635183Z'
+    web_domain: dirtt.com
+    website: https://www.dirtt.com/
+  total_epds: 6
+  type: Plant
+  updated_on: '2025-03-19T09:25:47.843599Z'
+plant_specific: true
+private: false
+product_classes:
+  EC3: Furnishings >> DemountablePartitions
+product_specific: true
+program_operator:
+  address: Herndon, VA 20170, USA
+  admin_district: VA
+  admin_district2: Fairfax County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-11-14T14:43:39.418085Z'
+  enterprise: false
+  horizontal_logo: https://static.buildingtransparency.org/images/dccbe440b77946aba8946288b12c5701.png
+  id: bf9d0aaa64de490bbd874ae435e9945e
+  image: https://static.buildingtransparency.org/images/2b6cf66bb7ea4c8d8e7dbd674b0f8d29.png
+  is_failed: false
+  latitude: 38.9695545
+  locality: Herndon
+  location:
+  - long_name: Herndon
+    short_name: Herndon
+    types:
+    - locality
+    - political
+  - long_name: Fairfax County
+    short_name: Fairfax County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Virginia
+    short_name: VA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '20170'
+    short_name: '20170'
+    types:
+    - postal_code
+  longitude: -77.3860976
+  name: Smart EPD LLC
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf9d0aaa64de490bbd874ae435e9945e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20170'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2025-01-22T21:59:42.873726Z'
+  web_domain: smartepd.com
+  website: www.smartepd.com
+resource_uses: {}
+sanitizable: false
+short_link: buildingtransparency.org/e/ec3rm898w7
+standard_deviation: 10.62465999 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 59.94171385 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-07T18:48:31.057229Z'
+use_stored_carbon: false
+verifier:
+  email: ranjani.theregowda@smartepd.com
+  name: Ranjani Theregowda
+  org:
+    address: Herndon, VA 20170, USA
+    admin_district: VA
+    admin_district2: Fairfax County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-11-14T14:43:39.418085Z'
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/dccbe440b77946aba8946288b12c5701.png
+    id: bf9d0aaa64de490bbd874ae435e9945e
+    image: https://static.buildingtransparency.org/images/2b6cf66bb7ea4c8d8e7dbd674b0f8d29.png
+    is_failed: false
+    latitude: 38.9695545
+    locality: Herndon
+    location:
+    - long_name: Herndon
+      short_name: Herndon
+      types:
+      - locality
+      - political
+    - long_name: Fairfax County
+      short_name: Fairfax County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Virginia
+      short_name: VA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '20170'
+      short_name: '20170'
+      types:
+      - postal_code
+    longitude: -77.3860976
+    name: Smart EPD LLC
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf9d0aaa64de490bbd874ae435e9945e
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '20170'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2025-01-22T21:59:42.873726Z'
+    web_domain: smartepd.com
+    website: www.smartepd.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

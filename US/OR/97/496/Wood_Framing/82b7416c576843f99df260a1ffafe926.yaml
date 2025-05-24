@@ -1,0 +1,742 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/roseburg
+best_practice: 33.83583694 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '363994944159'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:48.099524Z'
+  declared_unit: 1 m3
+  default_distance: 439.34982 km
+  default_transport_mode: truck, unspecified
+  description: Dimension lumber for light framing. Includes solid and finger-jointed
+    lumber. Standard shapes include 2x4, 2x6, and 2x8.
+  display_name: Wood Framing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ce2498926db44d0d9177c7bfdf3520c0
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 491.7 kg
+  massless: false
+  masterformat: 06 11 00 Wood Framing
+  may_contain_trusted_vendor_declarations: false
+  name: WoodFraming
+  no_statistics: false
+  obsolete: false
+  openepd: Wood >> DimensionLumber >> WoodFraming
+  openepd_name: Wood >> DimensionLumber >> WoodFraming
+  parents: []
+  pct10_gwp: 37.32613213 kgCO2e
+  pct20_gwp: 44.65710077 kgCO2e
+  pct30_gwp: 50.60753914 kgCO2e
+  pct40_gwp: 58.83690297 kgCO2e
+  pct50_gwp: 68.30908154 kgCO2e
+  pct60_gwp: 78.19421155 kgCO2e
+  pct70_gwp: 90.31815529 kgCO2e
+  pct80_gwp: 107.4784818 kgCO2e
+  pct90_gwp: 136.2919512 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Wood Framing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103603'
+  updated_on: '2025-05-23T10:09:02.992243Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 55.56416306 kgCO2e
+corrections_count: 0
+cqd_sync_id: 02b714b6e1a64024aaaa2425bbdd6c5a
+cqd_sync_server_from: openepd.ul.com
+cqd_sync_server_original: buildingtransparency.org
+cqd_sync_unlocked: false
+created_on: '2022-01-26T06:11:18.642601Z'
+date_of_issue: '2018-06-04'
+date_validity_ends: '2023-06-04'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 1010 lb / m3
+description: "Roseburg\u2019s softwood lumber is manufactured in Dillard, Oregon and\
+  \ is available green or kiln-dried in a variety of nominal dimensions, species,\
+  \ and grades. The 2014 production data used in this EPD considers all lumber produced\
+  \ during the year and is therefore weighted based on material output. The bulk of\
+  \ Roseburg\u2019s production in 2014 was 2\u201D x 4\u201D and 2\u201D x 6\u201D\
+  \ lumber. All output dimensions sold in 2014 can be found below in Table 1. Nominal\
+  \ dimensions are also reflected in Table 1 for reference. These are used to describe\
+  \ the size of a piece of lumber prior to surfacing, so actual dimensions are smaller\
+  \ than nominal dimensions. This EPD uses cubic meters (m3) to reflect output. This\
+  \ calculation is based on actual dimensions and lengths. The lengths of the lumber\
+  \ produced during 2014 include: 6\u2019, 7\u2019, 8\u2019, 9\u2019, 10\u2019, and\
+  \ 12\u2019. Species produced during the year include: Douglas-fir, hemlock, and\
+  \ white fir. The grade/properties of the lumber output range from green, structural\
+  \ lumber to kiln-dried, appearance-grade, premier lumber. Table 1: Lumber Dimensions\
+  \ (2014) DIMENSION DIMENSION (nominal) (actual) 1\u201D x 4\u201D 3/4\u201D x 3-1/2\u201D\
+  \ 1\u201D x 6\u201C 3/4\" x 5-1/2\u201D 2\u201D x 4\u201D 1-1/2\u201D x 3-1/2\u201D\
+  \ 2\u201D x 6\u201D 1-1/2\u201D x 5-1/2\u201D 3\u201D x 4\u201D 2-1/2\u201D x 3-1/2\u201D\
+  \ 3\u201D x 6\u201D 2-1/2\u201D x 5-1/2\u201D 4\u201D x 4\u201D 3-1/2\u201D x 3-1/2\u201D\
+  \ 4\u201D x 6\u201D 3-1/2\u201D x 5-1/2\u201D 6\u201D x 6\u201D 5-1/2\u201D x 5-1/2\u201D\
+  \ 6\u201D x 8\u201D 5-1/2\u201D x 7-1/4\u201D 7\u201D x 9\u201D 7 x 9 (\xB11/8\u201D\
+  ) - full sawn, not planed"
+developer:
+  email: info@thinkstep.com
+  name: Thinkstep Staff
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+digitization_qa:
+  address: University of Washington, Seattle, WA 98195
+  address_line: ' University of Washington'
+  admin_district: WA
+  admin_district2: King
+  alt_names:
+  - CLF
+  - Embodied Carbon Network
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-01-11T14:09:43.431233Z'
+  email_extensions:
+  - waldmanlca.com
+  - carbonleadershipforum.org
+  enterprise: true
+  id: 14961b8cc7d4440f9456f7210fdfe76a
+  image: https://static.buildingtransparency.org/images/c2c300af-096b-4770-adde-bea7fb5bd8be.png
+  is_failed: false
+  latitude: 47.65885
+  legal_name: Carbon Leadership Forum
+  locality: Seattle
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: King
+    countrySubdivision: WA
+    countrySubdivisionName: Washington
+    countryTertiarySubdivision: Seattle
+    freeformAddress: University of Washington, Seattle, WA 98195
+    municipality: Seattle
+    municipalitySubdivision: Seattle, University District
+    postalCode: '98195'
+    streetName: University of Washington
+  longitude: -122.30272
+  my_capabilities: 1
+  name: Carbon Leadership Forum
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/14961b8cc7d4440f9456f7210fdfe76a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '98195'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2020-05-21T22:02:04.366702Z'
+  web_domain: carbonleadershipforum.org
+  website: www.carbonleadershipforum.org
+doc: buildingtransparency.org/e/ec3nwc8737
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: Roseburg Softwood Lumber.pdf
+forest_practices_certifiers: []
+gwp: 44.7 kgCO2e
+gwp_per_category_declared_unit: 44.7 kgCO2e
+gwp_per_kg: 0.09802631579 kgCO2e
+gwp_z: 0.28879058156387305
+id: 24f0fac4b493485db4fc3320b14ed5f2
+image: https://static.buildingtransparency.org/images/08fe63ba84084cdcae488f2b4c805797.png
+impacts: {}
+includes: []
+industry_standards:
+- ASTM D9-09ae1
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '## Source Data Notes
+
+  FPInnovations. (2015). Product Category Rules (PCR) for preparing an Environmental
+  Product Declaration (EPD) for North American Structural and Architectural Wood Products,
+  Version 2. FPInnovations. (n.d.). Carbon Tool B2B. Retrieved from https://fpinnovations.ca/ResearchProgram/environment-
+  sustainability/epdprogram/Pages/default.aspx Roseburg. (2015, June 3). Safety Data
+  Sheet. Retrieved from http://www.roseburg.com/UserFiles/Library/Dimensional_LumberSDS.pdf
+  thinkstep. (2016). GaBi LCA Database Documentation. Retrieved from thinkstep AG:
+  http://www.gabi- software.com/international/databases/gabi-databases/. thinkstep.
+  (2017). GaBi LCA Database Documentation. Retrieved from thinkstep AG: http://database-
+  documentation.gabi-software.com LCA Development'
+lowest_plausible_gwp: 33.83583694 kgCO2e
+manufacturer:
+  address: 3660 Gateway Street, Springfield, OR 97477
+  address_line: 3660 Gateway Street
+  admin_district: OR
+  admin_district2: Lane
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/roseburg
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-06-18T07:25:17.783947Z'
+  email_extensions:
+  - roseburg.com
+  - rfpco.com
+  enterprise: true
+  id: 7671de729ca64810abe64f68fa5dbfed
+  image: https://static.buildingtransparency.org/images/32f57045fbba47f18f2ba0c432bed507.png
+  is_failed: false
+  latitude: 44.08757
+  legal_name: Roseburg Forest Products
+  locality: Springfield
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Lane
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    countryTertiarySubdivision: Eugene-Springfield
+    extendedPostalCode: '974776010'
+    freeformAddress: 3660 Gateway Street, Springfield, OR 97477
+    localName: Springfield
+    municipality: Springfield
+    municipalitySubdivision: Springfield
+    postalCode: '97477'
+    streetName: Gateway Street
+    streetNumber: '3660'
+  longitude: -123.04527
+  name: Roseburg Forest Products
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7671de729ca64810abe64f68fa5dbfed
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '97477'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:11:33.373644Z'
+  web_domain: roseburg.com
+  website: https://www.roseburg.com/
+manufacturer_specific: true
+mass_per_declared_unit: 456 kg
+matched_plants_count: 0
+material_id: 82b7416c576843f99df260a1ffafe926
+multiproduct: false
+my_capabilities: 1
+name: Softwood Lumber
+not_an_epd: false
+open_xpd_uuid: ec3nwc87
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3nwc87
+output_flows: {}
+owner:
+  name: Data Sync
+  user_id: data-sync@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'FP Innovations: 2011. Product Category Rules (PCR) for preparing an Environmental
+    Product Declaration for North American Structural and Architectural Wood Products,
+    Version 1 (UN CPC 31, NAICS 321), November 8, 2011.'
+  - 'FPInnovations: 2011. Product Category Rules (PCR) for preparing an Environmental
+    Product Declaration for North American Structural and Architectural Wood Products,
+    Version 1 (UN CPC 31, NAICS 321), November 8, 2011.'
+  - FPInnovations PCR for North American Structural and Architectural Wood Products
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:32.380825Z'
+  date_of_issue: '2011-08-11'
+  date_validity_ends: '2016-08-11'
+  declared_units:
+  - 1 m3
+  - 1 m2
+  - 1 m
+  doc: https://app.box.com/file/596557245435
+  id: 2c32918fcfeb447697ac69056cf8e421
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      order: 1
+  name: North American Structural and Architectural Wood Products
+  open_xpd_uuid: ec3p5nqs
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3p5nqs
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3p5nqsw3
+  short_name: North American Structural and Architectural Wood Products
+  status: Sunset
+  updated_on: '2025-05-23T21:40:17.351951Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 55.56416306 kgCO2e
+plant_geography:
+- US-OR
+plant_or_group:
+  address: 99 Southwest Main Street, Winston, OR 97496
+  address_line: 99 Southwest Main Street
+  admin_district: OR
+  admin_district2: Douglas
+  alt_names: []
+  carbon_intensity: 643.363 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-06-29T01:43:30.278046Z'
+  id: c6cf83f478a64673b86b1dce4a1ea140
+  is_failed: false
+  latitude: 43.12136
+  locality: Winston
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Douglas
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    extendedPostalCode: 97496-6568
+    freeformAddress: 99 Southwest Main Street, Winston, OR 97496
+    localName: Winston
+    municipality: Winston
+    postalCode: '97496'
+    streetName: Southwest Main Street
+    streetNumber: '99'
+  longitude: -123.41322
+  name: Dillard, Oregon
+  openepd_id: 84MR4HCP+GP.roseburg.com
+  owned_by:
+    address: 3660 Gateway Street, Springfield, OR 97477
+    address_line: 3660 Gateway Street
+    admin_district: OR
+    admin_district2: Lane
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/roseburg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:25:17.783947Z'
+    email_extensions:
+    - roseburg.com
+    - rfpco.com
+    enterprise: true
+    id: 7671de729ca64810abe64f68fa5dbfed
+    image: https://static.buildingtransparency.org/images/32f57045fbba47f18f2ba0c432bed507.png
+    is_failed: false
+    latitude: 44.08757
+    legal_name: Roseburg Forest Products
+    locality: Springfield
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Lane
+      countrySubdivision: OR
+      countrySubdivisionName: Oregon
+      countryTertiarySubdivision: Eugene-Springfield
+      extendedPostalCode: '974776010'
+      freeformAddress: 3660 Gateway Street, Springfield, OR 97477
+      localName: Springfield
+      municipality: Springfield
+      municipalitySubdivision: Springfield
+      postalCode: '97477'
+      streetName: Gateway Street
+      streetNumber: '3660'
+    longitude: -123.04527
+    name: Roseburg Forest Products
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7671de729ca64810abe64f68fa5dbfed
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '97477'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:11:33.373644Z'
+    web_domain: roseburg.com
+    website: https://www.roseburg.com/
+  postal_code: '97496'
+  total_epds: 4
+  type: Plant
+  units: SI
+  updated_on: '2024-06-20T22:00:03.252335Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: false
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4786969381.105.1
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+reviewer:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3nwc8737
+standard_deviation: 12.908939 kgCO2e
+stored_carbon: 836 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+timber_species: Western Woods
+uncertainty_adjusted_gwp: 55.56416306 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-01-14T18:54:56.012313Z'
+use_stored_carbon: true
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+weather_exposed: false

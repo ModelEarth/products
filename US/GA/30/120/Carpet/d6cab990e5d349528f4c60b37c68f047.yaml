@@ -1,0 +1,575 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/patcraft
+best_practice: 12.94735476 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '794667986470'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.226286945 kgCO2e
+  pct20_gwp: 6.31150987 kgCO2e
+  pct30_gwp: 7.193005662 kgCO2e
+  pct40_gwp: 8.328409228 kgCO2e
+  pct50_gwp: 10.05624338 kgCO2e
+  pct60_gwp: 11.73431683 kgCO2e
+  pct70_gwp: 13.92024591 kgCO2e
+  pct80_gwp: 16.33810585 kgCO2e
+  pct90_gwp: 20.03417486 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-05-23T10:09:00.788295Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 18.45264524 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-05-25T14:55:58.992040Z'
+date_of_issue: '2021-04-01'
+date_validity_ends: '2026-04-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "The product is a commerical broadloom carpet with Solution Q\xAE or\
+  \ Solution Q Extreme\xAE face fiber on the\nEcoWorx\xAE backing system. Solution\
+  \ Q \xAE or Solution Q Extreme\xAE face fiber is Nylon 6 made from virgin polymer\n\
+  The EcoWorx\xAE backing system consists of polyolefin compound, recycled materials,\
+  \ and a fiberglass\nreinforcement layer. The face fiber is tufted into a primary\
+  \ backing sheet, latex is added to hold in the fiber, the\nEcoWorx\xAE backing system\
+  \ is applied, and a woven secondary backing layer is added.\nThis declaration covers\
+  \ all products/styles consisting of EcoWorx\xAE Performance Broadloom backing and\
+  \ Solution\nQ\xAE and Solution Q Extreme\xAE face fiber, with face weights ranging\
+  \ from 18 oz per sq. yd. (osy) to 46 osy, and a\nweighted average face weight of\
+  \ 26.4 osy. The products fall under CSI 09 68 00 and UNSPSC 3161719\nclassification\
+  \ codes."
+developer:
+  email: info@studiolce.it
+  name: Life Cycle Engineering
+  org:
+    address: Corso Regina Margherita, 10153 Torino
+    address_line: ' Corso Regina Margherita'
+    admin_district: Piemonte
+    admin_district2: Torino
+    confirmable_fields: []
+    confirmed_fields: []
+    country: IT
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T12:45:03.138602Z'
+    email_extensions:
+    - lcengineering.eu
+    enterprise: true
+    id: 20046699e1b3405eae327f8dec34b209
+    image: https://static.buildingtransparency.org/images/ae4f4372-b2bc-4d82-a956-3ff009ab80b5.png
+    is_failed: false
+    latitude: 45.069675
+    legal_name: Life Cycle Engineering
+    locality: Torino
+    location:
+      boundingBox:
+        entity: position
+        northEast: 45.069876,7.706411
+        southWest: 45.069173,7.704261
+      country: Italia
+      countryCode: IT
+      countryCodeISO3: ITA
+      countrySecondarySubdivision: Torino
+      countrySubdivision: Piemonte
+      freeformAddress: Corso Regina Margherita, 10153 Torino
+      municipality: Torino
+      municipalitySubdivision: Torino
+      postalCode: '10153'
+      routeNumbers: []
+      street: Corso Regina Margherita
+      streetName: Corso Regina Margherita
+    longitude: 7.704883
+    name: Life Cycle Engineering
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/20046699e1b3405eae327f8dec34b209
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '10153'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2021-04-28T03:00:41.278193Z'
+    web_domain: lcengineering.eu
+    website: https://www.lcengineering.eu/
+doc: buildingtransparency.org/e/ec3yu1ay4w
+epd_degraded: false
+excluded: false
+externally_verified: false
+file_name: Patcraft - EcoWorx Performance Broadloom with Solution Q or Solution Q
+  Extreme Fiber_9a2a41aa28c4463a859640a20956804b.pdf
+form_factor: Broadloom
+gwp: 15.7 kgCO2e
+gwp_per_category_declared_unit: 15.7 kgCO2e
+gwp_per_kg: 7.072072072 kgCO2e
+gwp_z: 0.2083266665599966
+gypsum_specific_density: 2.22 kg / m^2
+id: e7c3f3ffa2bf45a1baac2abf59a98fd3
+image: https://static.buildingtransparency.org/images/0cd1e42c7b0444b199b8c64ec4d5a038.png
+impacts: {}
+includes: []
+industry_standards: []
+intended_application:
+- Com
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\nTable 2: Base materials for EcoWorx\xAE\
+  \ Performance Broadloom Carpet with Solution Q\xAE or Solution Q Extreme\xAE Face\
+  \ Fiber Component Material Mass % Face Yarn Nylon-6 40.40 Primary Backing Polypropylene\
+  \ 4.97 Vinyl Acetate Ethylene Calcium Carbonate Latex Paraffinic Wax 27.50 Alumina\
+  \ Trihydrate Sodium Polyacrylate Secondary Backing Polypropylene 3.21 Low Density\
+  \ Polyethylene High Density Polyethylene Backing Polymer 23.00 Hydrocarbon Resin\
+  \ Calcium Carbonate Topical Layer Sodium Polyacrylate 0.90 Commercial Performance\
+  \ Broadloom Carpet - EcoWorx\xAE According to ISO 14025, Performance Broadloom Carpet\
+  \ with Solution Q\xAE or EN15804 and ISO 21930:2017 Solution Q Extreme\xAE Face\
+  \ Fiber\n\n## Source Data Notes\nAll upstream data have been taken from the GaBi\
+  \ 2020 database (service pack 40), using GaBi software. All manufacturing data were\
+  \ collected from Shaw facilities for the calendar year 2019."
+lowest_plausible_gwp: 12.94735476 kgCO2e
+manufacturer:
+  address: 230 Douthit Ferry Road, Cartersville, GA 30120
+  address_line: 230 Douthit Ferry Road
+  admin_district: GA
+  admin_district2: Bartow
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/patcraft
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-10-07T17:10:36.319185Z'
+  email_extensions: []
+  enterprise: true
+  id: dc1266290f3b43a690df38e70bd6df8b
+  image: https://static.buildingtransparency.org/images/1a2a0e29-1856-4fac-9f73-ce3f5066b7cb
+  is_failed: false
+  latitude: 34.14848
+  locality: Cartersville
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Bartow
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    extendedPostalCode: 30120-4010
+    freeformAddress: 230 Douthit Ferry Road, Cartersville, GA 30120
+    localName: Cartersville
+    municipality: Cartersville
+    postalCode: '30120'
+    streetName: Douthit Ferry Road
+    streetNumber: '230'
+  longitude: -84.82364
+  name: Patcraft
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/dc1266290f3b43a690df38e70bd6df8b
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30120'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:05:25.520341Z'
+  web_domain: patcraft.com
+  website: patcraft.com
+manufacturer_specific: true
+mass_per_declared_unit: 2.22 kg
+matched_plants_count: 0
+material_id: d6cab990e5d349528f4c60b37c68f047
+multiproduct: false
+my_capabilities: 1
+name: "EcoWorx\xAE Performance Broadloom Carpet with Solution Q\xAE or Solution Q\
+  \ Extreme\xAE Face"
+not_an_epd: false
+open_xpd_uuid: ec3yu1ay
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3yu1ay
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:57:05.502294Z'
+  date_of_issue: '2018-09-28'
+  date_validity_ends: '2023-09-28'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34962
+  id: 574a7f64f1b8404aa268cef70a98e15c
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - 019
+      order: 1
+  name: 'Part B: Flooring'
+  open_xpd_uuid: ec35g1dj
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec35g1dj
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec35g1djuq
+  short_name: 'Part B: Flooring'
+  status: Expired
+  updated_on: '2023-09-29T00:02:28.126081Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 18.45264524 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 1061 West Avenue, Cartersville, GA 30120
+  address_line: 1061 West Avenue
+  admin_district: GA
+  admin_district2: Bartow
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-01-13T14:35:55.251023Z'
+  id: 9baeea156bba4fd3a4e52bcd380d100f
+  is_failed: false
+  latitude: 34.15451
+  locality: Cartersville
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Bartow
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    extendedPostalCode: 30120-6133
+    freeformAddress: 1061 West Avenue, Cartersville, GA 30120
+    localName: Cartersville
+    municipality: Cartersville
+    postalCode: '30120'
+    streetName: West Avenue
+    streetNumber: '1061'
+  longitude: -84.82204
+  name: Plant 13
+  openepd_id: 866Q553H+R5.patcraft.com
+  owned_by:
+    address: 230 Douthit Ferry Road, Cartersville, GA 30120
+    address_line: 230 Douthit Ferry Road
+    admin_district: GA
+    admin_district2: Bartow
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/patcraft
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-10-07T17:10:36.319185Z'
+    email_extensions: []
+    enterprise: true
+    id: dc1266290f3b43a690df38e70bd6df8b
+    image: https://static.buildingtransparency.org/images/1a2a0e29-1856-4fac-9f73-ce3f5066b7cb
+    is_failed: false
+    latitude: 34.14848
+    locality: Cartersville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Bartow
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      extendedPostalCode: 30120-4010
+      freeformAddress: 230 Douthit Ferry Road, Cartersville, GA 30120
+      localName: Cartersville
+      municipality: Cartersville
+      postalCode: '30120'
+      streetName: Douthit Ferry Road
+      streetNumber: '230'
+    longitude: -84.82364
+    name: Patcraft
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/dc1266290f3b43a690df38e70bd6df8b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30120'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:05:25.520341Z'
+    web_domain: patcraft.com
+    website: patcraft.com
+  postal_code: '30120'
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2021-01-13T14:35:55.251029Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4789796942.119.
+reference_service_life: 12 years
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3yu1ay4w
+specific_density: 2.22 kg / m^2
+standard_deviation: 3.270728665 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 18.45264524 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T18:47:18.283250Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+yarn_type: Nylon 6
+yarn_weight: 26.4 oz / sy

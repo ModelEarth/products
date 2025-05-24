@@ -1,0 +1,374 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '1713914421372'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.226286945 kgCO2e
+  pct20_gwp: 6.31150987 kgCO2e
+  pct30_gwp: 7.193005662 kgCO2e
+  pct40_gwp: 8.328409228 kgCO2e
+  pct50_gwp: 10.05624338 kgCO2e
+  pct60_gwp: 11.73431683 kgCO2e
+  pct70_gwp: 13.92024591 kgCO2e
+  pct80_gwp: 16.33810585 kgCO2e
+  pct90_gwp: 20.03417486 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-05-23T10:09:00.788295Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-12-01T12:51:53.456914Z'
+declaration_type: Product EPD
+doc: buildingtransparency.org/e/ec3ha95sej
+errors:
+  date_of_issue:
+  - Not specified
+  date_validity_ends:
+  - Not specified
+  description:
+  - Not specified
+  excluded:
+  - EPD is excluded from search. Please, review PDF document data
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: true
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+  impacts:
+  - GWP impact not specified
+file_name: Milliken_Tracing Landscapes_EPD.pdf
+id: 686cd08f55724e3aa8a2f445c2c78d16
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+manufacturer:
+  address: Milliken Rd, Spartanburg, SC 29303, USA
+  address_line: Milliken Rd
+  admin_district: SC
+  admin_district2: Spartanburg County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/milliken
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:51:49.674817Z'
+  email_extensions:
+  - milliken.com
+  enterprise: true
+  id: 840ce2c9a4e94841a54d1ad9f319d371
+  image: https://static.buildingtransparency.org/images/64105ad4d0b44812b9a193341865cd62.png
+  is_failed: false
+  latitude: 34.9814258
+  legal_name: Milliken & Company
+  locality: Spartanburg
+  location:
+  - long_name: Milliken Road
+    short_name: Milliken Rd
+    types:
+    - route
+  - long_name: Spartanburg
+    short_name: Spartanburg
+    types:
+    - locality
+    - political
+  - long_name: Spartanburg County
+    short_name: Spartanburg County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: South Carolina
+    short_name: SC
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '29303'
+    short_name: '29303'
+    types:
+    - postal_code
+  longitude: -81.9537964
+  name: Milliken
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/840ce2c9a4e94841a54d1ad9f319d371
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '29303'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-02-28T18:15:43.873428Z'
+  web_domain: milliken.com
+  website: www.milliken.com
+manufacturer_specific: true
+matched_plants_count: 3
+material_id: 73dcd33d54c74e55a0a2d76388544c0d
+multiproduct: false
+my_capabilities: 1
+name: Tracing Landscapes
+not_an_epd: false
+open_xpd_uuid: ec3ha95s
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ha95s
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-02-28T18:52:37.533230Z'
+  id: a1d3dff6da414e7db387223b373b7801
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Duncan Stewart, Alma, Live Oak
+  owned_by:
+    address: Milliken Rd, Spartanburg, SC 29303, USA
+    address_line: Milliken Rd
+    admin_district: SC
+    admin_district2: Spartanburg County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/milliken
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:51:49.674817Z'
+    email_extensions:
+    - milliken.com
+    enterprise: true
+    id: 840ce2c9a4e94841a54d1ad9f319d371
+    image: https://static.buildingtransparency.org/images/64105ad4d0b44812b9a193341865cd62.png
+    is_failed: false
+    latitude: 34.9814258
+    legal_name: Milliken & Company
+    locality: Spartanburg
+    location:
+    - long_name: Milliken Road
+      short_name: Milliken Rd
+      types:
+      - route
+    - long_name: Spartanburg
+      short_name: Spartanburg
+      types:
+      - locality
+      - political
+    - long_name: Spartanburg County
+      short_name: Spartanburg County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: South Carolina
+      short_name: SC
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '29303'
+      short_name: '29303'
+      types:
+      - postal_code
+    longitude: -81.9537964
+    name: Milliken
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/840ce2c9a4e94841a54d1ad9f319d371
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '29303'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-02-28T18:15:43.873428Z'
+    web_domain: milliken.com
+    website: www.milliken.com
+  plants_count: 3
+  total_epds: 58
+  type: PlantGroup
+  updated_on: '2025-05-07T00:01:06.864329Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Panoramastra\xDFe 1, 10178 Berlin"
+  address_line: "1 Panoramastra\xDFe"
+  admin_district: Berlin
+  admin_district2: Berlin
+  alt_names:
+  - Institut Bauen und Umwelt e.V.
+  attachments:
+    Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: DE
+  cqd_sync_unlocked: true
+  created_on: '2018-09-28T21:42:33.807998Z'
+  email_extensions:
+  - ibu-epd.com
+  - bau-umwelt.com
+  enterprise: true
+  id: c2314921c3214f6eab282fd195e0af4d
+  image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+  is_failed: false
+  latitude: 52.521461
+  legal_name: Institut Bauen und Umwelt e.V.
+  locality: Berlin
+  location:
+    boundingBox:
+      entity: position
+      northEast: 52.521702,13.410302
+      southWest: 52.521462,13.409973
+    buildingNumber: '1'
+    country: Deutschland
+    countryCode: DE
+    countryCodeISO3: DEU
+    countrySecondarySubdivision: Berlin
+    countrySubdivision: Berlin
+    freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+    municipality: Berlin
+    municipalitySubdivision: Mitte
+    postalCode: '10178'
+    routeNumbers: []
+    street: "Panoramastra\xDFe"
+    streetName: "Panoramastra\xDFe"
+    streetNameAndNumber: "Panoramastra\xDFe 1"
+    streetNumber: '1'
+  longitude: 13.409973
+  name: IBU
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '10178'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T16:55:51.730336Z'
+  web_domain: ibu-epd.com
+  website: https://ibu-epd.com/
+program_operator_fkey: EPD-MIL-20200185-CCC2-EN
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ha95sej
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-12-02T18:56:03.942597Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

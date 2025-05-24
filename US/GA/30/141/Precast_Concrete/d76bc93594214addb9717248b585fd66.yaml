@@ -1,0 +1,621 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+attachments:
+  Developer: http://wapsustainability.com
+best_practice: 151.494402 kgCO2e
+biogenic_embodied_carbon_z: 0.11237437430304116
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2019-06-06T12:54:42.809120Z'
+  declared_unit: 1 t
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: General category for precast concrete components
+  display_name: Precast Concrete
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 3d6ccdcd4a83401e96ae385d568dc339
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 40 00 Precast Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: PrecastConcrete
+  no_statistics: false
+  obsolete: false
+  openepd: PrecastConcrete
+  openepd_name: PrecastConcrete
+  parents: []
+  pct10_gwp: 157.2741396 kgCO2e
+  pct20_gwp: 188.7286008 kgCO2e
+  pct30_gwp: 207.3980631 kgCO2e
+  pct40_gwp: 225.5484469 kgCO2e
+  pct50_gwp: 241.7746547 kgCO2e
+  pct60_gwp: 257.1591309 kgCO2e
+  pct70_gwp: 279.5779932 kgCO2e
+  pct80_gwp: 308.7539756 kgCO2e
+  pct90_gwp: 385.7830985 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Precast
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103619'
+  updated_on: '2025-05-23T10:08:52.179492Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 183.142438 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-10-14T15:27:31.744457Z'
+date_of_issue: '2024-10-14'
+date_validity_ends: '2028-08-29'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 2400 kg / m^3
+description: Structural Gray 725 lb 1L, 150 pcf
+developer:
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+doc: https://concrete.thetaepd.com/public?guid=c01cc971-e9e7-4f4b-b80a-d0d4d185a5bc
+epd_degraded: false
+excluded: false
+externally_verified: true
+gfrc: false
+gwp: 167.31842 kgCO2e
+gwp_per_category_declared_unit: 167.31842 kgCO2e
+gwp_per_kg: 0.16731842 kgCO2e
+gwp_z: 0.11237437430304116
+id: bf6e6876004e474e86b3dd349a1f0978
+impacts: {}
+insulated: false
+is_downloadable: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lightweight: false
+lowest_plausible_gwp: 151.494402 kgCO2e
+manufacturer:
+  address: 20 Two Notch Rd, Greenville, SC 29605, USA
+  address_line: 20 Two Notch Rd
+  admin_district: SC
+  admin_district2: Greenville County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/metromont
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-01-27T18:29:52.755511Z'
+  email_extensions:
+  - shockeyprecast.com
+  enterprise: true
+  id: c6509b917b9149f7b24443fbf83eed28
+  is_failed: false
+  latitude: 34.8070308
+  locality: Greenville
+  location:
+  - long_name: '20'
+    short_name: '20'
+    types:
+    - street_number
+  - long_name: Two Notch Road
+    short_name: Two Notch Rd
+    types:
+    - route
+  - long_name: Greenville
+    short_name: Greenville
+    types:
+    - locality
+    - political
+  - long_name: Greenville County
+    short_name: Greenville County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: South Carolina
+    short_name: SC
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '29605'
+    short_name: '29605'
+    types:
+    - postal_code
+  longitude: -82.43008119999999
+  name: Metromont Corp
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c6509b917b9149f7b24443fbf83eed28
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '29605'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2025-03-24T18:21:43.776751Z'
+  web_domain: metromont.com
+  website: https://www.metromont.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: d76bc93594214addb9717248b585fd66
+my_capabilities: 1
+name: H-725L-7 National
+not_an_epd: false
+open_xpd_uuid: ec3u92rt
+original_data_format: openEPDv1.0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3u92rt
+output_flows: {}
+owner:
+  name: Michael Salazar
+  user_id: mike@wapsustainability.com
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2021-04-21T15:17:38.210238Z'
+  date_of_issue: '2021-05-30'
+  date_validity_ends: '2026-05-30'
+  declared_units:
+  - 1 t
+  doc: https://d2evkimvhatqav.cloudfront.net/documents/astm_precast_concrete_v3.0.pdf?v=1631303354
+  id: 987c48f80234460398729f544f110f6d
+  is_failed: false
+  name: "Product Category Rule for Environmental Product Declarations PCR for Precast\
+    \ Concrete \u2013 UNCPC: 37550"
+  open_xpd_uuid: ec3482m6
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3482m6
+  product_classes:
+    UNCPC:
+    - '37550'
+  requires_mass: true
+  short_link: buildingtransparency.org/p/ec3482m6tb
+  short_name: Precast Concrete
+  updated_on: '2025-04-22T21:33:03.621459Z'
+  version: '3'
+pct80_gwp_per_category_declared_unit: 183.142438 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 200 Metromont Rd, Hiram, GA 30141, USA
+  address_line: 200 Metromont Rd
+  admin_district: GA
+  admin_district2: Paulding County
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-10-14T15:27:29.838739Z'
+  id: 986fe52441d34a2fbff2bb33f98d1728
+  is_failed: false
+  latitude: 33.8838204
+  locality: Hiram
+  location:
+  - long_name: '200'
+    short_name: '200'
+    types:
+    - street_number
+  - long_name: Metromont Road
+    short_name: Metromont Rd
+    types:
+    - route
+  - long_name: Hiram
+    short_name: Hiram
+    types:
+    - locality
+    - political
+  - long_name: Paulding County
+    short_name: Paulding County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30141'
+    short_name: '30141'
+    types:
+    - postal_code
+  - long_name: '2802'
+    short_name: '2802'
+    types:
+    - postal_code_suffix
+  longitude: -84.74080289999999
+  name: Hiram
+  openepd_id: 865QV7M5+GM.metromont.com
+  owned_by:
+    address: 20 Two Notch Rd, Greenville, SC 29605, USA
+    address_line: 20 Two Notch Rd
+    admin_district: SC
+    admin_district2: Greenville County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/metromont
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-01-27T18:29:52.755511Z'
+    email_extensions:
+    - shockeyprecast.com
+    enterprise: true
+    id: c6509b917b9149f7b24443fbf83eed28
+    is_failed: false
+    latitude: 34.8070308
+    locality: Greenville
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Two Notch Road
+      short_name: Two Notch Rd
+      types:
+      - route
+    - long_name: Greenville
+      short_name: Greenville
+      types:
+      - locality
+      - political
+    - long_name: Greenville County
+      short_name: Greenville County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: South Carolina
+      short_name: SC
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '29605'
+      short_name: '29605'
+      types:
+      - postal_code
+    longitude: -82.43008119999999
+    name: Metromont Corp
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c6509b917b9149f7b24443fbf83eed28
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '29605'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2025-03-24T18:21:43.776751Z'
+    web_domain: metromont.com
+    website: https://www.metromont.com/
+  postal_code: '30141'
+  total_epds: 6
+  type: Plant
+  updated_on: '2024-10-14T16:00:02.525329Z'
+plant_specific: true
+private: false
+product_classes:
+  io.cqd.ec3: PrecastConcrete
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+resource_uses: {}
+sanitizable: false
+short_link: buildingtransparency.org/e/ec3u92rt0p
+standard_deviation: 18.80230276 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 183.142438 kgCO2e
+uncertainty_factor: 1.0945742734134394
+updated_on: '2024-10-14T15:27:34.629245Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  verifier:
+  - Missing link

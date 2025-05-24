@@ -1,0 +1,14 @@
+{
+  "name": "@d3-dreamstudio/chord_chart",
+  "main": "7857b585ea03a091@37.js",
+  "version": "37.0.0",
+  "homepage": "https://observablehq.com/@d3-dreamstudio/chord_chart",
+  "author": {
+    "name": "d3-dreamstudio",
+    "url": "https://observablehq.com/@d3-dreamstudio"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

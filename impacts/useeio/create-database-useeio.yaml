@@ -1,0 +1,86 @@
+Factor:
+  source: flows.json
+  index: FactorID
+  indextype: 1-based
+  columns:
+    Index: index
+    FactorUUID: uuid
+    FactorName: flowable
+    Unit: unit
+    Context: context
+  omit:
+    - id
+
+Sector:
+  source: sectors.json
+  columns:
+    Index: index
+    SectorID: code
+    SectorName: name
+  level: country, state
+  omit:
+    - id
+    - location
+    - description
+
+Commodity:
+  source: sectors.json
+  columns:
+    Index: index
+    CommodityID: code
+    CommodityName: name
+  level: country
+  omit:
+    - id
+    - location
+    - description
+
+Indicator:
+  source: indicators.json
+  columns:
+    Index: index
+    IndicatorID: code
+    Group: group
+    Unit: unit
+    SimpleUnit: simpleunit
+    SimpleName": simplename"
+  omit:
+    - id
+
+Demand:
+  source: demands.json
+  columns:
+    Type: type
+    System: system
+  omit:
+    - id
+    - year
+
+SectorCrosswalk:
+  source: /profile/impacts/2020/sectorcrosswalk.csv
+  columns:
+    SectorID: BEA_Summary
+    NAICS: NAICS
+  level: country, state
+  omit:
+    BEA_Sector
+    BEA_Detail
+    BEA_Detail_Waste_Disagg
+    ModelSchema
+
+CommodityCrosswalk:
+  source: /profile/impacts/2020/sectorcrosswalk.csv
+  columns:
+    CommodityID: BEA_Detail
+    NAICS: NAICS
+  level: country
+  omit:
+    BEA_Sector
+    BEA_Summary
+    BEA_Detail_Waste_Disagg
+    ModelSchema
+
+SectorSector:
+  source: matrix/A.json
+  indexSource: Sector.SectorID
+  columnPrefix: Sector

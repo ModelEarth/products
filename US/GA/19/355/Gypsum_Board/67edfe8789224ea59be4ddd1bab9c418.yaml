@@ -1,0 +1,363 @@
+abuse_resistant: false
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Spot: https://spot.ul.com/main-appproducts/detail/5ad1ea1a55b0e82d946a39b0
+box_id: '1719259031165'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:29.851882Z'
+  declared_unit: 1000 sqft
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Gypsum board used for interior walls, ceilings, and similar applications.
+  display_name: Gypsum Board
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 0d1d4544c70f4a82938c79d88f86ec5d
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1022.983474 kg
+  massless: false
+  masterformat: 09 29 00 Gypsum Board
+  may_contain_trusted_vendor_declarations: false
+  name: Gypsum
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Gypsum
+  openepd_name: Finishes >> Gypsum
+  parents: []
+  pct10_gwp: 122.4249247 kgCO2e
+  pct20_gwp: 179.1490273 kgCO2e
+  pct30_gwp: 217.4107305 kgCO2e
+  pct40_gwp: 255.411927 kgCO2e
+  pct50_gwp: 290.1039577 kgCO2e
+  pct60_gwp: 326.0429218 kgCO2e
+  pct70_gwp: 381.4761214 kgCO2e
+  pct80_gwp: 448.2658629 kgCO2e
+  pct90_gwp: 550.9776326 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Gypsum Board
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161509'
+  updated_on: '2025-05-23T10:09:01.570849Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-12-07T08:22:37.780204Z'
+date_validity_ends: '2025-07-01'
+declaration_type: Product EPD
+density: 640 kg / m^3
+description: 105595 105596 105597 105598 308330
+doc: https://spot.ul.com/main-appproducts/detail/5ad1ea1a55b0e82d946a39b0
+errors:
+  date_of_issue:
+  - Not specified
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+  impacts:
+  - GWP impact not specified
+  program_operator:
+  - Missing link
+file_name: 5%2F8%20in%20Type%20C_1b011dd41bed359f574e5ab91b59e967c58670c9.pdf
+foil_backing: false
+gypsum_fire_rating: C
+gypsum_thickness: 0.625 in
+id: c98ed44e161a440d9e2ac1c91f9c0ba1
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+manufacturer:
+  address: 20 Moores Rd, Malvern, PA 19355, USA
+  address_line: 20 Moores Rd
+  admin_district: PA
+  admin_district2: Chester County
+  alt_names:
+  - CertainTeed Gypsum, Inc
+  - CertainTeed Insulation Group
+  - CertainTeed
+  - CertainTeed Ceilings
+  - CertainTeed Gypsum Canada
+  - CertainTeed Gypsum
+  - CertainTeed Gypsum, Inc.
+  - Certainteed Gypsum
+  - CertainTeed Insulation
+  - CertainTeed Roofing
+  - CertainTeed Saint-Gobain
+  attachments:
+    Ecomedes: https://saintgobain.ecomedes.com/
+    TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:45:09.590285Z'
+  currency: USD
+  email_extensions:
+  - certainteed.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+  id: 4f0f4939d54945a08051f4c048ac71c0
+  image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+  is_failed: false
+  latitude: 40.0539584
+  legal_name: CertainTeed
+  locality: Malvern
+  location:
+  - long_name: '20'
+    short_name: '20'
+    types:
+    - street_number
+  - long_name: Moores Road
+    short_name: Moores Rd
+    types:
+    - route
+  - long_name: Malvern
+    short_name: Malvern
+    types:
+    - locality
+    - political
+  - long_name: East Whiteland Township
+    short_name: East Whiteland Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Chester County
+    short_name: Chester County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19355'
+    short_name: '19355'
+    types:
+    - postal_code
+  - long_name: '1114'
+    short_name: '1114'
+    types:
+    - postal_code_suffix
+  longitude: -75.5576008
+  name: CertainTeed Saint-Gobain
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '19355'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-08-30T23:41:13.973616Z'
+  web_domain: certainteed.com
+  website: www.certainteed.com
+manufacturer_specific: true
+matched_plants_count: 1
+material_id: 67edfe8789224ea59be4ddd1bab9c418
+moisture_resistant: false
+mold_resistant: false
+multiproduct: false
+my_capabilities: 1
+name: 5/8 in Type C
+not_an_epd: false
+open_xpd_uuid: ec3zrzpm
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3zrzpm
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-10-30T21:27:11.720683Z'
+  errors: {}
+  failures: {}
+  id: 2078f661d5004e84b9a953565fa04505
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: CertainTeed Interior Products Group (Kansas City, KS), Chowchilla, CA, CertainTeed
+    Interior Products Group
+  owned_by:
+    address: 20 Moores Rd, Malvern, PA 19355, USA
+    address_line: 20 Moores Rd
+    admin_district: PA
+    admin_district2: Chester County
+    alt_names:
+    - CertainTeed Gypsum, Inc
+    - CertainTeed Insulation Group
+    - CertainTeed
+    - CertainTeed Ceilings
+    - CertainTeed Gypsum Canada
+    - CertainTeed Gypsum
+    - CertainTeed Gypsum, Inc.
+    - Certainteed Gypsum
+    - CertainTeed Insulation
+    - CertainTeed Roofing
+    - CertainTeed Saint-Gobain
+    attachments:
+      Ecomedes: https://saintgobain.ecomedes.com/
+      TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:45:09.590285Z'
+    currency: USD
+    email_extensions:
+    - certainteed.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+    id: 4f0f4939d54945a08051f4c048ac71c0
+    image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+    is_failed: false
+    latitude: 40.0539584
+    legal_name: CertainTeed
+    locality: Malvern
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Moores Road
+      short_name: Moores Rd
+      types:
+      - route
+    - long_name: Malvern
+      short_name: Malvern
+      types:
+      - locality
+      - political
+    - long_name: East Whiteland Township
+      short_name: East Whiteland Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Chester County
+      short_name: Chester County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '19355'
+      short_name: '19355'
+      types:
+      - postal_code
+    - long_name: '1114'
+      short_name: '1114'
+      types:
+      - postal_code_suffix
+    longitude: -75.5576008
+    name: CertainTeed Saint-Gobain
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19355'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-08-30T23:41:13.973616Z'
+    web_domain: certainteed.com
+    website: www.certainteed.com
+  plants_count: 3
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2024-12-07T08:59:55.198749Z'
+plant_specific: false
+private: false
+product_specific: true
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3zrzpmeh
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2024-12-07T08:22:56.526288Z'
+use_stored_carbon: false
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

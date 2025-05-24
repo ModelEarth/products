@@ -1,0 +1,81 @@
+name: Update Data
+
+on:
+  schedule:
+    - cron: '0 22 * * *' # This sets the action to run every night at 10 PM UTC
+  workflow_dispatch: # This allows manual triggering
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0  # Fetch all history so we can commit properly
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pandas pyyaml
+
+    - name: Run update script
+      run: python products/pull/update_csv_and_yaml.py
+      env:
+        BT_EMAIL: ${{ secrets.BT_EMAIL }}
+        BT_PASSWORD: ${{ secrets.BT_PASSWORD }}
+
+    - name: List created files
+      run: |
+        echo "=== Checking for created files ==="
+        ls -la
+        echo "=== US directory content ==="
+        find US -type f | wc -l
+        find US -type f | head -n 20
+        echo "=== Total files created ==="
+        find US -type f | wc -l
+
+    - name: Git status before adding files
+      run: |
+        echo "=== Git status before adding files ==="
+        git status -s
+
+    - name: Ensure files are tracked by Git
+      run: |
+        git add -A
+        echo "=== Files staged for commit ==="
+        git status -s
+
+    - name: Check for changes
+      id: check_changes
+      run: |
+        # Check if there are staged changes
+        if [[ -n "$(git diff --cached --name-only)" ]]; then
+          echo "=== Changes detected ==="
+          git diff --cached --stat
+          echo "changes=true" >> $GITHUB_OUTPUT
+        else
+          echo "=== No changes detected ==="
+          echo "changes=false" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Commit and push changes
+      if: steps.check_changes.outputs.changes == 'true'
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git commit -m "Update CSV and YAML files with new data"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: No changes to commit
+      if: steps.check_changes.outputs.changes != 'true'
+      run: |
+        echo "No changes detected in any files. Skipping commit."

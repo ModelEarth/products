@@ -1,0 +1,587 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: true
+best_practice: 0.1822525733 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '1331434014608'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-04-11T11:15:36Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Boards installed between the insulation and membrane layers on a roof
+    system. It provides adidtional durability, fire protection, thermal, and vapor
+    performance to a roof system, especially in low-slope, high foot traffic applications.
+  display_name: Roof Cover Boards
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 4ecbbb1ffe224f1b960fdaaf41c503a4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 5.299818155 kg
+  massless: false
+  masterformat: 07 22 17 Low Slope Roofing Cover Board
+  may_contain_trusted_vendor_declarations: false
+  name: RoofCoverBoards
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> RoofCoverBoards
+  openepd_name: ThermalMoistureProtection >> RoofCoverBoards
+  parents: []
+  pct10_gwp: 5.335169393 kgCO2e
+  pct20_gwp: 6.955119331 kgCO2e
+  pct30_gwp: 7.519362219 kgCO2e
+  pct40_gwp: 8.346785423 kgCO2e
+  pct50_gwp: 8.894120915 kgCO2e
+  pct60_gwp: 9.770624563 kgCO2e
+  pct70_gwp: 10.64654222 kgCO2e
+  pct80_gwp: 11.77010733 kgCO2e
+  pct90_gwp: 13.08761989 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Roof Cover Boards
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30151500'
+  updated_on: '2025-05-23T10:09:06.059166Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.2597474267 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-10-11T12:00:44.741254Z'
+date_of_issue: '2022-04-01'
+date_validity_ends: '2027-04-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: High-performance glass-mat roof board for use in low-slope commercial
+  roofing systems. Provides exceptional bond and low absorption in cold-applied adhesive
+  applications, ideal for use as cover board in single-ply mechanically attached systems.
+  Lightweight core is up to 18% lighter than competitive products, with moisture-
+  and mold-resistant core and facer. Provides protection to roof system from hail
+  and foot traffic, and is fire-resistant for use as fire barrier and thermal barrier.
+developer:
+  email: tbrooke@astm.org
+  name: Tim Brooke
+  org:
+    address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+    address_line: 100 Barr Harbor Dr
+    admin_district: PA
+    admin_district2: Montgomery County
+    alt_names:
+    - astm
+    - ASTMInternational
+    attachments:
+      Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-10-01T05:13:50.328641Z'
+    email_extensions:
+    - astm.org
+    enterprise: true
+    id: 2657c6a84bfa4675a5e4ee785c253a48
+    image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+    is_failed: false
+    latitude: 40.0689574
+    legal_name: ASTM International
+    locality: Conshohocken
+    location:
+    - long_name: '100'
+      short_name: '100'
+      types:
+      - street_number
+    - long_name: Barr Harbor Drive
+      short_name: Barr Harbor Dr
+      types:
+      - route
+    - long_name: Conshohocken
+      short_name: Conshohocken
+      types:
+      - locality
+      - political
+    - long_name: Montgomery County
+      short_name: Montgomery County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '19428'
+      short_name: '19428'
+      types:
+      - postal_code
+    - long_name: '2951'
+      short_name: '2951'
+      types:
+      - postal_code_suffix
+    longitude: -75.3083283
+    name: ASTM International
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    - CA
+    postal_code: '19428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: true
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2024-07-22T20:35:58.976247Z'
+    web_domain: astm.org
+    website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+doc: buildingtransparency.org/e/ec32edh0xe
+epd_degraded: false
+errors:
+  plant:
+  - Plant-specific EPD is not connected to a single plant.
+excluded: false
+externally_verified: true
+failures:
+  category:
+  - EPD Category is not in the list of categories covered by PCR
+  impacts:
+  - GWP is much lower than category's typical values
+file_name: USG12SecurockBrandUltraLightCoatedandUncoat_da39a3ee5e6b4b0d3255bfef95601890afd80709.pdf
+gwp: 0.221 kgCO2e
+gwp_per_category_declared_unit: 0.221 kgCO2e
+gwp_per_kg: 0.02514220705 kgCO2e
+gwp_z: 0.2083266665599966
+id: 3248340b97f347dea858a4f445921377
+image: https://static.buildingtransparency.org/images/7b67f0ea15334585877e27969ef1b607.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 0.1822525733 kgCO2e
+manufacturer:
+  address: 333 South 270th Avenue, Alton, KS 67623
+  address_line: 333 South 270th Avenue
+  admin_district: KS
+  admin_district2: Osborne
+  alt_names:
+  - USG Cellings
+  - USG Sheetrock
+  - CGC
+  - "USG M\xE9xico, S.A. de C.V."
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/usg
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-02T02:46:59.108322Z'
+  email_extensions:
+  - usg.com
+  enterprise: true
+  id: 139773b6950245eaa7181b669ba75ebd
+  image: https://static.buildingtransparency.org/images/724b4876-68d8-49f0-965b-ccd6b309d4b1.png
+  is_failed: false
+  latitude: 39.495907
+  legal_name: USG
+  locality: Alton
+  location:
+    boundingBox:
+      entity: position
+      northEast: 39.509538,-98.989432
+      southWest: 39.494853,-98.989622
+    buildingNumber: '333'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Osborne
+    countrySubdivision: KS
+    countrySubdivisionName: Kansas
+    countryTertiarySubdivision: Grant
+    freeformAddress: 333 South 270th Avenue, Alton, KS 67623
+    municipality: Alton
+    municipalitySubdivision: Alton
+    postalCode: '67623'
+    routeNumbers: []
+    street: South 270th Avenue
+    streetName: South 270th Avenue
+    streetNameAndNumber: 333 South 270th Avenue
+    streetNumber: '333'
+  longitude: -98.989456
+  name: USG
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/139773b6950245eaa7181b669ba75ebd
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '67623'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:24:00.773460Z'
+  web_domain: usg.com
+  website: https://www.usg.com
+manufacturer_specific: true
+mass_per_declared_unit: 8.79 kg
+matched_plants_count: 1
+material_id: df769aebdb604e3183cd6bd2f44348b9
+multiproduct: false
+my_capabilities: 1
+name: "1/2 in. (12.7 mm) Securock\xAE Brand UltraLight Coated and Uncoated Glass-Mat\
+  \ Roof Board"
+not_an_epd: false
+open_xpd_uuid: ec32edh0
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec32edh0
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-04-21T15:18:23.444702Z'
+  date_of_issue: '2021-11-02'
+  date_validity_ends: '2026-11-02'
+  doc: buildingtransparency.org/p/ec3wcdqy36
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: c71d0ddfb5bf430c8e5e175eecb7391d
+  is_failed: false
+  name: 'Part B: Roof Cover Protection Board'
+  open_xpd_uuid: ec3wcdqy
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3wcdqy
+  short_link: buildingtransparency.org/p/ec3wcdqy36
+  short_name: 'Part B: Roof Cover Protection Board'
+  updated_on: '2022-06-24T09:31:17.256685Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 0.2597474267 kgCO2e
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2025-03-07T00:31:57.552295Z'
+  id: 29541dfd365e4654b7feb5920b2b5b27
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Cartersville, Westlake
+  owned_by:
+    address: 333 South 270th Avenue, Alton, KS 67623
+    address_line: 333 South 270th Avenue
+    admin_district: KS
+    admin_district2: Osborne
+    alt_names:
+    - USG Cellings
+    - USG Sheetrock
+    - CGC
+    - "USG M\xE9xico, S.A. de C.V."
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/usg
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-10-02T02:46:59.108322Z'
+    email_extensions:
+    - usg.com
+    enterprise: true
+    id: 139773b6950245eaa7181b669ba75ebd
+    image: https://static.buildingtransparency.org/images/724b4876-68d8-49f0-965b-ccd6b309d4b1.png
+    is_failed: false
+    latitude: 39.495907
+    legal_name: USG
+    locality: Alton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 39.509538,-98.989432
+        southWest: 39.494853,-98.989622
+      buildingNumber: '333'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Osborne
+      countrySubdivision: KS
+      countrySubdivisionName: Kansas
+      countryTertiarySubdivision: Grant
+      freeformAddress: 333 South 270th Avenue, Alton, KS 67623
+      municipality: Alton
+      municipalitySubdivision: Alton
+      postalCode: '67623'
+      routeNumbers: []
+      street: South 270th Avenue
+      streetName: South 270th Avenue
+      streetNameAndNumber: 333 South 270th Avenue
+      streetNumber: '333'
+    longitude: -98.989456
+    name: USG
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/139773b6950245eaa7181b669ba75ebd
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '67623'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:24:00.773460Z'
+    web_domain: usg.com
+    website: https://www.usg.com
+  plants_count: 2
+  total_epds: 7
+  type: PlantGroup
+  updated_on: '2025-03-18T12:00:06.104561Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+program_operator_fkey: EPD 285
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec32edh0xe
+standard_deviation: 0.04604019331 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.2597474267 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-03-18T10:46:05.475799Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified

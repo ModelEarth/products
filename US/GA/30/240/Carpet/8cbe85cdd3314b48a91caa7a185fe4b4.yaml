@@ -1,0 +1,721 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/interface
+best_practice: 6.022498345 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '294134298652'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.226286945 kgCO2e
+  pct20_gwp: 6.31150987 kgCO2e
+  pct30_gwp: 7.193005662 kgCO2e
+  pct40_gwp: 8.328409228 kgCO2e
+  pct50_gwp: 10.05624338 kgCO2e
+  pct60_gwp: 11.73431683 kgCO2e
+  pct70_gwp: 13.92024591 kgCO2e
+  pct80_gwp: 16.33810585 kgCO2e
+  pct90_gwp: 20.03417486 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-05-23T10:09:00.788295Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 9.917501655 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-06-18T06:31:16.625564Z'
+cushioned: true
+date_of_issue: '2017-08-24'
+date_validity_ends: '2022-08-24'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: This Environmental Product Declaration covers all styles and patterns
+  of modular carpet on CushionBac Renew backing with recycled Nylon yarn. The products
+  are manufactured in Troup County, Georgia, USA. The products range in yarn weight
+  from 441 to 1424 grams per square meter. A medium yarn weight of 678 grams per square
+  meter is reported and the Global Warming Potential of all additional product yarn
+  weights are reported. Annlicatic' Modular installation of textile floor covering
+  in commercial buildings Technical Data id& d Product Form Tiles - Type of Manufacture
+  Tufted - Yarn Type Nylon - Secondary Backing Polyolefin/polyurethane composite -
+  Total Weight 4487 grams/m 2 Total Yarn Weight 678 grams/m 2 velivery maws Available
+  in a range of tile and plank sizes, mostly commonly 0.5 x 0.5 meter squares and
+  1.0 x 0.25 meter planks. Base Materials Com onent. ass % Yarn Post-consumer recycled
+  Nylon 7.6 Pre-consumer recycled Nylon 7.6 Primary Backing Pre-consumer recycled
+  polyester 2.2 Polyester 0.2 Ethylene vinyl acetate copolymer 5.3 Precoat backing
+  Intersept 0.3 Pre consumer recycled limestone - 14.3 Stabilization layer Fiberglass
+  1.3 Polyvinyl chloride 7.3 Di(2-ethylhexyl) terephthalate 6.4 Secondary backing
+  Pre-consumer calcium alumina glass 30.6 Soy lecithin and natural oils 0.4 Calcium
+  oxide 0.2 Recycled PET 16.6 Manufacture Environment ENVIRONMENTAL PRODUCT DECLARATION
+  Interface Interface Americas Modular Carpet on CushionBac RenewTM According to ISO
+  14025 Nylon 6 Styles Yarns are tufted into a primary backing fabric. A precoat backing
+  is applied to the reverse side of the tufted face cloth to fix the yarns in place
+  then a secondary backing which includes a stabilization layer is applied. The product
+  is then cut into tiles and packaged. Environment and health during manufacturing
+  - ISO 14001 Environmental Management System - Compliance with Public Health and
+  Environment requirements of NSF104 Sustainability Assessment for Carpet acKagini
+  Carpet tiles are packaged
+developer:
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3gm6asxe
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: 125.1_Interface Americas_EPD_CushionBac Renew Nylon 6.pdf
+form_factor: Tiles
+gwp: 7.97 kgCO2e
+gwp_per_category_declared_unit: 7.97 kgCO2e
+gwp_per_kg: 1.775055679 kgCO2e
+gwp_z: 0.2903446228191595
+id: ceeafdb9646046838a7282ad5b84793e
+image: https://static.buildingtransparency.org/images/1e12327733604a6582348ef12449e8a3.png
+impacts: {}
+industry_standards: []
+intended_application:
+- Com
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Product Component Notes\nCom onent.                      \
+  \                                    ass %\n       Yarn                   Post-consumer\
+  \ recycled Nylon                7.6\n                               Pre-consumer\
+  \ recycled Nylon               7.6\n   Primary Backing            Pre-consumer recycled\
+  \ polyester            2.2\n                                          Polyester\
+  \                      0.2\n                              Ethylene vinyl acetate\
+  \ copolymer           5.3\n   Precoat backing                       Intersept  \
+  \                     0.3\n                             Pre consumer recycled limestone\n\
+  \                                 -                                       14.3\n\
+  \   Stabilization layer                   Fiberglass                       1.3\n\
+  \                                     Polyvinyl chloride                  7.3\n\
+  \                               Di(2-ethylhexyl) terephthalate            6.4\n\
+  \  Secondary backing         Pre-consumer calcium alumina glass           30.6\n\
+  \                                Soy lecithin and natural oils             0.4\n\
+  \                                       Calcium oxide                      0.2\n\
+  \                                       Recycled PET                      16.6\n\
+  \n\nManufacture\n\n\nEnvironment\n    ENVIRONMENTAL PRODUCT DECLARATION\n\n\n\n\
+  \     Interface\n\n## Source Data Notes\nASTM E-648. Standard Test Method for Critical\
+  \ Radiant Flux of Floor-Covering Systems Using a Radiant Heat Energy\nSource. http://www.astm.org/Standards/E648.htm\n\
+  ASTM E-662. Standard Test Method for Specific Optical Density of Smoke Generated\
+  \ by Solid Materials.\nhttp://www.astm.org/Standards/E662.htm\nCarpet & Rug Institute.\
+  \ CRI Test Method 101. http://www.carpet-rug.org/technial_bulletins/0307_ CRI_TM_101.pdf\n\
+  Carpet & Rug Institute. Residential Customers Green Label / Green Label Plus. http://www.carpet-\n\
+  rug.org/residentialcustomers/selecting-the-right-carpet-or-rug/green-label.cfm\n\
+  GaBi 7 (2016). Software-System and Databases for Life Cycle Engineering Copyright,\
+  \ TM. Stuttgart, Echterdingen\nISO 14040 (2006). Environmental management - Life\
+  \ cycle assessment Principles and framework\nISO 14044 (2006). Environmental management\
+  \ - Life cycle assessment Requirements and guidelines\nInstitut Bauen und Umwelt:\
+  \ Institut Bauen und Umwelt e.V., Berlin (pub.): Generation of Environmental Product\n\
+  Declarations (EPDs); General principles for the EPD range of Institut Bauen und\
+  \ Umwelt e.V. (IBU), 2013-04 www.bau-\numwelt.de\nPCR Part A: Institut Bauen und\
+  \ Umwelt e.V., Konigswinter (pub.): Product Category Rules for Construction Products\n\
+  from the range of Environmental Product Declarations of Institut Bauen und Umwelt\
+  \ (IBU), Part A: Calculation\nRules for the Life Cycle Assessment and Requirements\
+  \ on the Background Report. April 2013 www.bau-umwelt.de\nISO 14025: DIN EN ISO\
+  \ 14025:2011-10: Environmental labels and declarations - Type III environmental\
+  \ declarations\n- Principles and procedures\nEN 15804: EN 15804:2012-04+A1 2013:\
+  \ Sustainability of construction works - Environmental Product Declarations -\n\
+  Core rules for the product category of construction products\nEnvironment"
+lowest_plausible_gwp: 6.022498345 kgCO2e
+manufacturer:
+  address: 1503 Orchard Hill Road, Lagrange, GA 30240
+  address_line: 1503 Orchard Hill Road
+  admin_district: GA
+  admin_district2: Troup
+  alt_names:
+  - Interface Americas
+  - Interface Inc.
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/interface
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-11T21:06:09.445943Z'
+  email_extensions:
+  - interface.com
+  - inzide.co.nz
+  enterprise: true
+  id: 159e5adbf6fc40d5a10fdeced59115b8
+  image: https://static.buildingtransparency.org/images/e05e54fca91d46d08194b99135f887cc.png
+  is_failed: false
+  latitude: 33.002754
+  legal_name: Interface
+  locality: Lagrange
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.004377,-85.053995
+      southWest: 33.001974,-85.055784
+    buildingNumber: '1503'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Troup
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Lagrange
+    extendedPostalCode: '302405770'
+    freeformAddress: 1503 Orchard Hill Road, Lagrange, GA 30240
+    municipality: Lagrange
+    municipalitySubdivision: Lagrange
+    postalCode: '30240'
+    routeNumbers: []
+    street: Orchard Hill Road
+    streetName: Orchard Hill Road
+    streetNameAndNumber: 1503 Orchard Hill Road
+    streetNumber: '1503'
+  longitude: -85.054565
+  name: Interface, Inc.
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/159e5adbf6fc40d5a10fdeced59115b8
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30240'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-01-30T19:48:58.344710Z'
+  web_domain: interface.com
+  website: www.interface.com
+manufacturer_specific: true
+mass_per_declared_unit: 4.49 kg
+matched_plants_count: 0
+material_id: 8cbe85cdd3314b48a91caa7a185fe4b4
+multiproduct: false
+my_capabilities: 1
+name: CushionBac RenewTM Nylon 6 styles of modular carpet
+not_an_epd: false
+open_xpd_uuid: ec3gm6as
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3gm6as
+output_flows: {}
+owner:
+  name: Data Entry
+  user_id: data_entry@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-08-04T22:51:22.502613Z'
+  date_of_issue: '2017-04-10'
+  date_validity_ends: '2017-11-29'
+  declared_units:
+  - 1 m2
+  doc: https://epd-online.com/Pcr/PdfDownload/5201
+  id: f0afa0924f6f404eb6d7134980d0d60f
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Floor Coverings'
+  open_xpd_uuid: ec3y24bw
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3y24bw
+  short_link: buildingtransparency.org/p/ec3y24bwcx
+  short_name: Floor Coverings
+  status: Sunset
+  updated_on: '2022-11-30T00:01:01.916847Z'
+  version: 1.0/1.5/1.1
+pct80_gwp_per_category_declared_unit: 9.917501655 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 1503 Orchard Hill Road, Lagrange, GA 30240
+  address_line: 1503 Orchard Hill Road
+  admin_district: GA
+  admin_district2: Troup
+  alt_names: []
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-04-23T00:26:30.455395Z'
+  id: 83c5c78eeb474688be4de3b2150576ee
+  is_failed: false
+  latitude: 33.002754
+  locality: Lagrange
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.004377,-85.053995
+      southWest: 33.001974,-85.055784
+    buildingNumber: '1503'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Troup
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Lagrange
+    extendedPostalCode: '302405770'
+    freeformAddress: 1503 Orchard Hill Road, Lagrange, GA 30240
+    municipality: Lagrange
+    municipalitySubdivision: Lagrange
+    postalCode: '30240'
+    routeNumbers: []
+    street: Orchard Hill Road
+    streetName: Orchard Hill Road
+    streetNameAndNumber: 1503 Orchard Hill Road
+    streetNumber: '1503'
+  longitude: -85.054565
+  name: Troup County
+  openepd_id: 865P2W3W+45.interface.com
+  owned_by:
+    address: 1503 Orchard Hill Road, Lagrange, GA 30240
+    address_line: 1503 Orchard Hill Road
+    admin_district: GA
+    admin_district2: Troup
+    alt_names:
+    - Interface Americas
+    - Interface Inc.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/interface
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-11T21:06:09.445943Z'
+    email_extensions:
+    - interface.com
+    - inzide.co.nz
+    enterprise: true
+    id: 159e5adbf6fc40d5a10fdeced59115b8
+    image: https://static.buildingtransparency.org/images/e05e54fca91d46d08194b99135f887cc.png
+    is_failed: false
+    latitude: 33.002754
+    legal_name: Interface
+    locality: Lagrange
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.004377,-85.053995
+        southWest: 33.001974,-85.055784
+      buildingNumber: '1503'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Troup
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Lagrange
+      extendedPostalCode: '302405770'
+      freeformAddress: 1503 Orchard Hill Road, Lagrange, GA 30240
+      municipality: Lagrange
+      municipalitySubdivision: Lagrange
+      postalCode: '30240'
+      routeNumbers: []
+      street: Orchard Hill Road
+      streetName: Orchard Hill Road
+      streetNameAndNumber: 1503 Orchard Hill Road
+      streetNumber: '1503'
+    longitude: -85.054565
+    name: Interface, Inc.
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/159e5adbf6fc40d5a10fdeced59115b8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30240'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-01-30T19:48:58.344710Z'
+    web_domain: interface.com
+    website: www.interface.com
+  postal_code: '30240'
+  total_epds: 181
+  type: Plant
+  units: SI
+  updated_on: '2024-06-20T22:00:03.041568Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4787521006.125.1
+recycled_content: 0.0
+reference_service_life: 15 year
+requires_ocr: false
+resource_uses: {}
+reviewer:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3gm6asxe
+standard_deviation: 2.314046644 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 9.917501655 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-14T03:03:03.596947Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B2_years are empty
+yarn_type: Recycled PET
+yarn_weight: 20 oz/sy

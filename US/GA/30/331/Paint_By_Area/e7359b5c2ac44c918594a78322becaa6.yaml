@@ -1,0 +1,613 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 13.45863939 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '995331404024'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2024-07-22T09:01:11Z'
+  declared_unit: 1 m2
+  description: Paintings and coatings measured by area of host surface covered by
+    the ready-to-use product.
+  display_name: Paint By Area
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 39f098d4c80648cbb524169224288ad5
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 0.115 kg
+  massless: false
+  masterformat: 09 90 00 Painting and Coating
+  may_contain_trusted_vendor_declarations: false
+  name: PaintByArea
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> PaintingAndCoating >> PaintByArea
+  openepd_name: Finishes >> PaintingAndCoating >> PaintByArea
+  parents: []
+  pct10_gwp: 0.1787885503 kgCO2e
+  pct20_gwp: 0.2411950255 kgCO2e
+  pct30_gwp: 0.2724275695 kgCO2e
+  pct40_gwp: 0.3057506954 kgCO2e
+  pct50_gwp: 0.3430496622 kgCO2e
+  pct60_gwp: 0.3925419085 kgCO2e
+  pct70_gwp: 0.5224836203 kgCO2e
+  pct80_gwp: 0.7878700738 kgCO2e
+  pct90_gwp: 1.596099992 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: By Area
+  short_service_life_disclaimer: true
+  subcategories: []
+  updated_on: '2025-05-23T10:09:02.163547Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 22.10136061 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-08-10T19:37:30.308550Z'
+date_of_issue: '2019-12-18'
+date_validity_ends: '2024-12-18'
+declaration_type: Product EPD
+declared_unit: 1.0 m^2
+density: 2400 kg / m^3
+description: "Stolit\xAE is a series of ready-mixed, acrylic-based exterior or\ninterior\
+  \ textured wall finishes. Stolit\xAE is used as a decorative and\nprotective wall\
+  \ coating over prepared vertical above grade\nconcrete, masonry and plaster substrates,\
+  \ and in StoTherm\xAE ci\nSystems. In this study, Stolit\xAE 1.0, 1.5, R1.5 and\
+  \ Freeform are\nincluded. Two tint bases are offered: standard and dark colors\n\
+  which respectively can be transcribed to tintable white base and\ndeep base in the\
+  \ PCR.\n  Performance Features"
+developer:
+  email: kmcfeaters@epstengroup.com
+  name: Kate McFeaters
+  org:
+    address: 3800 N Camp Creek Pkwy SW Building 1400, Suite 120, Atlanta, GA 30331,
+      USA
+    address_line: 3800 N Camp Creek Pkwy SW
+    admin_district: GA
+    admin_district2: Fulton County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-12-24T09:54:21.473267Z'
+    enterprise: false
+    id: 8e502951c27443cba47bfb3fde63712b
+    is_failed: false
+    latitude: 33.6754323
+    locality: Atlanta
+    location:
+    - long_name: Building 1400, Suite 120
+      short_name: Building 1400, Suite 120
+      types:
+      - subpremise
+    - long_name: '3800'
+      short_name: '3800'
+      types:
+      - street_number
+    - long_name: North Camp Creek Parkway Southwest
+      short_name: N Camp Creek Pkwy SW
+      types:
+      - route
+    - long_name: Deerwood
+      short_name: Deerwood
+      types:
+      - neighborhood
+      - political
+    - long_name: Atlanta
+      short_name: Atlanta
+      types:
+      - locality
+      - political
+    - long_name: Fulton County
+      short_name: Fulton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Georgia
+      short_name: GA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '30331'
+      short_name: '30331'
+      types:
+      - postal_code
+    longitude: -84.5127885
+    name: Sto Corp
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8e502951c27443cba47bfb3fde63712b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30331'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2021-12-24T09:54:21.473275Z'
+    web_domain: stocorp.com
+    website: http://www.stocorp.com/
+doc: buildingtransparency.org/e/ec3bfpxtbt
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: "Stolit \xAE.pdf"
+gwp: 17.78 kgCO2e
+gwp_per_category_declared_unit: 17.78 kgCO2e
+gwp_z: 0.28879058156387305
+id: 94ba3017f0034b6da718f30ea35e3638
+image: https://static.buildingtransparency.org/images/52da7438d9e84b4db06de571098a9b1e.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 13.45863939 kgCO2e
+manufacturer:
+  address: 3800 N Camp Creek Pkwy SW Building 1400, Suite 120, Atlanta, GA 30331,
+    USA
+  address_line: 3800 N Camp Creek Pkwy SW
+  admin_district: GA
+  admin_district2: Fulton County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-12-24T09:54:21.473267Z'
+  enterprise: false
+  id: 8e502951c27443cba47bfb3fde63712b
+  is_failed: false
+  latitude: 33.6754323
+  locality: Atlanta
+  location:
+  - long_name: Building 1400, Suite 120
+    short_name: Building 1400, Suite 120
+    types:
+    - subpremise
+  - long_name: '3800'
+    short_name: '3800'
+    types:
+    - street_number
+  - long_name: North Camp Creek Parkway Southwest
+    short_name: N Camp Creek Pkwy SW
+    types:
+    - route
+  - long_name: Deerwood
+    short_name: Deerwood
+    types:
+    - neighborhood
+    - political
+  - long_name: Atlanta
+    short_name: Atlanta
+    types:
+    - locality
+    - political
+  - long_name: Fulton County
+    short_name: Fulton County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30331'
+    short_name: '30331'
+    types:
+    - postal_code
+  longitude: -84.5127885
+  name: Sto Corp
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/8e502951c27443cba47bfb3fde63712b
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30331'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2021-12-24T09:54:21.473275Z'
+  web_domain: stocorp.com
+  website: http://www.stocorp.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: e7359b5c2ac44c918594a78322becaa6
+multiproduct: false
+my_capabilities: 1
+name: "Stolit\xAE R1.5"
+not_an_epd: false
+open_xpd_uuid: ec3bfpxt
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3bfpxt
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:56:25.694131Z'
+  date_of_issue: '2017-06-23'
+  date_validity_ends: '2022-06-23'
+  declared_units:
+  - 1 m2
+  doc: http://www.nsf.org/newsroom_pdf/su_architectural_coatings_pcr.pdf
+  id: c71b1c145ffe4099801d4b9d65d11416
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: Product Category Rule for Environmental Product Declarations - Architectural
+    Coatings
+  open_xpd_uuid: ec3qaer9
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qaer9
+  product_classes: {}
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qaer91d
+  short_name: Architectural Coatings
+  status: Expired
+  updated_on: '2025-04-25T23:47:14.196129Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 22.10136061 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: Atlanta, GA, USA
+  admin_district: GA
+  admin_district2: Fulton County
+  carbon_intensity: 952.9 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-12-24T09:55:57.682722Z'
+  id: da259e80be87434c8986e891b9f58b09
+  is_failed: false
+  latitude: 33.7489954
+  locality: Atlanta
+  location:
+  - long_name: Atlanta
+    short_name: Atlanta
+    types:
+    - locality
+    - political
+  - long_name: Fulton County
+    short_name: Fulton County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  longitude: -84.3879824
+  name: Atlanta, Georgia
+  openepd_id: 865QPJX6+HR.stocorp.com
+  owned_by:
+    address: 3800 N Camp Creek Pkwy SW Building 1400, Suite 120, Atlanta, GA 30331,
+      USA
+    address_line: 3800 N Camp Creek Pkwy SW
+    admin_district: GA
+    admin_district2: Fulton County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-12-24T09:54:21.473267Z'
+    enterprise: false
+    id: 8e502951c27443cba47bfb3fde63712b
+    is_failed: false
+    latitude: 33.6754323
+    locality: Atlanta
+    location:
+    - long_name: Building 1400, Suite 120
+      short_name: Building 1400, Suite 120
+      types:
+      - subpremise
+    - long_name: '3800'
+      short_name: '3800'
+      types:
+      - street_number
+    - long_name: North Camp Creek Parkway Southwest
+      short_name: N Camp Creek Pkwy SW
+      types:
+      - route
+    - long_name: Deerwood
+      short_name: Deerwood
+      types:
+      - neighborhood
+      - political
+    - long_name: Atlanta
+      short_name: Atlanta
+      types:
+      - locality
+      - political
+    - long_name: Fulton County
+      short_name: Fulton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Georgia
+      short_name: GA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '30331'
+      short_name: '30331'
+      types:
+      - postal_code
+    longitude: -84.5127885
+    name: Sto Corp
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/8e502951c27443cba47bfb3fde63712b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30331'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2021-12-24T09:54:21.473275Z'
+    web_domain: stocorp.com
+    website: http://www.stocorp.com/
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2024-06-20T22:00:10.650987Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 101 Marietta Street Northwest, Atlanta, GA 30303
+  address_line: 101 Marietta Street Northwest
+  admin_district: GA
+  admin_district2: Fulton
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-01-29T17:11:51.607877Z'
+  email_extensions:
+  - epstengroup.com
+  enterprise: true
+  id: 4e80e223be024d99a676208424cf074d
+  is_failed: false
+  latitude: 33.75678
+  locality: Atlanta
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Fulton
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Atlanta
+    extendedPostalCode: '303032701'
+    freeformAddress: 101 Marietta Street Northwest, Atlanta, GA 30303
+    localName: Atlanta
+    municipality: Atlanta
+    municipalitySubdivision: Atlanta, Downtown Atlanta
+    postalCode: '30303'
+    streetName: Marietta Street Northwest
+    streetNumber: '101'
+  longitude: -84.3923
+  name: Epsten Group, Inc
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4e80e223be024d99a676208424cf074d
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - AT
+  postal_code: '30303'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T16:54:17.937706Z'
+  web_domain: epstengroup.com
+  website: http://www.epstengroup.com/
+program_operator_fkey: 01-001
+reference_service_life: 60 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3bfpxtbt
+standard_deviation: 5.13469654 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 22.10136061 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-01-28T03:13:14.051993Z'
+use_stored_carbon: false
+verifier:
+  email: kmcfeaters@epstengroup.com
+  name: Kate McFeaters
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - GWP is suspiciously greater than category's typical values
+  verifier:
+  - Verifier is not employee of verifier org

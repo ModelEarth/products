@@ -1,0 +1,527 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 10.80320683 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '818460963020'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.226286945 kgCO2e
+  pct20_gwp: 6.31150987 kgCO2e
+  pct30_gwp: 7.193005662 kgCO2e
+  pct40_gwp: 8.328409228 kgCO2e
+  pct50_gwp: 10.05624338 kgCO2e
+  pct60_gwp: 11.73431683 kgCO2e
+  pct70_gwp: 13.92024591 kgCO2e
+  pct80_gwp: 16.33810585 kgCO2e
+  pct90_gwp: 20.03417486 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-05-23T10:09:00.788295Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 15.39679317 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-06-04T15:37:56.573332Z'
+date_of_issue: '2021-04-01'
+date_validity_ends: '2026-04-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "The product is a commerical broadloom carpet with EcoSolution Q\xAE\
+  \ face fiber on the EcoWorx\xAE backing system.\nEcoSolution Q\xAE face fiber is\
+  \ nylon 6 with 25% post-industrial recycled content. The EcoWorx\xAE backing system\n\
+  consists of polyolefin compound, recycled materials, and a fiberglass reinforcement\
+  \ layer. The face fiber is tufted\ninto a primary backing sheet, latex is added\
+  \ to hold in the fiber, the EcoWorx\xAE backing system is applied, and a\nwoven\
+  \ secondary backing layer is added.\nThis declaration covers all products/styles\
+  \ consisting of EcoWorx\xAE Performance Broadloom backing and\nEcoSolution Q\xAE\
+  \ face fiber, with face weights ranging from 18 oz per sq. yd. (osy) to 46 osy,\
+  \ and a weighted\naverage face weight of 26.4 osy. The products fall under CSI 09\
+  \ 68 00 and UNSPSC 3161719 classification\ncodes."
+doc: buildingtransparency.org/e/ec30mqbhy7
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: 120.2_Shaw Flooring_EPD_Philadelphia Commerical_EcoWorx Performance Broadloom
+  Carpet with EcoSolution Q Face Fiber_4516a3b080c5486884952414ebafe646.pdf
+form_factor: Broadloom
+gwp: 13.1 kgCO2e
+gwp_per_category_declared_unit: 13.1 kgCO2e
+gwp_per_kg: 5.900900901 kgCO2e
+gwp_z: 0.2083266665599966
+gypsum_specific_density: 2.22 kg / m^2
+id: 7b5a34690150474cb3321c87643c2de2
+image: https://static.buildingtransparency.org/images/6c57c2e9754b448a9607d80a80cb12de.png
+impacts: {}
+includes: []
+industry_standards: []
+intended_application:
+- Com
+- Ind
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\nTable 2: Base materials for EcoWorx\xAE\
+  \ Performance Broadloom Carpet with EcoSolution Q\xAE Face Fiber Component Material\
+  \ Mass % Face Yarn Nylon-6 40.40 Primary Backing Polypropylene 4.97 Vinyl Acetate\
+  \ Ethylene Calcium Carbonate Latex Paraffinic Wax 27.50 Alumina Trihydrate Sodium\
+  \ Polyacrylate Secondary Backing Polypropylene 3.21 Low Density Polyethylene High\
+  \ Density Polyethylene Backing Polymer 23.00 Hydrocarbon Resin Calcium Carbonate\
+  \ Topical Layer Sodium Polyacrylate 0.90 Commercial Performance Broadloom Carpet\
+  \ - EcoWorx\xAE According to ISO 14025, Performance Broadloom Carpet with EcoSolution\
+  \ Q\xAE Face EN15804 and ISO 21930:2017 Fiber\n\n## Source Data Notes\nAll upstream\
+  \ data have been taken from the GaBi 2020 database (service pack 40), using GaBi\
+  \ software. All manufacturing data were collected from Shaw facilities for the calendar\
+  \ year 2019."
+lowest_plausible_gwp: 10.80320683 kgCO2e
+manufacturer:
+  address: E Walnut Ave, Dalton, GA 30721, USA
+  address_line: E Walnut Ave
+  admin_district: GA
+  admin_district2: Whitfield County
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/philadelphia-commercial
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:51:59.606102Z'
+  email_extensions: []
+  enterprise: true
+  id: fa90cbc454d34ce6a4f4195fecfded7e
+  is_failed: false
+  latitude: 34.7686689
+  locality: Dalton
+  location:
+  - long_name: East Walnut Avenue
+    short_name: E Walnut Ave
+    types:
+    - route
+  - long_name: Dalton
+    short_name: Dalton
+    types:
+    - locality
+    - political
+  - long_name: Whitfield County
+    short_name: Whitfield County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30721'
+    short_name: '30721'
+    types:
+    - postal_code
+  longitude: -84.92581280000002
+  name: Philadelphia Commercial
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/fa90cbc454d34ce6a4f4195fecfded7e
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30721'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2021-08-11T19:29:17.999166Z'
+  web_domain: philadelphiacommercial.com
+  website: philadelphiacommercial.com
+manufacturer_specific: true
+mass_per_declared_unit: 2.22 kg
+matched_plants_count: 0
+material_id: 9278b580a37940cb9325cc6a40cc8b3e
+multiproduct: false
+my_capabilities: 1
+name: "EcoWorx\xAE Performance Broadloom Carpet with EcoSolution Q\xAE Face"
+not_an_epd: false
+open_xpd_uuid: ec30mqbh
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec30mqbh
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-04-27T08:51:24.238004Z'
+  date_of_issue: '2019-10-30'
+  date_validity_ends: '2024-10-30'
+  declared_units:
+  - 1 m2
+  - 1 m
+  - 1 m3
+  - 1 kg
+  - 1 unit
+  doc: https://standards.cen.eu/dyn/www/f?p=204:110:0::::FSP_PROJECT:70014&cs=1CFE7BDC38149F238F05C4C13E0E3B4C2
+  errors: {}
+  failures: {}
+  id: 5bb7b170c5c74df8b65124c0ed282934
+  is_failed: false
+  issuer_doc_id: '00350032'
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: EN 15804:2012+A2:2019 - Sustainability of construction works - Environmental
+    product declarations - Core rules for the product category of construction products
+  open_xpd_uuid: ec32ukf5
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec32ukf5
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec32ukf58s
+  short_name: EN 15804:2012+A2:2019
+  status: Expired
+  updated_on: '2024-10-31T00:04:11.956757Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 15.39679317 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: Bartow County, GA, USA
+  admin_district: GA
+  admin_district2: Bartow County
+  carbon_intensity: 952.9 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-02-21T18:52:58.365480Z'
+  id: 05d3ab41327d432896c39b76e5cbcb9b
+  is_failed: false
+  latitude: 34.2660473
+  location:
+  - long_name: Bartow County
+    short_name: Bartow County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  longitude: -84.8150781
+  name: Bartow County
+  openepd_id: 866Q758M+CX.philadelphiacommercial.com
+  owned_by:
+    address: E Walnut Ave, Dalton, GA 30721, USA
+    address_line: E Walnut Ave
+    admin_district: GA
+    admin_district2: Whitfield County
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/philadelphia-commercial
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:51:59.606102Z'
+    email_extensions: []
+    enterprise: true
+    id: fa90cbc454d34ce6a4f4195fecfded7e
+    is_failed: false
+    latitude: 34.7686689
+    locality: Dalton
+    location:
+    - long_name: East Walnut Avenue
+      short_name: E Walnut Ave
+      types:
+      - route
+    - long_name: Dalton
+      short_name: Dalton
+      types:
+      - locality
+      - political
+    - long_name: Whitfield County
+      short_name: Whitfield County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Georgia
+      short_name: GA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '30721'
+      short_name: '30721'
+      types:
+      - postal_code
+    longitude: -84.92581280000002
+    name: Philadelphia Commercial
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/fa90cbc454d34ce6a4f4195fecfded7e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30721'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2021-08-11T19:29:17.999166Z'
+    web_domain: philadelphiacommercial.com
+    website: philadelphiacommercial.com
+  total_epds: 5
+  type: Plant
+  units: SI
+  updated_on: '2022-02-21T18:52:58.365485Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 789 North Dixboro Road, Ann Arbor, MI 48105
+  address_line: 789 North Dixboro Road
+  admin_district: MI
+  admin_district2: Washtenaw
+  alt_names:
+  - NSF
+  - NSF Certification LLC
+  - NSF Certification
+  attachments:
+    Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-08-01T22:31:34.491119Z'
+  email_extensions:
+  - nsf.org
+  enterprise: true
+  id: a44683606c014062ac954e094362582e
+  image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+  is_failed: false
+  latitude: 42.28365
+  legal_name: NSF International
+  locality: Ann Arbor
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Washtenaw
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+    freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+    localName: Ann Arbor
+    municipality: Ann Arbor
+    municipalitySubdivision: Ann Arbor
+    postalCode: '48105'
+    streetName: North Dixboro Road
+    streetNumber: '789'
+  longitude: -83.67447
+  name: NSF International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48105'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:00:07.818662Z'
+  web_domain: nsf.org
+  website: https://www.nsf.org/
+program_operator_fkey: 4789796942.120.2
+reference_service_life: 12 years
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec30mqbhy7
+specific_density: 2.22 kg / m^2
+standard_deviation: 2.729079332 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 15.39679317 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T03:43:04.568283Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+yarn_type: Nylon 6
+yarn_weight: 26.4 oz / sy

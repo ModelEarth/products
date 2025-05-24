@@ -1,0 +1,447 @@
+also_shown_in: []
+applicable_in:
+- '150'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 7.261757728 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '648662066865'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.226286945 kgCO2e
+  pct20_gwp: 6.31150987 kgCO2e
+  pct30_gwp: 7.193005662 kgCO2e
+  pct40_gwp: 8.328409228 kgCO2e
+  pct50_gwp: 10.05624338 kgCO2e
+  pct60_gwp: 11.73431683 kgCO2e
+  pct70_gwp: 13.92024591 kgCO2e
+  pct80_gwp: 16.33810585 kgCO2e
+  pct90_gwp: 20.03417486 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-05-23T10:09:00.788295Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 11.95824227 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-07T17:42:44.036443Z'
+date_of_issue: '2018-05-29'
+date_validity_ends: '2023-05-24'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "Ecoworx\xAE is a commercial carpet tile, for use as a floor covering\
+  \ in accordance with manufacturer\u2019s guidelines. The carpet tile consists of\
+  \ Shaw\u2019s unique face fibre, which is nylon 6 manufactured with a high percentage\
+  \ of recycled material on the Ecoworx\xAE backing system; consisting of\_a polyolefin\_\
+  compound, recycled filler materials, and a fibreglass reinforcement layer."
+doc: buildingtransparency.org/e/ec3nnw8cww
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: S-P-01241EPDEcoworx.pdf
+form_factor: Tiles
+gwp: 9.61 kgCO2e
+gwp_per_category_declared_unit: 9.61 kgCO2e
+gwp_per_kg: 2.826470588 kgCO2e
+gwp_z: 0.2903446228191595
+id: fc039ea022d84b6f970049ddab2cc1c3
+image: https://static.buildingtransparency.org/images/cdc44980415248b2aae49d9f68795944.png
+impacts: {}
+includes: []
+industry_standards: []
+intended_application:
+- Com
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- US-GA
+- '150'
+language: en
+lowest_plausible_gwp: 7.261757728 kgCO2e
+manufacturer:
+  address: 230 Douthit Ferry Road, Cartersville, GA 30120
+  address_line: 230 Douthit Ferry Road
+  admin_district: GA
+  admin_district2: Bartow
+  alt_names:
+  - Shaw Europe Ltd
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/shaw-contract
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:51:42.416210Z'
+  email_extensions:
+  - shawcontract.com
+  enterprise: true
+  id: f041974544c74b439ed2abf2efcb4e19
+  image: https://static.buildingtransparency.org/images/6ca7e605-2740-41c4-8647-47bd8a9575c0
+  is_failed: false
+  latitude: 34.14848
+  locality: Cartersville
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Bartow
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    extendedPostalCode: 30120-4010
+    freeformAddress: 230 Douthit Ferry Road, Cartersville, GA 30120
+    localName: Cartersville
+    municipality: Cartersville
+    postalCode: '30120'
+    streetName: Douthit Ferry Road
+    streetNumber: '230'
+  longitude: -84.82364
+  name: Shaw Contract
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/f041974544c74b439ed2abf2efcb4e19
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30120'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:14:06.159783Z'
+  web_domain: shawcontract.com
+  website: shawcontract.com
+manufacturer_specific: true
+mass_per_declared_unit: 3.4 kg
+matched_plants_count: 2
+material_id: eb8e4860086a4bb3932c1c9ae000b0a0
+multiproduct: false
+my_capabilities: 1
+name: "Ecoworx\xAE"
+not_an_epd: false
+open_xpd_uuid: ec3nnw8c
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3nnw8c
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Verified EPD based on IES PCR 2012:01
+  - Verified EPD based on IES PCR 2012:01
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-11-22T16:23:43.732783Z'
+  date_of_issue: '2021-11-08'
+  date_validity_ends: '2022-02-28'
+  declared_units:
+  - 1 unit
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 kg
+  doc: '#broken-link https://portal.environdec.com/api/api/v1/EPDLibrary/Files/e1c50da7-1658-4a51-3a24-08d99c9745fc/Data'
+  errors: {}
+  failures: {}
+  id: c9417ac88ccb4bf49992cb16442ca3c2
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: PCR 2012:01 Construction products and construction services (EN 15804:A1)
+  open_xpd_uuid: ec3rwzf4
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3rwzf4
+  short_link: buildingtransparency.org/p/ec3rwzf4at
+  short_name: Construction products and construction services (EN 15804:A1)
+  status: Expired
+  updated_on: '2025-05-23T21:40:17.201440Z'
+  version: '2.34'
+pct80_gwp_per_category_declared_unit: 11.95824227 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-09-29T19:00:31.510126Z'
+  id: 9e3249bb74f0472a84e18aa1ae6994ea
+  is_failed: false
+  jurisdiction:
+  - US-GA
+  name: Plants 13 and 15
+  owned_by:
+    address: 230 Douthit Ferry Road, Cartersville, GA 30120
+    address_line: 230 Douthit Ferry Road
+    admin_district: GA
+    admin_district2: Bartow
+    alt_names:
+    - Shaw Europe Ltd
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/shaw-contract
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:51:42.416210Z'
+    email_extensions:
+    - shawcontract.com
+    enterprise: true
+    id: f041974544c74b439ed2abf2efcb4e19
+    image: https://static.buildingtransparency.org/images/6ca7e605-2740-41c4-8647-47bd8a9575c0
+    is_failed: false
+    latitude: 34.14848
+    locality: Cartersville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Bartow
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      extendedPostalCode: 30120-4010
+      freeformAddress: 230 Douthit Ferry Road, Cartersville, GA 30120
+      localName: Cartersville
+      municipality: Cartersville
+      postalCode: '30120'
+      streetName: Douthit Ferry Road
+      streetNumber: '230'
+    longitude: -84.82364
+    name: Shaw Contract
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/f041974544c74b439ed2abf2efcb4e19
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30120'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:14:06.159783Z'
+    web_domain: shawcontract.com
+    website: shawcontract.com
+  plants_count: 0
+  total_epds: 3
+  type: PlantGroup
+  updated_on: '2020-09-29T19:02:21.083571Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: "Valhallav\xE4gen 81, 11428 Stockholm"
+  address_line: "81 Valhallav\xE4gen"
+  alt_names:
+  - EnviroDec
+  - environdec
+  - the International EPD System
+  - IES
+  - EPD International
+  - "International EPD\xAE System"
+  - TheInternational EPD System
+  - "The International EPD\xAE System"
+  - The International EPD
+  attachments:
+    General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: SE
+  cqd_sync_unlocked: true
+  created_on: '2019-04-18T13:32:25.465368Z'
+  email_extensions:
+  - environdec.com
+  enterprise: true
+  id: 9857b3f664584fadbadd5e601d9368d4
+  image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+  is_failed: false
+  latitude: 59.34655
+  legal_name: EPD International AB
+  locality: Stockholm
+  location:
+    country: Sweden
+    countryCode: SE
+    countryCodeISO3: SWE
+    freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+    municipality: Stockholm
+    municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+    postalCode: '11428'
+    streetName: "Valhallav\xE4gen"
+    streetNumber: '81'
+  longitude: 18.07285
+  name: EPD International AB
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - '150'
+  postal_code: '11428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-08-13T12:36:34.205186Z'
+  web_domain: environdec.com
+  website: www.environdec.com
+program_operator_fkey: S-P-01241
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3nnw8cww
+standard_deviation: 2.790211825 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 11.95824227 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T04:25:05.490816Z'
+use_stored_carbon: false
+verifier:
+  email: simon.gandy@ricardo.com
+  name: Simon Gandy
+  org:
+    address: 1 Frederick Sanger Road, Guildford
+    address_line: 1 Frederick Sanger Road
+    admin_district: ENG
+    admin_district2: Surrey
+    alt_names:
+    - "\tRicardo Energy & Environment"
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2020-09-09T16:04:34.279652Z'
+    email_extensions:
+    - ricardo.com
+    enterprise: true
+    id: 0b6a1fc543ec4240a8419a1d3bc88840
+    is_failed: false
+    latitude: 51.24042
+    locality: Guildford
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Surrey
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: GU2 7EF, GU2 7YD
+      freeformAddress: 1 Frederick Sanger Road, Guildford
+      localName: Guildford
+      municipality: Guildford
+      municipalitySubdivision: Surrey Research Park
+      postalCode: GU2
+      streetName: Frederick Sanger Road
+      streetNumber: '1'
+    longitude: -0.6142
+    name: Ricardo Energy & Environment
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/0b6a1fc543ec4240a8419a1d3bc88840
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: GU2
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2022-01-03T18:49:52.305474Z'
+    web_domain: ricardo.com
+    website: ricardo.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  - B2_years are empty
+yarn_type: Nylon 6
+yarn_weight: 625 g / m2

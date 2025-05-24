@@ -1,0 +1,645 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/jj-flooring-group
+best_practice: 11.38047743 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '807469566549'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.226286945 kgCO2e
+  pct20_gwp: 6.31150987 kgCO2e
+  pct30_gwp: 7.193005662 kgCO2e
+  pct40_gwp: 8.328409228 kgCO2e
+  pct50_gwp: 10.05624338 kgCO2e
+  pct60_gwp: 11.73431683 kgCO2e
+  pct70_gwp: 13.92024591 kgCO2e
+  pct80_gwp: 16.33810585 kgCO2e
+  pct90_gwp: 20.03417486 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-05-23T10:09:00.788295Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 16.21952257 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-05-05T19:44:42.270313Z'
+date_of_issue: '2019-03-22'
+date_validity_ends: '2024-03-22'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "The problems that can arise when carpet is exposed to moisture are well\
+  \ documented: mold and mildew, odor, product deterioration and total installation\
+  \ failure. However, specifying and installing the right backing, such as J+J Flooring\
+  \ Group\u2019s TitanBac Plus, can effectively prevent typical moisture problems\
+  \ by acting as a moisture barrier to the underlying floor. TitanBac Plus also improves\
+  \ carpet performance by allowing it to be more vigorously cleaned to retain its\
+  \ aesthetic appeal for a longer period of time. TitanBac Plus has a nylon 6 face\
+  \ fiber attached to a latex and polypropylene backing. A representative product\
+  \ within the TitanBac Plus family was chosen. The composition within the TitanBac\
+  \ Plus family of products does not differ other than pigments and dyes used to give\
+  \ each style of broadloom carpet its own distinct appearance. The variation in terms\
+  \ of pigments and dyes used is less than 5% of the total product weight and is excluded\
+  \ from the study. This EPD covers all styles and colors under the TitanBac Plus\
+  \ product family. Specific products can be found on J+J\u2019s website."
+developer:
+  email: jgeibig@ecoform.com
+  name: Jack Geibig
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+doc: buildingtransparency.org/e/ec359pahjb
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: EPD10176_531fd3a1fb2e410abe3d75651e701ed4.pdf
+form_factor: Broadloom
+gwp: 13.8 kgCO2e
+gwp_per_category_declared_unit: 13.8 kgCO2e
+gwp_per_kg: 7.290015848 kgCO2e
+gwp_z: 0.2083266665599966
+gypsum_specific_density: 1.893 kg / m^2
+id: 5e3330e4cf874feb9f0c4bfe99d8d2d5
+image: https://static.buildingtransparency.org/images/996801e7c2554595a41c275a885de449.png
+impacts: {}
+includes: []
+industry_standards: []
+intended_application:
+- Com
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '
+
+
+  ## Product Component Notes
+
+  tufted fiber in both piece (Beck and Skein) and space Table 3: Material Composition
+  (Belmont) dye methods. The last step is packaging for shipment. This product contains
+  no regulated Component Material (Mass %) substances above the required threshold.
+  Nylon 6, Carbon Black, Face Yarn 34.6% 9. Packaging Titanium dioxide Primary Table
+  4: Packaging Inputs Polypropylene 5.8% Backing Secondary Input per sq. m2 Value
+  Unit Polypropylene 2.6% Cardboard 0.031 kg Backing/ Scrim Latex SBR, Calcium carbonate
+  56.9% Paper 0.00004 kg Plastic film 0.013 kg Topical Non-fluoro Stain Resist 0.2%
+  Total 100% 10. Transportation
+
+
+  ## LCA Notes
+
+  Table
+
+
+  ## Source Data Notes
+
+  Primary data was collected by J+J associates for onsite energy, water and waste
+  during the course of manufacturing. Whenever available, supplier data was used for
+  raw materials used in the production process. When primary data did not exist, secondary
+  data for raw material production was used from GaBi Database Version 8.7, Service
+  Pack 35. All calculation procedures adhere to ISO14044.'
+lowest_plausible_gwp: 11.38047743 kgCO2e
+manufacturer:
+  address: 818 J & J Drive, Dalton, GA 30721
+  address_line: 818 J & J Drive
+  admin_district: GA
+  admin_district2: Whitfield
+  alt_names:
+  - J&J Flooring
+  - INVISION
+  - Templeton Hospitality
+  - J+J Flooring Group
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/jj-flooring-group
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-05T15:12:32.907550Z'
+  email_extensions:
+  - jjflooringgroup.com
+  enterprise: true
+  id: 9eed8cf1135f465a87cb81dc183b9e0a
+  is_failed: false
+  latitude: 34.78665
+  legal_name: J&J Flooring Group LLC
+  locality: Dalton
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Whitfield
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Dalton
+    freeformAddress: 818 J & J Drive, Dalton, GA 30721
+    localName: Dalton
+    municipality: Dalton
+    municipalitySubdivision: Dalton
+    postalCode: '30721'
+    streetName: J & J Drive
+    streetNumber: '818'
+  longitude: -84.94676
+  name: J+J Flooring
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9eed8cf1135f465a87cb81dc183b9e0a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30721'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T12:50:03.378008Z'
+  web_domain: jjflooringgroup.com
+  website: www.jjflooringgroup.com
+manufacturer_specific: true
+manufacturing_description: The manufacturing process starts with the fiber production.
+  This includes taking virgin and recycled content nylon granulate feedstock and extrude
+  fibers. This is combined in a fiber blend process to create a typical fiber. These
+  individual fibers then go through the processes of heat setting, air entangling
+  and twisting to create yarn which is then tufted to a primary backing. The primary
+  backing materials differs based on the type of backing being produced. The next
+  step is coating which affixes secondary thermoset (latex) backing to tufted fiber
+  and primary backing. Then, the manufactured secondary thermoplastic backing (PVC
+  and PE) is affixed to the tufted fiber and backing. Finally, dye is applied to the
+  tufted fiber in both piece (Beck and Skein) and space (Belmont) dye methods. The
+  last step is packaging for shipment. This product contains no regulated substances
+  above the required threshold.
+mass_per_declared_unit: 1.893 kg
+matched_plants_count: 0
+material_id: 4912f5649fb54ed4a3e983e67e0f9c39
+multiproduct: false
+my_capabilities: 1
+name: TitanBac Plus Broadloom Carpet
+not_an_epd: false
+open_xpd_uuid: ec359pah
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec359pah
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:57:05.502294Z'
+  date_of_issue: '2018-09-28'
+  date_validity_ends: '2023-09-28'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34962
+  id: 574a7f64f1b8404aa268cef70a98e15c
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - 019
+      order: 1
+  name: 'Part B: Flooring'
+  open_xpd_uuid: ec35g1dj
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec35g1dj
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec35g1djuq
+  short_name: 'Part B: Flooring'
+  status: Expired
+  updated_on: '2023-09-29T00:02:28.126081Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 16.21952257 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 818 J & J Drive, Dalton, GA 30721
+  address_line: 818 J & J Drive
+  admin_district: GA
+  admin_district2: Whitfield
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-08-14T21:00:23.224274Z'
+  id: 07995e73c28a4a5dad595a5a686063ed
+  is_failed: false
+  latitude: 34.78665
+  locality: Dalton
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Whitfield
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Dalton
+    freeformAddress: 818 J & J Drive, Dalton, GA 30721
+    localName: Dalton
+    municipality: Dalton
+    municipalitySubdivision: Dalton
+    postalCode: '30721'
+    streetName: J & J Drive
+    streetNumber: '818'
+  longitude: -84.94676
+  name: Dalton, GA
+  openepd_id: 866QQ3P3+M7.jjflooringgroup.com
+  owned_by:
+    address: 818 J & J Drive, Dalton, GA 30721
+    address_line: 818 J & J Drive
+    admin_district: GA
+    admin_district2: Whitfield
+    alt_names:
+    - J&J Flooring
+    - INVISION
+    - Templeton Hospitality
+    - J+J Flooring Group
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/jj-flooring-group
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-09-05T15:12:32.907550Z'
+    email_extensions:
+    - jjflooringgroup.com
+    enterprise: true
+    id: 9eed8cf1135f465a87cb81dc183b9e0a
+    is_failed: false
+    latitude: 34.78665
+    legal_name: J&J Flooring Group LLC
+    locality: Dalton
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Whitfield
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Dalton
+      freeformAddress: 818 J & J Drive, Dalton, GA 30721
+      localName: Dalton
+      municipality: Dalton
+      municipalitySubdivision: Dalton
+      postalCode: '30721'
+      streetName: J & J Drive
+      streetNumber: '818'
+    longitude: -84.94676
+    name: J+J Flooring
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9eed8cf1135f465a87cb81dc183b9e0a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30721'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T12:50:03.378008Z'
+    web_domain: jjflooringgroup.com
+    website: www.jjflooringgroup.com
+  postal_code: '30721'
+  total_epds: 236
+  type: Plant
+  units: SI
+  updated_on: '2020-07-25T03:00:15.588740Z'
+plant_specific: true
+private: false
+product_classes:
+  UNSPSC:
+  - '30161701'
+product_specific: true
+product_usage_description: "J+J Flooring Group\u2019s TitanBac Plus\xAE is intended\
+  \ for use as a soft floor coveringin medium-to-high traffic commercial applicationssuch\
+  \  as retail,  healthcare,  education,  offices,  public  venues  and  institutional\
+  \  environments.Further information about the product may be found on J+J Flooring\u2019\
+  s website."
+product_usage_image: https://static.buildingtransparency.org/images/b8e56183de504f0d9cf7ad909c0cb000.png
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: EPD10176
+reference_service_life: 15 years
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec359pahjb
+specific_density: 1.893 kg / m^2
+standard_deviation: 2.874907999 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 16.21952257 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T18:44:13.767973Z'
+use_stored_carbon: false
+verifier:
+  email: jgeibig@ecoform.com
+  name: Jack Geibig
+  org:
+    address: 503 West Clinch Avenue, Knoxville, TN 37902
+    address_line: 503 West Clinch Avenue, Clinch Avenue Southwest
+    admin_district: TN
+    admin_district2: Knox
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-14T10:31:46.922611Z'
+    email_extensions:
+    - ecoform.com
+    enterprise: true
+    id: 5e03a97e4f8446ffb04a465e1d82c041
+    is_failed: false
+    latitude: 35.96343
+    locality: Knoxville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Knox
+      countrySubdivision: TN
+      countrySubdivisionName: Tennessee
+      countryTertiarySubdivision: District 1
+      extendedPostalCode: '379022104'
+      freeformAddress: 503 West Clinch Avenue, Knoxville, TN 37902
+      localName: Knoxville
+      municipality: Knoxville
+      municipalitySubdivision: Knoxville
+      postalCode: '37902'
+      streetName: West Clinch Avenue, Clinch Avenue Southwest
+      streetNumber: '503'
+    longitude: -83.92008
+    name: EcoForm
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5e03a97e4f8446ffb04a465e1d82c041
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37902'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-21T03:04:58.033587Z'
+    web_domain: ecoform.com
+    website: http://www.ecoform.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B4_years are empty
+yarn_type: Nylon 6
+yarn_weight: 0.654 kg / m2

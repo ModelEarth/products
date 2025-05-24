@@ -1,0 +1,636 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/bull-moose-tube-company
+best_practice: 1612.291493 kgCO2e
+biogenic_embodied_carbon_z: 0.08084553172563094
+box_id: '1060858109858'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-11-04T15:08:09Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Hollow cross section steel shape, typically referred to as hollow structural
+    section (HSS)
+  display_name: Hollow Sections
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: e96e409053534524b18ca57b992bb328
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 12 00 Structural Steel Framing
+  may_contain_trusted_vendor_declarations: false
+  name: HollowSections
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> StructuralSteel >> HollowSections
+  openepd_name: Steel >> StructuralSteel >> HollowSections
+  parents: []
+  pct10_gwp: 1353.030683 kgCO2e
+  pct20_gwp: 1559.235547 kgCO2e
+  pct30_gwp: 1712.044764 kgCO2e
+  pct40_gwp: 1838.998963 kgCO2e
+  pct50_gwp: 1943.832071 kgCO2e
+  pct60_gwp: 2120.163034 kgCO2e
+  pct70_gwp: 2236.388547 kgCO2e
+  pct80_gwp: 2451.665069 kgCO2e
+  pct90_gwp: 3115.900737 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Hollow Sections
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30104000'
+  updated_on: '2025-05-23T10:08:57.756828Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1847.708507 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-11-08T18:33:54.641576Z'
+date_of_issue: '2021-01-01'
+date_validity_ends: '2026-01-01'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 7870 kg / m3
+description: "Steel Tubes covered under this declaration represent hollow structural\
+  \ sections, mechanical tube, and sprinkler pipe.  These products can have circular,\
+  \ square, or rectangular cross sections, and are widely used in building, bridge\
+  \ and industrial projects. Bull Moose Tube produces tube in the range of 0.50\u201D\
+  \ to 12\u201D, with wall thickness of 0.0359\u201D to 0.625\u201D. Bull Moose Tube\
+  \ produces Pipe from 1\u201D NPS to 4\u201D NPS. The engineered wall thickness of\
+  \ Bull Moose pipe is Schedule 10 and Schedule 40."
+developer:
+  email: tgarvey@scsglobalservices.com
+  name: Tess Garvey
+  org:
+    address: Global Logistics Drive, Lansing, MI 48906
+    address_line: ' Global Logistics Drive, Airport Perimeter Road'
+    admin_district: MI
+    admin_district2: Ingham, Eaton
+    alt_names:
+    - SCS
+    - SCS Global
+    - scsGlobalServices
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-25T13:59:24.810293Z'
+    email_extensions:
+    - scsglobalservices.com
+    enterprise: true
+    id: 58769e2d26d84d8f99bd07fda78bf79b
+    image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+    is_failed: false
+    latitude: 42.76946
+    legal_name: SCS Global Services
+    locality: Lansing
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ingham, Eaton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+      freeformAddress: Global Logistics Drive, Lansing, MI 48906
+      municipality: Lansing
+      municipalitySubdivision: Lansing
+      postalCode: '48906'
+      streetName: Global Logistics Drive, Airport Perimeter Road
+    longitude: -84.5792
+    name: SCS Global Services
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48906'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2024-07-24T17:01:16.978616Z'
+    web_domain: scsglobalservices.com
+    website: https://www.scsglobalservices.com/
+doc: buildingtransparency.org/e/ec3ztdqjgx
+en_standards: []
+excluded: false
+externally_verified: true
+file_name: SCS-EPD-07425_C2-BMT_Steel-Tube_110921_fa2328730a524a6bbab72cb751de0d5f.pdf
+galvanized: false
+gwp: 1730 kgCO2e
+gwp_per_category_declared_unit: 1730 kgCO2e
+gwp_per_kg: 1.73 kgCO2e
+gwp_z: 0.08084553172563094
+id: 731233e6f9d84c3caf3c8b1b0d126413
+image: https://static.buildingtransparency.org/images/cbb8aebe21ad4b569f5646cc367096f1.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1612.291493 kgCO2e
+manufacturer:
+  address: 1819 Clarkson Rd, Chesterfield, MO 63017, USA
+  address_line: 1819 Clarkson Rd
+  admin_district: MO
+  admin_district2: St Louis County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/bull-moose-tube-company
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-07-21T17:08:10.603247Z'
+  enterprise: false
+  id: d967dde7200d462ebceb46061420aaf6
+  image: https://static.buildingtransparency.org/images/2fe070147e55400e88e6a015c9d110f3.png
+  is_failed: false
+  latitude: 38.6383814
+  locality: Chesterfield
+  location:
+  - long_name: '1819'
+    short_name: '1819'
+    types:
+    - street_number
+  - long_name: Clarkson Road
+    short_name: Clarkson Rd
+    types:
+    - route
+  - long_name: Chesterfield
+    short_name: Chesterfield
+    types:
+    - locality
+    - political
+  - long_name: Chesterfield Township
+    short_name: Chesterfield Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: St. Louis County
+    short_name: St Louis County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Missouri
+    short_name: MO
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '63017'
+    short_name: '63017'
+    types:
+    - postal_code
+  - long_name: '5071'
+    short_name: '5071'
+    types:
+    - postal_code_suffix
+  longitude: -90.5717806
+  name: Bull Moose Tube
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d967dde7200d462ebceb46061420aaf6
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '63017'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T12:26:03.925095Z'
+  web_domain: bullmoosetube.com
+  website: https://www.bullmoosetube.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 06b0109a865f44159980d55ed658e99e
+multiproduct: true
+my_capabilities: 1
+name: Steel Pipe and Tube
+not_an_epd: false
+open_xpd_uuid: ec35j8uy
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec35j8uy
+output_flows: {}
+owner:
+  name: Vaclav Admin
+  user_id: vaclav.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Designated Steel Construction Product EPD Requirements'
+  - 'Product Category Rule (PCR) Guidance for Building-Related Products and Services
+    Part B: Designated Steel Construction Product EPD Requirements'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-06-08T21:43:47.495368Z'
+  date_of_issue: '2020-12-31'
+  date_validity_ends: '2025-12-31'
+  declared_units:
+  - 1 tonne
+  - 1 m
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?productId=ULE10010-34_2_S_20200826
+  id: 191899c123a64689a0051239c7ec8eb0
+  is_failed: false
+  lcia_requirements:
+    IPCC AR5:
+      impacts:
+      - gwp-luluc
+      - gwp
+      - gwp-fossil
+      - gwp-biogenic
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts:
+      - odp
+      - ep-terrestrial
+      - ep-fresh
+      - ap
+      - ep
+      - pocp
+      - ep-marine
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Designated Steel Construction Products'
+  open_xpd_uuid: ec3y4rsh
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3y4rsh
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3y4rshx6
+  short_name: 'Part B: Designated Steel Construction Products'
+  updated_on: '2024-07-18T15:18:59.717737Z'
+  version: '2'
+pcr_notes: "After investigation, we find that the \u2018mill product\u2019 listed\
+  \ in the Bull Moose Tube Hollow Structural Sections represents a generic coil steel.\
+  \  The product labeled as  \u201Cfabricated\u201D in the EPD is for standard lengths\
+  \ of tube, which in EC3 is considered an \u2018unfabricated HSS\u2019."
+pct80_gwp_per_category_declared_unit: 1847.708507 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 195 N Industrial Blvd, Trenton, GA 30752, USA
+  address_line: 195 N Industrial Blvd
+  admin_district: GA
+  admin_district2: Dade County
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-07-21T17:12:21.513868Z'
+  id: dd8d97ff4a1741f9921735e9a634c116
+  is_failed: false
+  latitude: 34.8803444
+  locality: Trenton
+  location:
+  - long_name: '195'
+    short_name: '195'
+    types:
+    - street_number
+  - long_name: North Industrial Boulevard
+    short_name: N Industrial Blvd
+    types:
+    - route
+  - long_name: Trenton
+    short_name: Trenton
+    types:
+    - locality
+    - political
+  - long_name: Dade County
+    short_name: Dade County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30752'
+    short_name: '30752'
+    types:
+    - postal_code
+  - long_name: '2238'
+    short_name: '2238'
+    types:
+    - postal_code_suffix
+  longitude: -85.4990972
+  name: Trenton, GA
+  openepd_id: 866PVGJ2+49.bullmoosetube.com
+  owned_by:
+    address: 1819 Clarkson Rd, Chesterfield, MO 63017, USA
+    address_line: 1819 Clarkson Rd
+    admin_district: MO
+    admin_district2: St Louis County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/bull-moose-tube-company
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-07-21T17:08:10.603247Z'
+    enterprise: false
+    id: d967dde7200d462ebceb46061420aaf6
+    image: https://static.buildingtransparency.org/images/2fe070147e55400e88e6a015c9d110f3.png
+    is_failed: false
+    latitude: 38.6383814
+    locality: Chesterfield
+    location:
+    - long_name: '1819'
+      short_name: '1819'
+      types:
+      - street_number
+    - long_name: Clarkson Road
+      short_name: Clarkson Rd
+      types:
+      - route
+    - long_name: Chesterfield
+      short_name: Chesterfield
+      types:
+      - locality
+      - political
+    - long_name: Chesterfield Township
+      short_name: Chesterfield Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: St. Louis County
+      short_name: St Louis County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Missouri
+      short_name: MO
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '63017'
+      short_name: '63017'
+      types:
+      - postal_code
+    - long_name: '5071'
+      short_name: '5071'
+      types:
+      - postal_code_suffix
+    longitude: -90.5717806
+    name: Bull Moose Tube
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d967dde7200d462ebceb46061420aaf6
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '63017'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T12:26:03.925095Z'
+    web_domain: bullmoosetube.com
+    website: https://www.bullmoosetube.com/
+  postal_code: '30752'
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2024-08-27T15:51:57.128331Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-07425
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec35j8uyca
+stainless: false
+standard_deviation: 139.8627699 kgCO2e
+steel_fabricated: false
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1847.708507 kgCO2e
+uncertainty_factor: 1.068039599500291
+updated_on: '2025-01-14T20:52:01.248383Z'
+use_stored_carbon: false
+verifier:
+  email: tgloria@industrial-ecology.com
+  name: Thomas P. Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

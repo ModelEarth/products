@@ -1,0 +1,660 @@
+also_shown_in: []
+applicable_in:
+- '021'
+approved_fields: {}
+best_practice: 0.9545218821 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:52.290863Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Non-rigid insulation batts, blankets, and rolls
+  display_name: Blanket
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 53a5d5bee64545f1bdd60e102a4a6ddf
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.23 kg
+  massless: false
+  masterformat: 07 21 16 Blanket Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BlanketInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  parents: []
+  pct10_gwp: 1.001082821 kgCO2e
+  pct20_gwp: 1.336528407 kgCO2e
+  pct30_gwp: 1.597270375 kgCO2e
+  pct40_gwp: 1.986303851 kgCO2e
+  pct50_gwp: 2.504225973 kgCO2e
+  pct60_gwp: 3.129296385 kgCO2e
+  pct70_gwp: 3.79777691 kgCO2e
+  pct80_gwp: 4.765875952 kgCO2e
+  pct90_gwp: 6.094585031 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Blanket
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2025-05-23T10:09:05.238044Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 1.365478118 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-06-05T17:18:24.045272Z'
+date_of_issue: '2024-06-05'
+date_validity_ends: '2029-06-05'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "Product Identification\nInsulPure FSK Faced Duct Wrap is an easy, cost-effective\
+  \ method to help conserve energy in residential and commercial new construction,\
+  \ remodeling and re-insulation projects. Fiberglass Building Insulation is intended\
+  \ for use in either residential or commercial construction as thermal and acoustical\
+  \ insulation in ceilings, walls and floors. InsulPure FSK Faced Duct Wrap is composed\
+  \ of white uniformly textured, inorganic fibrous glass and formed with a formaldehyde-free\
+  \ binding agent. InsulPure FSK Faced Duct Wrap is available Faced (FSK) or Unfaced.\
+  \ \nProduct Specification\n\u2022\tInsulPure FSK Faced Duct Wrap\xAE brings you\
+  \ long-lasting comfort through thermal performance, reduced noise levels and exceeds\
+  \ California's strict Indoor Air Quality Requirements, all the while saving 12 times\
+  \ as much energy in its first year as the energy used to produce it. Plus, it will\
+  \ last for the life of the building as it won't settle, accumulate moisture or lose\
+  \ its R-value over time.\n\u2022\tRenewable. Recycled. Plant Based.\no\tCertainTeed\
+  \ InsulPure FSK Faced Duct Wrap is made of fiberglass that consists of rapidly renewable\
+  \ content, a high percentage of recycled glass, and a new plant-based binder that\
+  \ has no formaldehyde, harsh acrylics, dyes or unnecessary fire retardants added."
+developer:
+  org:
+    address: 20 Moores Rd, Malvern, PA 19355, USA
+    address_line: 20 Moores Rd
+    admin_district: PA
+    admin_district2: Chester County
+    alt_names:
+    - CertainTeed Gypsum, Inc
+    - CertainTeed Insulation Group
+    - CertainTeed
+    - CertainTeed Ceilings
+    - CertainTeed Gypsum Canada
+    - CertainTeed Gypsum
+    - CertainTeed Gypsum, Inc.
+    - Certainteed Gypsum
+    - CertainTeed Insulation
+    - CertainTeed Roofing
+    - CertainTeed Saint-Gobain
+    attachments:
+      Ecomedes: https://saintgobain.ecomedes.com/
+      TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:45:09.590285Z'
+    currency: USD
+    email_extensions:
+    - certainteed.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+    id: 4f0f4939d54945a08051f4c048ac71c0
+    image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+    is_failed: false
+    latitude: 40.0539584
+    legal_name: CertainTeed
+    locality: Malvern
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Moores Road
+      short_name: Moores Rd
+      types:
+      - route
+    - long_name: Malvern
+      short_name: Malvern
+      types:
+      - locality
+      - political
+    - long_name: East Whiteland Township
+      short_name: East Whiteland Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Chester County
+      short_name: Chester County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '19355'
+      short_name: '19355'
+      types:
+      - postal_code
+    - long_name: '1114'
+      short_name: '1114'
+      types:
+      - postal_code_suffix
+    longitude: -75.5576008
+    name: CertainTeed Saint-Gobain
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19355'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-08-30T23:41:13.973616Z'
+    web_domain: certainteed.com
+    website: www.certainteed.com
+doc: smartepd.com/epd-library/660304df82be456744beb271
+epd_degraded: false
+excluded: false
+externally_verified: true
+gwp: 1.16 kgCO2e
+gwp_per_category_declared_unit: 1.16 kgCO2e
+gwp_per_kg: 2.035087719 kgCO2e
+gwp_z: 0.2104756517984919
+id: 408feada8ce64f558fe58c82126d86b6
+image: https://smartepd.com/api/epd-library/660304df82be456744beb271/gallery/product_image
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: false
+is_failed: false
+jurisdiction:
+- US-GA
+- '021'
+language: en
+lowest_plausible_gwp: 0.9545218821 kgCO2e
+manufacturer:
+  address: 20 Moores Rd, Malvern, PA 19355, USA
+  address_line: 20 Moores Rd
+  admin_district: PA
+  admin_district2: Chester County
+  alt_names:
+  - CertainTeed Gypsum, Inc
+  - CertainTeed Insulation Group
+  - CertainTeed
+  - CertainTeed Ceilings
+  - CertainTeed Gypsum Canada
+  - CertainTeed Gypsum
+  - CertainTeed Gypsum, Inc.
+  - Certainteed Gypsum
+  - CertainTeed Insulation
+  - CertainTeed Roofing
+  - CertainTeed Saint-Gobain
+  attachments:
+    Ecomedes: https://saintgobain.ecomedes.com/
+    TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:45:09.590285Z'
+  currency: USD
+  email_extensions:
+  - certainteed.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+  id: 4f0f4939d54945a08051f4c048ac71c0
+  image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+  is_failed: false
+  latitude: 40.0539584
+  legal_name: CertainTeed
+  locality: Malvern
+  location:
+  - long_name: '20'
+    short_name: '20'
+    types:
+    - street_number
+  - long_name: Moores Road
+    short_name: Moores Rd
+    types:
+    - route
+  - long_name: Malvern
+    short_name: Malvern
+    types:
+    - locality
+    - political
+  - long_name: East Whiteland Township
+    short_name: East Whiteland Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Chester County
+    short_name: Chester County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19355'
+    short_name: '19355'
+    types:
+    - postal_code
+  - long_name: '1114'
+    short_name: '1114'
+    types:
+    - postal_code_suffix
+  longitude: -75.5576008
+  name: CertainTeed Saint-Gobain
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '19355'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-08-30T23:41:13.973616Z'
+  web_domain: certainteed.com
+  website: www.certainteed.com
+manufacturer_specific: true
+manufacturing_image: https://smartepd.com/api/epd-library/660304df82be456744beb271/gallery/product_flow_diagram
+mass_per_declared_unit: 0.57 kg
+matched_plants_count: 0
+material_id: eecc7254267b4eeb817752614299500b
+my_capabilities: 1
+name: InsulPure FSK Faced Duct Wrap
+not_an_epd: false
+open_xpd_uuid: ec3ckwyk
+original_data_format: openEPDv1.0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ckwyk
+output_flows: {}
+owner:
+  name: Anna Lasso
+  user_id: anna.lasso@smartepd.com
+pcr:
+  alt_names:
+  - 'Part B: Building Envelope Thermal Insulation EPD requirements'
+  - 'Part B: Building Thermal Insulation EPD Requirements UL 10010-1(2nd edition,
+    April 10, 2018)'
+  - 'PCR for preparing an EPD for Product Group: Building Envelope Thermal Insulation'
+  - PCR for Building Envelope Thermal Insulation
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:19.470071Z'
+  date_of_issue: '2023-04-06'
+  date_validity_ends: '2024-04-06'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34197
+  id: af1087300982459398cb8bd7734ce08d
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 3
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 4
+    IPCC AR5:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Building Envelope Thermal Insulation Products'
+  open_xpd_uuid: ec3qgwtt
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qgwtt
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qgwttac
+  short_name: 'Part B: Building Envelope Thermal Insulation'
+  status: Expired
+  updated_on: '2025-05-23T21:40:17.595001Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 1.365478118 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 425 Athena Drive, Athens, GA 30601
+  address_line: 425 Athena Drive
+  admin_district: GA
+  admin_district2: Clarke
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-03-19T17:27:59.967536Z'
+  id: b8c0cfea73a14c5a8945f3ca1b7fce23
+  is_failed: false
+  latitude: 33.97862
+  locality: Athens
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Clarke
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Winterville
+    freeformAddress: 425 Athena Drive, Athens, GA 30601
+    localName: Athens
+    municipality: Athens
+    municipalitySubdivision: Athens, Athens (Clarke County)
+    postalCode: '30601'
+    streetName: Athena Drive
+    streetNumber: '425'
+  longitude: -83.3334
+  name: CertainTeed Interior Products Group
+  openepd_id: 865RXMJ7+38.certainteed.com
+  owned_by:
+    address: 20 Moores Rd, Malvern, PA 19355, USA
+    address_line: 20 Moores Rd
+    admin_district: PA
+    admin_district2: Chester County
+    alt_names:
+    - CertainTeed Gypsum, Inc
+    - CertainTeed Insulation Group
+    - CertainTeed
+    - CertainTeed Ceilings
+    - CertainTeed Gypsum Canada
+    - CertainTeed Gypsum
+    - CertainTeed Gypsum, Inc.
+    - Certainteed Gypsum
+    - CertainTeed Insulation
+    - CertainTeed Roofing
+    - CertainTeed Saint-Gobain
+    attachments:
+      Ecomedes: https://saintgobain.ecomedes.com/
+      TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:45:09.590285Z'
+    currency: USD
+    email_extensions:
+    - certainteed.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+    id: 4f0f4939d54945a08051f4c048ac71c0
+    image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+    is_failed: false
+    latitude: 40.0539584
+    legal_name: CertainTeed
+    locality: Malvern
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Moores Road
+      short_name: Moores Rd
+      types:
+      - route
+    - long_name: Malvern
+      short_name: Malvern
+      types:
+      - locality
+      - political
+    - long_name: East Whiteland Township
+      short_name: East Whiteland Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Chester County
+      short_name: Chester County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '19355'
+      short_name: '19355'
+      types:
+      - postal_code
+    - long_name: '1114'
+      short_name: '1114'
+      types:
+      - postal_code_suffix
+    longitude: -75.5576008
+    name: CertainTeed Saint-Gobain
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19355'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-08-30T23:41:13.973616Z'
+    web_domain: certainteed.com
+    website: www.certainteed.com
+  postal_code: '30601'
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-03-19T17:27:59.967547Z'
+plant_specific: true
+private: false
+product_classes:
+  Masterformat:
+  - 072100- Thermal Insulation
+  UNSPSC:
+  - '30141500'
+product_specific: true
+program_operator:
+  address: Herndon, VA 20170, USA
+  admin_district: VA
+  admin_district2: Fairfax County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-11-14T14:43:39.418085Z'
+  enterprise: false
+  horizontal_logo: https://static.buildingtransparency.org/images/dccbe440b77946aba8946288b12c5701.png
+  id: bf9d0aaa64de490bbd874ae435e9945e
+  image: https://static.buildingtransparency.org/images/2b6cf66bb7ea4c8d8e7dbd674b0f8d29.png
+  is_failed: false
+  latitude: 38.9695545
+  locality: Herndon
+  location:
+  - long_name: Herndon
+    short_name: Herndon
+    types:
+    - locality
+    - political
+  - long_name: Fairfax County
+    short_name: Fairfax County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Virginia
+    short_name: VA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '20170'
+    short_name: '20170'
+    types:
+    - postal_code
+  longitude: -77.3860976
+  name: Smart EPD LLC
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf9d0aaa64de490bbd874ae435e9945e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20170'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2025-01-22T21:59:42.873726Z'
+  web_domain: smartepd.com
+  website: www.smartepd.com
+resource_uses: {}
+sanitizable: false
+short_link: buildingtransparency.org/e/ec3ckwykgt
+standard_deviation: 0.2441517561 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.365478118 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-06-27T19:38:31.672960Z'
+use_stored_carbon: false
+verifier:
+  email: cher.xue@truenorthcollective.net
+  name: cher.xue
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2023-05-25T22:03:37.529351Z'
+    enterprise: false
+    id: 4a04a7e4f49c4f4d9a222a2cbcca1671
+    is_failed: false
+    name: TrueNorth Collective
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4a04a7e4f49c4f4d9a222a2cbcca1671
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    updated_on: '2024-04-08T18:51:01.440454Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: truenorthcollective.net
+    website: https://www.truenorthcollective.net/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Verifier is not employee of verifier org

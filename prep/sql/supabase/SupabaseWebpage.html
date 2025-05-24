@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Supabase Data Display</title>
+
+  <link type="text/css" rel="stylesheet" href="/localsite/css/base.css" id="/localsite/css/base.css" />
+  <script type="text/javascript" src="/localsite/js/localsite.js?showheader=true&showsearch=true"></script>
+
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    table, th, td {
+      border: 1px solid black;
+    }
+    th, td {
+      padding: 8px;
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+  <div class="content contentpadding large-list">
+
+  <a href="../../../">Profile Panels</a>
+  <h1>Data from Supabase</h1>
+  <label for="table-select"></label>
+  <select id="table-select" onchange="fetchAndPopulate()"></select>
+  <button onclick="fetchAndPopulate()" class="btn btn-success">View</button>
+
+  <div id="dataMessage"></div>
+
+  <table id="data-table">
+    <thead id="table-headers">
+      <!-- Table headers will be inserted here dynamically -->
+    </thead>
+    <tbody id="table-body">
+      <!-- Data will be inserted here by JavaScript -->
+    </tbody>
+  </table>
+
+  <br><br>
+  View <a href="../../../trade/">related TO DOs</a>
+  
+  <br><br><hr>
+  About our <a href="/profile/trade/">Trade Flow</a> data visualization and <a href="./">Supabase from .csv files</a><br><br>
+
+  <!-- Include Supabase JavaScript library -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script>
+  <script>
+    // Initialize Supabase client
+    const supabaseUrl = 'https://ivlbvaqjjklzallpvjvi.supabase.co'; // Replace with your Supabase project URL
+    const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Iml2bGJ2YXFqamtsemFsbHB2anZpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTgyNDIzNzcsImV4cCI6MjAzMzgxODM3N30.GWAujC6YvjoDUF45ZAUDmR2Vu2ZCyyxwbe-zkJWIUFU'; // Replace with your Supabase anon key
+    const supabase = createSupabaseClient(supabaseUrl, supabaseKey);
+
+    // Function to create Supabase client
+    function createSupabaseClient(url, key) {
+      return window.supabase.createClient(url, key);
+    }
+
+    // List of tables
+    const tables = [
+      'Commodity',
+      'CommodityUS',
+      'Flow',
+      'ImportCommodityUS',
+      'ImportContributionsUS',
+      'ImportMultiplierUS',
+      'ImportSectorUS',
+      'SectorUS'
+    ];
+
+    // Function to populate table select dropdown with tables
+    function populateTableSelect() {
+      const tableSelect = document.getElementById('table-select');
+      tableSelect.innerHTML = '<option value="">Select a table</option>';
+
+      tables.forEach(table => {
+        const option = document.createElement('option');
+        option.value = table;
+        option.textContent = table;
+        tableSelect.appendChild(option);
+      });
+    }
+
+    // Function to fetch data from selected table
+    async function fetchData(tableName) {
+      try {
+        const { data, error } = await supabase
+          .from(tableName)
+          .select('*');
+
+        if (error) {
+          console.error('Error fetching data:', error.message);
+          return null;
+        } else {
+          return data;
+        }
+      } catch (error) {
+        console.error('Error fetching data:', error.message);
+        return null;
+      }
+    }
+
+    // Function to populate the table with data
+    function populateTable(data) {
+      const tableBody = document.getElementById('table-body');
+      tableBody.innerHTML = '';
+      data.forEach(row => {
+        const tableRow = document.createElement('tr');
+        Object.keys(row).forEach(key => {
+          const cell = document.createElement('td');
+          cell.textContent = row[key];
+          tableRow.appendChild(cell);
+        });
+        tableBody.appendChild(tableRow);
+      });
+    }
+
+    // Function to dynamically generate table headers
+    function generateTableHeaders(headers) {
+      const tableHeaders = document.getElementById('table-headers');
+      tableHeaders.innerHTML = '';
+
+      const headerRow = document.createElement('tr');
+      headers.forEach(headerText => {
+        const header = document.createElement('th');
+        header.textContent = headerText;
+        headerRow.appendChild(header);
+      });
+
+      tableHeaders.appendChild(headerRow);
+    }
+
+    // Function to fetch and populate data based on selected table
+    async function fetchAndPopulate() {
+      const tableSelect = document.getElementById('table-select');
+      const selectedTable = tableSelect.value;
+
+      if (!selectedTable) {
+        document.getElementById('dataMessage').innerHTML  = "<div style='padding:10px'>No table selected.</div>";
+        document.getElementById('table-headers').innerHTML = '';
+        document.getElementById('table-body').innerHTML = '';
+        return;
+      } else {
+        document.getElementById('dataMessage').innerHTML  = "";
+      }
+
+      const data = await fetchData(selectedTable);
+      if (data) {
+        const headers = Object.keys(data[0]); // Assuming the first row exists and has all headers
+        generateTableHeaders(headers);
+        populateTable(data);
+      } else {
+        console.error('Failed to fetch data');
+      }
+    }
+
+    // Populate table select dropdown on page load
+    populateTableSelect();
+  </script>
+
+</div>
+</body>
+</html>

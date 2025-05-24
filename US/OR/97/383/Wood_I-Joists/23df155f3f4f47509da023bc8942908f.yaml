@@ -1,0 +1,562 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/redbuilt
+best_practice: 4.196604826 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '739624497415'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-07-18T14:11:36.992603Z'
+  declared_unit: 1 m
+  default_distance: 56.3269 km
+  default_transport_mode: truck, unspecified
+  description: Prefabricated I-shaped engineered wood structural members made primarily
+    from one or more types of wood. Includes products made with metallic webbing.
+    Excludes products where the wood is merely decorative.
+  display_name: Wood I-Joists
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 470b6ba66fda46f3b85a33bfc4fef4b1
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 4.54 kg
+  massless: false
+  masterformat: 06 17 33 Wood I-Joists
+  may_contain_trusted_vendor_declarations: false
+  name: WoodJoists
+  no_statistics: false
+  obsolete: false
+  openepd: WoodJoists
+  openepd_name: WoodJoists
+  parents: []
+  pct10_gwp: 1.418368761 kgCO2e
+  pct20_gwp: 1.531099233 kgCO2e
+  pct30_gwp: 1.688004771 kgCO2e
+  pct40_gwp: 1.814879978 kgCO2e
+  pct50_gwp: 1.971884628 kgCO2e
+  pct60_gwp: 2.145170967 kgCO2e
+  pct70_gwp: 2.323254289 kgCO2e
+  pct80_gwp: 2.586614782 kgCO2e
+  pct90_gwp: 3.417961531 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Wood I-Joists
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103607'
+  updated_on: '2025-05-23T10:09:03.806229Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 6.003395174 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-11-09T21:29:13.860846Z'
+date_of_issue: '2020-03-16'
+date_validity_ends: '2021-08-15'
+declaration_type: Product EPD
+declared_unit: 1 m
+density: 562.5 kg / m3
+description: "Red-I\u2122 I-Joists are engineered wood products manufactured in Stayton,\
+  \ Oregon and comprised mainly of two flanges and oriented strand board (OSB) web.\
+  \ The flanges are made from RedLam\u2122 Laminated Veneer Lumber (RedLam\u2122 LVL)\
+  \ cut to specific dimensions, while the web material is made from OSB panel. The\
+  \ web-to-flanges connection is a proprietary tongue-and-groove glued joint, forming\
+  \ the \u201CI\u201D shape cross-section. For the Red-I\u2122 I-Joist series, dimensions\
+  \ of top and bottom flanges range from 1-3/8\u201D x 1-3/4\u201D (34.9 mm x 44.5\
+  \ mm) to 2-1/2\u201D x 3-1/2\u201D (63.5 mm x 88.9 mm), OSB web thickness range\
+  \ from 3/8\u201D (9.5 mm) to 1/2\u201D (12.7 mm), and I-Joists depths range from\
+  \ 9-1/2\u201D (241 mm) to 32\u201D (813 mm). Red-I\u2122 I-Joists are engineered\
+  \ to replace structural lumber in floor, ceiling, and roof applications."
+developer:
+  email: info@scsglobalservices.com
+  name: SCS Global Services Staff
+  org:
+    address: Global Logistics Drive, Lansing, MI 48906
+    address_line: ' Global Logistics Drive, Airport Perimeter Road'
+    admin_district: MI
+    admin_district2: Ingham, Eaton
+    alt_names:
+    - SCS
+    - SCS Global
+    - scsGlobalServices
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-25T13:59:24.810293Z'
+    email_extensions:
+    - scsglobalservices.com
+    enterprise: true
+    id: 58769e2d26d84d8f99bd07fda78bf79b
+    image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+    is_failed: false
+    latitude: 42.76946
+    legal_name: SCS Global Services
+    locality: Lansing
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ingham, Eaton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+      freeformAddress: Global Logistics Drive, Lansing, MI 48906
+      municipality: Lansing
+      municipalitySubdivision: Lansing
+      postalCode: '48906'
+      streetName: Global Logistics Drive, Airport Perimeter Road
+    longitude: -84.5792
+    name: SCS Global Services
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48906'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2024-07-24T17:01:16.978616Z'
+    web_domain: scsglobalservices.com
+    website: https://www.scsglobalservices.com/
+doc: buildingtransparency.org/e/ec3fqtjm8w
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: SCS-EPD-04127_RedBuilt_Red-I_44934d33fdc8494cb297874826d21e98.pdf
+forest_practices_certifiers: []
+gwp: 5.1 kgCO2e
+gwp_per_category_declared_unit: 5.1 kgCO2e
+gwp_per_kg: 1.507181685 kgCO2e
+gwp_z: 0.2104756517984919
+id: 77cc8f757c544d78b396ce03cb1b3c24
+impacts: {}
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: "\n\n## Source Data Notes\nDisclaimers: This Environmental Product\
+  \ Declaration (EPD) conforms to ISO 21930, 14025, 14040, and ISO 14044. Scope of\
+  \ Results Reported: The PCR requirements limit the scope of the LCA metrics such\
+  \ that the results exclude environmental and social performance benchmarks and thresholds,\
+  \ and exclude impacts from the depletion of natural resources, land use ecological\
+  \ impacts, ocean impacts related to greenhouse gas emissions, risks from hazardous\
+  \ wastes and impacts linked to hazardous chemical emissions. Accuracy of Results:\
+  \ Due to PCR constraints, this EPD provides estimations of potential impacts that\
+  \ are inherently limited in terms of accuracy. Comparability: The PCR this EPD was\
+  \ based on was not written to support comparative assertions. EPDs based on different\
+  \ PCRs, or different calculation models, may not be comparable. When attempting\
+  \ to compare EPDs or life cycle impacts of products from different companies, the\
+  \ user should be aware of the uncertainty in the final results, due to and not limited\
+  \ to, the practitioner\u2019s assumptions, the source of the data used in the study,\
+  \ and the specifics of the product modeled."
+lowest_plausible_gwp: 4.196604826 kgCO2e
+manufacturer:
+  address: 200 East Mallard Drive, Boise, ID 83706
+  address_line: 200 East Mallard Drive
+  admin_district: ID
+  admin_district2: Ada
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/redbuilt
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:44:19.592521Z'
+  email_extensions:
+  - redbuilt.com
+  enterprise: true
+  id: ebec9f582a6448849ef046f9c9e9552d
+  image: https://static.buildingtransparency.org/images/038210aa-4155-4dfa-bb40-7e613ffd8c46.png
+  is_failed: false
+  latitude: 43.59604
+  locality: Boise
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ada
+    countrySubdivision: ID
+    countrySubdivisionName: Idaho
+    countryTertiarySubdivision: Boise City
+    extendedPostalCode: '837063974'
+    freeformAddress: 200 East Mallard Drive, Boise, ID 83706
+    localName: Boise
+    municipality: Boise
+    municipalitySubdivision: Boise, Boise City
+    postalCode: '83706'
+    streetName: East Mallard Drive
+    streetNumber: '200'
+  longitude: -116.18117
+  name: RedBuilt
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/ebec9f582a6448849ef046f9c9e9552d
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '83706'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:10:16.968294Z'
+  web_domain: redbuilt.com
+  website: https://www.redbuilt.com/
+manufacturer_specific: true
+mass_per_declared_unit: 3.38379908 kg
+matched_plants_count: 0
+material_id: 23df155f3f4f47509da023bc8942908f
+multiproduct: true
+my_capabilities: 1
+name: Red-I90 I-Joist
+not_an_epd: false
+open_xpd_uuid: ec3fqtjm
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3fqtjm
+output_flows: {}
+owner:
+  name: Vaclav Hasik
+  user_id: vaclav.hasik@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:19.087183Z'
+  date_of_issue: '2015-06-18'
+  date_validity_ends: '2020-06-18'
+  declared_units:
+  - 1 m3
+  - 1 m2
+  - 1 m
+  doc: https://app.box.com/file/596557916018
+  id: 4ff5aaa044664017ab0638ae0ed7a28e
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: North American Structural and Architectural Wood Products
+  open_xpd_uuid: ec38861n
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec38861n
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec38861n82
+  short_name: North American Structural and Architectural Wood Products
+  status: Expired
+  updated_on: '2025-05-23T21:40:17.378163Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 6.003395174 kgCO2e
+plant_geography:
+- US-OR
+plant_or_group:
+  address: 2345 Deschutes Drive, Stayton, OR 97383
+  address_line: 2345 Deschutes Drive
+  admin_district: OR
+  admin_district2: Marion
+  carbon_intensity: 643.363 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-08-17T20:07:06.107158Z'
+  id: 0a697b8e5b984d1da2fbd6b983c2afc9
+  is_failed: false
+  latitude: 44.80063
+  locality: Stayton
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Marion
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    countryTertiarySubdivision: Stayton
+    freeformAddress: 2345 Deschutes Drive, Stayton, OR 97383
+    localName: Stayton
+    municipality: Stayton
+    municipalitySubdivision: Stayton
+    postalCode: '97383'
+    streetName: Deschutes Drive
+    streetNumber: '2345'
+  longitude: -122.8162
+  name: Stayton OR
+  openepd_id: 84PVR52M+7G.redbuilt.com
+  owned_by:
+    address: 200 East Mallard Drive, Boise, ID 83706
+    address_line: 200 East Mallard Drive
+    admin_district: ID
+    admin_district2: Ada
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/redbuilt
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:44:19.592521Z'
+    email_extensions:
+    - redbuilt.com
+    enterprise: true
+    id: ebec9f582a6448849ef046f9c9e9552d
+    image: https://static.buildingtransparency.org/images/038210aa-4155-4dfa-bb40-7e613ffd8c46.png
+    is_failed: false
+    latitude: 43.59604
+    locality: Boise
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ada
+      countrySubdivision: ID
+      countrySubdivisionName: Idaho
+      countryTertiarySubdivision: Boise City
+      extendedPostalCode: '837063974'
+      freeformAddress: 200 East Mallard Drive, Boise, ID 83706
+      localName: Boise
+      municipality: Boise
+      municipalitySubdivision: Boise, Boise City
+      postalCode: '83706'
+      streetName: East Mallard Drive
+      streetNumber: '200'
+    longitude: -116.18117
+    name: RedBuilt
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ebec9f582a6448849ef046f9c9e9552d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '83706'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:10:16.968294Z'
+    web_domain: redbuilt.com
+    website: https://www.redbuilt.com/
+  postal_code: '97383'
+  total_epds: 8
+  type: Plant
+  units: SI
+  updated_on: '2021-06-04T12:03:00.761465Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-04127
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3fqtjm8w
+standard_deviation: 1.073425824 kgCO2e
+stored_carbon: 13 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 6.003395174 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-03-14T03:24:56.418106Z'
+use_stored_carbon: true
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+weather_exposed: false

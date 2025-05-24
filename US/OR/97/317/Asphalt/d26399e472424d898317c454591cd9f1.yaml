@@ -1,0 +1,580 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+asphalt_gtr: false
+asphalt_max_temperature: "156 \xB0C"
+asphalt_min_temperature: "150 \xB0C"
+asphalt_mix_type: HMA
+asphalt_pmb: false
+asphalt_ppa: false
+asphalt_rap: 0.2
+asphalt_sbr: false
+asphalt_sbs: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/riverbend-materials
+best_practice: 53.47175047 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '1031266450706'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:31.880547Z'
+  declared_unit: 1 kg
+  default_distance: 51.49888 km
+  default_transport_mode: truck, single unit
+  description: General category for asphalt mixtures
+  display_name: Asphalt
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: aa61ba9aeb2a4566942554362bb496d3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 32 12 16 Asphalt Paving
+  may_contain_trusted_vendor_declarations: false
+  name: Asphalt
+  no_statistics: false
+  obsolete: false
+  openepd: Asphalt
+  openepd_name: Asphalt
+  parents: []
+  pct10_gwp: 0.05508761036 kgCO2e
+  pct20_gwp: 0.06012976629 kgCO2e
+  pct30_gwp: 0.0643021797 kgCO2e
+  pct40_gwp: 0.06816900791 kgCO2e
+  pct50_gwp: 0.07182427713 kgCO2e
+  pct60_gwp: 0.07569110533 kgCO2e
+  pct70_gwp: 0.07968721959 kgCO2e
+  pct80_gwp: 0.08521125989 kgCO2e
+  pct90_gwp: 0.09584797578 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Asphalt
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30121601'
+  updated_on: '2025-05-23T10:09:08.493268Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 76.20824953 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-10-04T15:56:27.890712Z'
+date_of_issue: '2022-07-06'
+date_validity_ends: '2027-03-31'
+declaration_type: Product EPD
+declared_unit: 1 metric ton
+density: 2400 kg / m^3
+description: This EPD reports the potential environmental impacts and additional environmental
+  information for an asphalt mixture, which falls under the United Nations Standard
+  Products and Services Code 30111509. Asphalt mixtures are typically incorporated
+  as part of the structure of a roadway, parking lot, driveway, airfield, bike lane,
+  pedestrian path, railroad track bed, or recreational surface.
+developer:
+  org:
+    address: 101 West Lakeshore Drive, Houghton, MI 49931
+    address_line: 101 West Lakeshore Drive
+    admin_district: MI
+    admin_district2: Houghton
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-29T02:29:42.575799Z'
+    email_extensions:
+    - trisightengineering.com
+    enterprise: true
+    id: e1f3bc7a8d35434ba3bb6fc0dc4ca04e
+    image: https://static.buildingtransparency.org/images/b867529a-97db-49eb-ad70-2abafee8ef80.png
+    is_failed: false
+    latitude: 47.12189
+    locality: Houghton
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Houghton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Houghton
+      extendedPostalCode: '499312274'
+      freeformAddress: 101 West Lakeshore Drive, Houghton, MI 49931
+      localName: Houghton
+      municipality: Houghton
+      municipalitySubdivision: Houghton
+      postalCode: '49931'
+      streetName: West Lakeshore Drive
+      streetNumber: '101'
+    longitude: -88.57428
+    name: Trisight
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e1f3bc7a8d35434ba3bb6fc0dc4ca04e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '49931'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2021-04-20T04:08:25.561858Z'
+    web_domain: trisightengineering.com
+    website: www.trisightengineering.com
+doc: https://asphaltepd.org/epd/d/aRUap/
+document_version: '7'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: 15135320_585f10a7f1ced9be6a61a1df557a2fe98804de89.html
+gwp: 64.84 kgCO2e
+gwp_per_category_declared_unit: 0.06484 kgCO2e
+gwp_per_kg: 0.06484 kgCO2e
+gwp_z: 0.2083266665599966
+id: f955d7c76c81490896323c1a4f438ac9
+impacts: {}
+is_downloadable: false
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 53.47175047 kgCO2e
+manufacturer:
+  address: 3723 Fairview Industrial Drive Southeast, Salem, OR 97302
+  address_line: 3723 Fairview Industrial Drive Southeast
+  admin_district: OR
+  admin_district2: Marion
+  alt_names:
+  - RBM
+  - Riverbend
+  - River bend Materials
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/riverbend-materials
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-10-25T13:15:58.246136Z'
+  email_extensions:
+  - rbmaterials.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/3ec9591d59f44e75bd160e1895f722a1.png
+  id: 75d6c986bb52418f95ba9b2fc62d8ef6
+  image: https://static.buildingtransparency.org/images/fac8c0504a024b6ba921549f4e3ed2d1.png
+  is_failed: false
+  latitude: 44.9012
+  locality: Salem
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Marion
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    countryTertiarySubdivision: Salem
+    extendedPostalCode: '973024975'
+    freeformAddress: 3723 Fairview Industrial Drive Southeast, Salem, OR 97302
+    localName: Salem
+    municipality: Salem
+    municipalitySubdivision: Morningside
+    postalCode: '97302'
+    streetName: Fairview Industrial Drive Southeast
+    streetNumber: '3723'
+  longitude: -123.01518
+  name: RiverBend Materials
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/75d6c986bb52418f95ba9b2fc62d8ef6
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '97302'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:10:52.150835Z'
+  web_domain: rbmaterials.com
+  website: https://rbmaterials.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: d26399e472424d898317c454591cd9f1
+multiproduct: false
+my_capabilities: 1
+name: '15135320'
+not_an_epd: false
+open_xpd_uuid: ec3tsbk7
+original_data_format: web
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3tsbk7
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Product Category Rules for Asphalt Mixtures
+  - Product Category Rules (PCR) for Asphalt Mixtures, version 2.0
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-05-06T20:26:10.862766Z'
+  date_of_issue: '2022-04-01'
+  date_validity_ends: '2027-04-01'
+  declared_units:
+  - 1 tonne
+  doc: '#broken-link cqd.io/p/ec3paun0yg'
+  id: 03f6ce8b701a473fb6a9040098379ae5
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: NAPA PCR For Asphalt Mixtures
+  open_xpd_uuid: ec3paun0
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3paun0
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3paun0yg
+  short_name: Asphalt Mixtures
+  status: Published
+  updated_on: '2024-05-10T13:32:40.191558Z'
+  version: '2.0'
+pct80_gwp_per_category_declared_unit: 0.07620824953 kgCO2e
+plant_geography:
+- US-OR
+plant_or_group:
+  address: 4105 Lancaster Dr SE, Salem, OR 97317, USA
+  address_line: 4105 Lancaster Dr SE
+  admin_district: OR
+  admin_district2: Marion County
+  carbon_intensity: 643.363 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-02-20T22:54:03.331812Z'
+  id: fb8843ac33854236b2e229bb748ed17b
+  is_failed: false
+  latitude: 44.9010608
+  locality: Salem
+  location:
+  - long_name: '4105'
+    short_name: '4105'
+    types:
+    - street_number
+  - long_name: Lancaster Drive Southeast
+    short_name: Lancaster Dr SE
+    types:
+    - route
+  - long_name: Southeast Mill Creek
+    short_name: Southeast Mill Creek
+    types:
+    - neighborhood
+    - political
+  - long_name: Salem
+    short_name: Salem
+    types:
+    - locality
+    - political
+  - long_name: Marion County
+    short_name: Marion County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Oregon
+    short_name: OR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '97317'
+    short_name: '97317'
+    types:
+    - postal_code
+  longitude: -122.9712008
+  name: Hilroy
+  openepd_id: 84PVW22H+CG.rbmaterials.com
+  owned_by:
+    address: 3723 Fairview Industrial Drive Southeast, Salem, OR 97302
+    address_line: 3723 Fairview Industrial Drive Southeast
+    admin_district: OR
+    admin_district2: Marion
+    alt_names:
+    - RBM
+    - Riverbend
+    - River bend Materials
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/riverbend-materials
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-10-25T13:15:58.246136Z'
+    email_extensions:
+    - rbmaterials.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/3ec9591d59f44e75bd160e1895f722a1.png
+    id: 75d6c986bb52418f95ba9b2fc62d8ef6
+    image: https://static.buildingtransparency.org/images/fac8c0504a024b6ba921549f4e3ed2d1.png
+    is_failed: false
+    latitude: 44.9012
+    locality: Salem
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Marion
+      countrySubdivision: OR
+      countrySubdivisionName: Oregon
+      countryTertiarySubdivision: Salem
+      extendedPostalCode: '973024975'
+      freeformAddress: 3723 Fairview Industrial Drive Southeast, Salem, OR 97302
+      localName: Salem
+      municipality: Salem
+      municipalitySubdivision: Morningside
+      postalCode: '97302'
+      streetName: Fairview Industrial Drive Southeast
+      streetNumber: '3723'
+    longitude: -123.01518
+    name: RiverBend Materials
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/75d6c986bb52418f95ba9b2fc62d8ef6
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '97302'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:10:52.150835Z'
+    web_domain: rbmaterials.com
+    website: https://rbmaterials.com/
+  postal_code: '97317'
+  total_epds: 1216
+  type: Plant
+  updated_on: '2024-07-19T16:00:02.097740Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: 5100 Forbes Boulevard, Lanham, MD 20706
+  address_line: 5100 Forbes Boulevard
+  admin_district: MD
+  admin_district2: Prince George's
+  alt_names:
+  - NAPA
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-10T23:11:11.739481Z'
+  email_extensions:
+  - asphaltpavement.org
+  enterprise: true
+  id: 136904d07bd94f9f959bfae24e24c56a
+  image: https://static.buildingtransparency.org/images/fbdd34b1-8146-4d80-8bc9-0e578a03f018.png
+  is_failed: false
+  latitude: 38.960571
+  legal_name: National Asphalt Pavement Association
+  locality: Lanham
+  location:
+    boundingBox:
+      entity: position
+      northEast: 38.961196,-76.833920
+      southWest: 38.959630,-76.835144
+    buildingNumber: '5100'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Prince George's
+    countrySubdivision: MD
+    countrySubdivisionName: Maryland
+    countryTertiarySubdivision: District 20 Lanham
+    extendedPostalCode: '207064407'
+    freeformAddress: 5100 Forbes Boulevard, Lanham, MD 20706
+    municipality: Lanham
+    municipalitySubdivision: Lanham
+    postalCode: '20706'
+    routeNumbers: []
+    street: Forbes Boulevard
+    streetName: Forbes Boulevard
+    streetNameAndNumber: 5100 Forbes Boulevard
+    streetNumber: '5100'
+  longitude: -76.834511
+  name: National Asphalt Pavement Association
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/136904d07bd94f9f959bfae24e24c56a
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20706'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: true
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-07-24T16:59:03.222714Z'
+  web_domain: asphaltpavement.org
+  website: asphaltpavement.org
+program_operator_fkey: 24.65.81
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3tsbk7bb
+standard_deviation: 13.50790106 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 76.20824953 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2024-05-10T14:51:25.991435Z'
+use_stored_carbon: false
+verifier:
+  email: user_b0d20728c03a469dbb212eb2d4d147fd@cqd.io
+  name: Trisha Montalbo
+  org:
+    address: 148 S Dowlen Rd, Beaumont, TX 77707, USA
+    address_line: 148 S Dowlen Rd
+    admin_district: TX
+    admin_district2: Jefferson County
+    alt_names:
+    - John Beath Environmental, LLC
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-04-10T22:35:50.139920Z'
+    enterprise: false
+    id: 07b66822fcc94816acfa5e8d91c44e83
+    image: https://static.buildingtransparency.org/images/38233aa183314a02a637d2c9eb9529bb.png
+    is_failed: false
+    latitude: 30.0730332
+    legal_name: John Beath Environmental, LLC
+    locality: Beaumont
+    location:
+    - long_name: '148'
+      short_name: '148'
+      types:
+      - street_number
+    - long_name: South Dowlen Road
+      short_name: S Dowlen Rd
+      types:
+      - route
+    - long_name: Beaumont
+      short_name: Beaumont
+      types:
+      - locality
+      - political
+    - long_name: Jefferson County
+      short_name: Jefferson County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Texas
+      short_name: TX
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '77707'
+      short_name: '77707'
+      types:
+      - postal_code
+    longitude: -94.1730943
+    name: JBE
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/07b66822fcc94816acfa5e8d91c44e83
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '77707'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2022-10-11T14:10:38.237725Z'
+    web_domain: beath.us
+    website: beath.us
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified

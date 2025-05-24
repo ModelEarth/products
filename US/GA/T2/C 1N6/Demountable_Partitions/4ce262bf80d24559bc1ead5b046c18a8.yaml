@@ -1,0 +1,584 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: true
+best_practice: 117.1251246 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1073167793456'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2023-01-30T14:33:26Z'
+  declared_unit: 1 m2
+  description: Demountable partitions
+  display_name: Demountable Partitions
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 50978a80b4a844c8a31c2f5e94b10808
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: false
+  masterformat: 10 22 00 Partitions
+  may_contain_trusted_vendor_declarations: false
+  name: DemountablePartitions
+  no_statistics: false
+  obsolete: false
+  openepd: Furnishings >> DemountablePartitions
+  openepd_name: Furnishings >> DemountablePartitions
+  parents: []
+  pct10_gwp: 0 kgCO2e
+  pct20_gwp: 0 kgCO2e
+  pct30_gwp: 0 kgCO2e
+  pct40_gwp: 0 kgCO2e
+  pct50_gwp: 0 kgCO2e
+  pct60_gwp: 0 kgCO2e
+  pct70_gwp: 0 kgCO2e
+  pct80_gwp: 0 kgCO2e
+  pct90_gwp: 0 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Partitions
+  short_service_life_disclaimer: false
+  subcategories: []
+  unspsc: '56101510'
+  updated_on: '2023-11-16T18:33:19.599814Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 192.8748754 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-11-22T23:45:19.839447Z'
+date_of_issue: '2019-05-06'
+date_validity_ends: '2024-05-06'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: An interior stacked wall with an aluminum frame and glass segment on
+  the top half. The bottom half consists of an aluminum frame with cotton-denim insulation
+  and a NAF (no added formaldehyde) MDF (medium density fiberboard) tile with a chromacoat
+  paint finish.
+developer:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+doc: buildingtransparency.org/e/ec3r78zs5r
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: EPD-Savannah-Stacked_f0f0e88dd7164717a5df73427a3236e8.pdf
+gwp: 155 kgCO2e
+gwp_per_category_declared_unit: 155 kgCO2e
+gwp_z: 0.2903446228191595
+id: 4318811c31e04c1e8904377fdad4e411
+image: https://static.buildingtransparency.org/images/577be42fa9444497b5466baebeb2d4eb.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 117.1251246 kgCO2e
+manufacturer:
+  address: 7303 30 St SE, Calgary, AB T2C 1N6, Canada
+  address_line: 7303 30 St SE
+  admin_district: AB
+  confirmable_fields: []
+  confirmed_fields: []
+  country: CA
+  cqd_sync_unlocked: true
+  created_on: '2021-11-15T17:00:42.803126Z'
+  enterprise: false
+  id: 197bd907fb3248f0a8d5b7e061b1e033
+  is_failed: false
+  latitude: 50.989524
+  locality: Calgary
+  location:
+  - long_name: '7303'
+    short_name: '7303'
+    types:
+    - street_number
+  - long_name: 30 Street Southeast
+    short_name: 30 St SE
+    types:
+    - route
+  - long_name: Southeast Calgary
+    short_name: Southeast Calgary
+    types:
+    - neighborhood
+    - political
+  - long_name: Calgary
+    short_name: Calgary
+    types:
+    - locality
+    - political
+  - long_name: Alberta
+    short_name: AB
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Canada
+    short_name: CA
+    types:
+    - country
+    - political
+  - long_name: T2C 1N6
+    short_name: T2C 1N6
+    types:
+    - postal_code
+  longitude: -113.9851511
+  name: DIRTT Environmental Solutions
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/197bd907fb3248f0a8d5b7e061b1e033
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: T2C 1N6
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-04-02T07:32:05.635183Z'
+  web_domain: dirtt.com
+  website: https://www.dirtt.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 4ce262bf80d24559bc1ead5b046c18a8
+multiproduct: false
+my_capabilities: 1
+name: Stacked Interior Wall (Savannah)
+not_an_epd: false
+open_xpd_uuid: ec3r78zs
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3r78zs
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-01-13T13:38:01.313198Z'
+  date_of_issue: '2014-01-01'
+  date_validity_ends: '2019-01-01'
+  declared_units:
+  - 1 m2
+  doc: https://app.box.com/file/647367954038
+  id: c6412092d38c494a9cee1e1c95a0df6f
+  is_failed: false
+  issuer_doc_id: 30162403:2014
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - 019
+      order: 1
+  name: PCR for Interior Wall Systems
+  open_xpd_uuid: ec3njgcg
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3njgcg
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3njgcgxm
+  short_name: Interior Wall Systems
+  status: Sunset
+  updated_on: '2024-01-02T00:01:33.555842Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 192.8748754 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: Savannah, GA, USA
+  admin_district: GA
+  admin_district2: Chatham County
+  carbon_intensity: 952.9 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-12-13T18:29:39.631080Z'
+  id: cb9b1b99878a48959f1440c529bb0896
+  is_failed: false
+  latitude: 32.0808989
+  locality: Savannah
+  location:
+  - long_name: Savannah
+    short_name: Savannah
+    types:
+    - locality
+    - political
+  - long_name: Chatham County
+    short_name: Chatham County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  longitude: -81.091203
+  name: Dirtt-Savannah
+  openepd_id: 864W3WJ5+9G.dirtt.com
+  owned_by:
+    address: 7303 30 St SE, Calgary, AB T2C 1N6, Canada
+    address_line: 7303 30 St SE
+    admin_district: AB
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2021-11-15T17:00:42.803126Z'
+    enterprise: false
+    id: 197bd907fb3248f0a8d5b7e061b1e033
+    is_failed: false
+    latitude: 50.989524
+    locality: Calgary
+    location:
+    - long_name: '7303'
+      short_name: '7303'
+      types:
+      - street_number
+    - long_name: 30 Street Southeast
+      short_name: 30 St SE
+      types:
+      - route
+    - long_name: Southeast Calgary
+      short_name: Southeast Calgary
+      types:
+      - neighborhood
+      - political
+    - long_name: Calgary
+      short_name: Calgary
+      types:
+      - locality
+      - political
+    - long_name: Alberta
+      short_name: AB
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Canada
+      short_name: CA
+      types:
+      - country
+      - political
+    - long_name: T2C 1N6
+      short_name: T2C 1N6
+      types:
+      - postal_code
+    longitude: -113.9851511
+    name: DIRTT Environmental Solutions
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/197bd907fb3248f0a8d5b7e061b1e033
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: T2C 1N6
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-04-02T07:32:05.635183Z'
+    web_domain: dirtt.com
+    website: https://www.dirtt.com/
+  total_epds: 6
+  type: Plant
+  updated_on: '2025-03-19T09:25:47.843599Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+program_operator_fkey: EPD 099
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3r78zs5r
+standard_deviation: 45.00341654 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 192.8748754 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-03-19T03:09:07.524933Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

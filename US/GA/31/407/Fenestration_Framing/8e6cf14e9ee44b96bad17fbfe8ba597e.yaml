@@ -1,0 +1,614 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 102.1887693 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '795634091026'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:45Z'
+  declared_unit: 1 kg
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Lineal elements ("sticks") for use in fenestration, including frames,
+    sashes, and mullions.
+  display_name: Fenestration Framing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: d6b24d08ddf4431197ea632ee2adf8cf
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 08 80 00 Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: FenestrationFraming
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  openepd_name: Openings >> Glazing >> FenestrationParts >> FenestrationFraming
+  parents: []
+  pct10_gwp: 2.628373866 kgCO2e
+  pct20_gwp: 2.978715027 kgCO2e
+  pct30_gwp: 3.309981732 kgCO2e
+  pct40_gwp: 3.652378992 kgCO2e
+  pct50_gwp: 5.224620312 kgCO2e
+  pct60_gwp: 6.819060109 kgCO2e
+  pct70_gwp: 9.004767971 kgCO2e
+  pct80_gwp: 12.02045997 kgCO2e
+  pct90_gwp: 18.63875387 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Framing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-05-23T10:09:09.486467Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 167.8112307 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-04-05T14:47:04.337235Z'
+date_of_issue: '2019-05-06'
+date_validity_ends: '2024-05-06'
+declaration_type: Product EPD
+declared_unit: "1 m\xB2"
+description: "This EPD is for an interior solid wall, consisting of an aluminum frame,\
+  \ cotton-denim insulation and a NAF (no added formaldehyde) MDF (medium density\
+  \ fiberboard) tile with a thermofoil finish. This assembly is manufactured at: 155\
+  \ Knowlton Way, Savannah, GA 31407 United States. DIRTT\u2019s interior walls are\
+  \ designed and manufactured offsite, then installed in a building with a floor-to-ceiling\
+  \ vertical span. They provide a sight, sound, and air barrier; allow for integrated\
+  \ technology and can be disassembled and moved without losing any performance characteristics."
+developer:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 155 Railroad Plaza, Royersford, PA 19468
+    address_line: 155 Railroad Plaza
+    admin_district: PA
+    admin_district2: Montgomery
+    alt_names:
+    - Sustainable Solutions Corp.
+    - Sustainable Solutions Corp
+    - SSC
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T23:56:56.916735Z'
+    email_extensions:
+    - greencirclecertified.com
+    - sustainablesolutionscorporation.com
+    enterprise: true
+    id: a091acc71c3a403884e36e1cdac9db39
+    image: https://static.buildingtransparency.org/images/d03f2259-a454-477f-8fa6-f25858a3ca7b.png
+    is_failed: false
+    latitude: 40.186058
+    legal_name: Sustainable Solutions Corporation
+    locality: Royersford
+    location:
+      boundingBox:
+        entity: position
+        northEast: 40.188496,-75.543354
+        southWest: 40.183033,-75.546312
+      buildingNumber: '155'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Montgomery
+      countrySubdivision: PA
+      countrySubdivisionName: Pennsylvania
+      countryTertiarySubdivision: Royersford
+      extendedPostalCode: '194681942'
+      freeformAddress: 155 Railroad Plaza, Royersford, PA 19468
+      municipality: Royersford
+      municipalitySubdivision: Royersford
+      postalCode: '19468'
+      routeNumbers: []
+      street: Railroad Plaza
+      streetName: Railroad Plaza
+      streetNameAndNumber: 155 Railroad Plaza
+      streetNumber: '155'
+    longitude: -75.544975
+    name: Sustainable Solutions Corporation
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a091acc71c3a403884e36e1cdac9db39
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19468'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2021-12-08T11:45:28.981304Z'
+    web_domain: sustainablesolutionscorporation.com
+    website: www.sustainablesolutionscorporation.com
+doc: buildingtransparency.org/e/ec38nm65t0
+epd_degraded: false
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+file_name: EPD for DIRTT Solid Thermofoil Interior Wall (Savannah Plant).pdf
+gwp: 135 kgCO2e
+gwp_z: 0.28879058156387305
+id: e3e4ce3bfa974ab882362a40bccd5392
+image: https://static.buildingtransparency.org/images/86555cb4d70142ae9ed7a65723f0d39a.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 102.1887693 kgCO2e
+manufacturer:
+  address: 7303 30 St SE, Calgary, AB T2C 1N6, Canada
+  address_line: 7303 30 St SE
+  admin_district: AB
+  confirmable_fields: []
+  confirmed_fields: []
+  country: CA
+  cqd_sync_unlocked: true
+  created_on: '2021-11-15T17:00:42.803126Z'
+  enterprise: false
+  id: 197bd907fb3248f0a8d5b7e061b1e033
+  is_failed: false
+  latitude: 50.989524
+  locality: Calgary
+  location:
+  - long_name: '7303'
+    short_name: '7303'
+    types:
+    - street_number
+  - long_name: 30 Street Southeast
+    short_name: 30 St SE
+    types:
+    - route
+  - long_name: Southeast Calgary
+    short_name: Southeast Calgary
+    types:
+    - neighborhood
+    - political
+  - long_name: Calgary
+    short_name: Calgary
+    types:
+    - locality
+    - political
+  - long_name: Alberta
+    short_name: AB
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Canada
+    short_name: CA
+    types:
+    - country
+    - political
+  - long_name: T2C 1N6
+    short_name: T2C 1N6
+    types:
+    - postal_code
+  longitude: -113.9851511
+  name: DIRTT Environmental Solutions
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/197bd907fb3248f0a8d5b7e061b1e033
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: T2C 1N6
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-04-02T07:32:05.635183Z'
+  web_domain: dirtt.com
+  website: https://www.dirtt.com/
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 8e6cf14e9ee44b96bad17fbfe8ba597e
+multiproduct: false
+my_capabilities: 1
+name: Solid Thermofoil Interior Wall (Savannah)
+not_an_epd: false
+open_xpd_uuid: ec38nm65
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec38nm65
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-01-13T13:38:01.313198Z'
+  date_of_issue: '2014-01-01'
+  date_validity_ends: '2019-01-01'
+  declared_units:
+  - 1 m2
+  doc: https://app.box.com/file/647367954038
+  id: c6412092d38c494a9cee1e1c95a0df6f
+  is_failed: false
+  issuer_doc_id: 30162403:2014
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - 019
+      order: 1
+  name: PCR for Interior Wall Systems
+  open_xpd_uuid: ec3njgcg
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3njgcg
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3njgcgxm
+  short_name: Interior Wall Systems
+  status: Sunset
+  updated_on: '2024-01-02T00:01:33.555842Z'
+  version: '1'
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 155 Knowlton Way, Savannah, GA 31407, USA
+  address_line: 155 Knowlton Way
+  admin_district: GA
+  admin_district2: Chatham County
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-06-20T21:14:59.351919Z'
+  id: 6efb219ea0ac426383e4938e38c190a4
+  is_failed: false
+  latitude: 32.1494813
+  locality: Savannah
+  location:
+  - long_name: '155'
+    short_name: '155'
+    types:
+    - street_number
+  - long_name: Knowlton Way
+    short_name: Knowlton Way
+    types:
+    - route
+  - long_name: Savannah
+    short_name: Savannah
+    types:
+    - locality
+    - political
+  - long_name: Chatham County
+    short_name: Chatham County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '31407'
+    short_name: '31407'
+    types:
+    - postal_code
+  - long_name: '3036'
+    short_name: '3036'
+    types:
+    - postal_code_suffix
+  longitude: -81.23128270000001
+  name: DIRTT Environmental Solutions Plant
+  openepd_id: 864W4QX9+QF.dirtt.com
+  owned_by:
+    address: 7303 30 St SE, Calgary, AB T2C 1N6, Canada
+    address_line: 7303 30 St SE
+    admin_district: AB
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2021-11-15T17:00:42.803126Z'
+    enterprise: false
+    id: 197bd907fb3248f0a8d5b7e061b1e033
+    is_failed: false
+    latitude: 50.989524
+    locality: Calgary
+    location:
+    - long_name: '7303'
+      short_name: '7303'
+      types:
+      - street_number
+    - long_name: 30 Street Southeast
+      short_name: 30 St SE
+      types:
+      - route
+    - long_name: Southeast Calgary
+      short_name: Southeast Calgary
+      types:
+      - neighborhood
+      - political
+    - long_name: Calgary
+      short_name: Calgary
+      types:
+      - locality
+      - political
+    - long_name: Alberta
+      short_name: AB
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Canada
+      short_name: CA
+      types:
+      - country
+      - political
+    - long_name: T2C 1N6
+      short_name: T2C 1N6
+      types:
+      - postal_code
+    longitude: -113.9851511
+    name: DIRTT Environmental Solutions
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/197bd907fb3248f0a8d5b7e061b1e033
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: T2C 1N6
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-04-02T07:32:05.635183Z'
+    web_domain: dirtt.com
+    website: https://www.dirtt.com/
+  postal_code: '31407'
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-06-20T22:00:18.714515Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+program_operator_fkey: 'EPD 102  Dates of Validity: 5/6/2019 to 5/6/2024'
+reference_service_life: 30 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec38nm65t0
+standard_deviation: 38.98672851 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 167.8112307 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2024-06-20T21:15:10.909087Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.

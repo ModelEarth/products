@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YAML-Based SQL Table Creation and Data Insertion Script Documentation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>YAML-Based SQL Table Creation and Data Insertion Script Documentation</h1>
+    
+    <h2>Overview</h2>
+    <p>
+        This script reads a YAML configuration file to create SQL tables from CSV files and automatically infers 
+        the data types for each column based on the CSV contents. It inserts the data from the CSV files into the 
+        generated SQL tables.
+    </p>
+    
+    <h2>1. <code>load_yaml_config(file_path)</code></h2>
+    <h3>Description:</h3>
+    <p>
+        This function loads and parses the YAML configuration file. The YAML file defines which CSV files to use, 
+        the structure of the SQL tables, and any columns that should be omitted.
+    </p>
+    <h3>Input:</h3>
+    <p><code>file_path</code> (str): The path to the YAML file.</p>
+    <h3>Output:</h3>
+    <p>
+        Returns a Python dictionary representing the YAML configuration.
+        Handles exceptions if the file is not found or if there's an error parsing the YAML.
+    </p>
+    <h3>Usage Example:</h3>
+    <pre>
+        config = load_yaml_config('full_config.yaml')
+    </pre>
+    
+    <h2>2. <code>infer_data_type(column_data)</code></h2>
+    <h3>Description:</h3>
+    <p>
+        This function automatically infers the SQL data type for a column based on the values in the corresponding CSV file. 
+        The function checks the data type of the column (e.g., integer, float, datetime, boolean, or string) and returns the 
+        appropriate SQL data type.
+    </p>
+    <h3>Input:</h3>
+    <p><code>column_data</code> (pandas.Series): A column of data from the CSV file.</p>
+    <h3>Output:</h3>
+    <p>Returns a string representing the inferred SQL data type (e.g., <code>INT</code>, <code>FLOAT</code>, <code>BOOLEAN</code>, <code>DATETIME</code>, or <code>VARCHAR</code>).</p>
+    <h3>Usage Example:</h3>
+    <pre>
+        data_type = infer_data_type(df['ColumnName'])
+    </pre>
+
+    <h2>3. <code>generate_create_table_sql(table_name, columns, df, omit=[])</code></h2>
+    <h3>Description:</h3>
+    <p>
+        This function generates a SQL <code>CREATE TABLE</code> statement based on the column names and their inferred data types 
+        from the CSV file. It excludes any columns that are listed in the <code>omit</code> array.
+    </p>
+    <h3>Input:</h3>
+    <p>
+        <code>table_name</code> (str): The name of the SQL table to create.<br>
+        <code>columns</code> (dict): A mapping of SQL column names to CSV column names.<br>
+        <code>df</code> (pandas.DataFrame): The DataFrame loaded from the CSV file for data type inference.<br>
+        <code>omit</code> (list): List of column names to be omitted from the table.
+    </p>
+    <h3>Output:</h3>
+    <p>Returns a string containing the <code>CREATE TABLE</code> SQL statement.</p>
+    <h3>Usage Example:</h3>
+    <pre>
+        sql_create_stmt = generate_create_table_sql('Sector', columns, df, omit=['ColumnToOmit'])
+    </pre>
+
+    <h2>4. <code>generate_insert_sql(table_name, columns, data_row)</code></h2>
+    <h3>Description:</h3>
+    <p>
+        This function generates an <code>INSERT INTO</code> SQL statement for a specific row of data in the CSV file. 
+        It creates a parameterized query to insert data into the specified SQL table, using placeholders (<code>?</code>) 
+        to prevent SQL injection.
+    </p>
+    <h3>Input:</h3>
+    <p>
+        <code>table_name</code> (str): The name of the SQL table.<br>
+        <code>columns</code> (dict): A mapping of SQL column names to CSV column names.<br>
+        <code>data_row</code> (pandas.Series): A single row of data from the CSV file.
+    </p>
+    <h3>Output:</h3>
+    <p>Returns a tuple: The SQL <code>INSERT INTO</code> statement and a list of values to be inserted into the table.</p>
+    <h3>Usage Example:</h3>
+    <pre>
+        insert_stmt, values = generate_insert_sql('Sector', columns, df.iloc[0])
+    </pre>
+
+    <h2>5. <code>insert_data_into_table(cursor, table_name, columns, csv_file)</code></h2>
+    <h3>Description:</h3>
+    <p>
+        This function reads data from a CSV file and inserts it into the corresponding SQL table in bulk. 
+        It uses the previously generated <code>INSERT INTO</code> SQL statement and executes a bulk insert using 
+        <code>executemany</code>, which allows for efficient insertion of multiple rows.
+    </p>
+    <h3>Input:</h3>
+    <p>
+        <code>cursor</code> (sqlite3.Cursor): The SQLite cursor object to execute SQL commands.<br>
+        <code>table_name</code> (str): The name of the SQL table.<br>
+        <code>columns</code> (dict): A mapping of SQL column names to CSV column names.<br>
+        <code>csv_file</code> (str): The path to the CSV file containing the data.
+    </p>
+    <h3>Output:</h3>
+    <p>Inserts all the data from the CSV file into the SQL table.</p>
+    <h3>Usage Example:</h3>
+    <pre>
+        insert_data_into_table(cursor, 'Sector', columns, 'Sector.csv')
+    </pre>
+
+    <h2>6. <code>create_and_insert_tables_from_config(config, db_connection)</code></h2>
+    <h3>Description:</h3>
+    <p>
+        This is the main function that orchestrates the entire process: Reads the YAML configuration, loads each CSV file, 
+        infers data types for each column, generates and executes SQL <code>CREATE TABLE</code> statements for each table, 
+        and inserts data from the CSV files into the corresponding tables.
+    </p>
+    <h3>Input:</h3>
+    <p>
+        <code>config</code> (dict): The YAML configuration file parsed into a Python dictionary.<br>
+        <code>db_connection</code> (sqlite3.Connection): An active connection to the SQLite (or other) database.
+    </p>
+    <h3>Output:</h3>
+    <p>Creates the SQL tables and inserts the corresponding data.</p>
+    <h3>Usage Example:</h3>
+    <pre>
+        create_and_insert_tables_from_config(config, conn)
+    </pre>
+
+    <h2>7. <code>if __name__ == "__main__"</code></h2>
+    <h3>Description:</h3>
+    <p>
+        This is the entry point of the script: Loads the YAML configuration using <code>load_yaml_config</code>, 
+        connects to the SQLite database (or any other SQL database), and calls <code>create_and_insert_tables_from_config</code> 
+        to execute the process of creating tables and inserting data.
+    </p>
+    <h3>Usage Example:</h3>
+    <pre>
+        if __name__ == "__main__":
+            config = load_yaml_config('full_config.yaml')
+            conn = sqlite3.connect('example.db')
+            create_and_insert_tables_from_config(config, conn)
+            conn.close()
+    </pre>
+
+    <h2>Example YAML Configuration Structure:</h2>
+    <pre>
+        Sector:
+          source: Sector.csv
+          columns:
+            SectorID: SectorID
+            SectorName: SectorName
+          omit: []
+          
+        Commodity:
+          source: Commodity.csv
+          columns:
+            CommodityID: CommodityID
+            CommodityName: CommodityName
+          omit: []
+    </pre>
+    
+    <h2>Conclusion</h2>
+    <p>
+        This script allows you to create SQL tables and insert data from CSV files based on a YAML configuration file. 
+        It automatically infers data types for each column, dynamically generates SQL statements, and supports bulk 
+        data insertion.
+	</p>
+</body>
+</html>

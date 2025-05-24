@@ -1,0 +1,674 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/ef-contract
+best_practice: 8.16783584 kgCO2e
+biogenic_embodied_carbon_z: 0.24596747752497689
+box_id: '522473452374'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-08-27T16:35:41.336470Z'
+  declared_unit: 1 m2
+  default_distance: 960.77598 km
+  default_transport_mode: truck, unspecified
+  description: Resilient floor products (including vinyl, rubber, linoleum, composition
+    cork, etc.) in modular square or rectangle shapes
+  display_name: Resilient Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 8ab304f186094beda76ff15fb15d0081
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 4.66 kg
+  massless: false
+  masterformat: 09 65 00 Resilient Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: ResilientFlooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> ResilientFlooring
+  openepd_name: Finishes >> Flooring >> ResilientFlooring
+  parents: []
+  pct10_gwp: 4.598976761 kgCO2e
+  pct20_gwp: 5.95944833 kgCO2e
+  pct30_gwp: 7.035606692 kgCO2e
+  pct40_gwp: 7.731692971 kgCO2e
+  pct50_gwp: 8.486443639 kgCO2e
+  pct60_gwp: 9.877002209 kgCO2e
+  pct70_gwp: 11.45168711 kgCO2e
+  pct80_gwp: 13.43417162 kgCO2e
+  pct90_gwp: 16.83149619 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Resilient Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161700'
+  updated_on: '2025-05-23T10:09:00.635574Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 12.43216416 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-09-25T21:11:03.007508Z'
+date_of_issue: '2019-06-14'
+date_validity_ends: '2024-06-13'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "EF Contract\u2019s collection of easy to install luxury vinyl tile flooring\
+  \ products along with our other flooring products, gives us a complete flooring\
+  \ solution to offer our customers. Our high performance LVT products have commercial\
+  \ grade backing and can withstand heavy amounts of traffic. These products are phthalate\
+  \ free with recycled raw material and produced by using green energy in efficient\
+  \ manufacturing environments that can boast 100% recycling capability. Products\
+  \ are available in plank and tile format and the customer can choose from styles\
+  \ that mimic natural wood, concrete and stone finishes. Durability is assured with\
+  \ a UV cured urethane finish. The composition within the LVT family of products\
+  \ does not differ other than pigments used to give each style of LVT its own distinct\
+  \ appearance. This variation is less than 5% of the total product weight and is\
+  \ excluded from the study."
+developer:
+  email: gmansell@scsglobalservices.com
+  name: Gerard Mansell
+  org:
+    address: Global Logistics Drive, Lansing, MI 48906
+    address_line: ' Global Logistics Drive, Airport Perimeter Road'
+    admin_district: MI
+    admin_district2: Ingham, Eaton
+    alt_names:
+    - SCS
+    - SCS Global
+    - scsGlobalServices
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-25T13:59:24.810293Z'
+    email_extensions:
+    - scsglobalservices.com
+    enterprise: true
+    id: 58769e2d26d84d8f99bd07fda78bf79b
+    image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+    is_failed: false
+    latitude: 42.76946
+    legal_name: SCS Global Services
+    locality: Lansing
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ingham, Eaton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+      freeformAddress: Global Logistics Drive, Lansing, MI 48906
+      municipality: Lansing
+      municipalitySubdivision: Lansing
+      postalCode: '48906'
+      streetName: Global Logistics Drive, Airport Perimeter Road
+    longitude: -84.5792
+    name: SCS Global Services
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48906'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2024-07-24T17:01:16.978616Z'
+    web_domain: scsglobalservices.com
+    website: https://www.scsglobalservices.com/
+doc: buildingtransparency.org/e/ec34zp2700
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: SCS-EPD-05574_EF-Contract_061419.pdf
+gwp: 10.3 kgCO2e
+gwp_per_category_declared_unit: 10.3 kgCO2e
+gwp_per_kg: 1.175799087 kgCO2e
+gwp_z: 0.24596747752497689
+id: f5fd527a8d9348579078199972aa4854
+impacts: {}
+includes: []
+industry_standards:
+- See Table 2 in EPD.
+is_downloadable: true
+is_duplicate: true
+is_failed: false
+jurisdiction:
+- '001'
+length: 1219 mm
+lowest_plausible_gwp: 8.16783584 kgCO2e
+manufacturer:
+  address: 1502 Coronet Dr, Dalton, GA 30720, USA
+  address_line: 1502 Coronet Dr
+  admin_district: GA
+  admin_district2: Whitfield County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/ef-contract
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:52:18.100169Z'
+  email_extensions:
+  - efcontractflooring.com
+  enterprise: true
+  id: af145c69cd3c4dbdaf359488ac6884dc
+  is_failed: false
+  latitude: 34.7991546
+  locality: Dalton
+  location:
+  - long_name: '1502'
+    short_name: '1502'
+    types:
+    - street_number
+  - long_name: Coronet Drive
+    short_name: Coronet Dr
+    types:
+    - route
+  - long_name: Dalton
+    short_name: Dalton
+    types:
+    - locality
+    - political
+  - long_name: Whitfield County
+    short_name: Whitfield County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30720'
+    short_name: '30720'
+    types:
+    - postal_code
+  - long_name: '2664'
+    short_name: '2664'
+    types:
+    - postal_code_suffix
+  longitude: -84.9654175
+  name: EF Contract
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/af145c69cd3c4dbdaf359488ac6884dc
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30720'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T12:36:17.131988Z'
+  web_domain: efcontractflooring.com
+  website: https://www.efcontractflooring.com/
+manufacturer_specific: true
+manufacturing_description: "PRODUCTION OF MAIN MATERIALS:\n\nCalcium Carbonate: An\
+  \ abundant mineral found worldwide and a common substance found in rocks. It can\
+  \ be ground into varying particle sizes and used as inert filler.\n\nGlass Paper\
+  \ (Fiber): Nonwoven glass scrim comprised of chopped glass and cellulose fibers\
+  \ and binder.  Its major ingredients are silica sand, limestone, soda ash, and petrochemicals.\n\
+  \nPolyvinyl Chloride (PVC): Derived from fossil fuel and salt. Petroleum or natural\
+  \ gas is processed to make ethylene, and salt is subjected to electrolysis to separate\
+  \ out the natural element chlorine. Ethylene and chlorine are combined to produce\
+  \ ethylene dichloride, which is further processed into a gas called vinyl chloride\
+  \ monomer (VCM). Polymerization of VCM molecules form chains, converting the gas\
+  \ into fine, white powder\u2014vinyl resin. \n\nPlasticizer: Plasticizers are used\
+  \ to make vinyl soft and flexible. Diisononyl phthalate (DINP) was used in the life\
+  \ cycle assessment model to represent plasticizers used to manufacture products\
+  \ covered by this EPD such as Diisooctyl terephthalate (DOTP).\n\nStabilizers: Stabilizers\
+  \ (typically metal compounds) are used to prevent the chain reaction of decomposition\
+  \ which occurs as PVC is heated to soften during the extrusion or molding process.\
+  \ Stabilizers also provide enhanced resistance to daylight, weathering and heat\
+  \ aging and have an important influence on the physical properties of PVC. The main\
+  \ constituents are metal soaps, metal salts and organometallic compounds. The major\
+  \ metals contained in stabilizers include lead (Pb), barium (Ba), calcium (Ca),\
+  \ and tin (Sn) and are classified into Pb stabilizers, Ba-Znstabilizers, Ca-Zn stabilizers,\
+  \ and Sn stabilizersPigment: A compounded mixture of pigment (e.g., carbon black,\
+  \ titanium dioxide) and a polymer carrier used as a colorant.\n\nUV Resin (coating):\
+  \ A UV coating composed of photo-curable oligomer, photo initiator, reactive acrylic\
+  \ monomer and additives."
+mass_per_declared_unit: 8.76 kg
+matched_plants_count: 0
+material_id: eb4670105b204dffad4f4722af80bb21
+multiproduct: true
+my_capabilities: 1
+name: EF Contract LVT 5mm
+not_an_epd: false
+open_xpd_uuid: ec34zp27
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec34zp27
+output_flows: {}
+owner:
+  name: Vicki Rybl
+  user_id: vrybl@uw.edu
+pcr:
+  alt_names:
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, and Wood (NSF 2012)'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood, Version 2. NSF
+    International. 2014.'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2. 2014.'
+  - 'PCR for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2.2014.'
+  - PCR for Environmental Product Declarations, Flooring:Carpet, Resilient, Laminate,
+    Ceramic, Wood
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood (NSF 2012)'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2.2014.'
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood, Version 2.'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient Laminate, Ceramic, Wood. NSF International.
+    Version 2. 2014.'
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood Version 2'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2. 2014'
+  - 'NSF: PCR for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood Version 2'
+  - NSF PCR for Flooring v2.0
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-17T13:03:00.704713Z'
+  date_of_issue: '2014-06-23'
+  date_validity_ends: '2018-09-28'
+  declared_units:
+  - 1 m2
+  doc: http://www.nsf.org/newsroom_pdf/flooring_pcr-new.pdf
+  errors: {}
+  failures: {}
+  id: bd683757a8234358a945e703bcc8cce3
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Product Category Rule for Environmental Product Declarations - Flooring:
+    Carpet, Resilient, Laminate, Ceramic, Wood'
+  open_xpd_uuid: ec3qp4ff
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qp4ff
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qp4ff49
+  short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  status: Sunset
+  updated_on: '2025-05-23T21:40:17.534318Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 12.43216416 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 1502 Coronet Dr, Dalton, GA 30720, USA
+  address_line: 1502 Coronet Dr
+  admin_district: GA
+  admin_district2: Whitfield County
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-05-01T04:51:57.199808Z'
+  id: e67d3aa10b7b428e95fd99d943b7d579
+  is_failed: false
+  latitude: 34.7991546
+  locality: Dalton
+  location:
+  - long_name: '1502'
+    short_name: '1502'
+    types:
+    - street_number
+  - long_name: Coronet Drive
+    short_name: Coronet Dr
+    types:
+    - route
+  - long_name: Dalton
+    short_name: Dalton
+    types:
+    - locality
+    - political
+  - long_name: Whitfield County
+    short_name: Whitfield County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30720'
+    short_name: '30720'
+    types:
+    - postal_code
+  - long_name: '2664'
+    short_name: '2664'
+    types:
+    - postal_code_suffix
+  longitude: -84.9654175
+  name: Dalton, GA
+  openepd_id: 866QQ2XM+MR.efcontractflooring.com
+  owned_by:
+    address: 1502 Coronet Dr, Dalton, GA 30720, USA
+    address_line: 1502 Coronet Dr
+    admin_district: GA
+    admin_district2: Whitfield County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/ef-contract
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:52:18.100169Z'
+    email_extensions:
+    - efcontractflooring.com
+    enterprise: true
+    id: af145c69cd3c4dbdaf359488ac6884dc
+    is_failed: false
+    latitude: 34.7991546
+    locality: Dalton
+    location:
+    - long_name: '1502'
+      short_name: '1502'
+      types:
+      - street_number
+    - long_name: Coronet Drive
+      short_name: Coronet Dr
+      types:
+      - route
+    - long_name: Dalton
+      short_name: Dalton
+      types:
+      - locality
+      - political
+    - long_name: Whitfield County
+      short_name: Whitfield County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Georgia
+      short_name: GA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '30720'
+      short_name: '30720'
+      types:
+      - postal_code
+    - long_name: '2664'
+      short_name: '2664'
+      types:
+      - postal_code_suffix
+    longitude: -84.9654175
+    name: EF Contract
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/af145c69cd3c4dbdaf359488ac6884dc
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30720'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T12:36:17.131988Z'
+    web_domain: efcontractflooring.com
+    website: https://www.efcontractflooring.com/
+  postal_code: '30720'
+  total_epds: 386
+  type: Plant
+  units: SI
+  updated_on: '2024-05-01T04:51:57.199820Z'
+plant_specific: false
+private: false
+product_classes:
+  UNSPSC:
+  - '30161700'
+product_specific: true
+product_usage_description: EF Contract LVT is suitable for shopping malls, schools,
+  large retail stores, department stores, buildings, restaurants, and hospitals.
+product_usage_image: https://static.buildingtransparency.org/images/16599de001304163aac3d7e373b86a5d.png
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-05574
+reference_service_life: 10 years
+requires_ocr: false
+resilient_flooring_form_factor: Gluedown
+resilient_flooring_material: LVT
+resilient_flooring_thickness: ~ 5mm
+resilient_flooring_wear_layer: 0.5 mm
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec34zp2700
+standard_deviation: 2.533465019 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+thickness: 5 mm
+third_party_verified: true
+uncertainty_adjusted_gwp: 12.43216416 kgCO2e
+uncertainty_factor: 1.2070062290850205
+updated_on: '2025-01-14T02:23:06.545806Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+width: 178 mm

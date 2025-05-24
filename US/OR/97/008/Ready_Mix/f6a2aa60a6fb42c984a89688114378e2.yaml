@@ -1,0 +1,650 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/wilsonville-concrete
+best_practice: 130.7706377 kgCO2e
+biogenic_embodied_carbon_z: 0.11237437430304116
+box_id: '745632643105'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-06-26T01:11:48.938840Z'
+  declared_unit: 1 m3
+  default_distance: 51.49888 km
+  default_transport_mode: concrete mixer truck
+  description: Concretes to be mixed and then poured on-site
+  display_name: Ready Mix
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: b03dba1dca5b49acb1a5aa4daab546b4
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 03 30 00 Cast-in-Place Concrete
+  may_contain_trusted_vendor_declarations: false
+  name: ReadyMix
+  no_statistics: false
+  obsolete: false
+  openepd: Concrete >> ReadyMix
+  openepd_name: Concrete >> ReadyMix
+  parents: []
+  pct10_gwp: 247.3737858 kgCO2e
+  pct20_gwp: 283.1051597 kgCO2e
+  pct30_gwp: 310.4353398 kgCO2e
+  pct40_gwp: 334.9397277 kgCO2e
+  pct50_gwp: 359.3003084 kgCO2e
+  pct60_gwp: 386.9053306 kgCO2e
+  pct70_gwp: 417.0327982 kgCO2e
+  pct80_gwp: 452.8781556 kgCO2e
+  pct90_gwp: 507.6661437 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Ready Mix
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30111505'
+  updated_on: '2025-05-23T10:08:51.858127Z'
+  use_stored_carbon: ABSENT
+concrete_air_entrain: false
+concrete_co2_entrain: false
+concrete_compressive_strength_28d: 3300  psi
+concrete_self_consolidating: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 158.0893623 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-11-27T16:52:59.768275Z'
+date_of_issue: '2020-06-03'
+date_validity_ends: '2025-06-03'
+declaration_type: Product EPD
+declared_unit: 1 yd3
+density: 2400 kg / m^3
+description: "Products covered by this EPD satisfy general purpose concrete as used\
+  \ in residential, commercial and public works applications in theUnited States.Product\
+  \ components include(in order of greatest mass per mix): Natural andcrushedaggregates,portland\
+  \ cement, slag cement, admixtures, and batch water.This EPD reports the impacts\
+  \ for 9different ready-mixed concrete productsproducedat threedifferent WCP, Inc.facilitiesin\
+  \ accordance with the following:\n\u2022ACI 211:Standard Practice for SelectingProportions\
+  \ for Normal, Heavyweight, and Mass Concrete\n\u2022ACI 318: Building Code Requirements\
+  \ for Structural Concrete\n\u2022ASTM C94: Standard Specification for Ready-Mixed\
+  \ Concrete\n\u2022CSI MasterFormat Division 03-30-00: Cast-in-Place Concrete\n\u2022\
+  UNSPSC Code 30111500: Ready Mix"
+developer:
+  email: james.salazar@athenasmi.org
+  name: James Salazar
+  org:
+    address: 119 Ross Avenue, Ottawa, ON K1Y0N6
+    address_line: 119 Ross Avenue
+    admin_district: 'ON'
+    admin_district2: Ottawa
+    alt_names:
+    - Athena
+    - Athena Sustainable Materials
+    - ASMI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T22:28:52.429990Z'
+    email_extensions:
+    - athenasmi.org
+    enterprise: true
+    id: 147e1a4c1dd1410fa996fcd07477e3e4
+    image: https://static.buildingtransparency.org/images/2c8c6248-00b5-4d92-b61e-f2f0cbbd0820.png
+    is_failed: false
+    latitude: 45.398754
+    legal_name: Athena Sustainable Materials Institute
+    locality: Ottawa
+    location:
+      boundingBox:
+        entity: position
+        northEast: 45.398761,-75.737346
+        southWest: 45.398554,-75.737470
+      buildingNumber: '119'
+      country: Canada
+      countryCode: CA
+      countryCodeISO3: CAN
+      countrySecondarySubdivision: Ottawa
+      countrySubdivision: 'ON'
+      countrySubdivisionName: Ontario
+      extendedPostalCode: K1Y0N6
+      freeformAddress: 119 Ross Avenue, Ottawa, ON K1Y0N6
+      municipality: Ottawa
+      municipalitySubdivision: Ottawa
+      postalCode: K1Y
+      routeNumbers: []
+      street: Ross Avenue
+      streetName: Ross Avenue
+      streetNameAndNumber: 119 Ross Avenue
+      streetNumber: '119'
+    longitude: -75.737465
+    name: Athena Sustainable Materials Institute
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/147e1a4c1dd1410fa996fcd07477e3e4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: K1Y
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-06-03T19:19:00.256226Z'
+    web_domain: athenasmi.org
+    website: athenasmi.org
+doc: buildingtransparency.org/e/ec3qjmxpf0
+excluded: false
+externally_verified: true
+file_name: Wilsonville Concrete EPD 20200608.pdf
+gwp: 144.43 kgCO2e
+gwp_per_category_declared_unit: 188.9073079 kgCO2e
+gwp_per_kg: 0.07871137831 kgCO2e
+gwp_z: 0.11237437430304116
+id: 6d9407d5b1ec455b929d8a2fd1df0ca5
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lightweight: false
+lowest_plausible_gwp: 130.7706377 kgCO2e
+manufacturer:
+  address: 10050 SW Wilsonville Rd, Wilsonville, OR 97070, USA
+  address_line: 10050 SW Wilsonville Rd
+  admin_district: OR
+  admin_district2: Clackamas County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/wilsonville-concrete
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-11-27T15:47:50.062892Z'
+  enterprise: true
+  id: 29ba574bf71c41fe96cde3e1bfe9ad8b
+  is_failed: false
+  latitude: 45.3026057
+  locality: Wilsonville
+  location:
+  - long_name: '10050'
+    short_name: '10050'
+    types:
+    - street_number
+  - long_name: Southwest Wilsonville Road
+    short_name: SW Wilsonville Rd
+    types:
+    - route
+  - long_name: Wilsonville
+    short_name: Wilsonville
+    types:
+    - locality
+    - political
+  - long_name: Clackamas County
+    short_name: Clackamas County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Oregon
+    short_name: OR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '97070'
+    short_name: '97070'
+    types:
+    - postal_code
+  - long_name: '9501'
+    short_name: '9501'
+    types:
+    - postal_code_suffix
+  longitude: -122.7804819
+  name: WCP, Inc
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/29ba574bf71c41fe96cde3e1bfe9ad8b
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '97070'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:27:37.811841Z'
+  web_domain: wilsonvilleconcrete.com
+  website: https://www.wilsonvilleconcrete.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1834.931659 kg
+matched_plants_count: 0
+material_id: f6a2aa60a6fb42c984a89688114378e2
+multiproduct: true
+my_capabilities: 1
+name: 3321 A5057
+not_an_epd: false
+open_xpd_uuid: ec3qjmxp
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3qjmxp
+output_flows: {}
+owner:
+  name: Oleh Chyhyryn
+  user_id: oleg.chigirin@c-change-labs.com
+pcr:
+  alt_names:
+  - NSF PCR for Concrete
+  - 'ISO 21930:2017 Sustainability in Building Construction - Environmental Declaration
+    of Building Products: serves as the core PCR PCR for Concrete, NSF International,
+    February 2019 serves as the sub-category PCR'
+  - Product Category Rule for Environmental Product Declarations PCR for Concrete
+  - ISO 21930:2017 Sustainability in Building Construction - Environmental Declaration
+    of Building Products serves as the core PCR. NSF International Product Category
+    Rule (PCR) for Concrete Version 1 (February 22, 2019) serves as the sub-category
+    PCR
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:55:36.295338Z'
+  date_of_issue: '2019-02-01'
+  date_validity_ends: '2024-02-01'
+  declared_units:
+  - 1 m3
+  doc: https://www.nrmca.org/wp-content/uploads/2020/02/NSF_PCR_CONCRETE2019.pdf
+  id: c4d00c85479b42229c8c3e88e1e36366
+  is_failed: false
+  issuer_doc_id: NSF 1112-19
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: NSF PCR for Concrete
+  open_xpd_uuid: ec39kz7y
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec39kz7y
+  product_classes: {}
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec39kz7yt5
+  short_name: Concrete
+  status: Expired
+  updated_on: '2025-05-23T21:40:16.938735Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 206.7730793 kgCO2e
+plant_geography:
+- US-OR
+plant_or_group:
+  address: 6700 Southwest 110th Court, Beaverton, OR 97008
+  address_line: 6700 Southwest 110th Court
+  admin_district: OR
+  admin_district2: Washington
+  carbon_intensity: 643.363 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-11-27T15:54:47.554042Z'
+  id: b4488a955a734a1bbd3b31a1fe157cd5
+  is_failed: false
+  latitude: 45.4716
+  locality: Beaverton
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Washington
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    freeformAddress: 6700 Southwest 110th Court, Beaverton, OR 97008
+    localName: Beaverton
+    municipality: Beaverton
+    municipalitySubdivision: Vose
+    postalCode: '97008'
+    streetName: Southwest 110th Court
+    streetNumber: '6700'
+  longitude: -122.78791
+  name: Beaverton Ready Mix Plant
+  openepd_id: 84QVF6C6+JR.wilsonvilleconcrete.com
+  owned_by:
+    address: 10050 SW Wilsonville Rd, Wilsonville, OR 97070, USA
+    address_line: 10050 SW Wilsonville Rd
+    admin_district: OR
+    admin_district2: Clackamas County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/wilsonville-concrete
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-11-27T15:47:50.062892Z'
+    enterprise: true
+    id: 29ba574bf71c41fe96cde3e1bfe9ad8b
+    is_failed: false
+    latitude: 45.3026057
+    locality: Wilsonville
+    location:
+    - long_name: '10050'
+      short_name: '10050'
+      types:
+      - street_number
+    - long_name: Southwest Wilsonville Road
+      short_name: SW Wilsonville Rd
+      types:
+      - route
+    - long_name: Wilsonville
+      short_name: Wilsonville
+      types:
+      - locality
+      - political
+    - long_name: Clackamas County
+      short_name: Clackamas County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Oregon
+      short_name: OR
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '97070'
+      short_name: '97070'
+      types:
+      - postal_code
+    - long_name: '9501'
+      short_name: '9501'
+      types:
+      - postal_code_suffix
+    longitude: -122.7804819
+    name: WCP, Inc
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/29ba574bf71c41fe96cde3e1bfe9ad8b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '97070'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:27:37.811841Z'
+    web_domain: wilsonvilleconcrete.com
+    website: https://www.wilsonvilleconcrete.com/
+  postal_code: '97008'
+  total_epds: 9
+  type: Plant
+  units: SI
+  updated_on: '2020-11-27T15:54:58.058938Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+program_operator_fkey: EPD 153
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3qjmxpf0
+standard_deviation: 16.23023088 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 158.0893623 kgCO2e
+uncertainty_factor: 1.0945742734134394
+updated_on: '2024-03-13T23:37:55.337417Z'
+use_stored_carbon: false
+verifier:
+  email: tbrooke@astm.org
+  name: Tim Brooke
+  org:
+    address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+    address_line: 100 Barr Harbor Dr
+    admin_district: PA
+    admin_district2: Montgomery County
+    alt_names:
+    - astm
+    - ASTMInternational
+    attachments:
+      Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-10-01T05:13:50.328641Z'
+    email_extensions:
+    - astm.org
+    enterprise: true
+    id: 2657c6a84bfa4675a5e4ee785c253a48
+    image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+    is_failed: false
+    latitude: 40.0689574
+    legal_name: ASTM International
+    locality: Conshohocken
+    location:
+    - long_name: '100'
+      short_name: '100'
+      types:
+      - street_number
+    - long_name: Barr Harbor Drive
+      short_name: Barr Harbor Dr
+      types:
+      - route
+    - long_name: Conshohocken
+      short_name: Conshohocken
+      types:
+      - locality
+      - political
+    - long_name: Montgomery County
+      short_name: Montgomery County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '19428'
+      short_name: '19428'
+      types:
+      - postal_code
+    - long_name: '2951'
+      short_name: '2951'
+      types:
+      - postal_code_suffix
+    longitude: -75.3083283
+    name: ASTM International
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    - CA
+    postal_code: '19428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: true
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2024-07-22T20:35:58.976247Z'
+    web_domain: astm.org
+    website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+warnings:
+  concrete_aggregate_size_max:
+  - Not specified
+  concrete_cement_content:
+  - Not specified
+  concrete_max_slump:
+  - Not specified
+  concrete_min_pipeline_size:
+  - Not specified
+  concrete_min_slump:
+  - Not specified
+  concrete_slump:
+  - Not specified
+  concrete_w_c_ratio:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+white_cement: false

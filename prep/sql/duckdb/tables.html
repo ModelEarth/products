@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Data Display from DuckDB</title>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    table, th, td {
+      border: 1px solid black;
+    }
+    th, td {
+      padding: 8px;
+      text-align: left;
+    }
+    body {
+      margin: 60px;
+      font-family: arial;
+      line-height: 1.5em;
+    }
+  </style>
+</head>
+<body>
+  <a href="./">DuckDB from .csv files</a><br>
+  <h1>Data from DuckDB</h1>
+
+  This javascript does not work yet.<br>
+  We used the Node.js duckdb_node.html file that Sridevi provided and converted it to javascript with ChatGPT.<br>
+  TO DO: Please investigate the current error: duckdb is not defined<br><br>
+
+  <label for="duckdb-table-select">Select a table:</label>
+  <select id="duckdb-table-select"></select>
+  <button onclick="fetchDuckDBData()">Fetch DuckDB Data</button>
+
+  <table id="data-table">
+    <thead id="table-headers">
+      <!-- Table headers will be inserted here dynamically -->
+    </thead>
+    <tbody id="table-body">
+      <!-- Data will be inserted here by JavaScript -->
+    </tbody>
+  </table>
+
+  <br><br>
+  Also see the example of <a href="../../../impacts/parquet-sample.html">DuckDB using Parquet files</a> using other data.
+
+  <!-- Include DuckDB JavaScript library -->
+  <script src="https://cdn.jsdelivr.net/npm/duckdb-wasm@1.19.6/dist/duckdb-browser.js"></script>
+  <script>
+    var db;
+    var duckdbTables = [];
+
+    function initializeDuckDB() {
+      // Instantiate DuckDB
+      var DUCKDB_BUNDLES = {
+        mvp: {
+          mainModule: 'https://cdn.jsdelivr.net/npm/duckdb-wasm@1.19.6/dist/duckdb-mvp.wasm',
+          mainWorker: 'https://cdn.jsdelivr.net/npm/duckdb-wasm@1.19.6/dist/duckdb-browser.worker.js',
+        }
+      };
+
+      var logger = new duckdb.ConsoleLogger();
+      var bundle = DUCKDB_BUNDLES.mvp;
+      var worker = new Worker(bundle.mainWorker);
+      duckdb.create(bundle.mainModule, worker, { logger: logger })
+        .then(function(instance) {
+          db = instance;
+          loadDuckDBFile();
+        })
+        .catch(function(error) {
+          console.error('Error initializing DuckDB:', error);
+        });
+    }
+
+    function loadDuckDBFile() {
+      var request = new XMLHttpRequest();
+      request.open('GET', 'https://raw.githubusercontent.com/ModelEarth/profile/main/impacts/exiobase/US-source/US-2020-17schema.duckdb', true);
+      request.responseType = 'arraybuffer';
+
+      request.onload = function() {
+        if (this.status === 200) {
+          var arrayBuffer = this.response;
+          db.open({ source: new Uint8Array(arrayBuffer) })
+            .then(function() {
+              // Get list of tables
+              return db.connect();
+            })
+            .then(function(conn) {
+              return conn.query("SELECT name FROM sqlite_master WHERE type='table'");
+            })
+            .then(function(result) {
+              duckdbTables = result.toArray().map(function(row) {
+                return row.name;
+              });
+              populateDuckDBTableSelect();
+            })
+            .catch(function(error) {
+              console.error('Error loading DuckDB file:', error);
+            });
+        } else {
+          console.error('Failed to load DuckDB file:', this.status);
+        }
+      };
+
+      request.send();
+    }
+
+    function populateDuckDBTableSelect() {
+      var tableSelect = document.getElementById('duckdb-table-select');
+      tableSelect.innerHTML = '<option value="">Select a table</option>';
+
+      duckdbTables.forEach(function(table) {
+        var option = document.createElement('option');
+        option.value = table;
+        option.textContent = table;
+        tableSelect.appendChild(option);
+      });
+    }
+
+    function fetchDuckDBData() {
+      var tableSelect = document.getElementById('duckdb-table-select');
+      var selectedTable = tableSelect.value;
+
+      if (!selectedTable) {
+        console.error('No table selected');
+        return;
+      }
+
+      fetchDuckDBTableData(selectedTable);
+    }
+
+    function fetchDuckDBTableData(tableName) {
+      db.connect()
+        .then(function(conn) {
+          return conn.query("SELECT * FROM " + tableName);
+        })
+        .then(function(result) {
+          var data = result.toArray();
+          if (data && data.length > 0) {
+            var headers = Object.keys(data[0]);
+            generateTableHeaders(headers);
+            populateTable(data);
+          } else {
+            console.error('Failed to fetch data or no data available');
+          }
+        })
+        .catch(function(error) {
+          console.error('Error fetching data:', error.message);
+        });
+    }
+
+    function populateTable(data) {
+      var tableBody = document.getElementById('table-body');
+      tableBody.innerHTML = '';
+
+      data.forEach(function(row) {
+        var tableRow = document.createElement('tr');
+        Object.values(row).forEach(function(value) {
+          var cell = document.createElement('td');
+          cell.textContent = value;
+          tableRow.appendChild(cell);
+        });
+        tableBody.appendChild(tableRow);
+      });
+    }
+
+    function generateTableHeaders(headers) {
+      var tableHeaders = document.getElementById('table-headers');
+      tableHeaders.innerHTML = '';
+
+      var headerRow = document.createElement('tr');
+      headers.forEach(function(headerText) {
+        var header = document.createElement('th');
+        header.textContent = headerText;
+        headerRow.appendChild(header);
+      });
+
+      tableHeaders.appendChild(headerRow);
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+      initializeDuckDB();
+    });
+  </script>
+</body>
+</html>

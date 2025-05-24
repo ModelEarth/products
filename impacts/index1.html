@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Trade Flow - SQL Data Visualizations - Supabase and DusckDB</title>
+<link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link type="text/css" rel="stylesheet" href="https://model.earth/localsite/css/base.css" id="/localsite/css/base.css" />
+<script type="text/javascript" src="https://model.earth/localsite/js/localsite.js?showheader=true&showsearch=true"></script>
+
+<script>
+//loadMarkdown("README.md", "readmeDiv", "_parent");
+</script>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+    table, th, td {
+        border: 1px solid black;
+    }
+    th, td {
+        padding: 8px;
+        text-align: left;
+    }
+    #query {
+        width: 100%;
+        height: 150px;
+        margin-top: 20px;
+    }
+    #results {
+        margin-top: 20px;
+    }
+    .dropdown {
+        margin-bottom: 20px;
+    }
+</style>
+
+<style>
+hr {
+  margin-top: 22px;
+  margin-bottom: 24px;
+}
+</style>
+
+</head>
+
+<body>
+<div class="content contentpadding" style="padding-top:0px">
+
+    <div style="float:right"><a href="../prep/sql/supabase">About Dev</a></div>
+
+    <h3 style="border-bottom:1px solid #ccc; padding-bottom:6px; margin-bottom:22px">Supabase Data Display and SQL Query Runner</h3>
+
+    <div class="dropdown">
+        <label for="view-select">Select View:</label>
+        <select id="view-select" onchange="navigateToView()">
+            <option value="">Select a view</option>
+            <option value="industries">Industries (Sectors)</option>
+            <option value="commodities">Commodities</option>
+            <option value="indicators">Impacts</option>
+            <option value="imports">Imports</option>
+        </select>
+    </div>
+
+    <label for="table1-select">Select first table:</label>
+    <select id="table1-select" onchange="populateColumnSelect()"></select>
+
+    <label for="table2-select">Select second table:</label>
+    <select id="table2-select" onchange="populateColumnSelect()"></select>
+
+    <label for="column-select">Select common column:</label>
+    <select id="column-select"></select>
+
+    <button onclick="fetchAndJoinData()">Fetch and Join Data</button>
+    <button onclick="clearTableData()">Delete Table Data</button>
+
+    <table id="data-table">
+        <thead id="table-headers">
+            <!-- Table headers will be inserted here dynamically -->
+        </thead>
+        <tbody id="table-body">
+            <!-- Data will be inserted here by JavaScript -->
+        </tbody>
+    </table>
+
+    <textarea id="query" placeholder="Write your SQL query here"></textarea><br>
+    <button id="runQueryButton" onclick="runQuery()">Run Query</button>
+    <button onclick="clearQueryResults()">Delete Query Results</button>
+    <div id="results"></div>
+
+    <!-- Load Supabase library -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script>
+    <script>
+
+
+        let supabaseUrl = 'https://ivlbvaqjjklzallpvjvi.supabase.co';
+        supabaseUrl = 'https://wovjoodfvamzysoxamdb.supabase.co';
+        let supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Iml2bGJ2YXFqamtsemFsbHB2anZpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTgyNDIzNzcsImV4cCI6MjAzMzgxODM3N30.GWAujC6YvjoDUF45ZAUDmR2Vu2ZCyyxwbe-zkJWIUFU';
+        supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Indvdmpvb2RmdmFtenlzb3hhbWRiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjE3NzQ1MDYsImV4cCI6MjAzNzM1MDUwNn0.hHM2aiNfHQe5Z9u-bKDYf7rImf4FnKCoMyoIc3j2uuk';
+
+        const supabase = window.supabase.createClient(supabaseUrl, supabaseKey);
+
+        const tables = [
+            'Commodity',
+            'CommodityUS',
+            'Flow',
+            'ImportCommodityUS',
+            'ImportContributionsUS',
+            'ImportMultiplierUS',
+            'ImportSectorUS',
+            'SectorUS'
+        ];
+
+        async function fetchTableColumns(tableName) {
+            try {
+                const { data, error } = await supabase
+                    .from(tableName)
+                    .select('*')
+                    .limit(1);
+
+                if (error) {
+                    console.error('Error fetching columns:', error.message);
+                    return [];
+                } else {
+                    return data.length > 0 ? Object.keys(data[0]) : [];
+                }
+            } catch (error) {
+                console.error('Error fetching columns:', error.message);
+                return [];
+            }
+        }
+
+        async function populateTableSelects() {
+            const table1Select = document.getElementById('table1-select');
+            const table2Select = document.getElementById('table2-select');
+            table1Select.innerHTML = '<option value="">Select a table</option>';
+            table2Select.innerHTML = '<option value="">Select a table</option>';
+
+            tables.forEach(table => {
+                const option1 = document.createElement('option');
+                option1.value = table;
+                option1.textContent = table;
+                table1Select.appendChild(option1);
+
+                const option2 = document.createElement('option');
+                option2.value = table;
+                option2.textContent = table;
+                table2Select.appendChild(option2);
+            });
+        }
+
+        async function populateColumnSelect() {
+            const table1Select = document.getElementById('table1-select');
+            const table2Select = document.getElementById('table2-select');
+            const columnSelect = document.getElementById('column-select');
+            columnSelect.innerHTML = '<option value="">Select a column</option>';
+
+            const table1 = table1Select.value;
+            const table2 = table2Select.value;
+
+            if (!table1 || !table2) {
+                console.error('Both tables must be selected');
+                return;
+            }
+
+            const columns1 = await fetchTableColumns(table1);
+            const columns2 = await fetchTableColumns(table2);
+
+            const commonColumns = columns1.filter(column => columns2.includes(column));
+
+            commonColumns.forEach(column => {
+                const option = document.createElement('option');
+                option.value = column;
+                option.textContent = column;
+                columnSelect.appendChild(option);
+            });
+        }
+
+        async function fetchData(tableName) {
+            try {
+                const { data, error } = await supabase
+                    .from(tableName)
+                    .select('*');
+
+                if (error) {
+                    console.error('Error fetching data:', error.message);
+                    return null;
+                } else {
+                    return data;
+                }
+            } catch (error) {
+                console.error('Error fetching data:', error.message);
+                return null;
+            }
+        }
+
+        function joinData(data1, data2, column) {
+            const joinedData = [];
+
+            data1.forEach(row1 => {
+                data2.forEach(row2 => {
+                    if (row1[column] === row2[column]) {
+                        joinedData.push({ ...row1, ...row2 });
+                    }
+                });
+            });
+
+            return joinedData;
+        }
+
+        function populateTable(data) {
+            const tableBody = document.getElementById('table-body');
+            tableBody.innerHTML = '';
+
+            data.forEach(row => {
+                const tableRow = document.createElement('tr');
+                Object.keys(row).forEach(key => {
+                    const cell = document.createElement('td');
+                    cell.textContent = row[key];
+                    tableRow.appendChild(cell);
+                });
+                tableBody.appendChild(tableRow);
+            });
+        }
+
+        function generateTableHeaders(headers) {
+            const tableHeaders = document.getElementById('table-headers');
+            tableHeaders.innerHTML = '';
+
+            const headerRow = document.createElement('tr');
+            headers.forEach(headerText => {
+                const header = document.createElement('th');
+                header.textContent = headerText;
+                headerRow.appendChild(header);
+            });
+
+            tableHeaders.appendChild(headerRow);
+        }
+
+        async function fetchAndJoinData() {
+            const table1Select = document.getElementById('table1-select');
+            const table2Select = document.getElementById('table2-select');
+            const columnSelect = document.getElementById('column-select');
+
+            const table1 = table1Select.value;
+            const table2 = table2Select.value;
+            const column = columnSelect.value;
+
+            if (!table1 || !table2 || !column) {
+                console.error('Both tables and a common column must be selected');
+                return;
+            }
+
+            const data1 = await fetchData(table1);
+            const data2 = await fetchData(table2);
+
+            if (data1 && data2) {
+                const joinedData = joinData(data1, data2, column);
+                if (joinedData.length > 0) {
+                    const headers = Object.keys(joinedData[0]);
+                    generateTableHeaders(headers);
+                    populateTable(joinedData);
+                } else {
+                    document.getElementById('table-headers').innerHTML = '';
+                    document.getElementById('table-body').innerHTML = '<tr><td colspan="100%">No data found after join.</td></tr>';
+                }
+            } else {
+                console.error('Failed to fetch data');
+            }
+        }
+
+        function clearTableData() {
+            document.getElementById('table-headers').innerHTML = '';
+            document.getElementById('table-body').innerHTML = '';
+        }
+
+        async function runQuery() {
+            const query = document.getElementById('query').value;
+            console.log('Running query:', query); // Log the query
+
+            try {
+                const { data, error } = await supabase.rpc('run_sql', { sql: query });
+
+                if (error) {
+                    console.error('Error running query:', error); // Log the error
+                    document.getElementById('results').innerHTML = `<p style="color: red;">${error.message}</p>`;
+                } else {
+                    console.log('Query results:', data); // Log the results
+                    displayResults(data);
+                }
+            } catch (err) {
+                console.error('Unexpected error:', err); // Log unexpected errors
+                document.getElementById('results').innerHTML = `<p style="color: red;">${err.message}</p>`;
+            }
+        }
+
+        function displayResults(data) {
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = '';
+
+            if (data && data.length > 0) {
+                const table = document.createElement('table');
+                const thead = document.createElement('thead');
+                const tbody = document.createElement('tbody');
+
+                const headers = Object.keys(data[0]);
+                const headerRow = document.createElement('tr');
+                headers.forEach(header => {
+                    const th = document.createElement('th');
+                    th.textContent = header;
+                    headerRow.appendChild(th);
+                });
+                thead.appendChild(headerRow);
+
+                data.forEach(row => {
+                    const rowElement = document.createElement('tr');
+                    headers.forEach(header => {
+                        const td = document.createElement('td');
+                        td.textContent = row[header];
+                        rowElement.appendChild(td);
+                    });
+                    tbody.appendChild(rowElement);
+                });
+
+                table.appendChild(thead);
+                table.appendChild(tbody);
+                resultsDiv.appendChild(table);
+            } else {
+                resultsDiv.innerHTML = '<p>No data returned.</p>';
+            }
+        }
+
+        function clearQueryResults() {
+            document.getElementById('results').innerHTML = '';
+        }
+
+        async function fetchViewData(view) {
+            let tableName;
+            switch (view) {
+                case 'industries':
+                    tableName = 'SectorUS';
+                    break;
+                case 'commodities':
+                    tableName = 'Commodity';
+                    break;
+                case 'indicators':
+                    tableName = 'Flow';
+                    break;
+                case 'imports':
+                    tableName = 'ImportCommodityUS';
+                    break;
+                default:
+                    console.error('Invalid view selected');
+                    return;
+            }
+
+            const data = await fetchData(tableName);
+            if (data && data.length > 0) {
+                const headers = Object.keys(data[0]);
+                generateTableHeaders(headers);
+                populateTable(data);
+            } else {
+                document.getElementById('table-headers').innerHTML = '';
+                document.getElementById('table-body').innerHTML = '<tr><td colspan="100%">No data found.</td></tr>';
+            }
+        }
+
+        function navigateToView() {
+            const viewSelect = document.getElementById('view-select');
+            const view = viewSelect.value;
+
+            if (view) {
+                const url = new URL(window.location);
+                url.searchParams.set('view', view);
+                window.history.pushState({ path: url.href }, '', url.href);
+                fetchViewData(view);
+            }
+        }
+
+        // Initialize the dropdowns on page load
+        document.addEventListener('DOMContentLoaded', () => {
+            populateTableSelects();
+            const urlParams = new URLSearchParams(window.location.search);
+            const view = urlParams.get('view');
+            if (view) {
+                document.getElementById('view-select').value = view;
+                fetchViewData(view);
+            }
+        });
+    </script>
+
+    <div id="readmeDiv"></div>
+</div>
+
+</body>
+</html>

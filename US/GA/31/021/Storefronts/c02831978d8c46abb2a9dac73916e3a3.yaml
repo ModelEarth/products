@@ -1,0 +1,557 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: true
+best_practice: 0.07024531696 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '1831319917653'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: true
+  created_on: '2018-09-28T14:36:50.204087Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Fabricated building facades commonly used in retail applications, tyically
+    one or two stories tall and using metal framing and glass
+  display_name: Storefronts
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: ac1ff28e392a48cf9547cf83f1742787
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 36.1 kg
+  massless: false
+  masterformat: 08 43 00 Storefronts
+  may_contain_trusted_vendor_declarations: false
+  name: Storefronts
+  no_statistics: true
+  obsolete: false
+  openepd: Openings >> Storefronts
+  openepd_name: Openings >> Storefronts
+  parents: []
+  pct10_gwp: 173.2691151 kgCO2e
+  pct20_gwp: 175.0351525 kgCO2e
+  pct30_gwp: 176.8011898 kgCO2e
+  pct40_gwp: 178.5672272 kgCO2e
+  pct50_gwp: 180.3332645 kgCO2e
+  pct60_gwp: 182.0993019 kgCO2e
+  pct70_gwp: 183.8653392 kgCO2e
+  pct80_gwp: 185.6313765 kgCO2e
+  pct90_gwp: 187.3974139 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Storefronts
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30171613'
+  updated_on: '2025-05-23T10:09:09.090524Z'
+  use_stored_carbon: ABSENT
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 0.115354683 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-04-11T13:07:37.313184Z'
+date_of_issue: '2022-12-01'
+date_validity_ends: '2027-12-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: YES 20 is a complete sash system intended to provide a framing system
+  for single lites of glass.
+developer:
+  email: jlevis@sphera.com
+  name: James Levis
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3brzew65
+errors: {}
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP is much lower than category's typical values
+file_name: 103.1_YKK_EPD_Aluminum-Storefront-Systems.pdf
+gwp: 0.0928 kgCO2e
+gwp_per_category_declared_unit: 0.0928 kgCO2e
+gwp_per_kg: 0.01342981187 kgCO2e
+gwp_z: 0.28879058156387305
+id: e54540fcf809456ba3a8361fabe965aa
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 0.07024531696 kgCO2e
+manufacturer:
+  address: 270 Riverside Parkway, Austell, GA 30168
+  address_line: 270 Riverside Parkway
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - YKK AP
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/ykk-ap
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-05-30T02:30:18.429978Z'
+  email_extensions:
+  - ykkap.com
+  enterprise: true
+  id: 304217227aa740b2b9a5fbe8169de007
+  is_failed: false
+  latitude: 33.76858
+  locality: Austell
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Mableton
+    freeformAddress: 270 Riverside Parkway, Austell, GA 30168
+    localName: Austell
+    municipality: Austell
+    postalCode: '30168'
+    streetName: Riverside Parkway
+    streetNumber: '270'
+  longitude: -84.55862
+  name: YKK AP America
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/304217227aa740b2b9a5fbe8169de007
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30168'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:28:20.208548Z'
+  web_domain: ykkap.com
+  website: https://www.ykkap.com/
+manufacturer_specific: true
+mass_per_declared_unit: 6.91 kg
+matched_plants_count: 0
+material_id: c02831978d8c46abb2a9dac73916e3a3
+multiproduct: true
+my_capabilities: 1
+name: YES 20 1" x 2" Commercial Storefront System
+not_an_epd: false
+open_xpd_uuid: ec3brzew
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3brzew
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-08T14:59:16.946476Z'
+  date_of_issue: '2019-01-04'
+  date_validity_ends: '2024-01-04'
+  declared_units: []
+  doc: https://epd-online.com/Pcr/PdfDownload/5376
+  id: 106df2179d2b4f2284a6d46f75e9fd02
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Requirements on the EPD for Self supporting facade elements based
+    on glazed curtain walls'
+  open_xpd_uuid: ec3h5b93
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3h5b93
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3h5b93cy
+  short_name: Self supporting facade elements based on glazed curtain walls
+  status: Expired
+  updated_on: '2024-03-08T17:19:45.072602Z'
+  version: 1.0/1.7/1.0
+pct80_gwp_per_category_declared_unit: 0.115354683 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 1229 Highway 441 Bypass, Dublin, GA 31021
+  address_line: 1229 Highway 441 Bypass
+  admin_district: GA
+  admin_district2: Laurens
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-23T21:54:11.470002Z'
+  id: e0a9cc9e2c354446be6ece798a57da42
+  is_failed: false
+  latitude: 32.50905
+  locality: Dublin
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Laurens
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Dublin
+    extendedPostalCode: '310211694'
+    freeformAddress: 1229 Highway 441 Bypass, Dublin, GA 31021
+    municipality: Dublin
+    municipalitySubdivision: Dublin
+    postalCode: '31021'
+    streetName: Highway 441 Bypass
+    streetNumber: '1229'
+  longitude: -82.94872
+  name: Dublin, GA
+  openepd_id: 864VG352+JG.ykkap.com
+  owned_by:
+    address: 270 Riverside Parkway, Austell, GA 30168
+    address_line: 270 Riverside Parkway
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - YKK AP
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/ykk-ap
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-05-30T02:30:18.429978Z'
+    email_extensions:
+    - ykkap.com
+    enterprise: true
+    id: 304217227aa740b2b9a5fbe8169de007
+    is_failed: false
+    latitude: 33.76858
+    locality: Austell
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Mableton
+      freeformAddress: 270 Riverside Parkway, Austell, GA 30168
+      localName: Austell
+      municipality: Austell
+      postalCode: '30168'
+      streetName: Riverside Parkway
+      streetNumber: '270'
+    longitude: -84.55862
+    name: YKK AP America
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/304217227aa740b2b9a5fbe8169de007
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30168'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:28:20.208548Z'
+    web_domain: ykkap.com
+    website: https://www.ykkap.com/
+  postal_code: '31021'
+  total_epds: 14
+  type: Plant
+  units: SI
+  updated_on: '2025-05-05T22:00:04.313226Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4789555932.103.1
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3brzew65
+standard_deviation: 0.02679976597 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.115354683 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-05-05T21:19:31.845689Z'
+use_stored_carbon: false
+verifier:
+  email: cooper.mccollum@ul.com
+  name: Cooper McCollum
+  org:
+    address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    address_line: 2211 New Market Parkway Southeast
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - ULE EPM
+    - Underwriters Labs
+    - Underwriters Laboratories
+    - UL E
+    - UL Enviornment
+    - UL Environment
+    - UL Solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-19T16:12:16.017515Z'
+    email: epd@ul.com
+    email_extensions:
+    - ul.com
+    - ulenvironment.com
+    enterprise: true
+    id: 5b22feac0d67472191705631612b68fb
+    image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+    is_failed: false
+    latitude: 33.917988
+    legal_name: UL
+    locality: Marietta
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.918196,-84.495564
+        southWest: 33.917305,-84.497793
+      buildingNumber: '2211'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Marietta
+      extendedPostalCode: '300679393'
+      freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+      municipality: Marietta
+      municipalitySubdivision: Marietta
+      postalCode: '30067'
+      routeNumbers: []
+      street: New Market Parkway Southeast
+      streetName: New Market Parkway Southeast
+      streetNameAndNumber: 2211 New Market Parkway Southeast
+      streetNumber: '2211'
+    longitude: -84.49678
+    name: UL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    - CA
+    postal_code: '30067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2025-04-26T00:06:55.791242Z'
+    web_domain: ul.com
+    website: https://www.ul.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified

@@ -1,0 +1,58 @@
+<!-- LH added Feb 19, 2025 -->
+
+Next, try to modify <a href="../../impacts/useeio/parquet/SectorvsProductionComplete.html">SectorvsProductionComplete.html</a> to load .feather.<br>
+(ChatGPT says DuckDB sports .feather loading.)<br><br>
+
+https://chatgpt.com/share/67b64b3c-e44c-8003-ac71-ad3bf419592d<br><br>
+
+Said apache-arrow does not support frontend.<br>
+Since most .feather files use LZ4 or ZSTD compression, Arquero cannot directly parse them.<br><br>
+
+<!--
+<script src="https://cdn.jsdelivr.net/npm/arquero"></script>
+<script>
+  fetch('/global-trade/maps/2020/IOT_2020_pxp.feather')
+    .then(response => response.arrayBuffer())
+    .then(buffer => {
+      const table = aq.fromArrow(buffer);
+      console.log(table.objects()); // Convert to JS objects
+    });
+</script>
+-->
+<script>
+  async function loadFeather() {
+    try {
+      // Dynamically import DuckDB-WASM
+      const duckdb = await import("https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1.28.1-dev106.0/+esm");
+
+      // Initialize DuckDB with NO workers to prevent the worker error
+      const JSDELIVR_BUNDLES = duckdb.getJsDelivrBundles();
+      const bundle = await duckdb.selectBundle(JSDELIVR_BUNDLES);
+      const workerURL = duckdb.getJsDelivrWorkerURL(bundle);
+
+      const db = new duckdb.AsyncDuckDB();
+      await db.instantiate(bundle.mainModule, workerURL, false); // false disables workers
+
+      // Create a connection
+      const conn = await db.connect();
+
+      // Fetch the Feather file
+      const response = await fetch("/global-trade/maps/2020/IOT_2020_pxp.feather");
+      const buffer = await response.arrayBuffer();
+
+      // Load the Feather file into DuckDB
+      await conn.insertArrowFromIPCStream(new Uint8Array(buffer), "my_table");
+
+      // Query the table and log results
+      const result = await conn.query("SELECT * FROM my_table LIMIT 10"); // Limit to avoid large logs
+      console.log("Parsed Feather Data:", result.toArray());
+
+    } catch (error) {
+      console.error("Error loading Feather file:", error);
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", loadFeather);
+</script>
+
+

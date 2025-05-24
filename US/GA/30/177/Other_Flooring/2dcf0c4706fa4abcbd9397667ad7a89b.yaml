@@ -1,0 +1,679 @@
+also_shown_in:
+- allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2021-11-22T14:52:01Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: General category - finishes for floors
+  display_name: Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ef8454f31b064e4ea7452a29d1018b70
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 5.724059689 kg
+  massless: false
+  masterformat: 09 60 00 Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: Flooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring
+  openepd_name: Finishes >> Flooring
+  parents: []
+  pct10_gwp: 4.888977068 kgCO2e
+  pct20_gwp: 5.95938573 kgCO2e
+  pct30_gwp: 6.859889681 kgCO2e
+  pct40_gwp: 8.166102302 kgCO2e
+  pct50_gwp: 9.532138843 kgCO2e
+  pct60_gwp: 11.65855587 kgCO2e
+  pct70_gwp: 14.95160109 kgCO2e
+  pct80_gwp: 18.37858868 kgCO2e
+  pct90_gwp: 28.28008597 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161700'
+  updated_on: '2023-11-16T18:33:20.195042Z'
+  use_stored_carbon: ABSENT
+- allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-07-18T14:11:30.605901Z'
+  declared_unit: 1 m2
+  default_distance: 1210.22368 km
+  default_transport_mode: truck, unspecified
+  description: Decorative building materials that includes a variety of ceramic, porcelain,
+    and glass tiles, used for covering and enhancing surfaces such as floors, walls,
+    and countertops.
+  display_name: Tiling
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 322f5fe92dc14206868213d0f800fe80
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 20.16 kg
+  massless: false
+  masterformat: 09 30 00 Tiling
+  may_contain_trusted_vendor_declarations: false
+  name: Tiling
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Tiling
+  openepd_name: Finishes >> Tiling
+  parents: []
+  pct10_gwp: 8.04875892 kgCO2e
+  pct20_gwp: 9.337870324 kgCO2e
+  pct30_gwp: 10.7981564 kgCO2e
+  pct40_gwp: 11.5351619 kgCO2e
+  pct50_gwp: 12.19466954 kgCO2e
+  pct60_gwp: 12.65359009 kgCO2e
+  pct70_gwp: 13.93676519 kgCO2e
+  pct80_gwp: 15.75467339 kgCO2e
+  pct90_gwp: 18.5657622 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Tiling
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30131704'
+  updated_on: '2025-05-23T10:09:01.146956Z'
+  use_stored_carbon: ABSENT
+applicable_in:
+- '021'
+approved_fields: {}
+best_practice: 24.75239078 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: https://transparencycatalog.com/company/polycor/showroom/marble-flooring-products
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2020-10-12T14:52:08Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Other not yet classified kinds of flooring
+  display_name: Other Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 2c2f27b4aab140a898822424e94ec3ad
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.99 kg
+  massless: false
+  masterformat: 09 60 00 Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: OtherFlooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> OtherFlooring
+  openepd_name: Finishes >> Flooring >> OtherFlooring
+  parents: []
+  pct10_gwp: 1.146290369 kgCO2e
+  pct20_gwp: 1.745633546 kgCO2e
+  pct30_gwp: 3.930295904 kgCO2e
+  pct40_gwp: 7.193469284 kgCO2e
+  pct50_gwp: 11.18279493 kgCO2e
+  pct60_gwp: 14.82317509 kgCO2e
+  pct70_gwp: 18.01435573 kgCO2e
+  pct80_gwp: 22.1901874 kgCO2e
+  pct90_gwp: 26.66401825 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Other Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-05-23T10:08:59.946586Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 40.64760922 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-02-21T17:23:24.825538Z'
+date_of_issue: '2023-02-13'
+date_validity_ends: '2028-02-13'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: Originating at the Polycor quarries and through production, marbles are
+  manufactured to tiles and pavers with a wide range of finishes. Marble is an inherently
+  nonemitting source of VOCs and its durability allows it to perform impeccably in
+  commercial & residential applications, interior or exterior.
+developer:
+  org:
+    address: Broadway, Cambridge, MA 02139
+    address_line: ' Broadway'
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - Sustainable Minds LLC.
+    - sminds
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-09-12T10:00:38.592854Z'
+    email_extensions:
+    - sustainableminds.com
+    - ebsqart.com
+    enterprise: true
+    id: 321e5dc991904465af04913936fd75c8
+    image: https://static.buildingtransparency.org/images/f1493547-5dc1-4c14-967b-c05695c96708.png
+    is_failed: false
+    latitude: 42.36484
+    locality: Cambridge
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Cambridge
+      freeformAddress: Broadway, Cambridge, MA 02139
+      municipality: Cambridge
+      municipalitySubdivision: Cambridge, Massachusetts Institute of Technology
+      postalCode: 02139
+      streetName: Broadway
+    longitude: -71.08975
+    name: Sustainable Minds
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/321e5dc991904465af04913936fd75c8
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: 02139
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2024-07-24T17:03:30.186451Z'
+    web_domain: sustainableminds.com
+    website: https://www.sustainableminds.com
+doc: https://transparencycatalog.com/company/polycor/showroom/marble-flooring-products
+epd_degraded: false
+excluded: false
+externally_verified: true
+gwp: 32.7 kgCO2e
+gwp_per_category_declared_unit: 32.7 kgCO2e
+gwp_per_kg: 0.9541873359 kgCO2e
+gwp_z: 0.28879058156387305
+id: f520cd1a653047dca86afa59c302cdc7
+image: https://static.buildingtransparency.org/images/fbc8c3bdebb8409ea32291143415a328.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '021'
+- US-GA
+language: en
+lowest_plausible_gwp: 24.75239078 kgCO2e
+manufacturer:
+  address: "76 Rue Saint-Paul, Qu\xE9bec, QC G1K 3Y1, Canada"
+  address_line: 76 Rue Saint-Paul
+  admin_district: QC
+  admin_district2: "Communaut\xE9-Urbaine-de-Qu\xE9bec"
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/polycor
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  country: CA
+  cqd_sync_unlocked: true
+  created_on: '2021-02-26T14:06:00.282273Z'
+  enterprise: true
+  errors: {}
+  failures: {}
+  horizontal_logo: https://static.buildingtransparency.org/images/7fcf6d79b28f41789e3d2ae27c097651.png
+  id: 3add9386890b4cc9bac4451b74e95669
+  image: https://static.buildingtransparency.org/images/b233c50b203546979f6893bf20a6bca9.png
+  is_failed: false
+  latitude: 46.8164177
+  legal_name: Polycor Inc.
+  locality: "Qu\xE9bec"
+  location:
+  - long_name: '76'
+    short_name: '76'
+    types:
+    - street_number
+  - long_name: Rue Saint-Paul
+    short_name: Rue Saint-Paul
+    types:
+    - route
+  - long_name: "La Cit\xE9-Limoilou"
+    short_name: "La Cit\xE9-Limoilou"
+    types:
+    - political
+    - sublocality
+    - sublocality_level_1
+  - long_name: "Qu\xE9bec"
+    short_name: "Qu\xE9bec"
+    types:
+    - locality
+    - political
+  - long_name: "Communaut\xE9-Urbaine-de-Qu\xE9bec"
+    short_name: "Communaut\xE9-Urbaine-de-Qu\xE9bec"
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: "Qu\xE9bec"
+    short_name: QC
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: Canada
+    short_name: CA
+    types:
+    - country
+    - political
+  - long_name: G1K 3Y1
+    short_name: G1K 3Y1
+    types:
+    - postal_code
+  longitude: -71.2041746
+  name: Polycor | Natural Stone
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3add9386890b4cc9bac4451b74e95669
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: G1K 3Y1
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-04-25T22:15:19.024868Z'
+  web_domain: polycor.com
+  website: https://www.polycor.com/
+manufacturer_specific: true
+mass_per_declared_unit: 34.27 kg
+matched_plants_count: 0
+material_id: 2dcf0c4706fa4abcbd9397667ad7a89b
+my_capabilities: 1
+name: Marble Floor and Pavers
+not_an_epd: false
+open_xpd_uuid: ec3w6eyz
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3w6eyz
+output_flows: {}
+owner:
+  name: Kim Hammer
+  user_id: kim@sustainableminds.com
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-10-20T18:21:39.516557Z'
+  date_of_issue: '2022-06-04'
+  date_validity_ends: '2027-06-04'
+  declared_units:
+  - 1 m2
+  doc: http://www.sustainableminds.com/files/transparency/pgds/Part_B_Product_Group_Definition_Stone_Flooring_v1-1_10172022.pdf
+  id: e79796dd61b54864b7c37ea43cec914d
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Product group definition for Interior and exterior stone flooring'
+  open_xpd_uuid: ec38g7mw
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec38g7mw
+  product_classes:
+    masterformat:
+    - 04 41 00
+    - 09 30 33
+    - 09 63 40
+    - 32 14 40
+  short_link: buildingtransparency.org/p/ec38g7mw3a
+  short_name: Interior and exterior stone flooring
+  status: Published
+  updated_on: '2022-10-20T18:21:39.516564Z'
+  version: '1.1'
+pct80_gwp_per_category_declared_unit: 40.64760922 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 200 Georgia Marble Rd, Tate, GA 30177, USA
+  address_line: 200 Georgia Marble Rd
+  admin_district: GA
+  admin_district2: Pickens County
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-01-26T19:11:07.636507Z'
+  id: c64a6ecacb014c869b8c638295a39345
+  is_failed: false
+  latitude: 34.411045
+  locality: Tate
+  location:
+  - long_name: '200'
+    short_name: '200'
+    types:
+    - street_number
+  - long_name: Georgia Marble Road
+    short_name: Georgia Marble Rd
+    types:
+    - route
+  - long_name: Tate
+    short_name: Tate
+    types:
+    - locality
+    - political
+  - long_name: Pickens County
+    short_name: Pickens County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30177'
+    short_name: '30177'
+    types:
+    - postal_code
+  - long_name: '2603'
+    short_name: '2603'
+    types:
+    - postal_code_suffix
+  longitude: -84.3684777
+  name: Georgia Marble Plant
+  openepd_id: 866QCJ6J+CJ.polycor.com
+  owned_by:
+    address: "76 Rue Saint-Paul, Qu\xE9bec, QC G1K 3Y1, Canada"
+    address_line: 76 Rue Saint-Paul
+    admin_district: QC
+    admin_district2: "Communaut\xE9-Urbaine-de-Qu\xE9bec"
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/polycor
+    confirmable_fields:
+    - name
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2021-02-26T14:06:00.282273Z'
+    enterprise: true
+    errors: {}
+    failures: {}
+    horizontal_logo: https://static.buildingtransparency.org/images/7fcf6d79b28f41789e3d2ae27c097651.png
+    id: 3add9386890b4cc9bac4451b74e95669
+    image: https://static.buildingtransparency.org/images/b233c50b203546979f6893bf20a6bca9.png
+    is_failed: false
+    latitude: 46.8164177
+    legal_name: Polycor Inc.
+    locality: "Qu\xE9bec"
+    location:
+    - long_name: '76'
+      short_name: '76'
+      types:
+      - street_number
+    - long_name: Rue Saint-Paul
+      short_name: Rue Saint-Paul
+      types:
+      - route
+    - long_name: "La Cit\xE9-Limoilou"
+      short_name: "La Cit\xE9-Limoilou"
+      types:
+      - political
+      - sublocality
+      - sublocality_level_1
+    - long_name: "Qu\xE9bec"
+      short_name: "Qu\xE9bec"
+      types:
+      - locality
+      - political
+    - long_name: "Communaut\xE9-Urbaine-de-Qu\xE9bec"
+      short_name: "Communaut\xE9-Urbaine-de-Qu\xE9bec"
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: "Qu\xE9bec"
+      short_name: QC
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: Canada
+      short_name: CA
+      types:
+      - country
+      - political
+    - long_name: G1K 3Y1
+      short_name: G1K 3Y1
+      types:
+      - postal_code
+    longitude: -71.2041746
+    name: Polycor | Natural Stone
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3add9386890b4cc9bac4451b74e95669
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: G1K 3Y1
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-04-25T22:15:19.024868Z'
+    web_domain: polycor.com
+    website: https://www.polycor.com/
+  postal_code: '30177'
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2024-01-26T19:11:07.636513Z'
+plant_specific: false
+private: false
+product_classes:
+  masterformat:
+  - 09 30 33
+  - 09 63 40
+  - 32 14 40
+product_specific: true
+program_operator:
+  address: Broadway, Cambridge, MA 02139
+  address_line: ' Broadway'
+  admin_district: MA
+  admin_district2: Middlesex
+  alt_names:
+  - Sustainable Minds LLC.
+  - sminds
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-12T10:00:38.592854Z'
+  email_extensions:
+  - sustainableminds.com
+  - ebsqart.com
+  enterprise: true
+  id: 321e5dc991904465af04913936fd75c8
+  image: https://static.buildingtransparency.org/images/f1493547-5dc1-4c14-967b-c05695c96708.png
+  is_failed: false
+  latitude: 42.36484
+  locality: Cambridge
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Middlesex
+    countrySubdivision: MA
+    countrySubdivisionName: Massachusetts
+    countryTertiarySubdivision: Cambridge
+    freeformAddress: Broadway, Cambridge, MA 02139
+    municipality: Cambridge
+    municipalitySubdivision: Cambridge, Massachusetts Institute of Technology
+    postalCode: 02139
+    streetName: Broadway
+  longitude: -71.08975
+  name: Sustainable Minds
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/321e5dc991904465af04913936fd75c8
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: 02139
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:03:30.186451Z'
+  web_domain: sustainableminds.com
+  website: https://www.sustainableminds.com
+program_operator_fkey: "POL \u2013 20230213 \u2013 003"
+resource_uses: {}
+sanitizable: false
+short_link: buildingtransparency.org/e/ec3w6eyz48
+standard_deviation: 9.443452017 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 40.64760922 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2024-03-14T03:36:17.341078Z'
+use_stored_carbon: false
+verifier:
+  org:
+    address: 503 West Clinch Avenue, Knoxville, TN 37902
+    address_line: 503 West Clinch Avenue, Clinch Avenue Southwest
+    admin_district: TN
+    admin_district2: Knox
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-14T10:31:46.922611Z'
+    email_extensions:
+    - ecoform.com
+    enterprise: true
+    id: 5e03a97e4f8446ffb04a465e1d82c041
+    is_failed: false
+    latitude: 35.96343
+    locality: Knoxville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Knox
+      countrySubdivision: TN
+      countrySubdivisionName: Tennessee
+      countryTertiarySubdivision: District 1
+      extendedPostalCode: '379022104'
+      freeformAddress: 503 West Clinch Avenue, Knoxville, TN 37902
+      localName: Knoxville
+      municipality: Knoxville
+      municipalitySubdivision: Knoxville
+      postalCode: '37902'
+      streetName: West Clinch Avenue, Clinch Avenue Southwest
+      streetNumber: '503'
+    longitude: -83.92008
+    name: EcoForm
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5e03a97e4f8446ffb04a465e1d82c041
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37902'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-21T03:04:58.033587Z'
+    web_domain: ecoform.com
+    website: http://www.ecoform.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  verifier:
+  - Missing link

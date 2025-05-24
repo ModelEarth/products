@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Join example using Sector and Consumption Complete for Maine</title>
+    <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+    <link href="https://cdn.jsdelivr.net/npm/tabulator-tables@5.6.1/dist/css/tabulator.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            text-align: center;
+            margin-top: 2em;
+        }
+        #tbl {
+            margin: 0 auto;
+            width: 80%;
+        }
+    </style>
+    <script type="module">
+        async function loadData() {
+            const selectedState = "ME";  // Maine
+            try {
+                const duckdb = await import("https://cdn.jsdelivr.net/npm/@duckdb/duckdb-wasm@1.28.1-dev106.0/+esm");
+                const { TabulatorFull: Tabulator } = await import("https://cdn.jsdelivr.net/npm/tabulator-tables@5.6.1/+esm");
+
+                async function instantiate(duckdb) {
+                    const CDN_BUNDLES = duckdb.getJsDelivrBundles(),
+                          bundle = await duckdb.selectBundle(CDN_BUNDLES),
+                          worker_url = URL.createObjectURL(
+                              new Blob([`importScripts("${bundle.mainWorker}");`], {
+                                  type: "text/javascript"
+                              })
+                          );
+
+                    const worker = new Worker(worker_url),
+                          logger = new duckdb.ConsoleLogger("ERROR"),
+                          db = new duckdb.AsyncDuckDB(logger, worker);
+                    await db.instantiate(bundle.mainModule, bundle.pthreadWorker);
+                    URL.revokeObjectURL(worker_url);
+                    return db;
+                }
+
+                const DuckDB = await instantiate(duckdb);
+                const db = await DuckDB.connect();
+
+                // Create tables
+                await db.query(`
+                    create table sector as select * from "https://raw.githubusercontent.com/ModelEarth/profile/main/impacts/useeio/parquet/files/Sector.parquet";
+                    create table consump as select * from "https://raw.githubusercontent.com/ModelEarth/profile/main/impacts/useeio/parquet/files/Consumption_Complete.parquet";
+                `);
+
+                // Perform join
+                const values = await db.query(`
+                    select c.Amount, s.SectorName
+                    from consump c
+                    join sector s on c.Sector = s.SectorID
+                    where c.State = '${selectedState}'
+                    order by s.SectorName ASC;
+                `);
+
+                const data = values.toArray().map(d => d.toJSON());
+
+                // Clear the previous table if it exists
+                document.getElementById("tbl").innerHTML = "";
+
+                // Render new table
+                new Tabulator("#tbl", {
+                    data: data,
+                    layout: "fitColumns",
+                    columns: [
+                        { title: "Consumption Complete Amount", field: "Amount" },
+                        { title: "Sector", field: "SectorName" }
+                    ]
+                });
+            } catch (error) {
+                console.error("Error loading data:", error);
+                alert("Failed to load data. Please try again later.");
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            loadData(); 
+        });
+    </script>
+</head>
+<body>
+    <h1>Join example using Sector and Consumption Complete for Maine</h1>
+    <div id="tbl"></div>
+</body>
+</html>

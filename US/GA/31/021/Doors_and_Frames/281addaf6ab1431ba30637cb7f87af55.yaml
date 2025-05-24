@@ -1,0 +1,647 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/ykk-ap
+best_practice: 244.0394708 kgCO2e
+biogenic_embodied_carbon_z: 0.3525620512760839
+box_id: '455115748373'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-06-06T12:54:58.842256Z'
+  declared_unit: 1 unit
+  default_distance: 603.5025 km
+  default_transport_mode: truck, unspecified
+  description: Doors (the operable part) and frames (what holds the door proper)
+  display_name: Doors and Frames
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 73e602b930884f559e904184f35ee4ed
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 41.4 kg
+  massless: false
+  masterformat: 08 10 00 Doors and Frames
+  may_contain_trusted_vendor_declarations: false
+  name: DoorsAndFrames
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> DoorsAndFrames
+  openepd_name: Openings >> DoorsAndFrames
+  parents: []
+  pct10_gwp: 5.848463962 kgCO2e
+  pct20_gwp: 19.59634531 kgCO2e
+  pct30_gwp: 38.65873537 kgCO2e
+  pct40_gwp: 65.95076383 kgCO2e
+  pct50_gwp: 133.8166536 kgCO2e
+  pct60_gwp: 174.0264615 kgCO2e
+  pct70_gwp: 230.3642336 kgCO2e
+  pct80_gwp: 403.1707072 kgCO2e
+  pct90_gwp: 654.5302222 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: Doors and Frames
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30171500'
+  updated_on: '2025-05-23T10:09:08.676547Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 449.9605292 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-06-18T07:04:32.442935Z'
+date_of_issue: '2015-11-13'
+date_validity_ends: '2020-11-13'
+declaration_type: Product EPD
+declared_unit: 1 unit
+description: "The following YKK AP America aluminum entrance systems are covered by\
+  \ this EPD (glazing is excluded from this study): 25 FD Flush Panel Entrance YKK\
+  \ AP's flush panel entrance, Model 25FD, is available with a durable Fiber Reinforced\
+  \ Polyester resin (FRP) or an Aluminum Skin to meet both aesthetic and performance\
+  \ requirements of any project. \xA92015 UL LLC. All Rights Reserved YKK AP America\
+  \ Aluminum Entrance Systems According to ISO 14025 20D / 35D / 50D Standard Commercial\
+  \ Entrances Entrance systems by YKK AP offer an abundance of design options. VersaJamb\
+  \ \xAE, our unique reinforced tubular door frame, allows for side-lite glazing without\
+  \ shear clips while maintaining the structural integrity of transom frames. 40M\
+  \ / 50M Monumental Commercial Entrances YKK AP's Monumental entrances offer an abundance\
+  \ of design"
+developer:
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3c60rwx7
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: EPD - Product Specific 74545-4150.pdf
+gwp: 347 kgCO2e
+gwp_per_category_declared_unit: 347 kgCO2e
+gwp_per_kg: 10.35820896 kgCO2e
+gwp_z: 0.3525620512760839
+height: 2.18 mm
+id: afb78719aae54055b6a7d95a5541b057
+image: https://static.buildingtransparency.org/images/f4a6a394625a47f88464ba716e1b060d.png
+impacts: {}
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: "\n\n## Source Data Notes\nIBU. (2014). PCR for Building-Related Products\
+  \ and Services - Part A: Calculation Rules for the LCA and Requirements Project\
+  \ Report, (IBU/UL E, V1.3, 06.19.2014), Part B: Requirements on the EPD for windows\
+  \ and doors (IBU, V1.7, 06.11.2014), Part B Addendum: IBU PCR for Windows and Doors\
+  \ (UL E, V1.0 Oct. 2015). Berlin: Institut Bauen, Umwelt. ISO. (2006). ISO 14025:\
+  \ Environmental labels and declarations - Type III environmental declarations -\
+  \ Principles and procedures. Geneva: International Organization for Standardization.\
+  \ EN. (2013). EN 15804:2012-04+A1 2013: Sustainability of construction works - Environmental\
+  \ Product Declarations - Core rules for the product category of construction products.\
+  \ \xA92015 UL LLC. All Rights Reserved"
+lowest_plausible_gwp: 244.0394708 kgCO2e
+manufacturer:
+  address: 270 Riverside Parkway, Austell, GA 30168
+  address_line: 270 Riverside Parkway
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - YKK AP
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/ykk-ap
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-05-30T02:30:18.429978Z'
+  email_extensions:
+  - ykkap.com
+  enterprise: true
+  id: 304217227aa740b2b9a5fbe8169de007
+  is_failed: false
+  latitude: 33.76858
+  locality: Austell
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Mableton
+    freeformAddress: 270 Riverside Parkway, Austell, GA 30168
+    localName: Austell
+    municipality: Austell
+    postalCode: '30168'
+    streetName: Riverside Parkway
+    streetNumber: '270'
+  longitude: -84.55862
+  name: YKK AP America
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/304217227aa740b2b9a5fbe8169de007
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30168'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:28:20.208548Z'
+  web_domain: ykkap.com
+  website: https://www.ykkap.com/
+manufacturer_specific: true
+mass_per_declared_unit: 33.5 kg
+matched_plants_count: 0
+material_id: 281addaf6ab1431ba30637cb7f87af55
+multiproduct: false
+my_capabilities: 1
+name: Aluminum Entrance Systems
+not_an_epd: false
+open_xpd_uuid: ec3c60rw
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3c60rw
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:21.440678Z'
+  date_of_issue: '2021-01-26'
+  date_validity_ends: '2026-01-26'
+  declared_units: []
+  doc: https://epd-online.com/Pcr/PdfDownloadForEpd/9185
+  id: ecbef5ac5dac43e1833945ed7bd67400
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Requirements on the EPD for windows and doors'
+  open_xpd_uuid: ec3udd6a
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3udd6a
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3udd6ajh
+  short_name: Windows and Doors
+  updated_on: '2023-09-15T05:52:48.790875Z'
+  version: 1.0/1.7/1.4
+pct80_gwp_per_category_declared_unit: 449.9605292 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 1229 Highway 441 Bypass, Dublin, GA 31021
+  address_line: 1229 Highway 441 Bypass
+  admin_district: GA
+  admin_district2: Laurens
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-23T21:54:11.470002Z'
+  id: e0a9cc9e2c354446be6ece798a57da42
+  is_failed: false
+  latitude: 32.50905
+  locality: Dublin
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Laurens
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Dublin
+    extendedPostalCode: '310211694'
+    freeformAddress: 1229 Highway 441 Bypass, Dublin, GA 31021
+    municipality: Dublin
+    municipalitySubdivision: Dublin
+    postalCode: '31021'
+    streetName: Highway 441 Bypass
+    streetNumber: '1229'
+  longitude: -82.94872
+  name: Dublin, GA
+  openepd_id: 864VG352+JG.ykkap.com
+  owned_by:
+    address: 270 Riverside Parkway, Austell, GA 30168
+    address_line: 270 Riverside Parkway
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - YKK AP
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/ykk-ap
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-05-30T02:30:18.429978Z'
+    email_extensions:
+    - ykkap.com
+    enterprise: true
+    id: 304217227aa740b2b9a5fbe8169de007
+    is_failed: false
+    latitude: 33.76858
+    locality: Austell
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Mableton
+      freeformAddress: 270 Riverside Parkway, Austell, GA 30168
+      localName: Austell
+      municipality: Austell
+      postalCode: '30168'
+      streetName: Riverside Parkway
+      streetNumber: '270'
+    longitude: -84.55862
+    name: YKK AP America
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/304217227aa740b2b9a5fbe8169de007
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30168'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:28:20.208548Z'
+    web_domain: ykkap.com
+    website: https://www.ykkap.com/
+  postal_code: '31021'
+  total_epds: 14
+  type: Plant
+  units: SI
+  updated_on: '2025-05-05T22:00:04.313226Z'
+plant_specific: false
+private: false
+product_specific: false
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4786832322.102.1
+requires_ocr: false
+resource_uses: {}
+reviewer:
+  org:
+    address: "Panoramastra\xDFe 1, 10178 Berlin"
+    address_line: "1 Panoramastra\xDFe"
+    admin_district: Berlin
+    admin_district2: Berlin
+    alt_names:
+    - Institut Bauen und Umwelt e.V.
+    attachments:
+      Programme Instructions: https://ibu-epd.com/wp-content/uploads/2021/02/General-Programme-Instructions-v.2.0.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DE
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:42:33.807998Z'
+    email_extensions:
+    - ibu-epd.com
+    - bau-umwelt.com
+    enterprise: true
+    id: c2314921c3214f6eab282fd195e0af4d
+    image: https://static.buildingtransparency.org/images/011c4c34-bf60-4ce9-9bc0-a07985009458.png
+    is_failed: false
+    latitude: 52.521461
+    legal_name: Institut Bauen und Umwelt e.V.
+    locality: Berlin
+    location:
+      boundingBox:
+        entity: position
+        northEast: 52.521702,13.410302
+        southWest: 52.521462,13.409973
+      buildingNumber: '1'
+      country: Deutschland
+      countryCode: DE
+      countryCodeISO3: DEU
+      countrySecondarySubdivision: Berlin
+      countrySubdivision: Berlin
+      freeformAddress: "Panoramastra\xDFe 1, 10178 Berlin"
+      municipality: Berlin
+      municipalitySubdivision: Mitte
+      postalCode: '10178'
+      routeNumbers: []
+      street: "Panoramastra\xDFe"
+      streetName: "Panoramastra\xDFe"
+      streetNameAndNumber: "Panoramastra\xDFe 1"
+      streetNumber: '1'
+    longitude: 13.409973
+    name: IBU
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2314921c3214f6eab282fd195e0af4d
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '10178'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2024-07-24T16:55:51.730336Z'
+    web_domain: ibu-epd.com
+    website: https://ibu-epd.com/
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3c60rwx7
+standard_deviation: 122.3390318 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 449.9605292 kgCO2e
+uncertainty_factor: 1.2967162223539521
+updated_on: '2024-03-14T03:15:54.438004Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  pcr:
+  - PCR issued after EPD expiry date. Check version of PCR.
+width: 1.23 mm

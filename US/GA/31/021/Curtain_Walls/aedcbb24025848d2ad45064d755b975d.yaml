@@ -1,0 +1,547 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: true
+best_practice: 81.20600866 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '1813732893098'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: true
+  created_on: '2018-09-28T14:36:49.779622Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Exterior skin of building where walls are non-structural and are outboard
+    of the floor slabs, often as system of aluminum framing with vision glass and
+    opaque panels of glass, metal, or other materials, Can be 'unitized' (prefabricated
+    off-site) or 'stick' (fabricated on site).
+  display_name: Curtain Walls
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 73c2edf45aa24856b11bd8598b77db45
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 36 kg
+  massless: false
+  masterformat: 08 44 00 Curtain Wall and Glazed Assemblies
+  may_contain_trusted_vendor_declarations: false
+  name: CurtainWalls
+  no_statistics: true
+  obsolete: false
+  openepd: Openings >> CurtainWalls
+  openepd_name: Openings >> CurtainWalls
+  parents: []
+  pct10_gwp: 31.70660721 kgCO2e
+  pct20_gwp: 40.81618328 kgCO2e
+  pct30_gwp: 112.5593177 kgCO2e
+  pct40_gwp: 145.711491 kgCO2e
+  pct50_gwp: 173.6619972 kgCO2e
+  pct60_gwp: 192.1873658 kgCO2e
+  pct70_gwp: 220.2738926 kgCO2e
+  pct80_gwp: 264.080653 kgCO2e
+  pct90_gwp: 320.0980175 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Curtain Walls
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30171613'
+  updated_on: '2025-05-23T10:09:09.049821Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 133.3539913 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-03-25T20:52:16.226988Z'
+date_of_issue: '2022-12-01'
+date_validity_ends: '2027-12-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "YKK AP Aluminum Curtain Wall Systems are self-supporting fa\xE7ade elements\
+  \ used in building construction. They are designed to transfer wind loads to the\
+  \ main building structure, resist air and water infiltration, and provide thermal\
+  \ efficiency. The systems come in various configurations including outside, inside,\
+  \ and structurally glazed options, with different sightlines and mullion depths\
+  \ to suit design requirements."
+developer:
+  email: jlevis@sphera.com
+  name: James Levis
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3guwpbgp
+excluded: false
+externally_verified: true
+file_name: Storefront Systems 101.1_YKK_EPD_Aluminum Curtain Wall Systems.pdf
+gwp: 107.28 kgCO2e
+gwp_per_category_declared_unit: 107.28 kgCO2e
+gwp_per_kg: 13.89637306 kgCO2e
+gwp_z: 0.28879058156387305
+id: 128979d437f441b0a85aed9dde24f360
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 81.20600866 kgCO2e
+manufacturer:
+  address: 270 Riverside Parkway, Austell, GA 30168
+  address_line: 270 Riverside Parkway
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - YKK AP
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/ykk-ap
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-05-30T02:30:18.429978Z'
+  email_extensions:
+  - ykkap.com
+  enterprise: true
+  id: 304217227aa740b2b9a5fbe8169de007
+  is_failed: false
+  latitude: 33.76858
+  locality: Austell
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Mableton
+    freeformAddress: 270 Riverside Parkway, Austell, GA 30168
+    localName: Austell
+    municipality: Austell
+    postalCode: '30168'
+    streetName: Riverside Parkway
+    streetNumber: '270'
+  longitude: -84.55862
+  name: YKK AP America
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/304217227aa740b2b9a5fbe8169de007
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30168'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:28:20.208548Z'
+  web_domain: ykkap.com
+  website: https://www.ykkap.com/
+manufacturer_specific: true
+mass_per_declared_unit: 7.72 kg
+matched_plants_count: 0
+material_id: aedcbb24025848d2ad45064d755b975d
+multiproduct: true
+my_capabilities: 1
+name: Aluminum Curtain Wall System
+not_an_epd: false
+open_xpd_uuid: ec3guwpb
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3guwpb
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-08T14:59:16.946476Z'
+  date_of_issue: '2019-01-04'
+  date_validity_ends: '2024-01-04'
+  declared_units: []
+  doc: https://epd-online.com/Pcr/PdfDownload/5376
+  id: 106df2179d2b4f2284a6d46f75e9fd02
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Requirements on the EPD for Self supporting facade elements based
+    on glazed curtain walls'
+  open_xpd_uuid: ec3h5b93
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3h5b93
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3h5b93cy
+  short_name: Self supporting facade elements based on glazed curtain walls
+  status: Expired
+  updated_on: '2024-03-08T17:19:45.072602Z'
+  version: 1.0/1.7/1.0
+pct80_gwp_per_category_declared_unit: 133.3539913 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 1229 Highway 441 Bypass, Dublin, GA 31021
+  address_line: 1229 Highway 441 Bypass
+  admin_district: GA
+  admin_district2: Laurens
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-23T21:54:11.470002Z'
+  id: e0a9cc9e2c354446be6ece798a57da42
+  is_failed: false
+  latitude: 32.50905
+  locality: Dublin
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Laurens
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Dublin
+    extendedPostalCode: '310211694'
+    freeformAddress: 1229 Highway 441 Bypass, Dublin, GA 31021
+    municipality: Dublin
+    municipalitySubdivision: Dublin
+    postalCode: '31021'
+    streetName: Highway 441 Bypass
+    streetNumber: '1229'
+  longitude: -82.94872
+  name: Dublin, GA
+  openepd_id: 864VG352+JG.ykkap.com
+  owned_by:
+    address: 270 Riverside Parkway, Austell, GA 30168
+    address_line: 270 Riverside Parkway
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - YKK AP
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/ykk-ap
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-05-30T02:30:18.429978Z'
+    email_extensions:
+    - ykkap.com
+    enterprise: true
+    id: 304217227aa740b2b9a5fbe8169de007
+    is_failed: false
+    latitude: 33.76858
+    locality: Austell
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Mableton
+      freeformAddress: 270 Riverside Parkway, Austell, GA 30168
+      localName: Austell
+      municipality: Austell
+      postalCode: '30168'
+      streetName: Riverside Parkway
+      streetNumber: '270'
+    longitude: -84.55862
+    name: YKK AP America
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/304217227aa740b2b9a5fbe8169de007
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30168'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:28:20.208548Z'
+    web_domain: ykkap.com
+    website: https://www.ykkap.com/
+  postal_code: '31021'
+  total_epds: 14
+  type: Plant
+  units: SI
+  updated_on: '2025-05-05T22:00:04.313226Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4789555932.101.1
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3guwpbgp
+standard_deviation: 30.98145359 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 133.3539913 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-03-31T19:13:05.123823Z'
+use_stored_carbon: false
+verifier:
+  email: jlevis@sphera.com
+  name: James Levis
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified
