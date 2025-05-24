@@ -1,0 +1,574 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/ykk-ap
+best_practice: 42.47062229 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '747890377560'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: true
+  created_on: '2018-09-28T14:36:50.204087Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: Fabricated building facades commonly used in retail applications, tyically
+    one or two stories tall and using metal framing and glass
+  display_name: Storefronts
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: ac1ff28e392a48cf9547cf83f1742787
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 36.1 kg
+  massless: false
+  masterformat: 08 43 00 Storefronts
+  may_contain_trusted_vendor_declarations: false
+  name: Storefronts
+  no_statistics: true
+  obsolete: false
+  openepd: Openings >> Storefronts
+  openepd_name: Openings >> Storefronts
+  parents: []
+  pct10_gwp: 173.2691151 kgCO2e
+  pct20_gwp: 175.0351525 kgCO2e
+  pct30_gwp: 176.8011898 kgCO2e
+  pct40_gwp: 178.5672272 kgCO2e
+  pct50_gwp: 180.3332645 kgCO2e
+  pct60_gwp: 182.0993019 kgCO2e
+  pct70_gwp: 183.8653392 kgCO2e
+  pct80_gwp: 185.6313765 kgCO2e
+  pct90_gwp: 187.3974139 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Storefronts
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30171613'
+  updated_on: '2025-05-23T10:09:09.090524Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 60.52937771 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-05-25T14:16:42.229250Z'
+date_of_issue: '2015-11-13'
+date_validity_ends: '2020-11-13'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 2500 kg / m3
+description: "Aluminum storefront framing systems are commonly used in ground-floor\
+  \ and low-rise ap-\n                                                           \
+  \                                            Materials &\nplications and used in\
+  \ other areas where performance meets design requirements. Store-\nfront system\
+  \ performance is focused on protecting the building interior, its occupants and\
+  \              Coatings\ncontents from the elements by forming a barrier against\
+  \ wind, moisture and temperature.\nStorefronts are frequently integrated with entrances.\
+  \                                              Aluminum Alloys:\n              \
+  \                                                                              \
+  \       6063 T5, 6063 T6,\nYKK AP\xAE offers a broad selection of installation and\
+  \ aesthetic options to satisfy your project         6061 T6\nneeds. Storefront systems\
+  \ are available with a variety of glazing options. Whether you pre-\nfer screw spline\
+  \ or shear block installation, consider your design needs covered. Many of     \
+  \     Available Finishes:\nYKK AP\u2019s storefront systems are impact tested and\
+  \ utilize either our MegaTherm \xAE or                ANODIZED PLUS\xAE,\nThermaBond\
+  \ Plus\xAE thermal barrier technology to improve performance and enhance occu-\n\
+  \                                                                              \
+  \                      AAMA 2604/2605\npant comfort.\n                         \
+  \                                                                           Painted\
+  \ Finishes\nAll YKK AP\xAE products are manufactured, finished and inspected for\
+  \ quality in YKK AP\u2019s en-\nvironmentally certified, state-of-the-art facility\
+  \ in Dublin, GA. As a result, YKK AP products\nfit together without a lot of jobsite\
+  \ re-work. YKK AP offers a complete suite of tools and engineering services to assist\n\
+  in proper system selection, specification, and installation."
+developer:
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec33p7ge4q
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: 103.1_YKK_EPD_Aluminum-Storefront-Systems_20151113_e9c6c0e83c5a47b698e008e9227ecc1a.pdf
+gwp: 51.5 kgCO2e
+gwp_per_category_declared_unit: 51.5 kgCO2e
+gwp_per_kg: 8.306451613 kgCO2e
+gwp_z: 0.2083266665599966
+id: 9f93282f86c64e0da94d6c81fb65ae08
+image: https://static.buildingtransparency.org/images/793efd75ad074527bb5caf1a46f98ab1.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Source Data Notes\nIBU. (2014). PCR for Building-Related Products\
+  \ and Services - Part A: Calculation Rules for the LCA and Requirements Project\
+  \ Report, (IBU/UL E, V1.3, 06.19.2014), Part B: Requirements on the EPD for Curtain\
+  \ Walling (IBU, V1.6, Jul. 2014), Part B Addendum: IBU PCR for Curtain Walling (UL\
+  \ E, V1.0 Nov. 2015). Berlin: Institut Bauen & Umwelt. ISO. (2006). ISO 14025: Environmental\
+  \ labels and declarations - Type III environmental declarations - Principles and\
+  \ procedures. Geneva: International Organization for Standardization. EN. (2013).\
+  \ EN 15804:2012-04+A1 2013: Sustainability of construction works - Environmental\
+  \ Product Declarations - Core rules for the product category of construction products.\
+  \ \xA92015 UL LLC. All Rights Reserved"
+lowest_plausible_gwp: 42.47062229 kgCO2e
+manufacturer:
+  address: 270 Riverside Parkway, Austell, GA 30168
+  address_line: 270 Riverside Parkway
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - YKK AP
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/ykk-ap
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-05-30T02:30:18.429978Z'
+  email_extensions:
+  - ykkap.com
+  enterprise: true
+  id: 304217227aa740b2b9a5fbe8169de007
+  is_failed: false
+  latitude: 33.76858
+  locality: Austell
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Mableton
+    freeformAddress: 270 Riverside Parkway, Austell, GA 30168
+    localName: Austell
+    municipality: Austell
+    postalCode: '30168'
+    streetName: Riverside Parkway
+    streetNumber: '270'
+  longitude: -84.55862
+  name: YKK AP America
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/304217227aa740b2b9a5fbe8169de007
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30168'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:28:20.208548Z'
+  web_domain: ykkap.com
+  website: https://www.ykkap.com/
+manufacturer_specific: true
+mass_per_declared_unit: 6.2 kg
+matched_plants_count: 0
+material_id: 34a83c329c164d8ab893ea3c999d9ba5
+multiproduct: false
+my_capabilities: 1
+name: Aluminum Storefront Systems
+not_an_epd: false
+open_xpd_uuid: ec33p7ge
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec33p7ge
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-08-04T22:08:46.398757Z'
+  date_of_issue: '2014-07-04'
+  date_validity_ends: '2015-11-23'
+  declared_units:
+  - 1 m2
+  doc: https://epd-online.com/Pcr/PdfDownload/5432
+  id: 2812998e96af40498aa77a4aafb51580
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      order: 1
+  name: 'Part B: Requirements on the EPD for Curtain Walling'
+  open_xpd_uuid: ec3carac
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3carac
+  short_link: buildingtransparency.org/p/ec3carackf
+  short_name: Curtain Walling
+  status: Sunset
+  updated_on: '2022-11-21T21:49:45.822858Z'
+  version: 1.0/1.3/1.0
+pct80_gwp_per_category_declared_unit: 60.52937771 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 1229 Highway 441 Bypass, Dublin, GA 31021
+  address_line: 1229 Highway 441 Bypass
+  admin_district: GA
+  admin_district2: Laurens
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-23T21:54:11.470002Z'
+  id: e0a9cc9e2c354446be6ece798a57da42
+  is_failed: false
+  latitude: 32.50905
+  locality: Dublin
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Laurens
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Dublin
+    extendedPostalCode: '310211694'
+    freeformAddress: 1229 Highway 441 Bypass, Dublin, GA 31021
+    municipality: Dublin
+    municipalitySubdivision: Dublin
+    postalCode: '31021'
+    streetName: Highway 441 Bypass
+    streetNumber: '1229'
+  longitude: -82.94872
+  name: Dublin, GA
+  openepd_id: 864VG352+JG.ykkap.com
+  owned_by:
+    address: 270 Riverside Parkway, Austell, GA 30168
+    address_line: 270 Riverside Parkway
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - YKK AP
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/ykk-ap
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-05-30T02:30:18.429978Z'
+    email_extensions:
+    - ykkap.com
+    enterprise: true
+    id: 304217227aa740b2b9a5fbe8169de007
+    is_failed: false
+    latitude: 33.76858
+    locality: Austell
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Mableton
+      freeformAddress: 270 Riverside Parkway, Austell, GA 30168
+      localName: Austell
+      municipality: Austell
+      postalCode: '30168'
+      streetName: Riverside Parkway
+      streetNumber: '270'
+    longitude: -84.55862
+    name: YKK AP America
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/304217227aa740b2b9a5fbe8169de007
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30168'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:28:20.208548Z'
+    web_domain: ykkap.com
+    website: https://www.ykkap.com/
+  postal_code: '31021'
+  total_epds: 14
+  type: Plant
+  units: SI
+  updated_on: '2025-05-05T22:00:04.313226Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4786832322.103.
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec33p7ge4q
+standard_deviation: 10.72882333 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 60.52937771 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T18:42:55.834130Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - EP-MARINE with the PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified

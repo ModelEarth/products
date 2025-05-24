@@ -1,0 +1,634 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/mutual-materials
+best_practice: 240.9272123 kgCO2e
+biogenic_embodied_carbon_z: 0.06557438524302002
+box_id: '1196175466075'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-07-19T15:19:19.000669Z'
+  declared_unit: 1 m3
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Pre-manufactured concrete masonry blocks
+  display_name: Concrete Unit Masonry
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 4ec837a26a0a493786442296f4cb2730
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 04 22 00 Concrete Unit Masonry
+  may_contain_trusted_vendor_declarations: false
+  name: CMU
+  no_statistics: false
+  obsolete: false
+  openepd: CMU
+  openepd_name: CMU
+  parents: []
+  pct10_gwp: 176.5379491 kgCO2e
+  pct20_gwp: 215.9981714 kgCO2e
+  pct30_gwp: 239.5993349 kgCO2e
+  pct40_gwp: 262.1972626 kgCO2e
+  pct50_gwp: 284.4293089 kgCO2e
+  pct60_gwp: 304.2471192 kgCO2e
+  pct70_gwp: 334.1879391 kgCO2e
+  pct80_gwp: 377.5891366 kgCO2e
+  pct90_gwp: 459.6497889 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Concrete Unit Masonry
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30131502'
+  updated_on: '2025-05-23T10:08:53.157171Z'
+  use_stored_carbon: ABSENT
+cmu_insulated: false
+cmu_weight_classification: Medium
+concrete_compressive_strength_28d: 13.78951459 MPa
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 269.0727877 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-05-04T21:52:17.837045Z'
+date_of_issue: '2021-07-03'
+date_validity_ends: '2026-07-03'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 1730 kg / m3
+description: 8X8X16 MWT CHARCOAL WITH RAINBLOC
+developer:
+  email: laurel.mcewen@climateearth.com
+  name: Laurel McEwen
+  org:
+    address: 137 Park Place, Richmond, CA 94801
+    address_line: 137 Park Place
+    admin_district: CA
+    admin_district2: Contra Costa
+    alt_names:
+    - Climate Earth, Inc.
+    - Climate Earth
+    - carbonCLARITY Suite
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-07T12:26:19.155179Z'
+    email_extensions:
+    - climateearth.com
+    enterprise: true
+    id: 5d43c53212c848d9861a81a4bbd626b2
+    image: https://static.buildingtransparency.org/images/7ce922a6-8120-420c-9ca9-cd4ff793d90e
+    is_failed: false
+    latitude: 37.9266
+    legal_name: Climate Earth
+    locality: Richmond
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Contra Costa
+      countrySubdivision: CA
+      countrySubdivisionName: California
+      extendedPostalCode: '948013895'
+      freeformAddress: 137 Park Place, Richmond, CA 94801
+      localName: Richmond
+      municipality: Richmond
+      postalCode: '94801'
+      streetName: Park Place
+      streetNumber: '137'
+    longitude: -122.38494
+    name: Climate Earth
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5d43c53212c848d9861a81a4bbd626b2
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '94801'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2023-10-06T13:31:13.719486Z'
+    web_domain: climateearth.com
+    website: https://climateearth.com/
+doc: buildingtransparency.org/e/ec37nh7wuk
+document_version: '1'
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: Mix%20MWT%20CHARCOAL%20RB_0d598057003a60e1f5fa5611bb07c95f82d0f5bc.pdf
+gwp: 255 kgCO2e
+gwp_per_category_declared_unit: 255 kgCO2e
+gwp_per_kg: 0.1473988439 kgCO2e
+gwp_z: 0.06557438524302002
+id: 06a084e297aa4b0b9d94585e99b08566
+image: https://static.buildingtransparency.org/images/274f7abec3194230b403085781de69ab.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 240.9272123 kgCO2e
+manufacturer:
+  address: 605 119th Ave NE, Bellevue, WA 98005, USA
+  address_line: 605 119th Ave NE
+  admin_district: WA
+  admin_district2: King County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/mutual-materials
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2021-07-30T16:23:37.189307Z'
+  enterprise: false
+  id: 642e94886913413c9659e8a56c801a7c
+  image: https://static.buildingtransparency.org/images/562629306f194674a99f2dc059b2a458.png
+  is_failed: false
+  latitude: 47.61484189999999
+  locality: Bellevue
+  location:
+  - long_name: '605'
+    short_name: '605'
+    types:
+    - street_number
+  - long_name: 119th Avenue Northeast
+    short_name: 119th Ave NE
+    types:
+    - route
+  - long_name: Wilburton
+    short_name: Wilburton
+    types:
+    - neighborhood
+    - political
+  - long_name: Bellevue
+    short_name: Bellevue
+    types:
+    - locality
+    - political
+  - long_name: King County
+    short_name: King County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Washington
+    short_name: WA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '98005'
+    short_name: '98005'
+    types:
+    - postal_code
+  - long_name: '3031'
+    short_name: '3031'
+    types:
+    - postal_code_suffix
+  longitude: -122.1825375
+  name: Mutual Materials
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/642e94886913413c9659e8a56c801a7c
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '98005'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:00:45.646263Z'
+  web_domain: mutualmaterials.com
+  website: https://www.mutualmaterials.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1730 kg
+matched_plants_count: 0
+material_id: 11a490bb66e549f9a4e731766a5a0e0c
+multiproduct: false
+my_capabilities: 1
+name: Mix MWT CHARCOAL RB
+not_an_epd: false
+open_xpd_uuid: ec37nh7w
+original_data_format: custom_api
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec37nh7w
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-04-21T15:17:55.078010Z'
+  date_of_issue: '2020-11-11'
+  date_validity_ends: '2025-11-11'
+  doc: https://www.ul.com/sites/g/files/qbfpbp251/files/2020-09/ULE_PCR_Concrete_PartB_4-Sept-2020%20%281%29.docx
+  errors:
+    declared_units:
+    - Not specified
+  failures:
+    declared_units:
+    - Not specified
+  id: c440860149f94e87a8100d1a2c0971ed
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 3
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 1
+  name: 'Part B: Concrete Masonry and Segmental Concrete Paving Products'
+  open_xpd_uuid: ec3wzyxw
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3wzyxw
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3wzyxwwn
+  short_name: 'Part B: Concrete Masonry and Segmental Concrete Paving Products'
+  updated_on: '2023-11-30T19:34:37.439983Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 269.0727877 kgCO2e
+plant_geography:
+- US-OR
+plant_or_group:
+  address: 16800 SE 130th Ave, Clackamas, OR 97015, USA
+  address_line: 16800 SE 130th Ave
+  admin_district: OR
+  admin_district2: Clackamas County
+  carbon_intensity: 643.363 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2023-05-04T21:49:58.195471Z'
+  id: 96dd75dbd0d242d48b37ca9104e3e881
+  is_failed: false
+  latitude: 45.4017247
+  locality: Clackamas
+  location:
+  - long_name: '16800'
+    short_name: '16800'
+    types:
+    - street_number
+  - long_name: Southeast 130th Avenue
+    short_name: SE 130th Ave
+    types:
+    - route
+  - long_name: Clackamas
+    short_name: Clackamas
+    types:
+    - locality
+    - political
+  - long_name: Clackamas County
+    short_name: Clackamas County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Oregon
+    short_name: OR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '97015'
+    short_name: '97015'
+    types:
+    - postal_code
+  - long_name: '8945'
+    short_name: '8945'
+    types:
+    - postal_code_suffix
+  longitude: -122.5288028
+  name: Empire
+  openepd_id: 84QVCF2C+MF.mutualmaterials.com
+  owned_by:
+    address: 605 119th Ave NE, Bellevue, WA 98005, USA
+    address_line: 605 119th Ave NE
+    admin_district: WA
+    admin_district2: King County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/mutual-materials
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-07-30T16:23:37.189307Z'
+    enterprise: false
+    id: 642e94886913413c9659e8a56c801a7c
+    image: https://static.buildingtransparency.org/images/562629306f194674a99f2dc059b2a458.png
+    is_failed: false
+    latitude: 47.61484189999999
+    locality: Bellevue
+    location:
+    - long_name: '605'
+      short_name: '605'
+      types:
+      - street_number
+    - long_name: 119th Avenue Northeast
+      short_name: 119th Ave NE
+      types:
+      - route
+    - long_name: Wilburton
+      short_name: Wilburton
+      types:
+      - neighborhood
+      - political
+    - long_name: Bellevue
+      short_name: Bellevue
+      types:
+      - locality
+      - political
+    - long_name: King County
+      short_name: King County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Washington
+      short_name: WA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '98005'
+      short_name: '98005'
+      types:
+      - postal_code
+    - long_name: '3031'
+      short_name: '3031'
+      types:
+      - postal_code_suffix
+    longitude: -122.1825375
+    name: Mutual Materials
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/642e94886913413c9659e8a56c801a7c
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '98005'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:00:45.646263Z'
+    web_domain: mutualmaterials.com
+    website: https://www.mutualmaterials.com/
+  postal_code: '97015'
+  total_epds: 26
+  type: Plant
+  updated_on: '2023-05-04T21:49:58.195475Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+program_operator_fkey: 6fcfc9d80e324e39afb39942ee3faf6a
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec37nh7wuk
+standard_deviation: 16.72146824 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.85
+third_party_verified: true
+uncertainty_adjusted_gwp: 269.0727877 kgCO2e
+uncertainty_factor: 1.0551874026205257
+updated_on: '2025-01-14T21:23:02.337312Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+white_cement: false

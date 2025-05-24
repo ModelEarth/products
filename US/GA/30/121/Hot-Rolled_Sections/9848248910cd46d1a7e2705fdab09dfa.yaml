@@ -1,0 +1,581 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/gerdau
+best_practice: 810.4755119 kgCO2e
+biogenic_embodied_carbon_z: 0.07746612162745725
+box_id: '998998985539'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-11-04T15:08:09Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Steel shapes, such as angles, wide flange beams and I-beams, produced
+    using a high temperature mill process.
+  display_name: Hot-Rolled Sections
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: de95ab7d6ab5488bb87d20177f942d2a
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 12 00 Structural Steel Framing
+  may_contain_trusted_vendor_declarations: false
+  name: HotRolledSections
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> StructuralSteel >> HotRolledSections
+  openepd_name: Steel >> StructuralSteel >> HotRolledSections
+  parents: []
+  pct10_gwp: 526.9680781 kgCO2e
+  pct20_gwp: 608.081589 kgCO2e
+  pct30_gwp: 707.6424201 kgCO2e
+  pct40_gwp: 942.0317577 kgCO2e
+  pct50_gwp: 1053.722292 kgCO2e
+  pct60_gwp: 1140.661036 kgCO2e
+  pct70_gwp: 1223.909616 kgCO2e
+  pct80_gwp: 1325.480268 kgCO2e
+  pct90_gwp: 1932.883474 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Hot-Rolled Sections
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30102304'
+  updated_on: '2025-05-23T10:08:57.618816Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 923.5244881 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-02-04T00:03:42.363968Z'
+date_of_issue: '2021-12-10'
+date_validity_ends: '2022-03-10'
+declaration_type: Product EPD
+declared_unit: 1 metric ton
+density: 7870 kg / m3
+description: "Gerdau is a global leader in the production of hot-rolled structural\
+  \ products. Gerdau Structural steel is manufactured from recycled steel - both pre-consumer\
+  \ and post-consumer scrap, demonstrating the company\u2019s commitment to environmentally-responsible\
+  \ steel production. From hospitals in Montreal to schools in Texas, from data halls\
+  \ to fulfillment centers across North America, and from the Panama Canal to the\
+  \ bays of Alaska, Gerdau beams and piling products have proven the company\u2019\
+  s commitment to consistently high production standards."
+developer:
+  email: tgarvey@scsglobalservices.com
+  name: Tess Garvey
+  org:
+    address: Global Logistics Drive, Lansing, MI 48906
+    address_line: ' Global Logistics Drive, Airport Perimeter Road'
+    admin_district: MI
+    admin_district2: Ingham, Eaton
+    alt_names:
+    - SCS
+    - SCS Global
+    - scsGlobalServices
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-25T13:59:24.810293Z'
+    email_extensions:
+    - scsglobalservices.com
+    enterprise: true
+    id: 58769e2d26d84d8f99bd07fda78bf79b
+    image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+    is_failed: false
+    latitude: 42.76946
+    legal_name: SCS Global Services
+    locality: Lansing
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ingham, Eaton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+      freeformAddress: Global Logistics Drive, Lansing, MI 48906
+      municipality: Lansing
+      municipalitySubdivision: Lansing
+      postalCode: '48906'
+      streetName: Global Logistics Drive, Airport Perimeter Road
+    longitude: -84.5792
+    name: SCS Global Services
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48906'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2024-07-24T17:01:16.978616Z'
+    web_domain: scsglobalservices.com
+    website: https://www.scsglobalservices.com/
+doc: buildingtransparency.org/e/ec33rzje9f
+en_standards: []
+excluded: false
+externally_verified: true
+file_name: StructuralSteel%2CCartersville%2CGASteelMill_cb0087d50ec42eeb05aaa0db428bbc52b5ad6963.pdf
+galvanized: false
+gwp: 867 kgCO2e
+gwp_per_category_declared_unit: 867 kgCO2e
+gwp_per_kg: 0.874 kgCO2e
+gwp_z: 0.07746612162745725
+id: d09d32cc508a4da581de3ce86b89e634
+image: https://static.buildingtransparency.org/images/2198634fe55f479a9979ae9c46226572.png
+impacts: {}
+includes: []
+industry_standards:
+- ASTM A992
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 810.4755119 kgCO2e
+manufacturer:
+  address: 4221 West Boy Scout Boulevard, Tampa, FL 33607
+  address_line: 4221 West Boy Scout Boulevard, West Columbus Drive, Florida 589, Florida
+    616, Florida State Road 589, Florida State Road 616, State Road 589, State Road
+    616
+  admin_district: FL
+  admin_district2: Hillsborough
+  alt_names:
+  - Gerdau Corsa
+  - Gerdau Long Steel North America
+  - Gerdau
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/gerdau
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-08T19:47:24.132784Z'
+  email_extensions:
+  - gerdau.com
+  enterprise: true
+  id: 9dc0a25b6d4d479aab471ab7b5a95865
+  image: https://static.buildingtransparency.org/images/9f8e7f10-ebee-4899-b03a-4e0a8373c4f4.png
+  is_failed: false
+  latitude: 27.96611
+  legal_name: Gerdau Long Steel
+  locality: Tampa
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Hillsborough
+    countrySubdivision: FL
+    countrySubdivisionName: Florida
+    countryTertiarySubdivision: Tampa
+    extendedPostalCode: '336075705'
+    freeformAddress: 4221 West Boy Scout Boulevard, Tampa, FL 33607
+    localName: Tampa
+    municipality: Tampa
+    municipalitySubdivision: Tampa
+    postalCode: '33607'
+    streetName: West Boy Scout Boulevard, West Columbus Drive, Florida 589, Florida
+      616, Florida State Road 589, Florida State Road 616, State Road 589, State Road
+      616
+    streetNumber: '4221'
+  longitude: -82.51436
+  name: Gerdau Long Steel
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9dc0a25b6d4d479aab471ab7b5a95865
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '33607'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T12:42:27.102143Z'
+  web_domain: gerdau.com
+  website: www.gerdau.com/northamerica
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 9848248910cd46d1a7e2705fdab09dfa
+multiproduct: true
+my_capabilities: 1
+name: Fabricated Structural Steel
+not_an_epd: false
+open_xpd_uuid: ec33rzje
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec33rzje
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Designated Steel Construction Product EPD Requirements'
+  - 'Product Category Rule (PCR) Guidance for Building-Related Products and Services
+    Part B: Designated Steel Construction Product EPD Requirements'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-06-08T21:43:47.495368Z'
+  date_of_issue: '2020-12-31'
+  date_validity_ends: '2025-12-31'
+  declared_units:
+  - 1 tonne
+  - 1 m
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?productId=ULE10010-34_2_S_20200826
+  id: 191899c123a64689a0051239c7ec8eb0
+  is_failed: false
+  lcia_requirements:
+    IPCC AR5:
+      impacts:
+      - gwp-luluc
+      - gwp
+      - gwp-fossil
+      - gwp-biogenic
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts:
+      - odp
+      - ep-terrestrial
+      - ep-fresh
+      - ap
+      - ep
+      - pocp
+      - ep-marine
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Designated Steel Construction Products'
+  open_xpd_uuid: ec3y4rsh
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3y4rsh
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3y4rshx6
+  short_name: 'Part B: Designated Steel Construction Products'
+  updated_on: '2024-07-18T15:18:59.717737Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 923.5244881 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 384 Old Grassdale Road Northeast, Cartersville, GA 30121
+  address_line: 384 Old Grassdale Road Northeast
+  admin_district: GA
+  admin_district2: Bartow
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:55:13.782857Z'
+  id: fe72f8e5642c4f01846a2275f949e3ce
+  is_failed: false
+  latitude: 34.23647
+  locality: Cartersville
+  location:
+    country: United States Of America
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Bartow
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Cartersville
+    freeformAddress: 384 Old Grassdale Road Northeast, Cartersville, GA 30121
+    localName: Cartersville
+    municipality: Cartersville
+    municipalitySubdivision: Cartersville
+    postalCode: '30121'
+    streetName: Old Grassdale Road Northeast
+    streetNumber: '384'
+  longitude: -84.80172
+  name: Gerdau Cartersville Steel Mill
+  openepd_id: 866Q65PX+H8.gerdau.com
+  owned_by:
+    address: 4221 West Boy Scout Boulevard, Tampa, FL 33607
+    address_line: 4221 West Boy Scout Boulevard, West Columbus Drive, Florida 589,
+      Florida 616, Florida State Road 589, Florida State Road 616, State Road 589,
+      State Road 616
+    admin_district: FL
+    admin_district2: Hillsborough
+    alt_names:
+    - Gerdau Corsa
+    - Gerdau Long Steel North America
+    - Gerdau
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/gerdau
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T19:47:24.132784Z'
+    email_extensions:
+    - gerdau.com
+    enterprise: true
+    id: 9dc0a25b6d4d479aab471ab7b5a95865
+    image: https://static.buildingtransparency.org/images/9f8e7f10-ebee-4899-b03a-4e0a8373c4f4.png
+    is_failed: false
+    latitude: 27.96611
+    legal_name: Gerdau Long Steel
+    locality: Tampa
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Hillsborough
+      countrySubdivision: FL
+      countrySubdivisionName: Florida
+      countryTertiarySubdivision: Tampa
+      extendedPostalCode: '336075705'
+      freeformAddress: 4221 West Boy Scout Boulevard, Tampa, FL 33607
+      localName: Tampa
+      municipality: Tampa
+      municipalitySubdivision: Tampa
+      postalCode: '33607'
+      streetName: West Boy Scout Boulevard, West Columbus Drive, Florida 589, Florida
+        616, Florida State Road 589, Florida State Road 616, State Road 589, State
+        Road 616
+      streetNumber: '4221'
+    longitude: -82.51436
+    name: Gerdau Long Steel
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9dc0a25b6d4d479aab471ab7b5a95865
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '33607'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T12:42:27.102143Z'
+    web_domain: gerdau.com
+    website: www.gerdau.com/northamerica
+  postal_code: '30121'
+  total_epds: 7
+  type: Plant
+  updated_on: '2020-07-20T03:00:48.097824Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-07505
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec33rzje9f
+stainless: false
+standard_deviation: 67.16312745 kgCO2e
+steel_fabricated: true
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 923.5244881 kgCO2e
+uncertainty_factor: 1.065195487961668
+updated_on: '2025-01-14T19:09:13.027014Z'
+use_stored_carbon: false
+verifier:
+  email: tgloria@industrial-ecology.com
+  name: Thomas P. Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

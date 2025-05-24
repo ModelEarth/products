@@ -1,0 +1,735 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/patcraft
+best_practice: 13.2238044 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '344689415311'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.226286945 kgCO2e
+  pct20_gwp: 6.31150987 kgCO2e
+  pct30_gwp: 7.193005662 kgCO2e
+  pct40_gwp: 8.328409228 kgCO2e
+  pct50_gwp: 10.05624338 kgCO2e
+  pct60_gwp: 11.73431683 kgCO2e
+  pct70_gwp: 13.92024591 kgCO2e
+  pct80_gwp: 16.33810585 kgCO2e
+  pct90_gwp: 20.03417486 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-05-23T10:09:00.788295Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 21.7761956 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-06-18T06:40:28.130417Z'
+date_of_issue: '2016-04-01'
+date_validity_ends: '2021-04-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "The product is a commerical broadloom carpet with Solution Q\xAE or\
+  \ Solution Q Extreme\xAE face fiber on the EcoWorx backing system. Solution Q\xAE\
+  \ or Solution Q Extreme\xAE face fiber is nylon 6 made from virgin polymer. The\
+  \ EcoWorx backing system consists of polyolefin compound, recycled materials, and\
+  \ a fiberglass reinforcement layer. The face fiber is tufted into a primary backing\
+  \ sheet, latex is added to hold in the fiber, the EcoWorx backing system is applied,\
+  \ and a woven secondary backing layer is added. This declaration covers all products\
+  \ consisting of EcoWorx Performance Broadloom backing and Solution Q\xAE or Solution\
+  \ Q Extreme\xAE face fiber, with face weights ranging from 20 oz per sq. yd. (osy)\
+  \ to 42 osy, and a weighted average face weight of 27.5 osy."
+developer:
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+digitization_qa:
+  address: University of Washington, Seattle, WA 98195
+  address_line: ' University of Washington'
+  admin_district: WA
+  admin_district2: King
+  alt_names:
+  - CLF
+  - Embodied Carbon Network
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-01-11T14:09:43.431233Z'
+  email_extensions:
+  - waldmanlca.com
+  - carbonleadershipforum.org
+  enterprise: true
+  id: 14961b8cc7d4440f9456f7210fdfe76a
+  image: https://static.buildingtransparency.org/images/c2c300af-096b-4770-adde-bea7fb5bd8be.png
+  is_failed: false
+  latitude: 47.65885
+  legal_name: Carbon Leadership Forum
+  locality: Seattle
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: King
+    countrySubdivision: WA
+    countrySubdivisionName: Washington
+    countryTertiarySubdivision: Seattle
+    freeformAddress: University of Washington, Seattle, WA 98195
+    municipality: Seattle
+    municipalitySubdivision: Seattle, University District
+    postalCode: '98195'
+    streetName: University of Washington
+  longitude: -122.30272
+  my_capabilities: 1
+  name: Carbon Leadership Forum
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/14961b8cc7d4440f9456f7210fdfe76a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '98195'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2020-05-21T22:02:04.366702Z'
+  web_domain: carbonleadershipforum.org
+  website: www.carbonleadershipforum.org
+doc: buildingtransparency.org/e/ec3tu246y1
+epd_degraded: false
+excluded: false
+externally_verified: false
+file_name: EPBL_with_SolutionQ_or_SolutionQ_Extreme.pdf
+form_factor: Broadloom
+gwp: 17.5 kgCO2e
+gwp_per_category_declared_unit: 17.5 kgCO2e
+gwp_per_kg: 7.918552036 kgCO2e
+gwp_z: 0.2903446228191595
+gypsum_specific_density: 2.21 kg / m^2
+id: 4f7b1664ab13406e9305f69cbf0a6bc0
+image: https://static.buildingtransparency.org/images/fd91903787ba4e25a5872c8a96e507d6.png
+impacts: {}
+industry_standards: []
+intended_application:
+- Com
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Product Component Notes\nFace Yarn\nPrimary Backing\nPrecoat\n\
+  Secondary Backin\nManufacture\nEcoWorx\xAE Performance Broadloom is made with\n\
+  Nylon 6 face fiber is produced internally at Shaw t\nQ Extreme\xAE Nylon 6 fiber\
+  \ is turned into yarn throu\nfinished product.\nThe yarn is tufted into the primary\
+  \ backing layer,\n\xAE\nbind. A layer of the EcoWorx thermoplastic poly\nwoven polypropylene\
+  \ secondary backing layer.\nEnvironmental, Health, & Safety During Manu\nEcoWorx\xAE\
+  \ Performance Broadloom is manufactu\nShaw strives to adhere to all applicable laws\
+  \ rega\nhealth and safety, diversity, and equal opportunit\ncommitment to responsible\
+  \ materials sourcing, S\nsafety every day. Our programs include:\n\u2022\nShaw Behavior\
+  \ Based Safety Program to\nShaw associates and visitors to Shaw fa\n\u2022\nSupply\
+  \ chain, raw materials and waste m\n\u2022\nANSI/NSF 140 compliance\n\u2022\nShaw\
+  \ Management System (SMS) - Bas\nbrings together Shaw\u2019s Quality, Total Pro\n\
+  systems under one umbrella, providing a\nfollowed the same way every time.\n\n##\
+  \ Source Data Notes\nPCR Part A: Calculation Rules for the Life Cycle Assessment\
+  \ and Requirements of the Project Report\nAdapted for UL Environment from the range\
+  \ of Environmental Product Declarations of Institute Construction and\nEnvironment\
+  \ e.V. (IBU). Version 1.3, 19.06.2014\nPCR Part B: Requirements on the EPD for Floor\
+  \ Coverings\nFrom the range of Environmental Product Declarations of Institute Construction\
+  \ and Environment e.V. (IBU). Version\n1.6, 30.07.2014\nPCR Part B: Requirements\
+  \ on the EPD for Floor Coverings, Addendum\nPCR Addendum for IBU Part B: Floor coverings.\
+  \ Version 1, 8/27/2014\nISO 14025\nDIN EN ISO 14025:2011-10: Environmental labels\
+  \ and declarations - Type III environmental declarations - Principles\nand procedures\n\
+  EN 15804\nEN 15804:2012-04: Sustainability of construction works - Environmental\
+  \ Product Declarations - Core rules for the\nproduct category of construction products"
+lowest_plausible_gwp: 13.2238044 kgCO2e
+manufacturer:
+  address: 230 Douthit Ferry Road, Cartersville, GA 30120
+  address_line: 230 Douthit Ferry Road
+  admin_district: GA
+  admin_district2: Bartow
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/patcraft
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-10-07T17:10:36.319185Z'
+  email_extensions: []
+  enterprise: true
+  id: dc1266290f3b43a690df38e70bd6df8b
+  image: https://static.buildingtransparency.org/images/1a2a0e29-1856-4fac-9f73-ce3f5066b7cb
+  is_failed: false
+  latitude: 34.14848
+  locality: Cartersville
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Bartow
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    extendedPostalCode: 30120-4010
+    freeformAddress: 230 Douthit Ferry Road, Cartersville, GA 30120
+    localName: Cartersville
+    municipality: Cartersville
+    postalCode: '30120'
+    streetName: Douthit Ferry Road
+    streetNumber: '230'
+  longitude: -84.82364
+  name: Patcraft
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/dc1266290f3b43a690df38e70bd6df8b
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30120'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:05:25.520341Z'
+  web_domain: patcraft.com
+  website: patcraft.com
+manufacturer_specific: true
+mass_per_declared_unit: 2.21 kg
+matched_plants_count: 0
+material_id: 5713f08c3aa64f69af7906fbb89ef251
+multiproduct: false
+my_capabilities: 1
+name: EPBL with Solution Q or Solution Q Extreme
+not_an_epd: false
+open_xpd_uuid: ec3tu246
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3tu246
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-05T17:10:49.415600Z'
+  date_of_issue: '2014-02-12'
+  declared_units:
+  - 1 kg
+  - 1 m2
+  - 1 m3
+  - 1 m
+  - 1 unit
+  doc: https://www.en-standard.eu/une-en-15804-2012-a1-2014-sustainability-of-construction-works-environmental-product-declarations-core-rules-for-the-product-category-of-construction-products/
+  errors: {}
+  failures: {}
+  id: b4789241a24649db9ebc3934b058eed7
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: EN 15804:2012+A1:2014 Sustainability of construction works - Environmental
+    product declarations - Core rules for the product category of construction products
+  open_xpd_uuid: ec36npc1
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec36npc1
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec36npc1zw
+  short_name: EN 15804:2012+A1:2014
+  updated_on: '2022-09-30T13:57:55.003183Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 21.7761956 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 5225 Highway 411 Northwest, Cartersville, GA 30120
+  address_line: 5225 Highway 411 Northwest
+  admin_district: GA
+  admin_district2: Bartow
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-11-10T16:18:02.800750Z'
+  id: 12c1e6fc9c68418c9e5f63b32583d323
+  is_failed: false
+  latitude: 34.2201
+  locality: Cartersville
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Bartow
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    extendedPostalCode: 30120-4895
+    freeformAddress: 5225 Highway 411 Northwest, Cartersville, GA 30120
+    localName: Cartersville
+    municipality: Cartersville
+    postalCode: '30120'
+    streetName: Highway 411 Northwest
+    streetNumber: '5225'
+  longitude: -84.86562
+  name: Plant 15
+  openepd_id: 866Q64CM+2Q.patcraft.com
+  owned_by:
+    address: 230 Douthit Ferry Road, Cartersville, GA 30120
+    address_line: 230 Douthit Ferry Road
+    admin_district: GA
+    admin_district2: Bartow
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/patcraft
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-10-07T17:10:36.319185Z'
+    email_extensions: []
+    enterprise: true
+    id: dc1266290f3b43a690df38e70bd6df8b
+    image: https://static.buildingtransparency.org/images/1a2a0e29-1856-4fac-9f73-ce3f5066b7cb
+    is_failed: false
+    latitude: 34.14848
+    locality: Cartersville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Bartow
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      extendedPostalCode: 30120-4010
+      freeformAddress: 230 Douthit Ferry Road, Cartersville, GA 30120
+      localName: Cartersville
+      municipality: Cartersville
+      postalCode: '30120'
+      streetName: Douthit Ferry Road
+      streetNumber: '230'
+    longitude: -84.82364
+    name: Patcraft
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/dc1266290f3b43a690df38e70bd6df8b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30120'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:05:25.520341Z'
+    web_domain: patcraft.com
+    website: patcraft.com
+  postal_code: '30120'
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2020-11-10T16:18:02.800759Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4787366550.112.1
+requires_ocr: false
+resource_uses: {}
+reviewer:
+  org:
+    address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    address_line: 2211 New Market Parkway Southeast
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - ULE EPM
+    - Underwriters Labs
+    - Underwriters Laboratories
+    - UL E
+    - UL Enviornment
+    - UL Environment
+    - UL Solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-19T16:12:16.017515Z'
+    email: epd@ul.com
+    email_extensions:
+    - ul.com
+    - ulenvironment.com
+    enterprise: true
+    id: 5b22feac0d67472191705631612b68fb
+    image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+    is_failed: false
+    latitude: 33.917988
+    legal_name: UL
+    locality: Marietta
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.918196,-84.495564
+        southWest: 33.917305,-84.497793
+      buildingNumber: '2211'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Marietta
+      extendedPostalCode: '300679393'
+      freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+      municipality: Marietta
+      municipalitySubdivision: Marietta
+      postalCode: '30067'
+      routeNumbers: []
+      street: New Market Parkway Southeast
+      streetName: New Market Parkway Southeast
+      streetNameAndNumber: 2211 New Market Parkway Southeast
+      streetNumber: '2211'
+    longitude: -84.49678
+    name: UL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    - CA
+    postal_code: '30067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2025-04-26T00:06:55.791242Z'
+    web_domain: ul.com
+    website: https://www.ul.com/
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3tu246y1
+specific_density: 2.21 kg / m^2
+standard_deviation: 5.081030899 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 21.7761956 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-03-14T03:01:44.571524Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  pcr:
+  - PCR validity dates not found
+yarn_type: Nylon 6
+yarn_weight: 20 oz / sy

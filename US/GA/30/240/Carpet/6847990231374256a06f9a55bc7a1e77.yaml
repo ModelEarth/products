@@ -1,0 +1,660 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 10.61494162 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '344648453538'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.226286945 kgCO2e
+  pct20_gwp: 6.31150987 kgCO2e
+  pct30_gwp: 7.193005662 kgCO2e
+  pct40_gwp: 8.328409228 kgCO2e
+  pct50_gwp: 10.05624338 kgCO2e
+  pct60_gwp: 11.73431683 kgCO2e
+  pct70_gwp: 13.92024591 kgCO2e
+  pct80_gwp: 16.33810585 kgCO2e
+  pct90_gwp: 20.03417486 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-05-23T10:09:00.788295Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 15.18505838 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-10-23T21:55:39.816283Z'
+date_of_issue: '2015-06-23'
+date_validity_ends: '2020-06-23'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "his tufted carpet tile family is constructed Solution Dyed Nylon 6,6\
+  \ face fiber, laminated with a hotmelt coating, and polyurethane cushion, and 100%\
+  \ post-industrial recycled felt bottom.  The weight range of this carpet family\
+  \ is \xB111%."
+digitization_qa:
+  address: University of Washington, Seattle, WA 98195
+  address_line: ' University of Washington'
+  admin_district: WA
+  admin_district2: King
+  alt_names:
+  - CLF
+  - Embodied Carbon Network
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-01-11T14:09:43.431233Z'
+  email_extensions:
+  - waldmanlca.com
+  - carbonleadershipforum.org
+  enterprise: true
+  id: 14961b8cc7d4440f9456f7210fdfe76a
+  image: https://static.buildingtransparency.org/images/c2c300af-096b-4770-adde-bea7fb5bd8be.png
+  is_failed: false
+  latitude: 47.65885
+  legal_name: Carbon Leadership Forum
+  locality: Seattle
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: King
+    countrySubdivision: WA
+    countrySubdivisionName: Washington
+    countryTertiarySubdivision: Seattle
+    freeformAddress: University of Washington, Seattle, WA 98195
+    municipality: Seattle
+    municipalitySubdivision: Seattle, University District
+    postalCode: '98195'
+    streetName: University of Washington
+  longitude: -122.30272
+  my_capabilities: 1
+  name: Carbon Leadership Forum
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/14961b8cc7d4440f9456f7210fdfe76a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '98195'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2020-05-21T22:02:04.366702Z'
+  web_domain: carbonleadershipforum.org
+  website: www.carbonleadershipforum.org
+doc: buildingtransparency.org/e/ec33j6y5ed
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: milliken-solution-dyed-nylon-6-6-with-milliken-esp-underscore-backing.pdf
+form_factor: Tiles
+gwp: 12.9 kgCO2e
+gwp_per_category_declared_unit: 12.9 kgCO2e
+gwp_per_kg: 3.739130435 kgCO2e
+gwp_z: 0.2104756517984919
+id: e4f4a31c81a940388a278b09f0458085
+impacts: {}
+industry_standards: []
+intended_application:
+- Com
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: "\n\n## Product Component Notes\nCrushed\nBacking Component\nCalcium\n\
+  Backing Component\nCelcera\nCushion Layer\nPolyure\nReleasable Secondary\nBacking\n\
+  Felt\n\n## Source Data Notes\nISO 14025 Environmental labels and declarations-Type\
+  \ III Environmental Declarations -Principals and Procedures\nISO 14040 Life Cycle\
+  \ Assessment- Principles and Framework\nISO 14044 Life Cycle Assessment- Requirements\
+  \ and Guidelines\nISO 21930 Sustainability in Building Construction-Environmental\
+  \ Declaration of Building Products\nFederal Trade Commission (FTC) Environmental\
+  \ Guidelines\nPage 17 of 18\nMilliken Carpet Americas\nSolution Dyed Nylon 6,6 ESP\
+  \ Underscore\xAE Backing                                                       \
+  \                                         According to ISO 14025\nAppendix\nThe\
+  \ following tables are included to allow various face weigh products to be evaluated\
+  \ within this EPD for the product\nlisted.\n\u2022    Solution Dyed Nylon 6,6 with\
+  \ Milliken ESP Underscore\xAE Backing (CML Results) - 1 Year\nYarn Face Weight [oz/sq\
+  \ yd]                           12            13            14            15   \
+  \         16          17           18         19         20\nCML Impact Categories\n\
+  Abiotic Depletion (ADP elements) [kg Sb-Equiv.]                 2.11E-05    2.13E-05\
+  \      2.16E-05     2.18E-05      2.21E-05       2.24E-05    2.26E-05    2.29E-05\
+  \   2.31E-05\nAcidification (AP) [kg SO2-Equiv.]                              3.14E-02\
+  \    3.25E-02      3.37E-02     3.48E-02      3.60E-02       3.71E-02    3.82E-02\
+  \    3.94E-02   4.05E-02\nEutrophication (EP) [kg Phosphate-Equiv.]            \
+  \           5.73E-03    5.96E-03      6.19E-03     6.42E-03      6.65E-03      \
+  \ 6.88E-03    7.12E-03    7.35E-03   7.58E-03\nGlobal Warming (GWP 100 years) [kg\
+  \ CO2-Equiv.]                     13.97       14.56         15.14        15.73 \
+  \        16.32          16.90       17.49       18.07      18.66\nOzone Depletion\
+  \ (ODP, steady state) [kg R11-Equiv.]             1.64E-08    1.65E-08      1.66E-08\
+  \     1.67E-08      1.68E-08       1.68E-08    1.69E-08    1.70E-08   1.71E-08\n\
+  Photochem. Ozone Creation Potential (POCP) [kg Ethene-Equiv.]   5.43E-03    5.61E-03\
+  \      5.80E-03     5.99E-03      6.18E-03       6.37E-03    6.56E-03    6.75E-03\
+  \   6.93E-03\nPrimary Energy [MJ]\nPrimary Energy - non renewable              \
+  \                      232.2        239.8        247.5         255.1        262.8\
+  \           270.4       278.1      285.7       293.4\nPrimary Energy -renewable\
+  \ Resources                                18.6         18.7         18.8      \
+  \    19.0         19.1            19.2        19.3       19.4        19.5\nResources\
+  \ [Kg]\nNon Renewable Material Resources                                     8.6\
+  \           8.8           9.0           9.2        9.4            9.6         9.8\
+  \        10.0       10.3\nWaste [Kg]\nNon Hazardous Wastes                     \
+  \                            9.6           9.8        10.0         10.3        \
+  \  10.5           10.7        11.0        11.2       11.4\nHazardous Waste     \
+  \                                                   0             0           0\
+  \            0             0              0           0           0          0\n\
+  Yarn Face Weight [oz/sq yd]                                   21            22 \
+  \           23             24             25           26          27          28\n\
+  CML Impact Categories\nAbiotic Depletion (ADP elements) [kg Sb-Equiv.]         \
+  \             2.34E-05       2.36E-05       2.39E-05      2.41E-05         2.44E-05\
+  \     2.47E-05    2.49E-05    2.52E-05\nAcidification (AP) [kg SO2-Equiv.]     \
+  \                              4.16E-02       4.28E-02       4.39E-02      4.50E-02\
+  \         4.62E-02     4.73E-02    4.84E-02    4.96E-02\nEutrophication (EP) [kg\
+  \ Phosphate-Equiv.]                            7.81E-03       8.04E-03       8.27E-03\
+  \      8.51E-03         8.74E-03     8.97E-03    9.20E-03    9.43E-03\nGlobal Warming\
+  \ (GWP 100 years) [kg CO2-Equiv.]                          19.24          19.83\
+  \          20.42         21.00            21.59        22.17       22.76       23.34\n\
+  Ozone Depletion (ODP, steady state) [kg R11-Equiv.]                  1.72E-08  \
+  \     1.73E-08       1.74E-08      1.75E-08         1.76E-08     1.76E-08    1.77E-08\
+  \    1.78E-08\nPhotochem. Ozone Creation Potential (POCP) [kg Ethene-Equiv.]   \
+  \     7.12E-03       7.31E-03       7.50E-03      7.69E-03         7.88E-03    \
+  \ 8.07E-03    8.25E-03    8.44E-03\nPrimary Energy [MJ]\nPrimary Energy - non renewable\
+  \                                             301.0         308.7         316.3\
+  \         324.0          331.6        339.3        346.9      354.6\nPrimary Energy\
+  \ -renewable Resources                                         19.6          19.7\
+  \          19.8          19.9           20.1         20.2         20.3       20.4\n\
+  Resources [Kg]\nNon Renewable Material Resources                               \
+  \             10.5          10.7          10.9          11.1            11.3   \
+  \      11.5        11.7        11.9\nWaste [Kg]\nNon Hazardous Wastes          \
+  \                                              11.7          11.9          12.1\
+  \          12.3            12.6         12.8        13.0        13.3\nHazardous\
+  \ Waste                                                                0       \
+  \      0             0             0               0            0           0  \
+  \         0"
+lowest_plausible_gwp: 10.61494162 kgCO2e
+manufacturer:
+  address: 924 Milliken Road, Spartanburg, SC 29303
+  address_line: 924 Milliken Road, Frontage Road
+  admin_district: SC
+  admin_district2: Spartanburg
+  alt_names:
+  - Milliken Carpet
+  - Milliken International Ltd.
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/milliken
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-08-14T10:18:43.483365Z'
+  email_extensions:
+  - millikencarpet.com
+  enterprise: true
+  id: e8f700dc963847858f6a6f00d7571f6d
+  is_failed: false
+  latitude: 34.99074
+  locality: Spartanburg, Saxon
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Spartanburg
+    countrySubdivision: SC
+    countrySubdivisionName: South Carolina
+    countryTertiarySubdivision: Spartanburg
+    freeformAddress: 924 Milliken Road, Spartanburg, SC 29303
+    municipality: Spartanburg, Saxon
+    postalCode: '29303'
+    streetName: Milliken Road, Frontage Road
+    streetNumber: '924'
+  longitude: -81.96156
+  name: Milliken Carpet
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/e8f700dc963847858f6a6f00d7571f6d
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '29303'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2021-05-05T22:47:46.929149Z'
+  web_domain: millikencarpet.com
+  website: www.millikencarpet.com
+manufacturer_specific: true
+mass_per_declared_unit: 3.45 kg
+matched_plants_count: 0
+material_id: 6847990231374256a06f9a55bc7a1e77
+multiproduct: true
+my_capabilities: 1
+name: "Solution Dyed Nylon 6,6 with Milliken ESP Underscore\xAE Backing - light weight"
+not_an_epd: false
+open_xpd_uuid: ec33j6y5
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec33j6y5
+output_flows: {}
+owner:
+  name: Vicki Rybl
+  user_id: vrybl@uw.edu
+pcr:
+  alt_names:
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, and Wood (NSF 2012)'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood, Version 2. NSF
+    International. 2014.'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2. 2014.'
+  - 'PCR for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2.2014.'
+  - PCR for Environmental Product Declarations, Flooring:Carpet, Resilient, Laminate,
+    Ceramic, Wood
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood (NSF 2012)'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2.2014.'
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood, Version 2.'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient Laminate, Ceramic, Wood. NSF International.
+    Version 2. 2014.'
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood Version 2'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2. 2014'
+  - 'NSF: PCR for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood Version 2'
+  - NSF PCR for Flooring v2.0
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-17T13:03:00.704713Z'
+  date_of_issue: '2014-06-23'
+  date_validity_ends: '2018-09-28'
+  declared_units:
+  - 1 m2
+  doc: http://www.nsf.org/newsroom_pdf/flooring_pcr-new.pdf
+  errors: {}
+  failures: {}
+  id: bd683757a8234358a945e703bcc8cce3
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Product Category Rule for Environmental Product Declarations - Flooring:
+    Carpet, Resilient, Laminate, Ceramic, Wood'
+  open_xpd_uuid: ec3qp4ff
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qp4ff
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qp4ff49
+  short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  status: Sunset
+  updated_on: '2025-05-23T21:40:17.534318Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 15.18505838 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: LaGrange, GA 30240
+  admin_district: GA
+  admin_district2: Troup
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-23T16:52:35.335149Z'
+  id: 29eb854d3385444a8ddf2ac35adee3f2
+  is_failed: false
+  latitude: 33.03384
+  locality: LaGrange
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Troup
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: LaGrange
+    freeformAddress: LaGrange, GA 30240
+    municipality: LaGrange
+    municipalitySubdivision: LaGrange, Young Acres, Woodfield, Willowcrest, Wildwood,
+      Whitewater Woods, Whitewater Estates, West Wyngate, West Wood, West Lake Village,
+      Waterford Place, Wares Crossroads, Vernon Ferry Estates, Vernon, Tyler Estates,
+      Turkey Point, Timber Ridge, The Crossings, Teaver Hill, Sunny Point, Sturbridge,
+      Stallings, Spring Valley, Smoke Rise, Smiths Crossroad, Shady Oaks, Sassafrass
+      Hills, Rosamond, Rockwell Estates, Riverwood, Riverside, Riverridge, River Trace,
+      Raby Woods, Pyne, Plantation Manor, Piney Hills, Piedmont Heights, Parkway Estates,
+      Old Chimney, North Ridge, Moss Creek, Meadowlands, Maplecreek Hills, Long Cane,
+      Lees Crossing, Lakeshore Estates, Lake West Point Estates, Lake Forest Hills,
+      Indian Bend, Huntington, Holly Hill, Hogg Mountain, Heritage Hills, Heatherbrook,
+      Gray Hill, Gabbettville, Evansville, Eagles Rest, Creek Ridge, Covered Bridge,
+      Colony Heights, Cannonville, Cameron Cove, Brookwood, Briarcreek Estates, Beaver
+      Cove, Baughs Crossroads, Ashling Place, Antioch, Abbottsford
+    postalCode: '30240'
+  longitude: -85.07785
+  name: LaGrange, GA
+  openepd_id: 865P2WMC+GV.millikencarpet.com
+  owned_by:
+    address: 924 Milliken Road, Spartanburg, SC 29303
+    address_line: 924 Milliken Road, Frontage Road
+    admin_district: SC
+    admin_district2: Spartanburg
+    alt_names:
+    - Milliken Carpet
+    - Milliken International Ltd.
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/milliken
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-14T10:18:43.483365Z'
+    email_extensions:
+    - millikencarpet.com
+    enterprise: true
+    id: e8f700dc963847858f6a6f00d7571f6d
+    is_failed: false
+    latitude: 34.99074
+    locality: Spartanburg, Saxon
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Spartanburg
+      countrySubdivision: SC
+      countrySubdivisionName: South Carolina
+      countryTertiarySubdivision: Spartanburg
+      freeformAddress: 924 Milliken Road, Spartanburg, SC 29303
+      municipality: Spartanburg, Saxon
+      postalCode: '29303'
+      streetName: Milliken Road, Frontage Road
+      streetNumber: '924'
+    longitude: -81.96156
+    name: Milliken Carpet
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e8f700dc963847858f6a6f00d7571f6d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '29303'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2021-05-05T22:47:46.929149Z'
+    web_domain: millikencarpet.com
+    website: www.millikencarpet.com
+  postal_code: '30240'
+  total_epds: 16
+  type: Plant
+  units: SI
+  updated_on: '2020-04-21T03:06:36.431598Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 13CA02639.111.1
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec33j6y5ed
+standard_deviation: 2.715135908 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 15.18505838 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-03-14T03:02:01.700857Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+yarn_type: Nylon 6,6
+yarn_weight: 12 oz / sy

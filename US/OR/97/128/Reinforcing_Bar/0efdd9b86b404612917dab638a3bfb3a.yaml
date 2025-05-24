@@ -1,0 +1,587 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+best_practice: 544.6351348 kgCO2e
+biogenic_embodied_carbon_z: 0.07244998274671982
+box_id: '348869951880'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:28.538331Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Reinforcing bar used together with concrete.
+  display_name: Reinforcing Bar
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: 4e82b07fff2e40aeb1b72b695e9ac279
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 21 00 Reinforcement Bars
+  may_contain_trusted_vendor_declarations: false
+  name: RebarSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> RebarSteel
+  openepd_name: Steel >> RebarSteel
+  parents: []
+  pct10_gwp: 473.1176991 kgCO2e
+  pct20_gwp: 570.5602281 kgCO2e
+  pct30_gwp: 722.8314327 kgCO2e
+  pct40_gwp: 782.1499631 kgCO2e
+  pct50_gwp: 838.4640396 kgCO2e
+  pct60_gwp: 923.5831331 kgCO2e
+  pct70_gwp: 1034.702179 kgCO2e
+  pct80_gwp: 1488.901026 kgCO2e
+  pct90_gwp: 2751.460895 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Rebar
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103623'
+  updated_on: '2025-05-23T10:08:57.222541Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 615.3648652 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-11-02T11:22:12.268269Z'
+date_of_issue: '2017-01-19'
+date_validity_ends: '2022-01-18'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 7850 kg / m3
+description: "This EPD is for reinforcing bar produced by Cascade Steel mill located\
+  \ in McMinnville, Oregon. Fabricated reinforcing bar is a steel bar used in the\
+  \ reinforcement of concrete. The rebar surface is rolled with a deformed pattern\
+  \ in order to form an improved mechanical bond with the concrete. Mechanical properties,\
+  \ sizes, and deformation dimensions are specified by ASTM standards A615, A706,\
+  \ and A1035. Fabricated rebar is rebar that has been cut and bent as necessary to\
+  \ form shapes according to the needs of a particular project. Rebar sizes range\
+  \ from #3 through #18. In accordance with the PCR, the declared unit and product\
+  \ density is shown in Table 1. Table 1. Declared unit for fabricated reinforcing\
+  \ bar and the approximate density. Parameter Value Declared Unit 1 metric ton Density\
+  \ 7,850 kg/m3 MATERIAL CONTENT Cascade Steel\u2019s products contain approximately\
+  \ 95.4% recycled scrap steel content with 4.5% alloys and additives. In general,\
+  \ ASTM A615 and A706 reinforcing bar will contain 95-99% recycled iron, < 2% Manganese,\
+  \ < 1% Carbon, < 1%"
+developer:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+doc: buildingtransparency.org/e/ec3050a7d6
+en_standards: []
+epoxy_coated: false
+excluded: false
+externally_verified: true
+file_name: SCS-EPD-04335_Cascade-Steel_011917.pdf
+galvanized: false
+gwp: 580 kgCO2e
+gwp_per_category_declared_unit: 580 kgCO2e
+gwp_per_kg: 0.58 kgCO2e
+gwp_z: 0.07244998274671982
+id: dc81c873eb534f039883217762e75698
+image: https://static.buildingtransparency.org/images/3978e3605be94ba0b12c61916500b757.png
+impacts: {}
+includes: []
+industry_standards:
+- ASTM A615
+- ASTM A706
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\nCascade Steel\u2019s products contain\
+  \ approximately 95.4% recycled scrap steel content with 4.5% alloys and additives.\
+  \ In general, ASTM A615 and A706 reinforcing bar will contain 95-99% recycled iron,\
+  \ < 2% Manganese, < 1% Carbon, < 1% Chromium, <1% Silicon, and a total of < 1.5%\
+  \ Nickel, Sulfur, Vanadium, Phosphorous, Molybdenum, and other alloying elements.\
+  \ Similarly, ASTM A1035 reinforcing bar will generally contain 80-90% recycled iron,\
+  \ < 11% Chromium, < 2% Manganese, < 1% Carbon, < 1% Silicon, and a total of < 4%\
+  \ Nickel, Sulfur, Phosphorous, Molybdenum, and Copper. Reinforcing bar products\
+  \ under normal conditions do not present inhalation, ingestion, or contact health\
+  \ hazards. These products, when used inside the building envelope, do not include\
+  \ materials or substances that have a potential route of exposure to humans or flora/fauna\
+  \ in the environment.\n\n## Source Data Notes\nPCR review, was conducted by"
+lowest_plausible_gwp: 544.6351348 kgCO2e
+manufacturer:
+  address: Woodstock Mead, Basingstoke, RG22 4YW
+  address_line: ' Woodstock Mead'
+  admin_district: ENG
+  admin_district2: Hampshire
+  alt_names:
+  - Cascade Steel Rolling Mills, Inc.
+  confirmable_fields: []
+  confirmed_fields: []
+  country: GB
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:02:30.213708Z'
+  email_extensions:
+  - schn.com
+  - rdus.com
+  enterprise: true
+  id: 21357e3b2139409b958407a7ca5d845a
+  is_failed: false
+  latitude: 51.23288
+  locality: Basingstoke
+  location:
+    country: United Kingdom
+    countryCode: GB
+    countryCodeISO3: GBR
+    countrySecondarySubdivision: Hampshire
+    countrySubdivision: ENG
+    countrySubdivisionName: England
+    extendedPostalCode: RG22 4YW
+    freeformAddress: Woodstock Mead, Basingstoke, RG22 4YW
+    municipality: Basingstoke
+    municipalitySubdivision: Basingstoke
+    postalCode: RG22
+    streetName: Woodstock Mead
+  longitude: -1.1325
+  name: Cascade Steel Rolling Mills, Inc.
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/21357e3b2139409b958407a7ca5d845a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: RG22
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-04-16T20:53:49.640499Z'
+  web_domain: schn.com
+  website: schn.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 0efdd9b86b404612917dab638a3bfb3a
+multiproduct: true
+my_capabilities: 1
+name: Fabricated Reinforcing Bar (ASTM A615, A706)
+not_an_epd: false
+open_xpd_uuid: ec3050a7
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3050a7
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - North American Product Category Rule for  Designated Steel Construction Products
+  - North American PCR for Designated Steel Construction Products, SCS Global Services
+  - North American PCR for Designated Steel Construction Products (SCS, 2015)
+  - 'SCS Global: North American Product Category Rule for Designated Steel Construction
+    Products'
+  - North American PCR for Designated Steel Construction Products
+  - North American Product Category Rule for Designated Steel Construction Products
+  - SCS Services. (2015). North American PCR for Designated Steel Construction Products
+  - North American PCR for Designated Steel Construction Products, SCS, v1.0, 2015
+  - SCS PCR for Designated Steel Construction Products
+  - SCS PCR for Designated Steel Construction Products, v1.0 May 2015
+  - SCS PCR for Designated Steel Construction Products, v1.0 May 2015
+  - North American Product Category Rule for Designated Steel Construction Products
+    Reference PCR by SCS Global Services, May 5, 2015 V.1.O
+  - North American Product Category Rule for Designated Steel Construction Products.
+    May 2015.
+  - North American PCR for Designated Steel Construction Products, v1.0, 2015
+  - SCS PCR for Designated Steel Construction Projects, v1.0, May 2015
+  - North American Product Category Rule for Designated Steel Construction Products.
+    May 2015
+  - North American Product Category Rule for Designated Steel Construction Products,
+    v1.0
+  - SCS PCR for Designated Steel Construction Products v1 2015
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-04T10:19:19.700479Z'
+  date_of_issue: '2015-05-05'
+  date_validity_ends: '2020-05-05'
+  declared_units:
+  - 1 tonne
+  doc: https://cdn.scsglobalservices.com/files/standards/scs_pcr_steel-products_050515_final.pdf
+  id: b1aba1a033844da19a8b22ca146b5125
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      order: 1
+  name: North American PCR for Designated Steel Construction Products
+  open_xpd_uuid: ec3spn6n
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3spn6n
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3spn6nw2
+  short_name: Designated Steel Construction Products
+  status: Sunset
+  updated_on: '2025-05-06T00:03:10.240702Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 615.3648652 kgCO2e
+plant_geography:
+- US-OR
+plant_or_group:
+  address: 3200 Oregon 99W, McMinnville, OR 97128
+  address_line: 3200 Oregon 99W, Northeast Highway 99W, State Highway 99W, Oregon
+    State Highway 99W
+  admin_district: OR
+  admin_district2: Yamhill
+  carbon_intensity: 643.363 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-08-05T16:02:38.786982Z'
+  id: c9931695156845ca9c260431ae3f032a
+  is_failed: false
+  latitude: 45.23049
+  locality: McMinnville
+  location:
+    country: United States Of America
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Yamhill
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    countryTertiarySubdivision: McMinnville
+    extendedPostalCode: 971289330,971289399
+    freeformAddress: 3200 Oregon 99W, McMinnville, OR 97128
+    municipality: McMinnville
+    municipalitySubdivision: McMinnville
+    postalCode: '97128'
+    streetName: Oregon 99W, Northeast Highway 99W, State Highway 99W, Oregon State
+      Highway 99W
+    streetNumber: '3200'
+  longitude: -123.16547
+  name: McMinnville, OR
+  openepd_id: 84QR6RJM+5R.schn.com
+  owned_by:
+    address: Woodstock Mead, Basingstoke, RG22 4YW
+    address_line: ' Woodstock Mead'
+    admin_district: ENG
+    admin_district2: Hampshire
+    alt_names:
+    - Cascade Steel Rolling Mills, Inc.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: GB
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:02:30.213708Z'
+    email_extensions:
+    - schn.com
+    - rdus.com
+    enterprise: true
+    id: 21357e3b2139409b958407a7ca5d845a
+    is_failed: false
+    latitude: 51.23288
+    locality: Basingstoke
+    location:
+      country: United Kingdom
+      countryCode: GB
+      countryCodeISO3: GBR
+      countrySecondarySubdivision: Hampshire
+      countrySubdivision: ENG
+      countrySubdivisionName: England
+      extendedPostalCode: RG22 4YW
+      freeformAddress: Woodstock Mead, Basingstoke, RG22 4YW
+      municipality: Basingstoke
+      municipalitySubdivision: Basingstoke
+      postalCode: RG22
+      streetName: Woodstock Mead
+    longitude: -1.1325
+    name: Cascade Steel Rolling Mills, Inc.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/21357e3b2139409b958407a7ca5d845a
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: RG22
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-04-16T20:53:49.640499Z'
+    web_domain: schn.com
+    website: schn.com
+  postal_code: '97128'
+  total_epds: 5
+  type: Plant
+  units: SI
+  updated_on: '2020-08-05T16:02:38.786995Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-04335
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3050a7d6
+standard_deviation: 42.02098999 kgCO2e
+steel_astm_marking: A615, A706
+steel_fabricated: true
+steel_rebar_ts_ys_ratio_max: 1.0
+steel_yield_tensile_str: 420 MPa
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 615.3648652 kgCO2e
+uncertainty_factor: 1.0609739054796394
+updated_on: '2025-01-14T03:47:17.346897Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified

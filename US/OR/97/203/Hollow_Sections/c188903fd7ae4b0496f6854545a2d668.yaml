@@ -1,0 +1,608 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+astm_standards: []
+best_practice: 1509.775849 kgCO2e
+biogenic_embodied_carbon_z: 0.08084553172563094
+box_id: https://static.buildingtransparency.org/epds/101.2_EPD_2022_Maruichi-Oregon-Steel-Tube-FHSS_27762ada-29af-4974-94e5-9a8405a4ee0f.pdf
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-11-04T15:08:09Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Hollow cross section steel shape, typically referred to as hollow structural
+    section (HSS)
+  display_name: Hollow Sections
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: e96e409053534524b18ca57b992bb328
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 12 00 Structural Steel Framing
+  may_contain_trusted_vendor_declarations: false
+  name: HollowSections
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> StructuralSteel >> HollowSections
+  openepd_name: Steel >> StructuralSteel >> HollowSections
+  parents: []
+  pct10_gwp: 1353.030683 kgCO2e
+  pct20_gwp: 1559.235547 kgCO2e
+  pct30_gwp: 1712.044764 kgCO2e
+  pct40_gwp: 1838.998963 kgCO2e
+  pct50_gwp: 1943.832071 kgCO2e
+  pct60_gwp: 2120.163034 kgCO2e
+  pct70_gwp: 2236.388547 kgCO2e
+  pct80_gwp: 2451.665069 kgCO2e
+  pct90_gwp: 3115.900737 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Hollow Sections
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30104000'
+  updated_on: '2025-05-23T10:08:57.756828Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1730.224151 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-03-08T23:29:13.388879Z'
+date_of_issue: '2022-02-03'
+date_validity_ends: '2027-02-03'
+declaration_type: Product EPD
+declared_unit: 1 metric ton
+description: MOST manufactures HSS in square and rectangular shapes for a wide variety
+  of applications. HSS is ideal for use as structural support for buildings, bridges,
+  highways, and for an extensive range of applications in industrial, construction,
+  transport, and agricultural equipment.
+developer:
+  email: info@sphera.com
+  name: Sphera staff
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: https://spot.ul.com/main-appproducts/detail/6216a065a95351859a705d1a
+en_standards: []
+epd_degraded: false
+excluded: false
+externally_verified: true
+galvanized: false
+gwp: 1620 kgCO2e
+gwp_per_category_declared_unit: 1620 kgCO2e
+gwp_per_kg: 1.62 kgCO2e
+gwp_z: 0.08084553172563094
+id: 6b6070817d5f4f3cb67a6e30f84499da
+image: https://static.buildingtransparency.org/images/8df4ab6b19ca4304ab2b773fc1e9d0a7.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1509.775849 kgCO2e
+manufacturer:
+  address: 8735 North Harborgate Street, Portland, OR 97203
+  address_line: 8735 North Harborgate Street
+  admin_district: OR
+  admin_district2: Multnomah
+  alt_names:
+  - MOST
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-07-10T00:09:45.382043Z'
+  enterprise: true
+  id: d36dac93790041d29d00609272ab80c1
+  is_failed: false
+  latitude: 45.62219
+  locality: Portland
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Multnomah
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    extendedPostalCode: '972036363'
+    freeformAddress: 8735 North Harborgate Street, Portland, OR 97203
+    localName: Portland
+    municipality: Portland
+    municipalitySubdivision: Saint-John's
+    postalCode: '97203'
+    streetName: North Harborgate Street
+    streetNumber: '8735'
+  longitude: -122.76617
+  name: Maruichi Oregon Steel Tube, LLC
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d36dac93790041d29d00609272ab80c1
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '97203'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2020-07-10T00:15:19.338378Z'
+  web_domain: most.us.com
+  website: http://most.us.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: c188903fd7ae4b0496f6854545a2d668
+my_capabilities: 1
+name: Unfabricated Hollow structural steel sections
+not_an_epd: false
+open_xpd_uuid: ec36rb2g
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec36rb2g
+output_flows: {}
+owner:
+  name: Vaclav Admin
+  user_id: vaclav.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Designated Steel Construction Product EPD Requirements'
+  - 'Product Category Rule (PCR) Guidance for Building-Related Products and Services
+    Part B: Designated Steel Construction Product EPD Requirements'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-06-08T21:43:47.495368Z'
+  date_of_issue: '2020-12-31'
+  date_validity_ends: '2025-12-31'
+  declared_units:
+  - 1 tonne
+  - 1 m
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?productId=ULE10010-34_2_S_20200826
+  id: 191899c123a64689a0051239c7ec8eb0
+  is_failed: false
+  lcia_requirements:
+    IPCC AR5:
+      impacts:
+      - gwp-luluc
+      - gwp
+      - gwp-fossil
+      - gwp-biogenic
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts:
+      - odp
+      - ep-terrestrial
+      - ep-fresh
+      - ap
+      - ep
+      - pocp
+      - ep-marine
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Designated Steel Construction Products'
+  open_xpd_uuid: ec3y4rsh
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3y4rsh
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3y4rshx6
+  short_name: 'Part B: Designated Steel Construction Products'
+  updated_on: '2024-07-18T15:18:59.717737Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 1730.224151 kgCO2e
+plant_geography:
+- US-OR
+plant_or_group:
+  address: 8735 N Harborgate St, Portland, OR 97203, USA
+  address_line: 8735 N Harborgate St
+  admin_district: OR
+  admin_district2: Multnomah County
+  carbon_intensity: 643.363 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-10-28T20:16:16.450884Z'
+  id: f01d4071df7343ab9d33a5d41050cb6e
+  is_failed: false
+  latitude: 45.6220383
+  locality: Portland
+  location:
+  - long_name: '8735'
+    short_name: '8735'
+    types:
+    - street_number
+  - long_name: North Harborgate Street
+    short_name: N Harborgate St
+    types:
+    - route
+  - long_name: North Portland
+    short_name: North Portland
+    types:
+    - neighborhood
+    - political
+  - long_name: Portland
+    short_name: Portland
+    types:
+    - locality
+    - political
+  - long_name: Multnomah County
+    short_name: Multnomah County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Oregon
+    short_name: OR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '97203'
+    short_name: '97203'
+    types:
+    - postal_code
+  - long_name: '6363'
+    short_name: '6363'
+    types:
+    - postal_code_suffix
+  longitude: -122.7666821
+  name: Portland
+  openepd_id: 84QVJ6CM+R8.most.us.com
+  owned_by:
+    address: 8735 North Harborgate Street, Portland, OR 97203
+    address_line: 8735 North Harborgate Street
+    admin_district: OR
+    admin_district2: Multnomah
+    alt_names:
+    - MOST
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-07-10T00:09:45.382043Z'
+    enterprise: true
+    id: d36dac93790041d29d00609272ab80c1
+    is_failed: false
+    latitude: 45.62219
+    locality: Portland
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Multnomah
+      countrySubdivision: OR
+      countrySubdivisionName: Oregon
+      extendedPostalCode: '972036363'
+      freeformAddress: 8735 North Harborgate Street, Portland, OR 97203
+      localName: Portland
+      municipality: Portland
+      municipalitySubdivision: Saint-John's
+      postalCode: '97203'
+      streetName: North Harborgate Street
+      streetNumber: '8735'
+    longitude: -122.76617
+    name: Maruichi Oregon Steel Tube, LLC
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d36dac93790041d29d00609272ab80c1
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '97203'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2020-07-10T00:15:19.338378Z'
+    web_domain: most.us.com
+    website: http://most.us.com/
+  postal_code: '97203'
+  total_epds: 2
+  type: Plant
+  units: SI
+  updated_on: '2022-10-28T20:16:16.450890Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4790026916.101.1
+resource_uses: {}
+sae_standards: []
+sanitizable: false
+short_link: buildingtransparency.org/e/ec36rb2gs0
+stainless: false
+standard_deviation: 130.9697614 kgCO2e
+steel_fabricated: false
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1730.224151 kgCO2e
+uncertainty_factor: 1.068039599500291
+updated_on: '2024-09-25T17:04:50Z'
+use_stored_carbon: false
+verifier:
+  email: info@thriveesg.com
+  name: James Mellentine
+  org:
+    address: 1312 17th St, Denver, CO 80202, USA
+    address_line: 1312 17th St
+    admin_district: CO
+    admin_district2: Denver County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2021-05-07T22:39:03.973231Z'
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/bb5d369335074f9ba40ed53bbe586a71.png
+    id: 170cb26c578848bb94ecee1f5a5f44d7
+    image: https://static.buildingtransparency.org/images/4ac82ea1a716407b84cd31235a7e94e7.png
+    is_failed: false
+    latitude: 39.7503299
+    locality: Denver
+    location:
+    - long_name: '1312'
+      short_name: '1312'
+      types:
+      - street_number
+    - long_name: 17th Street
+      short_name: 17th St
+      types:
+      - route
+    - long_name: Central
+      short_name: Central
+      types:
+      - neighborhood
+      - political
+    - long_name: Denver
+      short_name: Denver
+      types:
+      - locality
+      - political
+    - long_name: Denver County
+      short_name: Denver County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Colorado
+      short_name: CO
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '80202'
+      short_name: '80202'
+      types:
+      - postal_code
+    longitude: -104.9966735
+    name: Thrive ESG
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/170cb26c578848bb94ecee1f5a5f44d7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '80202'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2024-03-27T19:29:29.866418Z'
+    web_domain: thriveesg.com
+    website: http://www.thriveesg.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

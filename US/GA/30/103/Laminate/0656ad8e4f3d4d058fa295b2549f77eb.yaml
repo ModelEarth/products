@@ -1,0 +1,470 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 45.82237134 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '1228337552356'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2020-10-29T09:01:59Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Laminate flooring
+  display_name: Laminate
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 3d9186efdcaa466b8358356610da05ec
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.965 kg
+  massless: false
+  masterformat: 09 62 19 Laminate Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: Laminate
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Laminate
+  openepd_name: Finishes >> Flooring >> Laminate
+  parents: []
+  pct10_gwp: 0.9866450659 kgCO2e
+  pct20_gwp: 1.314587745 kgCO2e
+  pct30_gwp: 2.522636324 kgCO2e
+  pct40_gwp: 3.400955408 kgCO2e
+  pct50_gwp: 4.145275809 kgCO2e
+  pct60_gwp: 4.828911139 kgCO2e
+  pct70_gwp: 5.56150828 kgCO2e
+  pct80_gwp: 6.433858782 kgCO2e
+  pct90_gwp: 7.33349826 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Laminate
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-05-23T10:08:59.989762Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 75.45762866 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-02-27T23:22:24.651726Z'
+date_of_issue: '2022-06-02'
+date_validity_ends: '2022-06-02'
+declaration_type: Product EPD
+declared_unit: "1 m\xB2"
+description: "         For both HIMACS and Viatera product lines, the results contained\
+  \ within this declaration represent the general\n         minimum and maximum case\
+  \ scenarios in terms of life cycle impacts. Specific variations and product thicknesses\n\
+  \         within each product line have been analyzed, and life cycle impact assessment\
+  \ results for any given variation of either\n         the HIMACS or Viatera products\
+  \ fall within the range of results presented in this declaration."
+developer:
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-04-12T23:01:57.814017Z'
+    enterprise: false
+    id: a5767c7fa046457fa698e985912c1023
+    is_failed: false
+    name: NSF International
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a5767c7fa046457fa698e985912c1023
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-06-29T04:18:08.698841Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: nsfsustainability.org
+    website: nsfsustainability.org
+doc: buildingtransparency.org/e/ec3d1e0x0q
+epd_degraded: false
+errors:
+  date_of_issue:
+  - Date of Issue must be earlier than `Valid Until` date
+  name:
+  - Name is not extracted in sanitizer
+excluded: false
+externally_verified: true
+failures: {}
+file_name: _hausys_US_ EPD.pdf
+gwp: 60.64 kgCO2e
+gwp_per_category_declared_unit: 60.64 kgCO2e
+gwp_z: 0.2903446228191595
+id: b5beabb44eee492ab4e0061f9dd09c52
+image: https://static.buildingtransparency.org/images/1b5c1a0b408b436cae1ee05620a3bfef.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 45.82237134 kgCO2e
+manufacturer:
+  address: South Korea
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/lg-hausys
+  confirmable_fields: []
+  confirmed_fields: []
+  country: KR
+  cqd_sync_unlocked: true
+  created_on: '2020-07-22T17:59:31.563340Z'
+  enterprise: true
+  id: 9050b939ff5c481d951e5fccb97efc12
+  is_failed: false
+  latitude: 37.56829
+  location:
+    country: South Korea
+    countryCode: KR
+    countryCodeISO3: KOR
+    freeformAddress: South Korea
+  longitude: 126.99778
+  name: LG Hausys
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9050b939ff5c481d951e5fccb97efc12
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T12:54:45.462524Z'
+  web_domain: lghausys.com
+  website: http://www.lghausys.com/main.jsp
+manufacturer_specific: true
+matched_plants_count: 0
+material_id: 0656ad8e4f3d4d058fa295b2549f77eb
+multiproduct: false
+my_capabilities: 1
+name: '#name_is_not_extracted'
+not_an_epd: false
+open_xpd_uuid: ec3d1e0x
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3d1e0x
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:57:20.975941Z'
+  date_of_issue: '2013-09-17'
+  date_validity_ends: '2022-09-30'
+  declared_units:
+  - 1 m2
+  doc: http://www.nsf.org/newsroom_pdf/PCR_Residential_Countertops.pdf
+  id: 5a222d672f314421999dc8ba4bb8423d
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 1
+  name: PCR for Residential Countertops
+  open_xpd_uuid: ec3sd5t7
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3sd5t7
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3sd5t764
+  short_name: Residential Countertops
+  status: Expired
+  updated_on: '2023-04-25T07:05:10.050677Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 75.45762866 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: Adairsville, GA 30103, USA
+  admin_district: GA
+  admin_district2: Bartow County
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-06-20T21:42:43.064514Z'
+  id: b3036d79392447aaaceed080b7634aa2
+  is_failed: false
+  latitude: 34.3687021
+  locality: Adairsville
+  location:
+  - long_name: Adairsville
+    short_name: Adairsville
+    types:
+    - locality
+    - political
+  - long_name: Bartow County
+    short_name: Bartow County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30103'
+    short_name: '30103'
+    types:
+    - postal_code
+  longitude: -84.9341093
+  name: Adairsville facility
+  openepd_id: 866Q9398+F9.lghausys.com
+  owned_by:
+    address: South Korea
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/lg-hausys
+    confirmable_fields: []
+    confirmed_fields: []
+    country: KR
+    cqd_sync_unlocked: true
+    created_on: '2020-07-22T17:59:31.563340Z'
+    enterprise: true
+    id: 9050b939ff5c481d951e5fccb97efc12
+    is_failed: false
+    latitude: 37.56829
+    location:
+      country: South Korea
+      countryCode: KR
+      countryCodeISO3: KOR
+      freeformAddress: South Korea
+    longitude: 126.99778
+    name: LG Hausys
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9050b939ff5c481d951e5fccb97efc12
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T12:54:45.462524Z'
+    web_domain: lghausys.com
+    website: http://www.lghausys.com/main.jsp
+  postal_code: '30103'
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-06-20T22:00:19.823024Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 789 North Dixboro Road, Ann Arbor, MI 48105
+  address_line: 789 North Dixboro Road
+  admin_district: MI
+  admin_district2: Washtenaw
+  alt_names:
+  - NSF
+  - NSF Certification LLC
+  - NSF Certification
+  attachments:
+    Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-08-01T22:31:34.491119Z'
+  email_extensions:
+  - nsf.org
+  enterprise: true
+  id: a44683606c014062ac954e094362582e
+  image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+  is_failed: false
+  latitude: 42.28365
+  legal_name: NSF International
+  locality: Ann Arbor
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Washtenaw
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+    freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+    localName: Ann Arbor
+    municipality: Ann Arbor
+    municipalitySubdivision: Ann Arbor
+    postalCode: '48105'
+    streetName: North Dixboro Road
+    streetNumber: '789'
+  longitude: -83.67447
+  name: NSF International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48105'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:00:07.818662Z'
+  web_domain: nsf.org
+  website: https://www.nsf.org/
+reference_service_life: 10 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3d1e0x0q
+standard_deviation: 17.60649793 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 75.45762866 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2024-06-20T21:42:52.161387Z'
+use_stored_carbon: false
+verifier:
+  email: ncss@nsf.org
+  name: Steve Lubowinski
+  org:
+    address: "Valhallav\xE4gen 81, 11428 Stockholm"
+    address_line: "81 Valhallav\xE4gen"
+    alt_names:
+    - EnviroDec
+    - environdec
+    - the International EPD System
+    - IES
+    - EPD International
+    - "International EPD\xAE System"
+    - TheInternational EPD System
+    - "The International EPD\xAE System"
+    - The International EPD
+    attachments:
+      General Programme Instructions: https://www.datocms-assets.com/37502/1617181375-general-programme-instructions-v-4.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: SE
+    cqd_sync_unlocked: true
+    created_on: '2019-04-18T13:32:25.465368Z'
+    email_extensions:
+    - environdec.com
+    enterprise: true
+    id: 9857b3f664584fadbadd5e601d9368d4
+    image: https://static.buildingtransparency.org/images/95419087-b5b4-4d45-8f0c-32d0982fac72.png
+    is_failed: false
+    latitude: 59.34655
+    legal_name: EPD International AB
+    locality: Stockholm
+    location:
+      country: Sweden
+      countryCode: SE
+      countryCodeISO3: SWE
+      freeformAddress: "Valhallav\xE4gen 81, 11428 Stockholm"
+      municipality: Stockholm
+      municipalitySubdivision: "Stockholm, Stockholms Stad, Norra Djurg\xE5rden"
+      postalCode: '11428'
+      streetName: "Valhallav\xE4gen"
+      streetNumber: '81'
+    longitude: 18.07285
+    name: EPD International AB
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9857b3f664584fadbadd5e601d9368d4
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - '150'
+    postal_code: '11428'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2024-08-13T12:36:34.205186Z'
+    web_domain: environdec.com
+    website: www.environdec.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - GWP is suspiciously greater than category's typical values
+  - B2_years are empty
+  - B4_years are empty

@@ -1,0 +1,559 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/redbuilt
+best_practice: 145.9669931 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '960456152673'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2020-06-22T14:54:29Z'
+  declared_unit: 1 m3
+  default_distance: 439.34982 km
+  default_transport_mode: truck, unspecified
+  description: Shop-fabricated structural Lumber including Laminated Strand Lumber
+    (LSL), Parallel Strand Lumber (PSL), and Laminated Veneer Lumber (LVL)
+  display_name: Composite Lumber
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 9717c6b40208445fbea4c7c5fbfb9557
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 562.5 kg
+  massless: false
+  masterformat: 06 17 00 Shop-Fabricated Structural Wood
+  may_contain_trusted_vendor_declarations: false
+  name: CompositeLumber
+  no_statistics: false
+  obsolete: false
+  openepd: Wood >> CompositeLumber
+  openepd_name: Wood >> CompositeLumber
+  parents: []
+  pct10_gwp: 209.8047813 kgCO2e
+  pct20_gwp: 235.9543569 kgCO2e
+  pct30_gwp: 263.5100281 kgCO2e
+  pct40_gwp: 281.7865818 kgCO2e
+  pct50_gwp: 297.9854607 kgCO2e
+  pct60_gwp: 312.1738157 kgCO2e
+  pct70_gwp: 341.691987 kgCO2e
+  pct80_gwp: 368.7668391 kgCO2e
+  pct90_gwp: 439.1998434 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Composite Lumber
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103602'
+  updated_on: '2025-05-23T10:09:03.615844Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 208.0330069 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-05-20T17:08:47.981339Z'
+date_of_issue: '2021-12-20'
+date_validity_ends: '2026-12-19'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 596.7 kg / m3
+description: "RedLam\u2122 Laminated Veneer Lumber (RedLam\u2122 LVL) is an engineered\
+  \ wood product manufactured in Stayton, Oregon from sheets of veneer laminated with\
+  \ an adhesive and then hot-pressed. RedLam\u2122 LVL is available in thicknesses\
+  \ from 3/4\u201D (19.1 mm) to 7\u201D (178 mm), depths from 2-1/2\u201D (63.5 mm)\
+  \ to 24\u201D (610 mm), and lengths up to 80\u2019 (24.4 m). RedLam\u2122 LVL can\
+  \ support heavy loads and can be precision-cut to be used as main carrying beams,\
+  \ flush beams, headers, and wall framing. The approximate density of RedLam\u2122\
+  \ LVL is 593 kg/m 3."
+developer:
+  email: jgeibig@ecoform.com
+  name: Jack Geibig
+  org:
+    address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    address_line: 2211 New Market Parkway Southeast
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - ULE EPM
+    - Underwriters Labs
+    - Underwriters Laboratories
+    - UL E
+    - UL Enviornment
+    - UL Environment
+    - UL Solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-19T16:12:16.017515Z'
+    email: epd@ul.com
+    email_extensions:
+    - ul.com
+    - ulenvironment.com
+    enterprise: true
+    id: 5b22feac0d67472191705631612b68fb
+    image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+    is_failed: false
+    latitude: 33.917988
+    legal_name: UL
+    locality: Marietta
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.918196,-84.495564
+        southWest: 33.917305,-84.497793
+      buildingNumber: '2211'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Marietta
+      extendedPostalCode: '300679393'
+      freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+      municipality: Marietta
+      municipalitySubdivision: Marietta
+      postalCode: '30067'
+      routeNumbers: []
+      street: New Market Parkway Southeast
+      streetName: New Market Parkway Southeast
+      streetNameAndNumber: 2211 New Market Parkway Southeast
+      streetNumber: '2211'
+    longitude: -84.49678
+    name: UL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    - CA
+    postal_code: '30067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2025-04-26T00:06:55.791242Z'
+    web_domain: ul.com
+    website: https://www.ul.com/
+doc: buildingtransparency.org/e/ec3ngpqs73
+epd_degraded: false
+excluded: false
+externally_verified: true
+fabrication: LVL
+file_name: SCS-EPD_RedBuilt_RedLam_44df136d484645a58085761f7b7dacb9.pdf
+forest_practices_certifiers: []
+gwp: 177 kgCO2e
+gwp_per_category_declared_unit: 177 kgCO2e
+gwp_per_kg: 0.2966314731 kgCO2e
+gwp_z: 0.2083266665599966
+id: 83ef296a9a7348cb9c91917936342e8d
+image: https://static.buildingtransparency.org/images/d0987a1b83244dfab9e8590ef42ffe9f.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 145.9669931 kgCO2e
+manufacturer:
+  address: 200 East Mallard Drive, Boise, ID 83706
+  address_line: 200 East Mallard Drive
+  admin_district: ID
+  admin_district2: Ada
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/redbuilt
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:44:19.592521Z'
+  email_extensions:
+  - redbuilt.com
+  enterprise: true
+  id: ebec9f582a6448849ef046f9c9e9552d
+  image: https://static.buildingtransparency.org/images/038210aa-4155-4dfa-bb40-7e613ffd8c46.png
+  is_failed: false
+  latitude: 43.59604
+  locality: Boise
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ada
+    countrySubdivision: ID
+    countrySubdivisionName: Idaho
+    countryTertiarySubdivision: Boise City
+    extendedPostalCode: '837063974'
+    freeformAddress: 200 East Mallard Drive, Boise, ID 83706
+    localName: Boise
+    municipality: Boise
+    municipalitySubdivision: Boise, Boise City
+    postalCode: '83706'
+    streetName: East Mallard Drive
+    streetNumber: '200'
+  longitude: -116.18117
+  name: RedBuilt
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/ebec9f582a6448849ef046f9c9e9552d
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '83706'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:10:16.968294Z'
+  web_domain: redbuilt.com
+  website: https://www.redbuilt.com/
+manufacturer_specific: true
+mass_per_declared_unit: 596.7 kg
+matched_plants_count: 0
+material_id: 261a4f59baca4b3eb4488a4056c2f8b5
+multiproduct: false
+my_capabilities: 1
+name: "RedLam\u2122 Laminated Veneer Lumber (LVL)"
+not_an_epd: false
+open_xpd_uuid: ec3ngpqs
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ngpqs
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:06.536836Z'
+  date_of_issue: '2019-10-21'
+  date_validity_ends: '2024-10-21'
+  declared_units:
+  - 1 m3
+  - 1 m
+  - 1 kg
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=36412
+  id: ba0b24bb24f14d349de35e9288c443ec
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - 019
+      order: 1
+  name: 'Part B: Structural and Architectural Wood Products'
+  open_xpd_uuid: ec3pp3mm
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pp3mm
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3pp3mm9c
+  short_name: 'Part B: Structural and Architectural Wood Products'
+  status: Expired
+  updated_on: '2025-05-03T00:06:32.986165Z'
+  version: '1.0'
+pct80_gwp_per_category_declared_unit: 208.0330069 kgCO2e
+plant_geography:
+- US-OR
+plant_or_group:
+  address: 2345 Deschutes Drive, Stayton, OR 97383
+  address_line: 2345 Deschutes Drive
+  admin_district: OR
+  admin_district2: Marion
+  carbon_intensity: 643.363 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-08-17T20:07:06.107158Z'
+  id: 0a697b8e5b984d1da2fbd6b983c2afc9
+  is_failed: false
+  latitude: 44.80063
+  locality: Stayton
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Marion
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    countryTertiarySubdivision: Stayton
+    freeformAddress: 2345 Deschutes Drive, Stayton, OR 97383
+    localName: Stayton
+    municipality: Stayton
+    municipalitySubdivision: Stayton
+    postalCode: '97383'
+    streetName: Deschutes Drive
+    streetNumber: '2345'
+  longitude: -122.8162
+  name: Stayton OR
+  openepd_id: 84PVR52M+7G.redbuilt.com
+  owned_by:
+    address: 200 East Mallard Drive, Boise, ID 83706
+    address_line: 200 East Mallard Drive
+    admin_district: ID
+    admin_district2: Ada
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/redbuilt
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:44:19.592521Z'
+    email_extensions:
+    - redbuilt.com
+    enterprise: true
+    id: ebec9f582a6448849ef046f9c9e9552d
+    image: https://static.buildingtransparency.org/images/038210aa-4155-4dfa-bb40-7e613ffd8c46.png
+    is_failed: false
+    latitude: 43.59604
+    locality: Boise
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ada
+      countrySubdivision: ID
+      countrySubdivisionName: Idaho
+      countryTertiarySubdivision: Boise City
+      extendedPostalCode: '837063974'
+      freeformAddress: 200 East Mallard Drive, Boise, ID 83706
+      localName: Boise
+      municipality: Boise
+      municipalitySubdivision: Boise, Boise City
+      postalCode: '83706'
+      streetName: East Mallard Drive
+      streetNumber: '200'
+    longitude: -116.18117
+    name: RedBuilt
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ebec9f582a6448849ef046f9c9e9552d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '83706'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:10:16.968294Z'
+    web_domain: redbuilt.com
+    website: https://www.redbuilt.com/
+  postal_code: '97383'
+  total_epds: 8
+  type: Plant
+  units: SI
+  updated_on: '2021-06-04T12:03:00.761465Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-07525
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ngpqs73
+standard_deviation: 36.87381998 kgCO2e
+stored_carbon: 907 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 208.0330069 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T19:32:38.841562Z'
+use_stored_carbon: true
+verifier:
+  email: jgeibig@ecoform.com
+  name: Jack Geibig
+  org:
+    address: 503 West Clinch Avenue, Knoxville, TN 37902
+    address_line: 503 West Clinch Avenue, Clinch Avenue Southwest
+    admin_district: TN
+    admin_district2: Knox
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-14T10:31:46.922611Z'
+    email_extensions:
+    - ecoform.com
+    enterprise: true
+    id: 5e03a97e4f8446ffb04a465e1d82c041
+    is_failed: false
+    latitude: 35.96343
+    locality: Knoxville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Knox
+      countrySubdivision: TN
+      countrySubdivisionName: Tennessee
+      countryTertiarySubdivision: District 1
+      extendedPostalCode: '379022104'
+      freeformAddress: 503 West Clinch Avenue, Knoxville, TN 37902
+      localName: Knoxville
+      municipality: Knoxville
+      municipalitySubdivision: Knoxville
+      postalCode: '37902'
+      streetName: West Clinch Avenue, Clinch Avenue Southwest
+      streetNumber: '503'
+    longitude: -83.92008
+    name: EcoForm
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5e03a97e4f8446ffb04a465e1d82c041
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37902'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-21T03:04:58.033587Z'
+    web_domain: ecoform.com
+    website: http://www.ecoform.com
+warnings:
+  density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+weather_exposed: false

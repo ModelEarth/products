@@ -1,0 +1,603 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+astm_standards: []
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/evraz-north-america
+best_practice: 1346.911887 kgCO2e
+biogenic_embodied_carbon_z: 0.07681145747868609
+box_id: '983746130783'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2021-09-13T09:26:53Z'
+  declared_unit: 1 t
+  default_distance: 424.86576 km
+  default_transport_mode: truck, unspecified
+  description: Sheet or strip steel, sold in rolls. Typically, coil steel is cold-formed
+    into light gauge products.
+  display_name: Coil Steel
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 1a894216acf240e3977de4a5c28db7cc
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 Metals
+  may_contain_trusted_vendor_declarations: false
+  name: CoilSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> CoilSteel
+  openepd_name: Steel >> CoilSteel
+  parents: []
+  pct10_gwp: 1085.937413 kgCO2e
+  pct20_gwp: 1287.911125 kgCO2e
+  pct30_gwp: 1602.542476 kgCO2e
+  pct40_gwp: 2193.167717 kgCO2e
+  pct50_gwp: 2667.858489 kgCO2e
+  pct60_gwp: 2813.913167 kgCO2e
+  pct70_gwp: 2948.804314 kgCO2e
+  pct80_gwp: 3041.045171 kgCO2e
+  pct90_gwp: 3482.690736 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Coil
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-05-23T10:08:58.632616Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 1533.088113 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2022-07-13T16:33:28.803262Z'
+date_of_issue: '2022-01-20'
+date_validity_ends: '2027-01-19'
+declaration_type: Product EPD
+declared_unit: 1 ton
+density: 7870 kg / m3
+description: 'EVRAZ coiled plate offers excellent gauge, high strength and exacting
+  specifications. EVRAZ Portland hot-rolled coil (HRC)
+
+  capabilities include carbon, high-strength-low-alloy and alloy grades for welded
+  pipe and tubing as well as cut-to-length sheet and
+
+  plate. Our coil products come in thicknesses up to 5/8" in a wide range of custom
+  and standard sizes. EVRAZ HRC can be
+
+  manufactured into various end products, where the CSI/UNSPSC codes will depend upon
+  the final product. The EVRAZ Portland
+
+  mill steel coil grades include ASTM A1011 and ASTM A1018.'
+developer:
+  email: jgeibig@ecoform.com
+  name: Jack Geibig
+  org:
+    address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    address_line: 2211 New Market Parkway Southeast
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - ULE EPM
+    - Underwriters Labs
+    - Underwriters Laboratories
+    - UL E
+    - UL Enviornment
+    - UL Environment
+    - UL Solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-19T16:12:16.017515Z'
+    email: epd@ul.com
+    email_extensions:
+    - ul.com
+    - ulenvironment.com
+    enterprise: true
+    id: 5b22feac0d67472191705631612b68fb
+    image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+    is_failed: false
+    latitude: 33.917988
+    legal_name: UL
+    locality: Marietta
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.918196,-84.495564
+        southWest: 33.917305,-84.497793
+      buildingNumber: '2211'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Marietta
+      extendedPostalCode: '300679393'
+      freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+      municipality: Marietta
+      municipalitySubdivision: Marietta
+      postalCode: '30067'
+      routeNumbers: []
+      street: New Market Parkway Southeast
+      streetName: New Market Parkway Southeast
+      streetNameAndNumber: 2211 New Market Parkway Southeast
+      streetNumber: '2211'
+    longitude: -84.49678
+    name: UL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - CA
+    - US
+    postal_code: '30067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2025-04-26T00:06:55.791242Z'
+    web_domain: ul.com
+    website: https://www.ul.com/
+doc: buildingtransparency.org/e/ec3apqn0a0
+en_standards: []
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: Evraz SCS-EPD-07592_EVRAZ_HotRolledCoil_021022_ee8028ed36e34b34b019eeace28e4d74.pdf
+galvanized: false
+gwp: 1440 kgCO2e
+gwp_per_category_declared_unit: 1587.328288 kgCO2e
+gwp_per_kg: 1.587328288 kgCO2e
+gwp_z: 0.07681145747868609
+id: 2771a97631f94d5cabc4d6ea8a503104
+image: https://static.buildingtransparency.org/images/f71acbd0d1c8474892d9413b0a3b29c3.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1346.911887 kgCO2e
+manufacturer:
+  address: 71 South Wacker Drive, Chicago, IL 60606
+  address_line: 71 South Wacker Drive, South Upper Wacker Drive
+  admin_district: IL
+  admin_district2: Dupage, Cook
+  alt_names:
+  - Evraz
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/evraz-north-america
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-05-06T21:08:32.528632Z'
+  email_extensions:
+  - evrazna.com
+  enterprise: true
+  id: 725031cf7a7843739404a4cf369d7d6e
+  image: https://static.buildingtransparency.org/images/96e6c335-5ef7-4a75-ad2c-025bdda40073.png
+  is_failed: false
+  latitude: 41.88091
+  locality: Chicago
+  location:
+    country: United States Of America
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Dupage, Cook
+    countrySubdivision: IL
+    countrySubdivisionName: Illinois
+    countryTertiarySubdivision: Chicago
+    extendedPostalCode: '606064600'
+    freeformAddress: 71 South Wacker Drive, Chicago, IL 60606
+    municipality: Chicago
+    municipalitySubdivision: Chicago, Downtown Chicago, Loop
+    postalCode: '60606'
+    streetName: South Wacker Drive, South Upper Wacker Drive
+    streetNumber: '71'
+  longitude: -87.63618
+  name: Evraz North America
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/725031cf7a7843739404a4cf369d7d6e
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '60606'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T12:38:34.018208Z'
+  web_domain: evrazna.com
+  website: https://www.evrazna.com/
+manufacturer_specific: true
+mass_per_declared_unit: 907.18474 kg
+matched_plants_count: 0
+material_id: c6a3b4ca1d344b84bf16981a01163dab
+multiproduct: false
+my_capabilities: 1
+name: Hot rolled coil
+not_an_epd: false
+open_xpd_uuid: ec3apqn0
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3apqn0
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Designated Steel Construction Product EPD Requirements'
+  - 'Product Category Rule (PCR) Guidance for Building-Related Products and Services
+    Part B: Designated Steel Construction Product EPD Requirements'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-06-08T21:43:47.495368Z'
+  date_of_issue: '2020-12-31'
+  date_validity_ends: '2025-12-31'
+  declared_units:
+  - 1 tonne
+  - 1 m
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?productId=ULE10010-34_2_S_20200826
+  id: 191899c123a64689a0051239c7ec8eb0
+  is_failed: false
+  lcia_requirements:
+    IPCC AR5:
+      impacts:
+      - gwp-luluc
+      - gwp
+      - gwp-fossil
+      - gwp-biogenic
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts:
+      - odp
+      - ep-terrestrial
+      - ep-fresh
+      - ap
+      - ep
+      - pocp
+      - ep-marine
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Designated Steel Construction Products'
+  open_xpd_uuid: ec3y4rsh
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3y4rsh
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3y4rshx6
+  short_name: 'Part B: Designated Steel Construction Products'
+  updated_on: '2024-07-18T15:18:59.717737Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 1689.940367 kgCO2e
+plant_geography:
+- US-OR
+plant_or_group:
+  address: 14400 N Rivergate Blvd, Portland, OR 97203, USA
+  address_line: 14400 N Rivergate Blvd
+  admin_district: OR
+  admin_district2: Multnomah County
+  carbon_intensity: 643.363 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-07-14T15:04:45.019819Z'
+  id: 19d94ff69d0d409b9f33158672e86820
+  is_failed: false
+  latitude: 45.6291216
+  locality: Portland
+  location:
+  - long_name: '14400'
+    short_name: '14400'
+    types:
+    - street_number
+  - long_name: North Rivergate Boulevard
+    short_name: N Rivergate Blvd
+    types:
+    - route
+  - long_name: North Portland
+    short_name: North Portland
+    types:
+    - neighborhood
+    - political
+  - long_name: Portland
+    short_name: Portland
+    types:
+    - locality
+    - political
+  - long_name: Multnomah County
+    short_name: Multnomah County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Oregon
+    short_name: OR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '97203'
+    short_name: '97203'
+    types:
+    - postal_code
+  - long_name: '6612'
+    short_name: '6612'
+    types:
+    - postal_code_suffix
+  longitude: -122.7807922
+  name: Portland
+  openepd_id: 84QVJ6H9+JM.evrazna.com
+  owned_by:
+    address: 71 South Wacker Drive, Chicago, IL 60606
+    address_line: 71 South Wacker Drive, South Upper Wacker Drive
+    admin_district: IL
+    admin_district2: Dupage, Cook
+    alt_names:
+    - Evraz
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/evraz-north-america
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-05-06T21:08:32.528632Z'
+    email_extensions:
+    - evrazna.com
+    enterprise: true
+    id: 725031cf7a7843739404a4cf369d7d6e
+    image: https://static.buildingtransparency.org/images/96e6c335-5ef7-4a75-ad2c-025bdda40073.png
+    is_failed: false
+    latitude: 41.88091
+    locality: Chicago
+    location:
+      country: United States Of America
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Dupage, Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606064600'
+      freeformAddress: 71 South Wacker Drive, Chicago, IL 60606
+      municipality: Chicago
+      municipalitySubdivision: Chicago, Downtown Chicago, Loop
+      postalCode: '60606'
+      streetName: South Wacker Drive, South Upper Wacker Drive
+      streetNumber: '71'
+    longitude: -87.63618
+    name: Evraz North America
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/725031cf7a7843739404a4cf369d7d6e
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60606'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T12:38:34.018208Z'
+    web_domain: evrazna.com
+    website: https://www.evrazna.com/
+  postal_code: '97203'
+  total_epds: 2
+  type: Plant
+  units: SI
+  updated_on: '2022-07-14T15:04:45.019824Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-07592
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3apqn0a0
+stainless: false
+standard_deviation: 110.6084988 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1533.088113 kgCO2e
+uncertainty_factor: 1.0646445226140622
+updated_on: '2025-01-14T19:15:04.570357Z'
+use_stored_carbon: false
+verifier:
+  email: jgeibig@ecoform.com
+  name: Jack Geibig
+  org:
+    address: 503 West Clinch Avenue, Knoxville, TN 37902
+    address_line: 503 West Clinch Avenue, Clinch Avenue Southwest
+    admin_district: TN
+    admin_district2: Knox
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-14T10:31:46.922611Z'
+    email_extensions:
+    - ecoform.com
+    enterprise: true
+    id: 5e03a97e4f8446ffb04a465e1d82c041
+    is_failed: false
+    latitude: 35.96343
+    locality: Knoxville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Knox
+      countrySubdivision: TN
+      countrySubdivisionName: Tennessee
+      countryTertiarySubdivision: District 1
+      extendedPostalCode: '379022104'
+      freeformAddress: 503 West Clinch Avenue, Knoxville, TN 37902
+      localName: Knoxville
+      municipality: Knoxville
+      municipalitySubdivision: Knoxville
+      postalCode: '37902'
+      streetName: West Clinch Avenue, Clinch Avenue Southwest
+      streetNumber: '503'
+    longitude: -83.92008
+    name: EcoForm
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5e03a97e4f8446ffb04a465e1d82c041
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37902'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-21T03:04:58.033587Z'
+    web_domain: ecoform.com
+    website: http://www.ecoform.com
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Magnitude presented as a range. It has been replaced with the range's left limit
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

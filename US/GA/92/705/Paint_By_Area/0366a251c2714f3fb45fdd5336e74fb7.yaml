@@ -1,0 +1,599 @@
+also_shown_in: []
+applicable_in:
+- '021'
+approved_fields: {}
+best_practice: 1.662701046 kgCO2e
+biogenic_embodied_carbon_z: 0.4042276586281548
+box_id: '1671256883338'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2024-07-22T09:01:11Z'
+  declared_unit: 1 m2
+  description: Paintings and coatings measured by area of host surface covered by
+    the ready-to-use product.
+  display_name: Paint By Area
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 39f098d4c80648cbb524169224288ad5
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 0.115 kg
+  massless: false
+  masterformat: 09 90 00 Painting and Coating
+  may_contain_trusted_vendor_declarations: false
+  name: PaintByArea
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> PaintingAndCoating >> PaintByArea
+  openepd_name: Finishes >> PaintingAndCoating >> PaintByArea
+  parents: []
+  pct10_gwp: 0.1787885503 kgCO2e
+  pct20_gwp: 0.2411950255 kgCO2e
+  pct30_gwp: 0.2724275695 kgCO2e
+  pct40_gwp: 0.3057506954 kgCO2e
+  pct50_gwp: 0.3430496622 kgCO2e
+  pct60_gwp: 0.3925419085 kgCO2e
+  pct70_gwp: 0.5224836203 kgCO2e
+  pct80_gwp: 0.7878700738 kgCO2e
+  pct90_gwp: 1.596099992 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: By Area
+  short_service_life_disclaimer: true
+  subcategories: []
+  updated_on: '2025-05-23T10:09:02.163547Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 3.377298954 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-04-30T22:45:31.145110Z'
+date_of_issue: '2024-10-04'
+date_validity_ends: '2029-10-04'
+declaration_type: Product EPD
+declared_unit: 20 m2
+description: Waterborne Acrylic Dryfall interior high hide acrylic coating with flash
+  rust resistance that settles into a sweepable dust within 15 feet from ceiling surfaces.
+  Perfect for tilt-up concrete walls, warehouses, sports venues, and other commercial
+  spaces. GREENGUARD GOLD certified.
+developer:
+  email: mwildnauer@sphera.com
+  name: Maggie Wildnauer
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3j82066s
+epd_degraded: false
+excluded: false
+externally_verified: true
+gwp: 2.52 kgCO2e
+gwp_per_category_declared_unit: 0.126 kgCO2e
+gwp_per_kg: 0.6363636364 kgCO2e
+gwp_z: 0.4042276586281548
+id: 6000a0f880cd48ceaf7a1fd1783eb7f0
+impacts: {}
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '021'
+lowest_plausible_gwp: 1.662701046 kgCO2e
+manufacturer:
+  address: 1801 E St Andrew Pl, Santa Ana, CA 92705, USA
+  address_line: 1801 E St Andrew Pl
+  admin_district: CA
+  admin_district2: Orange County
+  alt_names:
+  - Behr
+  - Behr Paint Company
+  - Behr Process Corporation
+  - Behr Process LLC
+  - KILZ
+  attachments:
+    Contact_Us: https://www.behr.com/pro/contact-a-design-rep
+    MindfulMaterialsURL: https://portal.mindfulmaterials.com/?brand-name=Behr%20Paint%20Company
+    TransparencyCatalogURL: https://transparencycatalog.com/company/behr-process-corporation
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T16:00:07.778415Z'
+  currency: USD
+  email_extensions:
+  - behr.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/4c19ef297f64468f9758777ba6eb32f6.png
+  id: b7783c841cc549cf83c7929e98e53d24
+  image: https://static.buildingtransparency.org/images/6ecb5eaefad04950bea9a68e302ab96e.png
+  is_failed: false
+  iso14001_certified: true
+  iso9001_certified: false
+  latitude: 33.7227965
+  legal_name: Behr Process LLC
+  locality: Santa Ana
+  location:
+  - long_name: '1801'
+    short_name: '1801'
+    types:
+    - street_number
+  - long_name: East Saint Andrew Place
+    short_name: E St Andrew Pl
+    types:
+    - route
+  - long_name: Santa Ana
+    short_name: Santa Ana
+    types:
+    - locality
+    - political
+  - long_name: Orange County
+    short_name: Orange County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '92705'
+    short_name: '92705'
+    types:
+    - postal_code
+  - long_name: '5044'
+    short_name: '5044'
+    types:
+    - postal_code_suffix
+  longitude: -117.8426352
+  name: Behr Paint Company
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b7783c841cc549cf83c7929e98e53d24
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '92705'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2025-05-13T16:25:56.686361Z'
+  web_domain: behr.com
+  website: https://www.behr.com/pro
+mass_per_declared_unit: 3.96 kg
+matched_plants_count: 1
+material_id: 0366a251c2714f3fb45fdd5336e74fb7
+my_capabilities: 1
+name: BEHR HP211
+not_an_epd: false
+open_xpd_uuid: ec3j8206
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3j8206
+output_flows: {}
+owner:
+  name: Parser
+  user_id: epd.parser@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2025-04-25T23:46:36.695165Z'
+  date_of_issue: '2022-06-23'
+  date_validity_ends: '2027-06-23'
+  declared_units:
+  - 1 m2
+  doc: https://d2evkimvhatqav.cloudfront.net/documents/su_architectural_coatings_pcr.pdf?v=1594930070
+  id: eb7aeeeebd0044748c504d3fc993196e
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: Product Category Rule for Environmental Product Declarations - Architectural
+    Coatings
+  open_xpd_uuid: ec3nj2um
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3nj2um
+  product_classes: {}
+  requires_mass: false
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3nj2umca
+  short_name: Architectural Coatings
+  updated_on: '2025-04-25T23:47:38.763700Z'
+  version: '3'
+pct80_gwp_per_category_declared_unit: 0.1688649477 kgCO2e
+plant_geography:
+- US-CA
+- US-PA
+- US-TX
+- US
+- US-GA
+- US-IL
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2025-04-30T23:58:38.740015Z'
+  id: fbfedc05ac8148438e53f508c0ac524e
+  is_failed: false
+  jurisdiction:
+  - US
+  name: Allentown, Atlanta, Chicago Heights, Roanoke, Santa Ana
+  owned_by:
+    address: 1801 E St Andrew Pl, Santa Ana, CA 92705, USA
+    address_line: 1801 E St Andrew Pl
+    admin_district: CA
+    admin_district2: Orange County
+    alt_names:
+    - Behr
+    - Behr Paint Company
+    - Behr Process Corporation
+    - Behr Process LLC
+    - KILZ
+    attachments:
+      Contact_Us: https://www.behr.com/pro/contact-a-design-rep
+      MindfulMaterialsURL: https://portal.mindfulmaterials.com/?brand-name=Behr%20Paint%20Company
+      TransparencyCatalogURL: https://transparencycatalog.com/company/behr-process-corporation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T16:00:07.778415Z'
+    currency: USD
+    email_extensions:
+    - behr.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/4c19ef297f64468f9758777ba6eb32f6.png
+    id: b7783c841cc549cf83c7929e98e53d24
+    image: https://static.buildingtransparency.org/images/6ecb5eaefad04950bea9a68e302ab96e.png
+    is_failed: false
+    iso14001_certified: true
+    iso9001_certified: false
+    latitude: 33.7227965
+    legal_name: Behr Process LLC
+    locality: Santa Ana
+    location:
+    - long_name: '1801'
+      short_name: '1801'
+      types:
+      - street_number
+    - long_name: East Saint Andrew Place
+      short_name: E St Andrew Pl
+      types:
+      - route
+    - long_name: Santa Ana
+      short_name: Santa Ana
+      types:
+      - locality
+      - political
+    - long_name: Orange County
+      short_name: Orange County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: California
+      short_name: CA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '92705'
+      short_name: '92705'
+      types:
+      - postal_code
+    - long_name: '5044'
+      short_name: '5044'
+      types:
+      - postal_code_suffix
+    longitude: -117.8426352
+    name: Behr Paint Company
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b7783c841cc549cf83c7929e98e53d24
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '92705'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2025-05-13T16:25:56.686361Z'
+    web_domain: behr.com
+    website: https://www.behr.com/pro
+  plants_count: 5
+  total_epds: 75
+  type: PlantGroup
+  updated_on: '2025-05-07T17:50:17.959834Z'
+private: false
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4791080617.128.1
+reference_service_life: 3 years
+resource_uses: {}
+sanitizable: false
+short_link: buildingtransparency.org/e/ec3j82066s
+standard_deviation: 1.0186537 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3.377298954 kgCO2e
+uncertainty_factor: 1.340197997501455
+updated_on: '2025-05-01T22:55:50.535489Z'
+use_stored_carbon: false
+verifier:
+  email: cooper.mccollum@ul.com
+  name: Cooper McCollum
+  org:
+    address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    address_line: 2211 New Market Parkway Southeast
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - ULE EPM
+    - Underwriters Labs
+    - Underwriters Laboratories
+    - UL E
+    - UL Enviornment
+    - UL Environment
+    - UL Solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-19T16:12:16.017515Z'
+    email: epd@ul.com
+    email_extensions:
+    - ul.com
+    - ulenvironment.com
+    enterprise: true
+    id: 5b22feac0d67472191705631612b68fb
+    image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+    is_failed: false
+    latitude: 33.917988
+    legal_name: UL
+    locality: Marietta
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.918196,-84.495564
+        southWest: 33.917305,-84.497793
+      buildingNumber: '2211'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Marietta
+      extendedPostalCode: '300679393'
+      freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+      municipality: Marietta
+      municipalitySubdivision: Marietta
+      postalCode: '30067'
+      routeNumbers: []
+      street: New Market Parkway Southeast
+      streetName: New Market Parkway Southeast
+      streetNameAndNumber: 2211 New Market Parkway Southeast
+      streetNumber: '2211'
+    longitude: -84.49678
+    name: UL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    - CA
+    postal_code: '30067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2025-04-26T00:06:55.791242Z'
+    web_domain: ul.com
+    website: https://www.ul.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified

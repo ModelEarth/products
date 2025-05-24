@@ -1,0 +1,517 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+astm_standards: []
+best_practice: 2.662908979 kgCO2e
+biogenic_embodied_carbon_z: 0.07244998274671982
+box_id: '1479192808416'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-05-09T11:43:58Z'
+  declared_unit: 1 t
+  default_distance: 442.5685 km
+  default_transport_mode: truck, unspecified
+  description: Mild steel wire for reinforcement, connections, and meshes
+  display_name: Reinforcing Wire and Mesh
+  draft: false
+  facility_type: MILL
+  generic_material: false
+  hide_service_life: true
+  id: 139d996de52d4999a269aabecb2d4912
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 03 22 00 Fabric and Grid Reinforcing
+  may_contain_trusted_vendor_declarations: false
+  name: WireMeshSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> WireMeshSteel
+  openepd_name: Steel >> WireMeshSteel
+  parents: []
+  pct10_gwp: 643.6354535 kgCO2e
+  pct20_gwp: 811.7105633 kgCO2e
+  pct30_gwp: 962.3274649 kgCO2e
+  pct40_gwp: 1652.413235 kgCO2e
+  pct50_gwp: 2183.145853 kgCO2e
+  pct60_gwp: 2320.777578 kgCO2e
+  pct70_gwp: 2477.0009 kgCO2e
+  pct80_gwp: 3079.886902 kgCO2e
+  pct90_gwp: 3461.297701 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Wire & Mesh
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103623'
+  updated_on: '2025-05-23T10:08:57.320278Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 3.008731021 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-03-22T22:22:33.746750Z'
+date_of_issue: '2023-01-31'
+date_validity_ends: '2028-01-31'
+declaration_type: Product EPD
+declared_unit: 1 kg
+density: 0.5 kg / m3
+description: "PSI FIBERSTRAND FIBERS are synthetic monofilament and fibrillated polypropylene\
+  \ microfibers for concrete, mortar, and grout that comply with ASTM C 1116, Standard\
+  \ Specification for Fiber Reinforced Concrete and Shotcrete, and are specifically\
+  \ designed and used for plastic shrinkage crack control and secondary reinforcing\
+  \ applications for slabs and pre-cast concrete. PSI Fiberstrand microfibers have\
+  \ been shown to significantly reduce plastic shrinkage cracking when compared to\
+  \ plain concrete. The PSI Fiberstrand Multi-Mix 80, PSI Fiberstrand 100, PSI Fiberstrand\
+  \ 150, and PSI Fiberstrand F are identical in chemical composition and are similarly\
+  \ manufactured and packaged. The fiber products are differentiated by fiber diameter,\
+  \ length, and degree of fibrillation. Dosage rates will vary depending on the fiber\
+  \ type and reinforcing requirements and can range from 0.5 to 1.5 lbs./yd\xB3 (0.3\
+  \ to 0.6 kg/m\xB3). PSI FIBERSTRAND microfibers also comply with applicable portions\
+  \ of the International Code Council (ICC) Acceptance Criteria AC32 for synthetic\
+  \ fibers."
+developer:
+  email: jbuffenbarger@betonconsultingeng.com
+  name: Julie K. Buffenbarger
+  org:
+    address: Pilot Knob Rd, Minnesota, USA
+    address_line: Pilot Knob Rd
+    admin_district: MN
+    admin_district2: Dakota County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2024-04-18T14:13:32.790838Z'
+    enterprise: false
+    errors: {}
+    failures: {}
+    id: 5995b0626ac24af7aa64a05c0aa59ded
+    is_failed: false
+    latitude: 44.7593795
+    location:
+    - long_name: Pilot Knob Road
+      short_name: Pilot Knob Rd
+      types:
+      - route
+    - long_name: Dakota County
+      short_name: Dakota County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Minnesota
+      short_name: MN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    longitude: -93.1686899
+    name: Beton Consulting Engineers
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5995b0626ac24af7aa64a05c0aa59ded
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    updated_on: '2024-08-12T14:18:20.128868Z'
+    web_domain: betonconsultingeng.com
+    website: Jbuffenbarger@betonconsultingeng.com
+doc: buildingtransparency.org/e/ec32q4sceh
+en_standards: []
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: EuclidChemical_EPD01_Fiber_01-31-2023_19e8147ab8d240a98b00faa8f00f314d.pdf
+galvanized: false
+gwp: 2.83582 kgCO2e
+gwp_per_category_declared_unit: 2835.82 kgCO2e
+gwp_per_kg: 2.83582 kgCO2e
+gwp_z: 0.07244998274671982
+id: 641e5619708742c4af14fbf0a590328d
+image: https://static.buildingtransparency.org/images/32e0903632cd4f418c77baee28de108f.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 2.662908979 kgCO2e
+manufacturer:
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/the-euclid-chemical-company
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2023-05-16T13:20:44.044058Z'
+  enterprise: false
+  id: 10c1b41d20aa48588eb9db3df4093f95
+  is_failed: false
+  name: The Euclid Chemical Company
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/10c1b41d20aa48588eb9db3df4093f95
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-07-06T04:18:55.378353Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: euclidchemical.com
+  website: https://www.euclidchemical.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1 kg
+matched_plants_count: 0
+material_id: 0fb092e2e48a4c84a1c09bd8baa2817d
+multiproduct: false
+my_capabilities: 1
+name: Fiber Reinforcement Products For Concrete
+not_an_epd: false
+open_xpd_uuid: ec32q4sc
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec32q4sc
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - ISO 21930:2017. Sustainability in buildings and civil engineering works - Core
+    rules for environmental product declarations of construction products and services.
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:46.793994Z'
+  date_of_issue: '2017-01-01'
+  declared_units:
+  - 1 kg
+  - 1 m
+  - 1 m2
+  - 1 m3
+  - 1 unit
+  doc: https://www.iso.org/obp/ui/#iso:std:iso:21930:ed-2:v1:en
+  errors: {}
+  failures: {}
+  id: 59def577fc0d45229f165d9f5a2a0d56
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 1
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 2
+  name: ISO 21930:2017. Sustainability in buildings and civil engineering works
+  open_xpd_uuid: ec3e432h
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e432h
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e432h51
+  short_name: ISO 21930:2017. Sustainability in buildings and civil engineering works
+  updated_on: '2022-09-30T14:46:38.993441Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 3008.731021 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 3361 US Hwy 27, LaFayette, GA 30728, USA
+  address_line: 3361 US Hwy 27
+  admin_district: GA
+  admin_district2: Walker County
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-04-11T14:52:19.069609Z'
+  id: 747edc3734a84411b99b3172abbea09b
+  is_failed: false
+  latitude: 34.7560087
+  locality: LaFayette
+  location:
+  - long_name: '3361'
+    short_name: '3361'
+    types:
+    - street_number
+  - long_name: US Highway 27
+    short_name: US Hwy 27
+    types:
+    - route
+  - long_name: LaFayette
+    short_name: LaFayette
+    types:
+    - locality
+    - political
+  - long_name: Walker County
+    short_name: Walker County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30728'
+    short_name: '30728'
+    types:
+    - postal_code
+  - long_name: '6536'
+    short_name: '6536'
+    types:
+    - postal_code_suffix
+  longitude: -85.2662647
+  name: Euclid Chemical Company Fiber Manufacturing Facility
+  openepd_id: 866PQP4M+CF.euclidchemical.com
+  owned_by:
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/the-euclid-chemical-company
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2023-05-16T13:20:44.044058Z'
+    enterprise: false
+    id: 10c1b41d20aa48588eb9db3df4093f95
+    is_failed: false
+    name: The Euclid Chemical Company
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/10c1b41d20aa48588eb9db3df4093f95
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-07-06T04:18:55.378353Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: euclidchemical.com
+    website: https://www.euclidchemical.com/
+  postal_code: '30728'
+  total_epds: 2
+  type: Plant
+  updated_on: '2024-07-06T06:54:33.130313Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 900 Spring Street, Silver Spring, MD 20910
+  address_line: 900 Spring Street
+  admin_district: MD
+  admin_district2: Montgomery
+  alt_names:
+  - National Ready Mixed Concrete Association
+  - The National Ready Mixed Concrete Association
+  - NRMCA
+  - National Ready Mix Concrete Association
+  - National Ready-Mix Concrete Association
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/national-ready-mixed-concrete-assoc
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-25T01:07:49.604571Z'
+  currency: USD
+  email: servicerequest@nrmca.org
+  email_extensions:
+  - nrmca.org
+  enterprise: true
+  id: 1812a81e62a1424b8f27738be33fe023
+  image: https://static.buildingtransparency.org/images/0449ac39-6fff-4aca-a07f-36c94f3a3b63.png
+  is_failed: false
+  latitude: 38.99884
+  legal_name: National Ready Mixed Concrete Association
+  locality: Silver Spring
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Montgomery
+    countrySubdivision: MD
+    countrySubdivisionName: Maryland
+    countryTertiarySubdivision: District 13
+    extendedPostalCode: '209104017'
+    freeformAddress: 900 Spring Street, Silver Spring, MD 20910
+    localName: Silver Spring
+    municipality: Silver Spring
+    municipalitySubdivision: Silver Spring
+    postalCode: '20910'
+    streetName: Spring Street
+    streetNumber: '900'
+  longitude: -77.02468
+  name: NRMCA
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/1812a81e62a1424b8f27738be33fe023
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20910'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: true
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-07-24T16:59:40.245033Z'
+  web_domain: nrmca.org
+  website: http://www.nrmca.org/sustainability/
+program_operator_fkey: NRMCAEPD:20080
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec32q4sceh
+stainless: false
+standard_deviation: 0.2054551101 kgCO2e
+steel_fabricated: false
+steel_recycled_content: 0.75
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 3.008731021 kgCO2e
+uncertainty_factor: 1.0609739054796394
+updated_on: '2025-01-14T20:46:49.717697Z'
+use_stored_carbon: false
+verifier:
+  email: dstaaf@labelingsustainability.com
+  name: Denice Viktoria Staaf
+  org:
+    address: Mexico City
+    admin_district: Mexico City
+    alt_names:
+    - Labeling Sustainability, Inc.
+    confirmable_fields: []
+    confirmed_fields: []
+    country: MX
+    cqd_sync_unlocked: true
+    created_on: '2021-12-07T12:51:31.803863Z'
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/50ec874ff62944818b2ef9f6335d42b4.png
+    id: ae67206ab2024fa1b24e976b04855770
+    is_failed: false
+    latitude: 19.43268
+    locality: Mexico City
+    location:
+      country: Mexico
+      countryCode: MX
+      countryCodeISO3: MEX
+      countrySubdivision: Mexico City
+      freeformAddress: Mexico City
+      municipality: Mexico City
+    longitude: -99.13421
+    name: Labeling Sustainability Inc.
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ae67206ab2024fa1b24e976b04855770
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - MX
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2024-07-24T16:57:53.588178Z'
+    web_domain: labelingsustainability.com
+    website: labelingsustainability.com
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

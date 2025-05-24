@@ -1,0 +1,527 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: true
+best_practice: 6.753583675 kgCO2e
+biogenic_embodied_carbon_z: 0.24413111231467408
+box_id: '1854355076523'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-08-27T16:35:41.336470Z'
+  declared_unit: 1 m2
+  default_distance: 960.77598 km
+  default_transport_mode: truck, unspecified
+  description: Resilient floor products (including vinyl, rubber, linoleum, composition
+    cork, etc.) in modular square or rectangle shapes
+  display_name: Resilient Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 8ab304f186094beda76ff15fb15d0081
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 4.66 kg
+  massless: false
+  masterformat: 09 65 00 Resilient Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: ResilientFlooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> ResilientFlooring
+  openepd_name: Finishes >> Flooring >> ResilientFlooring
+  parents: []
+  pct10_gwp: 4.598976761 kgCO2e
+  pct20_gwp: 5.95944833 kgCO2e
+  pct30_gwp: 7.035606692 kgCO2e
+  pct40_gwp: 7.731692971 kgCO2e
+  pct50_gwp: 8.486443639 kgCO2e
+  pct60_gwp: 9.877002209 kgCO2e
+  pct70_gwp: 11.45168711 kgCO2e
+  pct80_gwp: 13.43417162 kgCO2e
+  pct90_gwp: 16.83149619 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Resilient Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161700'
+  updated_on: '2025-05-23T10:09:00.635574Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 10.24641633 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-05-06T19:08:38.793574Z'
+date_of_issue: '2023-10-04'
+date_validity_ends: '2028-10-03'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: Merge Forward is a polypropylene composite tile flooring that is PVC
+  free. Made from recyclable material, it consists of six layers. The product has
+  no added heavy metals and is 100% reusable and recyclable for rejected manufacturing
+  products. Polypropylene (PP) is the main raw material, which is the lightest among
+  synthetic resins and has excellent strength. A special polyethylene pad provides
+  shock absorption and quietness, with excellent workability and ease of cutting during
+  construction.
+developer:
+  email: gmansell@scsglobalservices.com
+  name: Gerard Mansell
+  org:
+    address: Global Logistics Drive, Lansing, MI 48906
+    address_line: ' Global Logistics Drive, Airport Perimeter Road'
+    admin_district: MI
+    admin_district2: Ingham, Eaton
+    alt_names:
+    - SCS
+    - SCS Global
+    - scsGlobalServices
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-25T13:59:24.810293Z'
+    email_extensions:
+    - scsglobalservices.com
+    enterprise: true
+    id: 58769e2d26d84d8f99bd07fda78bf79b
+    image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+    is_failed: false
+    latitude: 42.76946
+    legal_name: SCS Global Services
+    locality: Lansing
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ingham, Eaton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+      freeformAddress: Global Logistics Drive, Lansing, MI 48906
+      municipality: Lansing
+      municipalitySubdivision: Lansing
+      postalCode: '48906'
+      streetName: Global Logistics Drive, Airport Perimeter Road
+    longitude: -84.5792
+    name: SCS Global Services
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48906'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2024-07-24T17:01:16.978616Z'
+    web_domain: scsglobalservices.com
+    website: https://www.scsglobalservices.com/
+doc: buildingtransparency.org/e/ec3xgmakt3
+excluded: false
+externally_verified: true
+file_name: EPD 4.pdf
+gwp: 8.5 kgCO2e
+gwp_per_category_declared_unit: 8.5 kgCO2e
+gwp_per_kg: 1.548269581 kgCO2e
+gwp_z: 0.24413111231467408
+id: 4849ccb1b1aa4c9c876c313fc089d250
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 6.753583675 kgCO2e
+manufacturer:
+  address: Milliken Rd, Spartanburg, SC 29303, USA
+  address_line: Milliken Rd
+  admin_district: SC
+  admin_district2: Spartanburg County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/milliken
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:51:49.674817Z'
+  email_extensions:
+  - milliken.com
+  enterprise: true
+  id: 840ce2c9a4e94841a54d1ad9f319d371
+  image: https://static.buildingtransparency.org/images/64105ad4d0b44812b9a193341865cd62.png
+  is_failed: false
+  latitude: 34.9814258
+  legal_name: Milliken & Company
+  locality: Spartanburg
+  location:
+  - long_name: Milliken Road
+    short_name: Milliken Rd
+    types:
+    - route
+  - long_name: Spartanburg
+    short_name: Spartanburg
+    types:
+    - locality
+    - political
+  - long_name: Spartanburg County
+    short_name: Spartanburg County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: South Carolina
+    short_name: SC
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '29303'
+    short_name: '29303'
+    types:
+    - postal_code
+  longitude: -81.9537964
+  name: Milliken
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/840ce2c9a4e94841a54d1ad9f319d371
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '29303'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-02-28T18:15:43.873428Z'
+  web_domain: milliken.com
+  website: www.milliken.com
+manufacturer_specific: true
+mass_per_declared_unit: 5.49 kg
+matched_plants_count: 3
+material_id: c8e900f6f6154c2eaa41bc4069918a8c
+multiproduct: false
+my_capabilities: 1
+name: Merge Forward Polypropylene Composite Tile Flooring
+not_an_epd: false
+open_xpd_uuid: ec3xgmak
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3xgmak
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-06-09T16:50:22.658970Z'
+  date_of_issue: '2019-12-20'
+  date_validity_ends: '2024-12-20'
+  declared_units: []
+  doc: '#broken-link https://www.environdec.com/PCR/Detail/?Pcr=17392'
+  errors: {}
+  failures: {}
+  id: e140d97d83564b2d9eee3f52620861ba
+  is_failed: false
+  name: c-PCR-004 Resilient, textile and laminate floor coverings (EN 16810)
+  open_xpd_uuid: ec3duja3
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3duja3
+  short_link: buildingtransparency.org/p/ec3duja341
+  short_name: Resilient, textile and laminate floor coverings
+  status: Expired
+  updated_on: '2024-12-21T04:05:09.287942Z'
+  version: 12/20/2019
+pct80_gwp_per_category_declared_unit: 10.24641633 kgCO2e
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-02-28T18:52:37.533230Z'
+  id: a1d3dff6da414e7db387223b373b7801
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Duncan Stewart, Alma, Live Oak
+  owned_by:
+    address: Milliken Rd, Spartanburg, SC 29303, USA
+    address_line: Milliken Rd
+    admin_district: SC
+    admin_district2: Spartanburg County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/milliken
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:51:49.674817Z'
+    email_extensions:
+    - milliken.com
+    enterprise: true
+    id: 840ce2c9a4e94841a54d1ad9f319d371
+    image: https://static.buildingtransparency.org/images/64105ad4d0b44812b9a193341865cd62.png
+    is_failed: false
+    latitude: 34.9814258
+    legal_name: Milliken & Company
+    locality: Spartanburg
+    location:
+    - long_name: Milliken Road
+      short_name: Milliken Rd
+      types:
+      - route
+    - long_name: Spartanburg
+      short_name: Spartanburg
+      types:
+      - locality
+      - political
+    - long_name: Spartanburg County
+      short_name: Spartanburg County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: South Carolina
+      short_name: SC
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '29303'
+      short_name: '29303'
+      types:
+      - postal_code
+    longitude: -81.9537964
+    name: Milliken
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/840ce2c9a4e94841a54d1ad9f319d371
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '29303'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-02-28T18:15:43.873428Z'
+    web_domain: milliken.com
+    website: www.milliken.com
+  plants_count: 3
+  total_epds: 58
+  type: PlantGroup
+  updated_on: '2025-05-07T00:01:06.864329Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-09447
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3xgmakt3
+standard_deviation: 2.075114455 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 10.24641633 kgCO2e
+uncertainty_factor: 1.2054607441240297
+updated_on: '2025-05-06T22:59:02.300418Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified

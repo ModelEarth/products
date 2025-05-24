@@ -1,0 +1,535 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 18.51443306 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '344667620270'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.226286945 kgCO2e
+  pct20_gwp: 6.31150987 kgCO2e
+  pct30_gwp: 7.193005662 kgCO2e
+  pct40_gwp: 8.328409228 kgCO2e
+  pct50_gwp: 10.05624338 kgCO2e
+  pct60_gwp: 11.73431683 kgCO2e
+  pct70_gwp: 13.92024591 kgCO2e
+  pct80_gwp: 16.33810585 kgCO2e
+  pct90_gwp: 20.03417486 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-05-23T10:09:00.788295Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 26.48556694 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-08-14T10:18:29.629510Z'
+date_of_issue: '2015-09-11'
+date_validity_ends: '2020-09-11'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "Continuous Dyed Nylon 6 Broadloom Carpet is the family of carpet included\
+  \ in this Environmental Product Declaration (EPD). This tufted carpet family is\
+  \ constructed with Continuous Dyed Nylon 6 face fiber, and a woven primary and secondary\
+  \ adhered with a SBR latex backing. The weight range of this carpet family is \xB1\
+  11%. This EPD represents an average performance. This EPD includes a broad range\
+  \ of face fiber colors and patterns all with Nylon 6 yarn. The variation within\
+  \ this product group is in the face yarn style. Layer"
+doc: buildingtransparency.org/e/ec3xwsjke8
+excluded: false
+externally_verified: true
+file_name: milliken-continuous-dyed-nylon-6-broadloom.pdf
+form_factor: Tiles
+gwp: 22.5 kgCO2e
+gwp_per_category_declared_unit: 22.5 kgCO2e
+gwp_per_kg: 9.615384615 kgCO2e
+gwp_z: 0.2104756517984919
+gypsum_specific_density: 2.339496576 kg / m^2
+id: 849ddb9813bc4fd598e327eab3a4a007
+image: https://static.buildingtransparency.org/images/df26ad166b384c599072dda20a7770db.png
+impacts: {}
+includes: []
+industry_standards: []
+intended_application:
+- Com
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '
+
+
+  ## Source Data Notes
+
+  ISO 14025 Environmental labels and declarations-Type III Environmental Declarations
+  -Principals and Procedures
+
+  ISO 14040 Life Cycle Assessment- Principles and Framework
+
+  ISO 14044 Life Cycle Assessment- Requirements and Guidelines
+
+  ISO 21930 Sustainability in Building Construction-Environmental Declaration of Building
+  Products
+
+  Federal Trade Commission (FTC) Environmental Guidelines'
+lowest_plausible_gwp: 18.51443306 kgCO2e
+manufacturer:
+  address: 924 Milliken Road, Spartanburg, SC 29303
+  address_line: 924 Milliken Road, Frontage Road
+  admin_district: SC
+  admin_district2: Spartanburg
+  alt_names:
+  - Milliken Carpet
+  - Milliken International Ltd.
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/milliken
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-08-14T10:18:43.483365Z'
+  email_extensions:
+  - millikencarpet.com
+  enterprise: true
+  id: e8f700dc963847858f6a6f00d7571f6d
+  is_failed: false
+  latitude: 34.99074
+  locality: Spartanburg, Saxon
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Spartanburg
+    countrySubdivision: SC
+    countrySubdivisionName: South Carolina
+    countryTertiarySubdivision: Spartanburg
+    freeformAddress: 924 Milliken Road, Spartanburg, SC 29303
+    municipality: Spartanburg, Saxon
+    postalCode: '29303'
+    streetName: Milliken Road, Frontage Road
+    streetNumber: '924'
+  longitude: -81.96156
+  name: Milliken Carpet
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/e8f700dc963847858f6a6f00d7571f6d
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '29303'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2021-05-05T22:47:46.929149Z'
+  web_domain: millikencarpet.com
+  website: www.millikencarpet.com
+manufacturer_specific: true
+mass_per_declared_unit: 2.34 kg
+matched_plants_count: 0
+material_id: 11b9b53830e1493e8e668c06e6586bfb
+multiproduct: true
+my_capabilities: 1
+name: Continuous Dyed Nylon Type 6 Broadloom - mid weight
+not_an_epd: false
+open_xpd_uuid: ec3xwsjk
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3xwsjk
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - NSF PCR for Flooring Carpet, Resilient, Laminate, Ceramic and Wood
+  - NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and W ood)
+  - USA NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and Wood)
+  - 'NSF  Reference PCR Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  - NSF PCR for Flooring PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and
+    Wood)
+  - NSF PCR for Flooring (Carpet, Resilient, Laminate, Ceramic, and Wood)
+  - NSF PCR for Flooring PCR - Flooring (Carpet, Resilient, Laminate, Ceramic, and
+    Wood)
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:55:57.344402Z'
+  date_of_issue: '2012-05-22'
+  date_validity_ends: '2017-05-22'
+  declared_units:
+  - 1 m2
+  doc: http://www.nsf.org/newsroom_pdf/flooring_pcr-new.pdf
+  errors: {}
+  failures: {}
+  id: 59a08bc797e84eb78fe7ab5ff3e40852
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Product Category Rule for Environmental Product Declarations - Flooring:
+    Carpet, Resilient, Laminate, Ceramic, Wood'
+  open_xpd_uuid: ec3e6jsg
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3e6jsg
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3e6jsgyf
+  short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  status: Sunset
+  updated_on: '2025-05-23T21:40:17.506828Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 26.48556694 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: LaGrange, GA 30240
+  admin_district: GA
+  admin_district2: Troup
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-23T16:52:35.335149Z'
+  id: 29eb854d3385444a8ddf2ac35adee3f2
+  is_failed: false
+  latitude: 33.03384
+  locality: LaGrange
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Troup
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: LaGrange
+    freeformAddress: LaGrange, GA 30240
+    municipality: LaGrange
+    municipalitySubdivision: LaGrange, Young Acres, Woodfield, Willowcrest, Wildwood,
+      Whitewater Woods, Whitewater Estates, West Wyngate, West Wood, West Lake Village,
+      Waterford Place, Wares Crossroads, Vernon Ferry Estates, Vernon, Tyler Estates,
+      Turkey Point, Timber Ridge, The Crossings, Teaver Hill, Sunny Point, Sturbridge,
+      Stallings, Spring Valley, Smoke Rise, Smiths Crossroad, Shady Oaks, Sassafrass
+      Hills, Rosamond, Rockwell Estates, Riverwood, Riverside, Riverridge, River Trace,
+      Raby Woods, Pyne, Plantation Manor, Piney Hills, Piedmont Heights, Parkway Estates,
+      Old Chimney, North Ridge, Moss Creek, Meadowlands, Maplecreek Hills, Long Cane,
+      Lees Crossing, Lakeshore Estates, Lake West Point Estates, Lake Forest Hills,
+      Indian Bend, Huntington, Holly Hill, Hogg Mountain, Heritage Hills, Heatherbrook,
+      Gray Hill, Gabbettville, Evansville, Eagles Rest, Creek Ridge, Covered Bridge,
+      Colony Heights, Cannonville, Cameron Cove, Brookwood, Briarcreek Estates, Beaver
+      Cove, Baughs Crossroads, Ashling Place, Antioch, Abbottsford
+    postalCode: '30240'
+  longitude: -85.07785
+  name: LaGrange, GA
+  openepd_id: 865P2WMC+GV.millikencarpet.com
+  owned_by:
+    address: 924 Milliken Road, Spartanburg, SC 29303
+    address_line: 924 Milliken Road, Frontage Road
+    admin_district: SC
+    admin_district2: Spartanburg
+    alt_names:
+    - Milliken Carpet
+    - Milliken International Ltd.
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/milliken
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-14T10:18:43.483365Z'
+    email_extensions:
+    - millikencarpet.com
+    enterprise: true
+    id: e8f700dc963847858f6a6f00d7571f6d
+    is_failed: false
+    latitude: 34.99074
+    locality: Spartanburg, Saxon
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Spartanburg
+      countrySubdivision: SC
+      countrySubdivisionName: South Carolina
+      countryTertiarySubdivision: Spartanburg
+      freeformAddress: 924 Milliken Road, Spartanburg, SC 29303
+      municipality: Spartanburg, Saxon
+      postalCode: '29303'
+      streetName: Milliken Road, Frontage Road
+      streetNumber: '924'
+    longitude: -81.96156
+    name: Milliken Carpet
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e8f700dc963847858f6a6f00d7571f6d
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '29303'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2021-05-05T22:47:46.929149Z'
+    web_domain: millikencarpet.com
+    website: www.millikencarpet.com
+  postal_code: '30240'
+  total_epds: 16
+  type: Plant
+  units: SI
+  updated_on: '2020-04-21T03:06:36.431598Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 13CA02639.112.1
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3xwsjke8
+specific_density: 2.339496576 kg / m^2
+standard_deviation: 4.735702165 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 26.48556694 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-14T03:08:33.967531Z'
+use_stored_carbon: false
+verifier:
+  email: james.salazar@athenasmi.org
+  name: James Salazar
+  org:
+    address: 119 Ross Avenue, Ottawa, ON K1Y0N6
+    address_line: 119 Ross Avenue
+    admin_district: 'ON'
+    admin_district2: Ottawa
+    alt_names:
+    - Athena
+    - Athena Sustainable Materials
+    - ASMI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T22:28:52.429990Z'
+    email_extensions:
+    - athenasmi.org
+    enterprise: true
+    id: 147e1a4c1dd1410fa996fcd07477e3e4
+    image: https://static.buildingtransparency.org/images/2c8c6248-00b5-4d92-b61e-f2f0cbbd0820.png
+    is_failed: false
+    latitude: 45.398754
+    legal_name: Athena Sustainable Materials Institute
+    locality: Ottawa
+    location:
+      boundingBox:
+        entity: position
+        northEast: 45.398761,-75.737346
+        southWest: 45.398554,-75.737470
+      buildingNumber: '119'
+      country: Canada
+      countryCode: CA
+      countryCodeISO3: CAN
+      countrySecondarySubdivision: Ottawa
+      countrySubdivision: 'ON'
+      countrySubdivisionName: Ontario
+      extendedPostalCode: K1Y0N6
+      freeformAddress: 119 Ross Avenue, Ottawa, ON K1Y0N6
+      municipality: Ottawa
+      municipalitySubdivision: Ottawa
+      postalCode: K1Y
+      routeNumbers: []
+      street: Ross Avenue
+      streetName: Ross Avenue
+      streetNameAndNumber: 119 Ross Avenue
+      streetNumber: '119'
+    longitude: -75.737465
+    name: Athena Sustainable Materials Institute
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/147e1a4c1dd1410fa996fcd07477e3e4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: K1Y
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-06-03T19:19:00.256226Z'
+    web_domain: athenasmi.org
+    website: athenasmi.org
+warnings:
+  density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  gypsum_specific_density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  specific_density:
+  - Value described using more than one measurement unit. The first unit listed has
+    been used.
+yarn_type: Nylon 6
+yarn_weight: 42 oz / sy

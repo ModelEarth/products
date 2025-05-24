@@ -1,0 +1,654 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/armstrong-ceilings
+best_practice: 0.5138392565 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '302105882105'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2020-03-16T14:54:39Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Acoustical ceiling panels
+  display_name: Acoustical Ceilings
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 342ccbc46fc1418c8db86016753807d5
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 4.781 kg
+  massless: false
+  masterformat: 09 51 00 Acoustical Ceilings
+  may_contain_trusted_vendor_declarations: false
+  name: AcousticalCeilings
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> CeilingPanel >> AcousticalCeilings
+  openepd_name: Finishes >> CeilingPanel >> AcousticalCeilings
+  parents: []
+  pct10_gwp: 2.370959659 kgCO2e
+  pct20_gwp: 3.060554402 kgCO2e
+  pct30_gwp: 4.296518054 kgCO2e
+  pct40_gwp: 5.014746759 kgCO2e
+  pct50_gwp: 5.786246261 kgCO2e
+  pct60_gwp: 6.720407722 kgCO2e
+  pct70_gwp: 9.982394718 kgCO2e
+  pct80_gwp: 27.085353 kgCO2e
+  pct90_gwp: 50.65747227 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Acoustical Ceilings
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161601'
+  updated_on: '2025-05-23T10:09:01.786087Z'
+  use_stored_carbon: OPTIONAL
+ceiling_panel_cac: 35
+ceiling_panel_core_material: Mineral Fiber
+ceiling_panel_nrc: 0.5
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.8461607435 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-12-09T23:37:18.370700Z'
+date_of_issue: '2016-03-31'
+date_validity_ends: '2021-09-30'
+declaration_type: Product EPD
+declared_unit: 1 ft2
+density: 253 kg / m3
+description: "Armstrong\xAE Dune Ceiling Panels are wet-formed mineral fiber acoustical\
+  \ ceiling panels, featuring a fine-textured, non-directional surface for increased\
+  \ durability. Dune ceiling panels are manufactured by Armstrong World Industries\
+  \ in Marietta, Pennsylvania (17547), Pensacola, Florida (32505), Macon, Georgia\
+  \ (31206), and St. Helens, Oregon (97051)."
+doc: buildingtransparency.org/e/ec31sbqgeu
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: dune-epd.pdf
+gwp: 0.68 kgCO2e
+gwp_per_category_declared_unit: 7.319459083 kgCO2e
+gwp_per_kg: 1.828223638 kgCO2e
+gwp_z: 0.2903446228191595
+id: 7f084aba853f4b60ad53778ae0cfda5e
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: '## LCA Notes
+
+  Embodied GWP per ft2 calculated as 0.8683 (reported value in EPD) x 78% (estimated
+  contribution of A1-A3 impacts based on the ''production'' portion of the graph in
+  section 6 of the EPD).
+
+
+  ## Source Data Notes
+
+  PCR
+
+  UL Environment
+
+  UL Environment General Program Instructions April 2015, version 2
+
+
+  EN 15804: 2012-04 - Sustainability of construction works - Environmental Product
+  Declarations - Core rules for the product
+
+  category of construction product.
+
+  ISO 14025: 2006 - Environmental labels and declarations - Type III environmental
+  declarations - Principles and procedures
+
+  ISO 14040: 2006 - Environmental management - Life cycle assessment - Principles
+  and framework
+
+  ISO 14044:2006 - Environmental management - Life cycle assessment - Requirements
+  and guidelines
+
+  ISO 14046:2013 - Environmental management- Water footprint- Principles, requirements
+  and guidelines
+
+  ISO 15392:2008 - Sustainability in building construction- General principles
+
+  ISO 15686-1:2011 - Buildings and constructed assets- Service life planning- Part
+  1: General principles
+
+  ISO 15686-2:2008 - Buildings and constructed assets- Service life planning Part
+  2: Service life prediction procedures
+
+  ISO 15686-7:2008 - Buildings and constructed assets- Service life planning Part
+  7: Performance evaluation for feedback of service
+
+  life data from practice
+
+  ISO 15686-8:2008 - Buildings and constructed assets- Service life planning Part
+  8: Reference service life and service life estimation
+
+  ISO 21930: 2007 - Sustainability in building construction -- Environmental declaration
+  of building products
+
+  Testing And Classification References
+
+  ASTM C423 - Standard Test Method for Sound Absorption and Sound Absorption Coefficients
+  by the Reverberation Room Method
+
+  ASTM C636 - Standard Practice for Installation of Metal Ceiling Suspension Systems
+  for Acoustic Panel and Lay-in Panels
+
+  ASTM E84 - Test Method for Surface Burning Characteristics of Building Materials
+
+  ASTM E1110 - Standard Classification for Determination of Articulation Class
+
+  ASTM E1111 - Standard Test Method for Measuring the Interzone Attenuation of Open
+  Office Components
+
+  ASTM E1264 - Standard Classification for Acoustical Ceiling Products
+
+  ASTM E1414 - Standard Test Method for Airborne Sound Attenuation Between Rooms Sharing
+  a Common Ceiling Plenum
+
+  ASTM E1477 - Standard Test Method for Luminous Reflectance Factor of Acoustical
+  Materials by Use of Integrating-Sphere
+
+  Reflectometers
+
+  ASTM E413 - Classification for Rating Sound Insulation
+
+  CA Specification 01350 Standard Method for the Testing and Evaluation of Volatile
+  Organic Chemical Emissions from Indoor Sources
+
+  Using Environmental Chambers - Version 1.1'
+lowest_plausible_gwp: 0.5138392565 kgCO2e
+manufacturer:
+  address: 2300 Columbia Ave, Lancaster, PA 17603, USA
+  address_line: 2300 Columbia Ave
+  admin_district: PA
+  admin_district2: Lancaster County
+  alt_names:
+  - Armstrong World Industries
+  - Armstrong World Industries, Inc.
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/armstrong-ceilings
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-08-08T13:15:28.906027Z'
+  email_extensions:
+  - armstrongceilings.com
+  - armstrongceiling.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/0ed164fb0bbf460c897a4da54c9201f0.png
+  id: 3625052d06964ba2accc90930766b552
+  image: https://static.buildingtransparency.org/images/5b2cb2ad215f4d5f9bf4e2500fc441e5.png
+  is_failed: false
+  latitude: 40.0396801
+  legal_name: Armstrong World Industries, Inc.
+  locality: Lancaster
+  location:
+  - long_name: '2300'
+    short_name: '2300'
+    types:
+    - street_number
+  - long_name: Columbia Avenue
+    short_name: Columbia Ave
+    types:
+    - route
+  - long_name: Lancaster
+    short_name: Lancaster
+    types:
+    - locality
+    - political
+  - long_name: Manor Township
+    short_name: Manor Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Lancaster County
+    short_name: Lancaster County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '17603'
+    short_name: '17603'
+    types:
+    - postal_code
+  - long_name: '4108'
+    short_name: '4108'
+    types:
+    - postal_code_suffix
+  longitude: -76.36606739999999
+  name: Armstrong World Industries, Inc.
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3625052d06964ba2accc90930766b552
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '17603'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-07-12T17:35:39.941724Z'
+  web_domain: armstrongceilings.com
+  website: www.armstrongceilings.com
+manufacturer_specific: true
+mass_per_declared_unit: 0.82 lb
+matched_plants_count: 0
+material_id: 2bd6dbe81542473685b417972f630175
+multiproduct: true
+my_capabilities: 1
+name: DuneTM Ceiling Panels - Mineral Fiber
+not_an_epd: false
+open_xpd_uuid: ec31sbqg
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec31sbqg
+output_flows: {}
+owner:
+  name: Brook Waldman
+  user_id: brook@waldmanlca.com
+pcr:
+  alt_names:
+  - 'Part B: Non- Metal Ceiling Panel EPD Requirements'
+  - 'Part B: Non-Metal Ceiling Panels'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:57:03.266944Z'
+  date_of_issue: '2015-10-16'
+  date_validity_ends: '2020-10-16'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=35840
+  id: cf6ddd56fd064633a5a62349694b3c9b
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 1
+  name: Non-Metal Ceiling Panels
+  open_xpd_uuid: ec39w7gy
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec39w7gy
+  requires_mass: true
+  short_link: buildingtransparency.org/p/ec39w7gybd
+  short_name: Non-Metal Ceiling Panels
+  status: Expired
+  updated_on: '2022-06-24T09:27:40.716455Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 9.107998441 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 4520 Broadway, Macon, GA 31206
+  address_line: 4520 Broadway, Georgia 11, Georgia 49, Georgia State Route 11, Georgia
+    State Route 49, Martin Luther King Boulevard, State Route 11, State Route 49,
+    US-129 North, US-41 Business North, United States Highway 129 North, United States
+    Highway 41 Business Route North
+  admin_district: GA
+  admin_district2: Macon-Bibb County
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-12-09T23:33:56.551299Z'
+  id: 8a3e73d3b2444188924d79554a608ec5
+  is_failed: false
+  latitude: 32.77903
+  locality: Macon
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Macon-Bibb County
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Macon West
+    extendedPostalCode: '312065080'
+    freeformAddress: 4520 Broadway, Macon, GA 31206
+    municipality: Macon
+    municipalitySubdivision: Macon, Macon-Bibb County
+    postalCode: '31206'
+    streetName: Broadway, Georgia 11, Georgia 49, Georgia State Route 11, Georgia
+      State Route 49, Martin Luther King Boulevard, State Route 11, State Route 49,
+      US-129 North, US-41 Business North, United States Highway 129 North, United
+      States Highway 41 Business Route North
+    streetNumber: '4520'
+  longitude: -83.65564
+  name: Macon, GA
+  openepd_id: 864RQ8HV+JP.armstrongceilings.com
+  owned_by:
+    address: 2300 Columbia Ave, Lancaster, PA 17603, USA
+    address_line: 2300 Columbia Ave
+    admin_district: PA
+    admin_district2: Lancaster County
+    alt_names:
+    - Armstrong World Industries
+    - Armstrong World Industries, Inc.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/armstrong-ceilings
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-08T13:15:28.906027Z'
+    email_extensions:
+    - armstrongceilings.com
+    - armstrongceiling.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/0ed164fb0bbf460c897a4da54c9201f0.png
+    id: 3625052d06964ba2accc90930766b552
+    image: https://static.buildingtransparency.org/images/5b2cb2ad215f4d5f9bf4e2500fc441e5.png
+    is_failed: false
+    latitude: 40.0396801
+    legal_name: Armstrong World Industries, Inc.
+    locality: Lancaster
+    location:
+    - long_name: '2300'
+      short_name: '2300'
+      types:
+      - street_number
+    - long_name: Columbia Avenue
+      short_name: Columbia Ave
+      types:
+      - route
+    - long_name: Lancaster
+      short_name: Lancaster
+      types:
+      - locality
+      - political
+    - long_name: Manor Township
+      short_name: Manor Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Lancaster County
+      short_name: Lancaster County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '17603'
+      short_name: '17603'
+      types:
+      - postal_code
+    - long_name: '4108'
+      short_name: '4108'
+      types:
+      - postal_code_suffix
+    longitude: -76.36606739999999
+    name: Armstrong World Industries, Inc.
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3625052d06964ba2accc90930766b552
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '17603'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-07-12T17:35:39.941724Z'
+    web_domain: armstrongceilings.com
+    website: www.armstrongceilings.com
+  postal_code: '31206'
+  total_epds: 6
+  type: Plant
+  units: SI
+  updated_on: '2021-01-05T17:55:07.604432Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: false
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4786828541.105.1
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec31sbqgeu
+standard_deviation: 0.1974343435 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.8461607435 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T08:07:47.888446Z'
+use_stored_carbon: false
+verifier:
+  email: wade.stout@ul.com
+  name: Wade Stout
+  org:
+    address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    address_line: 2211 New Market Parkway Southeast
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - ULE EPM
+    - Underwriters Labs
+    - Underwriters Laboratories
+    - UL E
+    - UL Enviornment
+    - UL Environment
+    - UL Solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-19T16:12:16.017515Z'
+    email: epd@ul.com
+    email_extensions:
+    - ul.com
+    - ulenvironment.com
+    enterprise: true
+    id: 5b22feac0d67472191705631612b68fb
+    image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+    is_failed: false
+    latitude: 33.917988
+    legal_name: UL
+    locality: Marietta
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.918196,-84.495564
+        southWest: 33.917305,-84.497793
+      buildingNumber: '2211'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Marietta
+      extendedPostalCode: '300679393'
+      freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+      municipality: Marietta
+      municipalitySubdivision: Marietta
+      postalCode: '30067'
+      routeNumbers: []
+      street: New Market Parkway Southeast
+      streetName: New Market Parkway Southeast
+      streetNameAndNumber: 2211 New Market Parkway Southeast
+      streetNumber: '2211'
+    longitude: -84.49678
+    name: UL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    - CA
+    postal_code: '30067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2025-04-26T00:06:55.791242Z'
+    web_domain: ul.com
+    website: https://www.ul.com/
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified

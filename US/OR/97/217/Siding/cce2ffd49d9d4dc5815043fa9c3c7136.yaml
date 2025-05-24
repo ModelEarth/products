@@ -1,0 +1,329 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Spot: https://spot.ul.com/main-appproducts/detail/61c49d295322b396ddc0b375
+box_id: '1778564303710'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2020-05-12T14:34:33Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Long narrow products for exterior wall face of building, made of, e.g.,
+    metal, solid wood, plywood, plastic, composition, fiber cement, etc.
+  display_name: Siding
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 47413201bd134c84a5d342c85d0a086b
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 12 kg
+  massless: false
+  masterformat: 07 46 00 Siding
+  may_contain_trusted_vendor_declarations: false
+  name: Siding
+  no_statistics: false
+  obsolete: false
+  openepd: Cladding >> Siding
+  openepd_name: Cladding >> Siding
+  parents: []
+  pct10_gwp: 3.883977757 kgCO2e
+  pct20_gwp: 4.708368409 kgCO2e
+  pct30_gwp: 5.463069246 kgCO2e
+  pct40_gwp: 6.261284801 kgCO2e
+  pct50_gwp: 7.304358183 kgCO2e
+  pct60_gwp: 8.603717145 kgCO2e
+  pct70_gwp: 10.52445512 kgCO2e
+  pct80_gwp: 13.07720602 kgCO2e
+  pct90_gwp: 22.28915208 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Siding
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30151802'
+  updated_on: '2025-05-23T10:09:07.337178Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-02-15T08:25:11.427564Z'
+date_validity_ends: '2029-04-01'
+declaration_type: Product EPD
+description: "Designed in the popular architectural style, and made with our industry-leading\
+  \ NEX\xAE Rubberized Asphalt, Vista or Vista\xAE AR (algae-resistant) shingles deliver\
+  \ excellent all-weather resilience, a Class 3 hail impact rating, and include granules\
+  \ that help clean the air of emission pollutants. Best in Class Vista\xAE was 1\
+  \ of only 4 shingles in the country, and the only mid-tier shingle, to score Excellent\
+  \ or Good in EVERY performance category of the latest Hail Impact Study by the Insurance\
+  \ Institute for Business & Home Safety (IBHS). Vista\xAE shingles are Class 3 rated\
+  \ for impact (second highest rating possible), and meet IBHS\u2019s stringent FORTIFIED\u2122\
+  \ Roof requirements."
+doc: https://spot.ul.com/main-appproducts/detail/61c49d295322b396ddc0b375
+errors:
+  date_of_issue:
+  - Not specified
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+  impacts:
+  - GWP impact not specified
+  program_operator:
+  - Missing link
+file_name: Vista_66011eefb288963b0ccc89f6e235812b15368787.pdf
+id: dd385446f616478494f5e8d31d797123
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+manufacturer:
+  address: 3131 N Columbia Blvd, Portland, OR 97217, USA
+  address_line: 3131 N Columbia Blvd
+  admin_district: OR
+  admin_district2: Multnomah County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/malarkey-roofing
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:45:38.751371Z'
+  email_extensions: []
+  enterprise: true
+  id: c109f22777ea414193e5c176d17de28f
+  is_failed: false
+  latitude: 45.5910333
+  locality: Portland
+  location:
+  - long_name: '3131'
+    short_name: '3131'
+    types:
+    - street_number
+  - long_name: North Columbia Boulevard
+    short_name: N Columbia Blvd
+    types:
+    - route
+  - long_name: North Portland
+    short_name: North Portland
+    types:
+    - neighborhood
+    - political
+  - long_name: Portland
+    short_name: Portland
+    types:
+    - locality
+    - political
+  - long_name: Multnomah County
+    short_name: Multnomah County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Oregon
+    short_name: OR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '97217'
+    short_name: '97217'
+    types:
+    - postal_code
+  - long_name: '7472'
+    short_name: '7472'
+    types:
+    - postal_code_suffix
+  longitude: -122.7006254
+  name: Malarkey Roofing
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c109f22777ea414193e5c176d17de28f
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '97217'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-12-15T14:59:24.761661Z'
+  web_domain: malarkeyroofing.com
+  website: https://www.malarkeyroofing.com/
+manufacturer_specific: true
+matched_plants_count: 1
+material_id: cce2ffd49d9d4dc5815043fa9c3c7136
+multiproduct: false
+my_capabilities: 1
+name: Vista
+not_an_epd: false
+open_xpd_uuid: ec3pctw5
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3pctw5
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2022-08-23T07:50:27.535808Z'
+  id: 170e8fc3cfe2432aa6192f1aca55f022
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Portland, OR; Oklahoma City, OK
+  owned_by:
+    address: 3131 N Columbia Blvd, Portland, OR 97217, USA
+    address_line: 3131 N Columbia Blvd
+    admin_district: OR
+    admin_district2: Multnomah County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/malarkey-roofing
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:45:38.751371Z'
+    email_extensions: []
+    enterprise: true
+    id: c109f22777ea414193e5c176d17de28f
+    is_failed: false
+    latitude: 45.5910333
+    locality: Portland
+    location:
+    - long_name: '3131'
+      short_name: '3131'
+      types:
+      - street_number
+    - long_name: North Columbia Boulevard
+      short_name: N Columbia Blvd
+      types:
+      - route
+    - long_name: North Portland
+      short_name: North Portland
+      types:
+      - neighborhood
+      - political
+    - long_name: Portland
+      short_name: Portland
+      types:
+      - locality
+      - political
+    - long_name: Multnomah County
+      short_name: Multnomah County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Oregon
+      short_name: OR
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '97217'
+      short_name: '97217'
+      types:
+      - postal_code
+    - long_name: '7472'
+      short_name: '7472'
+      types:
+      - postal_code_suffix
+    longitude: -122.7006254
+    name: Malarkey Roofing
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c109f22777ea414193e5c176d17de28f
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '97217'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-12-15T14:59:24.761661Z'
+    web_domain: malarkeyroofing.com
+    website: https://www.malarkeyroofing.com/
+  plants_count: 2
+  total_epds: 12
+  type: PlantGroup
+  updated_on: '2025-02-15T09:47:07.641585Z'
+plant_specific: false
+private: false
+product_specific: true
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3pctw57m
+siding_insulated: false
+siding_paint_or_stain_required: false
+siding_ventilated: false
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2025-02-15T08:25:38.502729Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

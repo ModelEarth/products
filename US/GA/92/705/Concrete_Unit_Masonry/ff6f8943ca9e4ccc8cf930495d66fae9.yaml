@@ -1,0 +1,366 @@
+also_shown_in: []
+applicable_in:
+- '021'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Spot: https://spot.ul.com/main-appproducts/detail/5ad1f0c355b0e82d946aca4a
+box_id: '1636189334336'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-07-19T15:19:19.000669Z'
+  declared_unit: 1 m3
+  default_distance: 189 km
+  default_transport_mode: truck, unspecified
+  description: Pre-manufactured concrete masonry blocks
+  display_name: Concrete Unit Masonry
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 4ec837a26a0a493786442296f4cb2730
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2400 kg
+  massless: false
+  masterformat: 04 22 00 Concrete Unit Masonry
+  may_contain_trusted_vendor_declarations: false
+  name: CMU
+  no_statistics: false
+  obsolete: false
+  openepd: CMU
+  openepd_name: CMU
+  parents: []
+  pct10_gwp: 176.5379491 kgCO2e
+  pct20_gwp: 215.9981714 kgCO2e
+  pct30_gwp: 239.5993349 kgCO2e
+  pct40_gwp: 262.1972626 kgCO2e
+  pct50_gwp: 284.4293089 kgCO2e
+  pct60_gwp: 304.2471192 kgCO2e
+  pct70_gwp: 334.1879391 kgCO2e
+  pct80_gwp: 377.5891366 kgCO2e
+  pct90_gwp: 459.6497889 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Concrete Unit Masonry
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30131502'
+  updated_on: '2025-05-23T10:08:53.157171Z'
+  use_stored_carbon: ABSENT
+cmu_block_type: Gray
+cmu_insulated: false
+cmu_sound_performance: false
+cmu_weight_classification: Normal
+concrete_compressive_strength_28d: 17.2 MPa
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-08-31T08:12:29.565410Z'
+date_validity_ends: '2029-08-26'
+declaration_type: Product EPD
+declared_unit: 1 m2
+density: 2400 kg / m3
+description: "BEHR PRO\xAE e600 Exterior Satin Paint is specifically designed to meet\
+  \ the demanding expectations of professional painters. Developed for optimal sprayability,\
+  \ this 100% acrylic formula provides excellent hiding power and a highly uniform\
+  \ finish. BEHR PRO e600 Exterior Satin Paint is a durable, washable finish for exterior\
+  \ walls and trim. Dried film is mold and mildew resistant. Ideal for both commercial\
+  \ and residential properties over properly prepared and primed wood, metal, stucco,\
+  \ concrete block, masonry, brick and concrete. \n\nThis paint meets the regulatory\
+  \ requirements of South Coast Air Quality Management District (SCAQMD) Rule 1113\
+  \ and meets or exceeds Master Painters Institute (MPI) environmental and performance\
+  \ standards. And this paint is GREENGUARD\xAE Gold certified, which helps contribute\
+  \ points toward numerous green building rating systems, including LEED\xAE and WELL.\n\
+  \nMPI #15 Latex, Exterior, Low Sheen (MPI Gloss Level 3-4)\nMPI #315 Latex, Exterior,\
+  \ Low Sheen (MPI Gloss Level 3-4)"
+doc: https://spot.ul.com/main-appproducts/detail/5ad1f0c355b0e82d946aca49
+epd_degraded: false
+errors:
+  date_of_issue:
+  - Not specified
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Declared unit not in same dimension with category declared unit
+  impacts:
+  - GWP impact not specified
+  program_operator:
+  - Missing link
+file_name: BEHR%20PRO%E2%84%A2%20Exterior%20Satin%20e600_d029ff32a9da4f5751310e8bc69f372df5066c8d.pdf
+id: b55cdba915994caa91ee304b4b243fea
+image: https://static.buildingtransparency.org/images/4de24459d9064d0e812f0a932249e8c6.png
+impacts: {}
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '021'
+manufacturer:
+  address: 1801 E St Andrew Pl, Santa Ana, CA 92705, USA
+  address_line: 1801 E St Andrew Pl
+  admin_district: CA
+  admin_district2: Orange County
+  alt_names:
+  - Behr
+  - Behr Paint Company
+  - Behr Process Corporation
+  - Behr Process LLC
+  - KILZ
+  attachments:
+    Contact_Us: https://www.behr.com/pro/contact-a-design-rep
+    MindfulMaterialsURL: https://portal.mindfulmaterials.com/?brand-name=Behr%20Paint%20Company
+    TransparencyCatalogURL: https://transparencycatalog.com/company/behr-process-corporation
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T16:00:07.778415Z'
+  currency: USD
+  email_extensions:
+  - behr.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/4c19ef297f64468f9758777ba6eb32f6.png
+  id: b7783c841cc549cf83c7929e98e53d24
+  image: https://static.buildingtransparency.org/images/6ecb5eaefad04950bea9a68e302ab96e.png
+  is_failed: false
+  iso14001_certified: true
+  iso9001_certified: false
+  latitude: 33.7227965
+  legal_name: Behr Process LLC
+  locality: Santa Ana
+  location:
+  - long_name: '1801'
+    short_name: '1801'
+    types:
+    - street_number
+  - long_name: East Saint Andrew Place
+    short_name: E St Andrew Pl
+    types:
+    - route
+  - long_name: Santa Ana
+    short_name: Santa Ana
+    types:
+    - locality
+    - political
+  - long_name: Orange County
+    short_name: Orange County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: California
+    short_name: CA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '92705'
+    short_name: '92705'
+    types:
+    - postal_code
+  - long_name: '5044'
+    short_name: '5044'
+    types:
+    - postal_code_suffix
+  longitude: -117.8426352
+  name: Behr Paint Company
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/b7783c841cc549cf83c7929e98e53d24
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '92705'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2025-05-13T16:25:56.686361Z'
+  web_domain: behr.com
+  website: https://www.behr.com/pro
+manufacturer_specific: true
+mass_per_declared_unit: 2400 kg
+matched_plants_count: 1
+material_id: ff6f8943ca9e4ccc8cf930495d66fae9
+multiproduct: false
+my_capabilities: 1
+name: "BEHR PRO\xAE e600 Exterior Satin"
+not_an_epd: false
+open_xpd_uuid: ec3uy8x2
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3uy8x2
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- US-CA
+- US-GA
+- US
+- US-PA
+- US-TX
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2025-05-07T17:04:54.350456Z'
+  id: 074beede0c014460a38aeea6301ef956
+  is_failed: false
+  jurisdiction:
+  - US
+  name: Allentown, Atlanta, Roanoke, Santa Ana
+  owned_by:
+    address: 1801 E St Andrew Pl, Santa Ana, CA 92705, USA
+    address_line: 1801 E St Andrew Pl
+    admin_district: CA
+    admin_district2: Orange County
+    alt_names:
+    - Behr
+    - Behr Paint Company
+    - Behr Process Corporation
+    - Behr Process LLC
+    - KILZ
+    attachments:
+      Contact_Us: https://www.behr.com/pro/contact-a-design-rep
+      MindfulMaterialsURL: https://portal.mindfulmaterials.com/?brand-name=Behr%20Paint%20Company
+      TransparencyCatalogURL: https://transparencycatalog.com/company/behr-process-corporation
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T16:00:07.778415Z'
+    currency: USD
+    email_extensions:
+    - behr.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/4c19ef297f64468f9758777ba6eb32f6.png
+    id: b7783c841cc549cf83c7929e98e53d24
+    image: https://static.buildingtransparency.org/images/6ecb5eaefad04950bea9a68e302ab96e.png
+    is_failed: false
+    iso14001_certified: true
+    iso9001_certified: false
+    latitude: 33.7227965
+    legal_name: Behr Process LLC
+    locality: Santa Ana
+    location:
+    - long_name: '1801'
+      short_name: '1801'
+      types:
+      - street_number
+    - long_name: East Saint Andrew Place
+      short_name: E St Andrew Pl
+      types:
+      - route
+    - long_name: Santa Ana
+      short_name: Santa Ana
+      types:
+      - locality
+      - political
+    - long_name: Orange County
+      short_name: Orange County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: California
+      short_name: CA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '92705'
+      short_name: '92705'
+      types:
+      - postal_code
+    - long_name: '5044'
+      short_name: '5044'
+      types:
+      - postal_code_suffix
+    longitude: -117.8426352
+    name: Behr Paint Company
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/b7783c841cc549cf83c7929e98e53d24
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '92705'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2025-05-13T16:25:56.686361Z'
+    web_domain: behr.com
+    website: https://www.behr.com/pro
+  plants_count: 4
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2025-05-07T17:46:50.553339Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3uy8x2t4
+sku: PR640, PR643
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2025-05-07T17:05:12.083331Z'
+use_stored_carbon: false
+warnings:
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link
+white_cement: false

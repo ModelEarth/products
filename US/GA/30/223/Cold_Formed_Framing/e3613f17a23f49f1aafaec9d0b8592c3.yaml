@@ -1,0 +1,608 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields:
+  category: true
+are_impacts_locked: false
+astm_standards: []
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/marinoware
+best_practice: 2237.407451 kgCO2e
+biogenic_embodied_carbon_z: 0.08509406559801924
+box_id: '455757099598'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2024-02-26T17:50:11Z'
+  declared_unit: 1 t
+  description: 'Cold formed steel elements such as studs and framing, typically made
+    from coil or sheet steel
+
+    and used within walls and ceilings.'
+  display_name: Cold Formed Framing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 5102ecc070414ff0a4b7c104ddecef45
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 40 00 COLD-FORMED METAL FRAMING
+  may_contain_trusted_vendor_declarations: false
+  name: ColdFormedFraming
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> ColdFormedSteel >> ColdFormedFraming
+  openepd_name: Steel >> ColdFormedSteel >> ColdFormedFraming
+  parents: []
+  pct10_gwp: 1839.821171 kgCO2e
+  pct20_gwp: 2054.366395 kgCO2e
+  pct30_gwp: 2150.808395 kgCO2e
+  pct40_gwp: 2431.93498 kgCO2e
+  pct50_gwp: 2637.563679 kgCO2e
+  pct60_gwp: 2838.342297 kgCO2e
+  pct70_gwp: 2924.550601 kgCO2e
+  pct80_gwp: 3113.963388 kgCO2e
+  pct90_gwp: 3324.695784 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Framing
+  short_service_life_disclaimer: false
+  subcategories: []
+  updated_on: '2025-05-23T10:08:58.193787Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2582.592549 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-08-25T18:44:18.825291Z'
+date_of_issue: '2015-08-11'
+date_validity_ends: '2020-08-11'
+declaration_type: Product EPD
+declared_unit: 1 t
+density: 7870 kg / m3
+description: "STRUCTURAL, STUDRITE\xAE, JOISTRITE\xAE, FRAMERITE\xAECONNECTORS, QUICKFRAME,VIPERSTUD\xAE\
+  , SHAFTWALL, AREA SEPARATION WALL, FAS TRACK, SLOTTED TRACK, LATH, ACCESSORIES"
+developer:
+  org:
+    address: 234 West Cheves Street, Florence, SC 29501
+    address_line: 234 West Cheves Street
+    admin_district: SC
+    admin_district2: Florence
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/steel-joist-inst
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-14T10:31:36.139525Z'
+    email_extensions:
+    - steeljoist.org
+    enterprise: true
+    id: 1ca61915993647679059ff93c94c0f97
+    image: https://static.buildingtransparency.org/images/4cb75ade-aa0b-483c-9f85-a2514b0f0795.png
+    is_failed: false
+    latitude: 34.195412
+    locality: Florence
+    location:
+      boundingBox:
+        entity: position
+        northEast: 34.195426,-79.768544
+        southWest: 34.195362,-79.770294
+      buildingNumber: '234'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Florence
+      countrySubdivision: SC
+      countrySubdivisionName: South Carolina
+      countryTertiarySubdivision: Florence
+      extendedPostalCode: '295014403'
+      freeformAddress: 234 West Cheves Street, Florence, SC 29501
+      municipality: Florence
+      municipalitySubdivision: Florence
+      postalCode: '29501'
+      routeNumbers: []
+      street: West Cheves Street
+      streetName: West Cheves Street
+      streetNameAndNumber: 234 West Cheves Street
+      streetNumber: '234'
+    longitude: -79.76899
+    name: Steel Joist Institute
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1ca61915993647679059ff93c94c0f97
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '29501'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: true
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2023-05-16T13:17:07.386839Z'
+    web_domain: steeljoist.org
+    website: steeljoist.org
+doc: buildingtransparency.org/e/ec38bc4adx
+en_standards: []
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: EPD - Stud, Track, Lath, Clips 70235-4150.pdf
+galvanized: false
+gwp: 2410 kgCO2e
+gwp_per_category_declared_unit: 2410 kgCO2e
+gwp_per_kg: 2.41 kgCO2e
+gwp_z: 0.08509406559801924
+id: 95650761f12d43d58cd960d5f9d73745
+impacts: {}
+includes: []
+industry_standards:
+- CSSA
+- A1003/A653/A924
+- C645
+- A653
+- C955
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: '## Product Component Notes
+
+  Hot-dipped galvanized steel
+
+
+  ## Source Data Notes
+
+  GaBi 2014'
+lowest_plausible_gwp: 2237.407451 kgCO2e
+manufacturer:
+  address: 400 Metuchen Road, South Plainfield, NJ 07080
+  address_line: 400 Metuchen Road
+  admin_district: NJ
+  admin_district2: Middlesex
+  alt_names:
+  - MarinoWARE
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/marinoware
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-06-18T07:20:02.865586Z'
+  email_extensions:
+  - marinoware.com
+  enterprise: true
+  id: 08b2bd7b03b9471cb28d708aabad53e7
+  image: https://static.buildingtransparency.org/images/85fe44f3-db01-4806-a59c-ea084be92ef1.png
+  is_failed: false
+  latitude: 40.57502
+  locality: South Plainfield
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Middlesex
+    countrySubdivision: NJ
+    countrySubdivisionName: New Jersey
+    countryTertiarySubdivision: South Plainfield
+    freeformAddress: 400 Metuchen Road, South Plainfield, NJ 07080
+    localName: South Plainfield
+    municipality: South Plainfield
+    municipalitySubdivision: South Plainfield
+    postalCode: 07080
+    streetName: Metuchen Road
+    streetNumber: '400'
+  longitude: -74.40597
+  name: Marino\WARE
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/08b2bd7b03b9471cb28d708aabad53e7
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 07080
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T12:57:06.591711Z'
+  web_domain: marinoware.com
+  website: www.marinoware.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: e3613f17a23f49f1aafaec9d0b8592c3
+multiproduct: true
+my_capabilities: 1
+name: Steel Stud, Track, and Joist Framing Systems
+not_an_epd: false
+open_xpd_uuid: ec38bc4a
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec38bc4a
+output_flows: {}
+owner:
+  name: Data Entry
+  user_id: data_entry@buildingtransparency.org
+pcr:
+  alt_names:
+  - North American Product Category Rule for  Designated Steel Construction Products
+  - North American PCR for Designated Steel Construction Products, SCS Global Services
+  - North American PCR for Designated Steel Construction Products (SCS, 2015)
+  - 'SCS Global: North American Product Category Rule for Designated Steel Construction
+    Products'
+  - North American PCR for Designated Steel Construction Products
+  - North American Product Category Rule for Designated Steel Construction Products
+  - SCS Services. (2015). North American PCR for Designated Steel Construction Products
+  - North American PCR for Designated Steel Construction Products, SCS, v1.0, 2015
+  - SCS PCR for Designated Steel Construction Products
+  - SCS PCR for Designated Steel Construction Products, v1.0 May 2015
+  - SCS PCR for Designated Steel Construction Products, v1.0 May 2015
+  - North American Product Category Rule for Designated Steel Construction Products
+    Reference PCR by SCS Global Services, May 5, 2015 V.1.O
+  - North American Product Category Rule for Designated Steel Construction Products.
+    May 2015.
+  - North American PCR for Designated Steel Construction Products, v1.0, 2015
+  - SCS PCR for Designated Steel Construction Projects, v1.0, May 2015
+  - North American Product Category Rule for Designated Steel Construction Products.
+    May 2015
+  - North American Product Category Rule for Designated Steel Construction Products,
+    v1.0
+  - SCS PCR for Designated Steel Construction Products v1 2015
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-04T10:19:19.700479Z'
+  date_of_issue: '2015-05-05'
+  date_validity_ends: '2020-05-05'
+  declared_units:
+  - 1 tonne
+  doc: https://cdn.scsglobalservices.com/files/standards/scs_pcr_steel-products_050515_final.pdf
+  id: b1aba1a033844da19a8b22ca146b5125
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      order: 1
+  name: North American PCR for Designated Steel Construction Products
+  open_xpd_uuid: ec3spn6n
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3spn6n
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3spn6nw2
+  short_name: Designated Steel Construction Products
+  status: Sunset
+  updated_on: '2025-05-06T00:03:10.240702Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 2582.592549 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 777 Greenbelt Parkway, Griffin, GA 30223
+  address_line: 777 Greenbelt Parkway
+  admin_district: GA
+  admin_district2: Spalding
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-08-25T18:38:19.429839Z'
+  id: 191b85cbe1a2431883878cfcd6152f76
+  is_failed: false
+  latitude: 33.23552
+  locality: Griffin
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Spalding
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Griffin
+    freeformAddress: 777 Greenbelt Parkway, Griffin, GA 30223
+    localName: Griffin
+    municipality: Griffin
+    municipalitySubdivision: Griffin
+    postalCode: '30223'
+    streetName: Greenbelt Parkway
+    streetNumber: '777'
+  longitude: -84.23742
+  name: Griffin, GA
+  openepd_id: 865Q6QP7+62.marinoware.com
+  owned_by:
+    address: 400 Metuchen Road, South Plainfield, NJ 07080
+    address_line: 400 Metuchen Road
+    admin_district: NJ
+    admin_district2: Middlesex
+    alt_names:
+    - MarinoWARE
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/marinoware
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-06-18T07:20:02.865586Z'
+    email_extensions:
+    - marinoware.com
+    enterprise: true
+    id: 08b2bd7b03b9471cb28d708aabad53e7
+    image: https://static.buildingtransparency.org/images/85fe44f3-db01-4806-a59c-ea084be92ef1.png
+    is_failed: false
+    latitude: 40.57502
+    locality: South Plainfield
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: NJ
+      countrySubdivisionName: New Jersey
+      countryTertiarySubdivision: South Plainfield
+      freeformAddress: 400 Metuchen Road, South Plainfield, NJ 07080
+      localName: South Plainfield
+      municipality: South Plainfield
+      municipalitySubdivision: South Plainfield
+      postalCode: 07080
+      streetName: Metuchen Road
+      streetNumber: '400'
+    longitude: -74.40597
+    name: Marino\WARE
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/08b2bd7b03b9471cb28d708aabad53e7
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 07080
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T12:57:06.591711Z'
+    web_domain: marinoware.com
+    website: www.marinoware.com
+  postal_code: '30223'
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2019-08-25T18:38:19.429848Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: false
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4786795523.101.1
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec38bc4adx
+stainless: false
+standard_deviation: 205.0766981 kgCO2e
+steel_recycled_content: 0.0
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2582.592549 kgCO2e
+uncertainty_factor: 1.071615165607293
+updated_on: '2025-01-14T02:03:27.305653Z'
+use_stored_carbon: false
+verifier:
+  email: wade.stout@ul.com
+  name: Wade Stout
+  org:
+    address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    address_line: 2211 New Market Parkway Southeast
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - ULE EPM
+    - Underwriters Labs
+    - Underwriters Laboratories
+    - UL E
+    - UL Enviornment
+    - UL Environment
+    - UL Solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-19T16:12:16.017515Z'
+    email: epd@ul.com
+    email_extensions:
+    - ul.com
+    - ulenvironment.com
+    enterprise: true
+    id: 5b22feac0d67472191705631612b68fb
+    image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+    is_failed: false
+    latitude: 33.917988
+    legal_name: UL
+    locality: Marietta
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.918196,-84.495564
+        southWest: 33.917305,-84.497793
+      buildingNumber: '2211'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Marietta
+      extendedPostalCode: '300679393'
+      freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+      municipality: Marietta
+      municipalitySubdivision: Marietta
+      postalCode: '30067'
+      routeNumbers: []
+      street: New Market Parkway Southeast
+      streetName: New Market Parkway Southeast
+      streetNameAndNumber: 2211 New Market Parkway Southeast
+      streetNumber: '2211'
+    longitude: -84.49678
+    name: UL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    - CA
+    postal_code: '30067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2025-04-26T00:06:55.791242Z'
+    web_domain: ul.com
+    website: https://www.ul.com/
+warnings:
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

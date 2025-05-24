@@ -1,0 +1,537 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: true
+attachments:
+  Spot: https://spot.ul.com/main-appproducts/detail/5b3b736655b0e835fc99f463
+best_practice: 27.89041642 kgCO2e
+biogenic_embodied_carbon: 42.1 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '1541188871508'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:48.099524Z'
+  declared_unit: 1 m3
+  default_distance: 439.34982 km
+  default_transport_mode: truck, unspecified
+  description: Dimension lumber for light framing. Includes solid and finger-jointed
+    lumber. Standard shapes include 2x4, 2x6, and 2x8.
+  display_name: Wood Framing
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ce2498926db44d0d9177c7bfdf3520c0
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 491.7 kg
+  massless: false
+  masterformat: 06 11 00 Wood Framing
+  may_contain_trusted_vendor_declarations: false
+  name: WoodFraming
+  no_statistics: false
+  obsolete: false
+  openepd: Wood >> DimensionLumber >> WoodFraming
+  openepd_name: Wood >> DimensionLumber >> WoodFraming
+  parents: []
+  pct10_gwp: 37.32613213 kgCO2e
+  pct20_gwp: 44.65710077 kgCO2e
+  pct30_gwp: 50.60753914 kgCO2e
+  pct40_gwp: 58.83690297 kgCO2e
+  pct50_gwp: 68.30908154 kgCO2e
+  pct60_gwp: 78.19421155 kgCO2e
+  pct70_gwp: 90.31815529 kgCO2e
+  pct80_gwp: 107.4784818 kgCO2e
+  pct90_gwp: 136.2919512 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Wood Framing
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103603'
+  updated_on: '2025-05-23T10:09:02.992243Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 39.74958358 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-05-25T08:18:20.671478Z'
+date_of_issue: '2024-05-01'
+date_validity_ends: '2029-05-01'
+declaration_type: Product EPD
+declared_unit: 1 m3
+density: 450 kg / m3
+description: Roseburg has been a dependable supplier of western softwood lumber since
+  1936 with experience in scale and service. They are committed to sustainable forest
+  management practices and have a selection of products from a single source. Roseburg
+  Western Softwood Lumber is produced at their Dillard, OR facility, one of the largest
+  sawmills in North America with a capacity to ensure consistent volume to meet market
+  needs. The product is available both kiln-dried and green with precision-end trimmed
+  (PET) lengths available and is primarily produced using Douglas-fir species.
+developer:
+  email: info@wapsustainability.com
+  name: Info
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+doc: https://spot.ul.com/main-appproducts/detail/5b3b736655b0e835fc99f463
+document_version: '1'
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: SoftwoodLumber_5851de65b07d64d329bf53104757e5cb130b75e1.pdf
+forest_practices_certifiers: []
+gwp: 33.82 kgCO2e
+gwp_per_category_declared_unit: 33.82 kgCO2e
+gwp_per_kg: 0.07515555556 kgCO2e
+gwp_z: 0.2083266665599966
+id: e282d2d7a8c1461f821493ebf964c02e
+image: https://static.buildingtransparency.org/images/4280b042777f40069f2e0d048881eabe.png
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 27.89041642 kgCO2e
+manufacturer:
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-04-08T16:58:16.485513Z'
+  enterprise: false
+  id: 4e1de03294614ab6b7838e562940b064
+  is_failed: false
+  name: Roseburg
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4e1de03294614ab6b7838e562940b064
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-08-03T08:23:08.091802Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: roseburg.bom
+  website: www.roseburg.bom
+manufacturer_specific: true
+mass_per_declared_unit: 450 kg
+matched_plants_count: 0
+material_id: b267cde0fde34c64bf1ee8804ca4fe67
+multiproduct: false
+my_capabilities: 1
+name: Softwood Lumber
+not_an_epd: false
+open_xpd_uuid: ec3jg7kz
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3jg7kz
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:06.536836Z'
+  date_of_issue: '2019-10-21'
+  date_validity_ends: '2024-10-21'
+  declared_units:
+  - 1 m3
+  - 1 m
+  - 1 kg
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=36412
+  id: ba0b24bb24f14d349de35e9288c443ec
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - 019
+      order: 1
+  name: 'Part B: Structural and Architectural Wood Products'
+  open_xpd_uuid: ec3pp3mm
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3pp3mm
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3pp3mm9c
+  short_name: 'Part B: Structural and Architectural Wood Products'
+  status: Expired
+  updated_on: '2025-05-03T00:06:32.986165Z'
+  version: '1.0'
+pct80_gwp_per_category_declared_unit: 39.74958358 kgCO2e
+plant_geography:
+- US-OR
+plant_or_group:
+  address: SE Dillard Ave, Roseburg, OR 97470, USA
+  address_line: SE Dillard Ave
+  admin_district: OR
+  admin_district2: Douglas County
+  carbon_intensity: 643.363 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-10-30T14:08:04.635005Z'
+  id: 504526568780423c94940bfb3555cee2
+  is_failed: false
+  latitude: 43.1981831
+  locality: Roseburg
+  location:
+  - long_name: Southeast Dillard Avenue
+    short_name: SE Dillard Ave
+    types:
+    - route
+  - long_name: Roseburg
+    short_name: Roseburg
+    types:
+    - locality
+    - political
+  - long_name: Douglas County
+    short_name: Douglas County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Oregon
+    short_name: OR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '97470'
+    short_name: '97470'
+    types:
+    - postal_code
+  longitude: -123.3464043
+  name: Dillard
+  openepd_id: 84MR5MX3+7C.roseburg.bom
+  owned_by:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-04-08T16:58:16.485513Z'
+    enterprise: false
+    id: 4e1de03294614ab6b7838e562940b064
+    is_failed: false
+    name: Roseburg
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4e1de03294614ab6b7838e562940b064
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-08-03T08:23:08.091802Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: roseburg.bom
+    website: www.roseburg.bom
+  postal_code: '97470'
+  total_epds: 1
+  type: Plant
+  units: SI
+  updated_on: '2024-10-30T16:00:15.998565Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4791157806.102.1
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3jg7kz2q
+standard_deviation: 7.045607863 kgCO2e
+stored_carbon: 884.9 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+timber_species: Douglas Fir-Larch
+uncertainty_adjusted_gwp: 39.74958358 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2024-10-31T00:45:13.493762Z'
+use_stored_carbon: true
+verifier:
+  email: jgeibig@ecoform.com
+  name: Jack Geibig
+  org:
+    address: 503 West Clinch Avenue, Knoxville, TN 37902
+    address_line: 503 West Clinch Avenue, Clinch Avenue Southwest
+    admin_district: TN
+    admin_district2: Knox
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-14T10:31:46.922611Z'
+    email_extensions:
+    - ecoform.com
+    enterprise: true
+    id: 5e03a97e4f8446ffb04a465e1d82c041
+    is_failed: false
+    latitude: 35.96343
+    locality: Knoxville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Knox
+      countrySubdivision: TN
+      countrySubdivisionName: Tennessee
+      countryTertiarySubdivision: District 1
+      extendedPostalCode: '379022104'
+      freeformAddress: 503 West Clinch Avenue, Knoxville, TN 37902
+      localName: Knoxville
+      municipality: Knoxville
+      municipalitySubdivision: Knoxville
+      postalCode: '37902'
+      streetName: West Clinch Avenue, Clinch Avenue Southwest
+      streetNumber: '503'
+    longitude: -83.92008
+    name: EcoForm
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5e03a97e4f8446ffb04a465e1d82c041
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37902'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-21T03:04:58.033587Z'
+    web_domain: ecoform.com
+    website: http://www.ecoform.com
+warnings:
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+weather_exposed: false

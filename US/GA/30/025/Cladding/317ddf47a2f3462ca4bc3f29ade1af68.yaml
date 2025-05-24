@@ -1,0 +1,689 @@
+also_shown_in: []
+applicable_in:
+- '021'
+approved_fields: {}
+best_practice: 11.76695079 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-04-16T13:43:09Z'
+  declared_unit: 1 m2
+  description: Nonstructural materials used primarily on the outside of buildings
+  display_name: Cladding
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: e0e179593b504a1b986e849cade3ff15
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 14.4 kg
+  massless: false
+  masterformat: 07 40 00 Roofing and Siding Panels
+  may_contain_trusted_vendor_declarations: false
+  name: Cladding
+  no_statistics: false
+  obsolete: false
+  openepd: Cladding
+  openepd_name: Cladding
+  parents: []
+  pct10_gwp: 5.169160537 kgCO2e
+  pct20_gwp: 10.69711331 kgCO2e
+  pct30_gwp: 15.47629544 kgCO2e
+  pct40_gwp: 21.28399663 kgCO2e
+  pct50_gwp: 27.25135336 kgCO2e
+  pct60_gwp: 33.26068741 kgCO2e
+  pct70_gwp: 40.36691895 kgCO2e
+  pct80_gwp: 51.23175949 kgCO2e
+  pct90_gwp: 73.12329382 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cladding
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30151800'
+  updated_on: '2025-05-23T10:09:06.575270Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 16.83304921 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-09-05T19:17:41.617964Z'
+date_of_issue: '2024-09-05'
+date_validity_ends: '2029-09-05'
+declaration_type: Product EPD
+declared_unit: 1 m^2
+description: "The Restoration Millwork sheets are made of expanded rigid polyvinyl\
+  \ chloride (PVC) with a small-cell micro-structure. These sheets come in woodgrain\
+  \ and smooth surface textures and are available in widths of 4\u2019 with lengths\
+  \ ranging from 8\u2019 to 20\u2019. Actual thicknesses options include 3/8\u201D\
+  , 1/2\u201D, 3/4\u201D, and 1\u201D. While there are other products made at the\
+  \ respective facility, the 8-foot size sheet has been chosen as the representative\
+  \ product for this product line due to its consistent adherence to high selling\
+  \ standards. These products serve as an exemplar for the entire product line, showcasing\
+  \ the quality and performance that are expected. Furthermore, they reflect the popularity\
+  \ and demand in the market, making them critical items for analysis.\n\nFeature\
+  \ and Benefits\n- Low maintenance and long-lasting\n- UV-resistant material\n- Class\
+  \ A (Class 1) Flame Spread Classification\n- Meets ICC and CCMC code requirements"
+developer:
+  org:
+    address: 20 Moores Rd, Malvern, PA 19355, USA
+    address_line: 20 Moores Rd
+    admin_district: PA
+    admin_district2: Chester County
+    alt_names:
+    - CertainTeed Gypsum, Inc
+    - CertainTeed Insulation Group
+    - CertainTeed
+    - CertainTeed Ceilings
+    - CertainTeed Gypsum Canada
+    - CertainTeed Gypsum
+    - CertainTeed Gypsum, Inc.
+    - Certainteed Gypsum
+    - CertainTeed Insulation
+    - CertainTeed Roofing
+    - CertainTeed Saint-Gobain
+    attachments:
+      Ecomedes: https://saintgobain.ecomedes.com/
+      TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:45:09.590285Z'
+    currency: USD
+    email_extensions:
+    - certainteed.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+    id: 4f0f4939d54945a08051f4c048ac71c0
+    image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+    is_failed: false
+    latitude: 40.0539584
+    legal_name: CertainTeed
+    locality: Malvern
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Moores Road
+      short_name: Moores Rd
+      types:
+      - route
+    - long_name: Malvern
+      short_name: Malvern
+      types:
+      - locality
+      - political
+    - long_name: East Whiteland Township
+      short_name: East Whiteland Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Chester County
+      short_name: Chester County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '19355'
+      short_name: '19355'
+      types:
+      - postal_code
+    - long_name: '1114'
+      short_name: '1114'
+      types:
+      - postal_code_suffix
+    longitude: -75.5576008
+    name: CertainTeed Saint-Gobain
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19355'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-08-30T23:41:13.973616Z'
+    web_domain: certainteed.com
+    website: www.certainteed.com
+doc: smartepd.com/epd-library/65e0cfee3eca98e89f38bbbf
+epd_degraded: false
+excluded: false
+externally_verified: true
+gwp: 14.3 kgCO2e
+gwp_per_category_declared_unit: 14.3 kgCO2e
+gwp_per_kg: 2.124814264 kgCO2e
+gwp_z: 0.2104756517984919
+id: a029271b492940b7a88a75c9895df1a9
+image: https://www.smartepd.com/api/epd-library/gallery/668813a475d88dd8f381deb8
+impacts: {}
+is_downloadable: false
+is_failed: false
+jurisdiction:
+- '021'
+- US-GA
+language: en
+lowest_plausible_gwp: 11.76695079 kgCO2e
+manufacturer:
+  address: 20 Moores Rd, Malvern, PA 19355, USA
+  address_line: 20 Moores Rd
+  admin_district: PA
+  admin_district2: Chester County
+  alt_names:
+  - CertainTeed Gypsum, Inc
+  - CertainTeed Insulation Group
+  - CertainTeed
+  - CertainTeed Ceilings
+  - CertainTeed Gypsum Canada
+  - CertainTeed Gypsum
+  - CertainTeed Gypsum, Inc.
+  - Certainteed Gypsum
+  - CertainTeed Insulation
+  - CertainTeed Roofing
+  - CertainTeed Saint-Gobain
+  attachments:
+    Ecomedes: https://saintgobain.ecomedes.com/
+    TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:45:09.590285Z'
+  currency: USD
+  email_extensions:
+  - certainteed.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+  id: 4f0f4939d54945a08051f4c048ac71c0
+  image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+  is_failed: false
+  latitude: 40.0539584
+  legal_name: CertainTeed
+  locality: Malvern
+  location:
+  - long_name: '20'
+    short_name: '20'
+    types:
+    - street_number
+  - long_name: Moores Road
+    short_name: Moores Rd
+    types:
+    - route
+  - long_name: Malvern
+    short_name: Malvern
+    types:
+    - locality
+    - political
+  - long_name: East Whiteland Township
+    short_name: East Whiteland Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Chester County
+    short_name: Chester County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19355'
+    short_name: '19355'
+    types:
+    - postal_code
+  - long_name: '1114'
+    short_name: '1114'
+    types:
+    - postal_code_suffix
+  longitude: -75.5576008
+  name: CertainTeed Saint-Gobain
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '19355'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-08-30T23:41:13.973616Z'
+  web_domain: certainteed.com
+  website: www.certainteed.com
+manufacturer_specific: true
+manufacturing_image: https://www.smartepd.com/api/epd-library/gallery/668813aa75d88dd8f381dec1
+mass_per_declared_unit: 6.73 kg
+matched_plants_count: 0
+material_id: 317ddf47a2f3462ca4bc3f29ade1af68
+my_capabilities: 1
+name: "Cellular PVC- Restoration Millwork\xAE Sheets"
+not_an_epd: false
+open_xpd_uuid: ec3b3t71
+original_data_format: openEPDv1.0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3b3t71
+output_flows: {}
+owner:
+  name: Mariya Verovko
+  user_id: mariya.verovko@smartepd.com
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-04-26T21:27:36.472775Z'
+  date_of_issue: '2021-04-13'
+  date_validity_ends: '2026-04-13'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?productId=ULE10010-25_2_S_20210413
+  id: 5c8124af6df14047950e67478392052c
+  is_failed: false
+  issuer_doc_id: "UL 10010\u201325"
+  lcia_requirements:
+    TRACI 2.1:
+      order: 1
+  name: 'Part B: Cladding Product Systems EPD Requirements'
+  open_xpd_uuid: ec3xuacz
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3xuacz
+  short_link: buildingtransparency.org/p/ec3xuacz75
+  short_name: Cladding Product Systems
+  updated_on: '2021-04-26T21:27:36.472785Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 16.83304921 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: Ronthor Dr, Social Circle, GA 30025, USA
+  address_line: Ronthor Dr
+  admin_district: GA
+  admin_district2: Walton County
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-03-12T17:11:54.267091Z'
+  id: 571266aa262d4a1792b7a06a89f89902
+  is_failed: false
+  latitude: 33.6663269
+  locality: Social Circle
+  location:
+  - long_name: Ronthor Drive
+    short_name: Ronthor Dr
+    types:
+    - route
+  - long_name: Social Circle
+    short_name: Social Circle
+    types:
+    - locality
+    - political
+  - long_name: Walton County
+    short_name: Walton County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30025'
+    short_name: '30025'
+    types:
+    - postal_code
+  longitude: -83.7058186
+  name: Social Circle
+  openepd_id: 865RM78V+GM.certainteed.com
+  owned_by:
+    address: 20 Moores Rd, Malvern, PA 19355, USA
+    address_line: 20 Moores Rd
+    admin_district: PA
+    admin_district2: Chester County
+    alt_names:
+    - CertainTeed Gypsum, Inc
+    - CertainTeed Insulation Group
+    - CertainTeed
+    - CertainTeed Ceilings
+    - CertainTeed Gypsum Canada
+    - CertainTeed Gypsum
+    - CertainTeed Gypsum, Inc.
+    - Certainteed Gypsum
+    - CertainTeed Insulation
+    - CertainTeed Roofing
+    - CertainTeed Saint-Gobain
+    attachments:
+      Ecomedes: https://saintgobain.ecomedes.com/
+      TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:45:09.590285Z'
+    currency: USD
+    email_extensions:
+    - certainteed.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+    id: 4f0f4939d54945a08051f4c048ac71c0
+    image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+    is_failed: false
+    latitude: 40.0539584
+    legal_name: CertainTeed
+    locality: Malvern
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Moores Road
+      short_name: Moores Rd
+      types:
+      - route
+    - long_name: Malvern
+      short_name: Malvern
+      types:
+      - locality
+      - political
+    - long_name: East Whiteland Township
+      short_name: East Whiteland Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Chester County
+      short_name: Chester County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '19355'
+      short_name: '19355'
+      types:
+      - postal_code
+    - long_name: '1114'
+      short_name: '1114'
+      types:
+      - postal_code_suffix
+    longitude: -75.5576008
+    name: CertainTeed Saint-Gobain
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19355'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-08-30T23:41:13.973616Z'
+    web_domain: certainteed.com
+    website: www.certainteed.com
+  postal_code: '30025'
+  total_epds: 2
+  type: Plant
+  updated_on: '2024-09-05T20:00:34.573835Z'
+plant_specific: true
+private: false
+product_classes:
+  EC3: Cladding
+  UNSPSC: '30151800'
+product_specific: true
+program_operator:
+  address: Herndon, VA 20170, USA
+  admin_district: VA
+  admin_district2: Fairfax County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-11-14T14:43:39.418085Z'
+  enterprise: false
+  horizontal_logo: https://static.buildingtransparency.org/images/dccbe440b77946aba8946288b12c5701.png
+  id: bf9d0aaa64de490bbd874ae435e9945e
+  image: https://static.buildingtransparency.org/images/2b6cf66bb7ea4c8d8e7dbd674b0f8d29.png
+  is_failed: false
+  latitude: 38.9695545
+  locality: Herndon
+  location:
+  - long_name: Herndon
+    short_name: Herndon
+    types:
+    - locality
+    - political
+  - long_name: Fairfax County
+    short_name: Fairfax County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Virginia
+    short_name: VA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '20170'
+    short_name: '20170'
+    types:
+    - postal_code
+  longitude: -77.3860976
+  name: Smart EPD LLC
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf9d0aaa64de490bbd874ae435e9945e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20170'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2025-01-22T21:59:42.873726Z'
+  web_domain: smartepd.com
+  website: www.smartepd.com
+reference_service_life: 50 year
+resource_uses: {}
+sanitizable: false
+short_link: buildingtransparency.org/e/ec3b3t7195
+standard_deviation: 3.009801821 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 16.83304921 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-09-05T19:17:44.654221Z'
+use_stored_carbon: false
+verifier:
+  email: amylandis@mines.edu
+  name: amylandis
+  org:
+    address: Herndon, VA 20170, USA
+    admin_district: VA
+    admin_district2: Fairfax County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-11-14T14:43:39.418085Z'
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/dccbe440b77946aba8946288b12c5701.png
+    id: bf9d0aaa64de490bbd874ae435e9945e
+    image: https://static.buildingtransparency.org/images/2b6cf66bb7ea4c8d8e7dbd674b0f8d29.png
+    is_failed: false
+    latitude: 38.9695545
+    locality: Herndon
+    location:
+    - long_name: Herndon
+      short_name: Herndon
+      types:
+      - locality
+      - political
+    - long_name: Fairfax County
+      short_name: Fairfax County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Virginia
+      short_name: VA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '20170'
+      short_name: '20170'
+      types:
+      - postal_code
+    longitude: -77.3860976
+    name: Smart EPD LLC
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf9d0aaa64de490bbd874ae435e9945e
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '20170'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2025-01-22T21:59:42.873726Z'
+    web_domain: smartepd.com
+    website: www.smartepd.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - GWP with the PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  output_flows:
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  resource_uses:
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  verifier:
+  - Verifier is not employee of verifier org

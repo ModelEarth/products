@@ -1,0 +1,493 @@
+also_shown_in: []
+applicable_in:
+- '021'
+approved_fields: {}
+best_practice: 10.61494162 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2021-11-22T14:52:01Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: General category - finishes for floors
+  display_name: Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ef8454f31b064e4ea7452a29d1018b70
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 5.724059689 kg
+  massless: false
+  masterformat: 09 60 00 Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: Flooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring
+  openepd_name: Finishes >> Flooring
+  parents: []
+  pct10_gwp: 4.888977068 kgCO2e
+  pct20_gwp: 5.95938573 kgCO2e
+  pct30_gwp: 6.859889681 kgCO2e
+  pct40_gwp: 8.166102302 kgCO2e
+  pct50_gwp: 9.532138843 kgCO2e
+  pct60_gwp: 11.65855587 kgCO2e
+  pct70_gwp: 14.95160109 kgCO2e
+  pct80_gwp: 18.37858868 kgCO2e
+  pct90_gwp: 28.28008597 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161700'
+  updated_on: '2023-11-16T18:33:20.195042Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 15.18505838 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-09-26T15:49:12.323197Z'
+date_of_issue: '2024-09-23'
+date_validity_ends: '2029-09-23'
+declaration_type: Product EPD
+declared_unit: 1 m^2
+description: "This report contains the analysis of 18 artificial turf products reflecting\
+  \ the average production conditions for 1 m2 of each FieldTurf products. Given all\
+  \ 18 products are made at the same production facility and from the same set of\
+  \ raw materials, the 18 products have been organized into 4 Groups to facilitate\
+  \ reporting. The products included and their groupings are displayed below:\n\n\
+  Group 1: Products with weights ranging from 1.93 to 2.07 kg/m2\n\u2022\tFieldTurf\
+  \ Prestige XT\n\u2022\tFieldTurf Classic HD\n\u2022\tFieldTurf CORE\n\u2022\tFieldTurf\
+  \ Revolution 360\n\u2022\tFieldTurf Prestige XM\n\nGroup 2: Products with weights\
+  \ ranging from 2.29 to 2.39 kg/m2\n\u2022\tFieldTurf Prestige Vertex\n\u2022\tFieldTurf\
+  \ Vertex Prime\n\u2022\tFieldTurf Vertex CORE\n\u2022\tFieldTurf LSCP-ET\n\u2022\
+  \tFieldTurf LSCP-TD\n\nGroup 3: Products with weights ranging from 2.78 to 3.05\
+  \ kg/m2\n\u2022\tFieldTurf Vintage Series\n\u2022\tFieldTurf LSCP-FL\n\u2022\tFieldTurf\
+  \ Vintage Blend\n\u2022\tFieldTurf LSCP\n\u2022\tFieldTurf Hockey Gold \n\u2022\t\
+  FieldTurf Hockey Multi\n\nGroup 4: Products with weights ranging from 3.39 to 3.41\
+  \ kg/m2\n\u2022\tFieldTurf EASYFIELD\n\u2022\tFieldTurf FIT"
+developer:
+  org:
+    alt_names:
+    - FieldTurf
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-08-07T22:09:43.292702Z'
+    enterprise: false
+    errors:
+      website:
+      - Not specified
+    failures:
+      website:
+      - Not specified
+    id: 7d27c0f9989f4808b12f268de3a503bd
+    is_failed: false
+    name: FieldTurf
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7d27c0f9989f4808b12f268de3a503bd
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-08-07T22:09:43.292712Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: fieldturf.com
+doc: smartepd.com/epd-library/66bbabd8043e1e70836321f5
+epd_degraded: false
+excluded: false
+externally_verified: true
+gwp: 12.9 kgCO2e
+gwp_per_category_declared_unit: 12.9 kgCO2e
+gwp_per_kg: 5.608695652 kgCO2e
+gwp_z: 0.2104756517984919
+id: bed3ad2bd8724ed282185f5ae0c66a7e
+image: https://www.smartepd.com/api/epd-library/gallery/66f199a1dc1c1a31596f98d3
+impacts: {}
+is_downloadable: false
+is_failed: false
+jurisdiction:
+- '021'
+- US-GA
+language: en
+lowest_plausible_gwp: 10.61494162 kgCO2e
+manufacturer:
+  alt_names:
+  - FieldTurf
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-08-07T22:09:43.292702Z'
+  enterprise: false
+  errors:
+    website:
+    - Not specified
+  failures:
+    website:
+    - Not specified
+  id: 7d27c0f9989f4808b12f268de3a503bd
+  is_failed: false
+  name: FieldTurf
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/7d27c0f9989f4808b12f268de3a503bd
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-08-07T22:09:43.292712Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: fieldturf.com
+manufacturer_specific: true
+manufacturing_image: https://www.smartepd.com/api/epd-library/gallery/66ba2666043e1e708363025c
+mass_per_declared_unit: 2.3 kg
+matched_plants_count: 0
+material_id: b30158e3ecf24cb69f5bd0f33d3de407
+my_capabilities: 1
+name: FieldTurf Tarkett USA Artificial Turf Products 2024
+not_an_epd: false
+open_xpd_uuid: ec38uzuc
+original_data_format: openEPDv1.0
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec38uzuc
+output_flows: {}
+owner:
+  name: Mariya Verovko
+  user_id: mariya.verovko@smartepd.com
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields:
+  - name
+  cqd_sync_unlocked: true
+  created_on: '2023-09-27T12:02:06.604118Z'
+  date_of_issue: '2023-09-26'
+  date_validity_ends: '2024-01-14'
+  declared_units: []
+  doc: '#broken-link cqd.io/p/ec3kngxche'
+  id: a62983986a084ceca106ebf032a94a48
+  is_failed: false
+  name: Smart EPD Part A Product Category Rules for Building and Construction Products
+    and Services v1.0
+  open_xpd_uuid: ec3kngxc
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3kngxc
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3kngxche
+  short_name: Smart EPD Part A
+  status: Expired
+  updated_on: '2024-07-20T17:33:04.120621Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 15.18505838 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 175 N Industrial Blvd NE, Calhoun, GA 30701, USA
+  address_line: 175 N Industrial Blvd NE
+  admin_district: GA
+  admin_district2: Gordon County
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-08-12T22:29:53.632308Z'
+  id: f9fdd6bb1c524d88b4d592f722d5ae34
+  is_failed: false
+  latitude: 34.5480338
+  locality: Calhoun
+  location:
+  - long_name: '175'
+    short_name: '175'
+    types:
+    - street_number
+  - long_name: North Industrial Boulevard Northeast
+    short_name: N Industrial Blvd NE
+    types:
+    - route
+  - long_name: Calhoun
+    short_name: Calhoun
+    types:
+    - locality
+    - political
+  - long_name: Gordon County
+    short_name: Gordon County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30701'
+    short_name: '30701'
+    types:
+    - postal_code
+  - long_name: '8651'
+    short_name: '8651'
+    types:
+    - postal_code_suffix
+  longitude: -84.92901909999999
+  name: FieldTurf USA Production Plant
+  openepd_id: 866QG3XC+69.fieldturf.com
+  owned_by:
+    alt_names:
+    - FieldTurf
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-08-07T22:09:43.292702Z'
+    enterprise: false
+    errors:
+      website:
+      - Not specified
+    failures:
+      website:
+      - Not specified
+    id: 7d27c0f9989f4808b12f268de3a503bd
+    is_failed: false
+    name: FieldTurf
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/7d27c0f9989f4808b12f268de3a503bd
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-08-07T22:09:43.292712Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: fieldturf.com
+  postal_code: '30701'
+  total_epds: 1
+  type: Plant
+  updated_on: '2024-09-26T20:46:08.175679Z'
+plant_specific: true
+private: false
+product_classes:
+  EC3: Finishes >> Flooring
+  UNSPSC: '30121803'
+product_specific: true
+program_operator:
+  address: Herndon, VA 20170, USA
+  admin_district: VA
+  admin_district2: Fairfax County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-11-14T14:43:39.418085Z'
+  enterprise: false
+  horizontal_logo: https://static.buildingtransparency.org/images/dccbe440b77946aba8946288b12c5701.png
+  id: bf9d0aaa64de490bbd874ae435e9945e
+  image: https://static.buildingtransparency.org/images/2b6cf66bb7ea4c8d8e7dbd674b0f8d29.png
+  is_failed: false
+  latitude: 38.9695545
+  locality: Herndon
+  location:
+  - long_name: Herndon
+    short_name: Herndon
+    types:
+    - locality
+    - political
+  - long_name: Fairfax County
+    short_name: Fairfax County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Virginia
+    short_name: VA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '20170'
+    short_name: '20170'
+    types:
+    - postal_code
+  longitude: -77.3860976
+  name: Smart EPD LLC
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf9d0aaa64de490bbd874ae435e9945e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20170'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2025-01-22T21:59:42.873726Z'
+  web_domain: smartepd.com
+  website: www.smartepd.com
+reference_service_life: 8 year
+resource_uses: {}
+sanitizable: false
+short_link: buildingtransparency.org/e/ec38uzucnj
+standard_deviation: 2.715135908 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 15.18505838 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2024-09-26T15:49:13.548363Z'
+use_stored_carbon: false
+verifier:
+  email: rifat.chimique@gmail.com
+  name: Rifat Karim
+  org:
+    address: Herndon, VA 20170, USA
+    admin_district: VA
+    admin_district2: Fairfax County
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-11-14T14:43:39.418085Z'
+    enterprise: false
+    horizontal_logo: https://static.buildingtransparency.org/images/dccbe440b77946aba8946288b12c5701.png
+    id: bf9d0aaa64de490bbd874ae435e9945e
+    image: https://static.buildingtransparency.org/images/2b6cf66bb7ea4c8d8e7dbd674b0f8d29.png
+    is_failed: false
+    latitude: 38.9695545
+    locality: Herndon
+    location:
+    - long_name: Herndon
+      short_name: Herndon
+      types:
+      - locality
+      - political
+    - long_name: Fairfax County
+      short_name: Fairfax County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Virginia
+      short_name: VA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '20170'
+      short_name: '20170'
+      types:
+      - postal_code
+    longitude: -77.3860976
+    name: Smart EPD LLC
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf9d0aaa64de490bbd874ae435e9945e
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '20170'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2025-01-22T21:59:42.873726Z'
+    web_domain: smartepd.com
+    website: www.smartepd.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP A1A2A3 impact not specified
+  - ODP unit not found. Expecting kgCFC11e or similar unit.
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+  verifier:
+  - Verifier is not employee of verifier org

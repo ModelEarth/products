@@ -1,0 +1,565 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/oregon-door
+best_practice: 221.8368426 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '348829392290'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2019-07-18T14:11:40.723440Z'
+  declared_unit: 1 unit
+  default_distance: 603.5025 km
+  default_transport_mode: truck, unspecified
+  description: Wood doors
+  display_name: Wood Doors
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 3f7247f51cd6432f98bf01d7038233a3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 56.55 kg
+  massless: false
+  masterformat: 08 14 00 Wood Doors
+  may_contain_trusted_vendor_declarations: false
+  name: WoodDoors
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> DoorsAndFrames >> WoodDoors
+  openepd_name: Openings >> DoorsAndFrames >> WoodDoors
+  parents: []
+  pct10_gwp: 18.44886223 kgCO2e
+  pct20_gwp: 29.26423947 kgCO2e
+  pct30_gwp: 36.95165646 kgCO2e
+  pct40_gwp: 42.47252521 kgCO2e
+  pct50_gwp: 48.79818327 kgCO2e
+  pct60_gwp: 57.59105841 kgCO2e
+  pct70_gwp: 63.24438475 kgCO2e
+  pct80_gwp: 82.1156289 kgCO2e
+  pct90_gwp: 153.262735 kgCO2e
+  requires_mass_per_declared_unit: true
+  short_name: Wood Doors
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30171504'
+  updated_on: '2025-05-23T10:09:08.718577Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 316.1631574 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-11-06T17:48:45.293352Z'
+date_of_issue: '2017-10-31'
+date_validity_ends: '2022-10-31'
+declaration_type: Product EPD
+declared_unit: 1 unit
+description: 'Product Description This Environmental Product Declaration covers Oregon
+  Door interior flush doors with acoustic core and high pressure decorative laminate
+  (HPDL) facing. The results represent a production-weighted average door leaf. Industry
+  Standards - Architectural Woodwork Standards (AWS) Edition 2 - ANSI/WDMA I.S. 1A
+  Industry Standard for Interior Architectural Wood Flush Doors Product Images Figure
+  1: Images of the declared product in various'
+digitization_qa:
+  address: University of Washington, Seattle, WA 98195
+  address_line: ' University of Washington'
+  admin_district: WA
+  admin_district2: King
+  alt_names:
+  - CLF
+  - Embodied Carbon Network
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-01-11T14:09:43.431233Z'
+  email_extensions:
+  - waldmanlca.com
+  - carbonleadershipforum.org
+  enterprise: true
+  id: 14961b8cc7d4440f9456f7210fdfe76a
+  image: https://static.buildingtransparency.org/images/c2c300af-096b-4770-adde-bea7fb5bd8be.png
+  is_failed: false
+  latitude: 47.65885
+  legal_name: Carbon Leadership Forum
+  locality: Seattle
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: King
+    countrySubdivision: WA
+    countrySubdivisionName: Washington
+    countryTertiarySubdivision: Seattle
+    freeformAddress: University of Washington, Seattle, WA 98195
+    municipality: Seattle
+    municipalitySubdivision: Seattle, University District
+    postalCode: '98195'
+    streetName: University of Washington
+  longitude: -122.30272
+  my_capabilities: 1
+  name: Carbon Leadership Forum
+  org_type: Nonprofit
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/14961b8cc7d4440f9456f7210fdfe76a
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '98195'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2020-05-21T22:02:04.366702Z'
+  web_domain: carbonleadershipforum.org
+  website: www.carbonleadershipforum.org
+doc: buildingtransparency.org/e/ec3y82pnxm
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: Accoustic Core (2).pdf
+gwp: 269 kgCO2e
+gwp_per_category_declared_unit: 269 kgCO2e
+gwp_per_kg: 2.380530973 kgCO2e
+gwp_z: 0.2083266665599966
+id: 5bede0d8964f437894b8f62910887852
+image: https://static.buildingtransparency.org/images/e4f42a00271942d9ab01e26ec2447d38.png
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: '## Product Component Notes
+
+  composi Material Core STC medium dens STC neoprene STC particleboard STC RigiCore
+  EX Stiles and Rails Laminated stile Facing
+
+
+  ## Source Data Notes
+
+  GABI TS 2016 thinkstep AG; GaBi ts: Software-System and Database for Life Cycle
+  Engineering. Copyright, TM. Stuttgart, Echterdingen, 1992-2016. EN 15804 EN 15804:2012-02
+  Sustainability of construction works - Environmental Product Declarations - Core
+  rules for the product category of construction products ISO 14025 ISO 14025:2011-10
+  Environmental labels and declarations - Type III environmental declarations - Principles
+  and procedures ISO 14040 ISO 14040:2009-11 Environmental management - Life cycle
+  assessment - Principles and framework ISO 14044 ISO 14044:2006-10 Environmental
+  management - Life cycle assessment - Requirements and guidelines ASTM 2015 Product
+  Category Rule for Preparing an Environmental Product Declaration for Interior Architectural
+  Wood Door Leaves, 2015'
+lowest_plausible_gwp: 221.8368426 kgCO2e
+manufacturer:
+  address: 477 Dillard Gardens Road, Winston, OR 97496
+  address_line: 477 Dillard Gardens Road
+  admin_district: OR
+  admin_district2: Douglas
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/oregon-door
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-11-06T17:48:43.885717Z'
+  email_extensions:
+  - oregondoor.com
+  enterprise: true
+  id: 81ed1214092a437f8152f6938ee1b0dd
+  is_failed: false
+  latitude: 43.10866
+  locality: Winston
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Douglas
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    countryTertiarySubdivision: Roseburg
+    extendedPostalCode: '974969648'
+    freeformAddress: 477 Dillard Gardens Road, Winston, OR 97496
+    municipality: Winston
+    municipalitySubdivision: Winston, Dillard
+    postalCode: '97496'
+    streetName: Dillard Gardens Road
+    streetNumber: '477'
+  longitude: -123.41243
+  name: Oregon Door
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/81ed1214092a437f8152f6938ee1b0dd
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '97496'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:04:26.387275Z'
+  web_domain: oregondoor.com
+  website: https://oregondoor.com/
+manufacturer_specific: true
+mass_per_declared_unit: 113 kg
+matched_plants_count: 0
+material_id: 96fcc15ae0664ded861947a93f3e75df
+multiproduct: false
+my_capabilities: 1
+name: Interior Flush Door - Acoustic Core, High Pressure Decorative Laminate Face
+not_an_epd: false
+open_xpd_uuid: ec3y82pn
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3y82pn
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-05T17:10:49.415600Z'
+  date_of_issue: '2014-02-12'
+  declared_units:
+  - 1 kg
+  - 1 m2
+  - 1 m3
+  - 1 m
+  - 1 unit
+  doc: https://www.en-standard.eu/une-en-15804-2012-a1-2014-sustainability-of-construction-works-environmental-product-declarations-core-rules-for-the-product-category-of-construction-products/
+  errors: {}
+  failures: {}
+  id: b4789241a24649db9ebc3934b058eed7
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: EN 15804:2012+A1:2014 Sustainability of construction works - Environmental
+    product declarations - Core rules for the product category of construction products
+  open_xpd_uuid: ec36npc1
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec36npc1
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec36npc1zw
+  short_name: EN 15804:2012+A1:2014
+  updated_on: '2022-09-30T13:57:55.003183Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 316.1631574 kgCO2e
+plant_geography:
+- US-OR
+plant_or_group:
+  address: 477 Dillard Gardens Road, Dillard, OR 97496
+  address_line: 477 Dillard Gardens Road
+  admin_district: OR
+  admin_district2: Douglas
+  alt_names: []
+  carbon_intensity: 643.363 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-07-21T12:18:16.451160Z'
+  id: 9ddf9548240b4369acaae17463a00a24
+  is_failed: false
+  latitude: 43.10867
+  locality: Dillard
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Douglas
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    extendedPostalCode: 97496-9648
+    freeformAddress: 477 Dillard Gardens Road, Dillard, OR 97496
+    localName: Dillard
+    municipality: Dillard
+    postalCode: '97496'
+    streetName: Dillard Gardens Road
+    streetNumber: '477'
+  longitude: -123.41385
+  name: Oregon Door
+  openepd_id: 84MR4H5P+FF.oregondoor.com
+  owned_by:
+    address: 477 Dillard Gardens Road, Winston, OR 97496
+    address_line: 477 Dillard Gardens Road
+    admin_district: OR
+    admin_district2: Douglas
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/oregon-door
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-11-06T17:48:43.885717Z'
+    email_extensions:
+    - oregondoor.com
+    enterprise: true
+    id: 81ed1214092a437f8152f6938ee1b0dd
+    is_failed: false
+    latitude: 43.10866
+    locality: Winston
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Douglas
+      countrySubdivision: OR
+      countrySubdivisionName: Oregon
+      countryTertiarySubdivision: Roseburg
+      extendedPostalCode: '974969648'
+      freeformAddress: 477 Dillard Gardens Road, Winston, OR 97496
+      municipality: Winston
+      municipalitySubdivision: Winston, Dillard
+      postalCode: '97496'
+      streetName: Dillard Gardens Road
+      streetNumber: '477'
+    longitude: -123.41243
+    name: Oregon Door
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/81ed1214092a437f8152f6938ee1b0dd
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '97496'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:04:26.387275Z'
+    web_domain: oregondoor.com
+    website: https://oregondoor.com/
+  postal_code: '97496'
+  total_epds: 14
+  type: Plant
+  units: USA
+  updated_on: '2021-02-23T13:23:36.692013Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4787690567.102.1
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3y82pnxm
+standard_deviation: 56.0398733 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 316.1631574 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T06:31:10.301116Z'
+use_stored_carbon: true
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  pcr:
+  - PCR validity dates not found

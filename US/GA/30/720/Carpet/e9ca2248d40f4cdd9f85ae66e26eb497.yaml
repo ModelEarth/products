@@ -1,0 +1,636 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/ef-contract
+best_practice: 7.193749591 kgCO2e
+biogenic_embodied_carbon_z: 0.2903446228191595
+box_id: '493011383529'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.226286945 kgCO2e
+  pct20_gwp: 6.31150987 kgCO2e
+  pct30_gwp: 7.193005662 kgCO2e
+  pct40_gwp: 8.328409228 kgCO2e
+  pct50_gwp: 10.05624338 kgCO2e
+  pct60_gwp: 11.73431683 kgCO2e
+  pct70_gwp: 13.92024591 kgCO2e
+  pct80_gwp: 16.33810585 kgCO2e
+  pct90_gwp: 20.03417486 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-05-23T10:09:00.788295Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 11.84625041 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-04-15T16:22:29.369059Z'
+date_of_issue: '2019-03-22'
+date_validity_ends: '2024-03-22'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "As part of EF Contract\u2019s focus to deliver quality, high performing\
+  \ products, Standard Back provides superior construction to ensure dimensional stability\
+  \ for all our broadloom styles. Standard Back has a nylon 6 face fiber attached\
+  \ to a latex and polypropylene backing. A representative product within the Standard\
+  \ Back family was chosen. The composition within the Standard Back family of products\
+  \ does not differ other than pigments and dyes used to give each style of broadloom\
+  \ carpet its own distinct appearance. The variation in terms of pigments and dyes\
+  \ used is less than 5% of the total product weight and is excluded from the study.\
+  \ This EPD covers all styles and colors under the Standard Back product family.\
+  \ Specific products can be found on EFC\u2019s website."
+developer:
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+doc: buildingtransparency.org/e/ec3tp675w4
+excluded: false
+externally_verified: true
+file_name: EPD10184.pdf
+form_factor: Broadloom
+gwp: 9.52 kgCO2e
+gwp_per_category_declared_unit: 9.52 kgCO2e
+gwp_per_kg: 5.259668508 kgCO2e
+gwp_z: 0.2903446228191595
+id: 2ab103b154854bac8fac20afa2884b66
+impacts: {}
+industry_standards:
+- Table 2 in EPD.
+- NSF 140
+intended_application:
+- Com
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 7.193749591 kgCO2e
+manufacturer:
+  address: 1502 Coronet Dr, Dalton, GA 30720, USA
+  address_line: 1502 Coronet Dr
+  admin_district: GA
+  admin_district2: Whitfield County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/ef-contract
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:52:18.100169Z'
+  email_extensions:
+  - efcontractflooring.com
+  enterprise: true
+  id: af145c69cd3c4dbdaf359488ac6884dc
+  is_failed: false
+  latitude: 34.7991546
+  locality: Dalton
+  location:
+  - long_name: '1502'
+    short_name: '1502'
+    types:
+    - street_number
+  - long_name: Coronet Drive
+    short_name: Coronet Dr
+    types:
+    - route
+  - long_name: Dalton
+    short_name: Dalton
+    types:
+    - locality
+    - political
+  - long_name: Whitfield County
+    short_name: Whitfield County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30720'
+    short_name: '30720'
+    types:
+    - postal_code
+  - long_name: '2664'
+    short_name: '2664'
+    types:
+    - postal_code_suffix
+  longitude: -84.9654175
+  name: EF Contract
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/af145c69cd3c4dbdaf359488ac6884dc
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30720'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T12:36:17.131988Z'
+  web_domain: efcontractflooring.com
+  website: https://www.efcontractflooring.com/
+manufacturer_specific: true
+manufacturing_description: The manufacturing process starts with the fiber production.
+  This includes taking virgin and recycled content nylon granulate feedstock and extrude
+  fibers. This is combined in a fiber blend process to create a typical fiber. These
+  individual fibers then go through the processes of heat setting, air entangling
+  and twisting to create yarn which is then tufted to a primary backing. The primary
+  backing materials differs based on the type of backing being produced. The next
+  step is coating which affixes secondary thermoset (latex) backing to tufted fiber
+  and primary backing. Then, the manufactured secondary thermoplastic backing (PVC
+  and PE) is affixed to the tufted fiber and backing. Finally, dye is applied to the
+  tufted fiber in both piece (Beck and Skein) and space (Belmont) dye methods. The
+  last step is packaging for shipment. This product contains no regulated substances
+  above the required threshold.
+mass_per_declared_unit: 1.81 kg
+matched_plants_count: 0
+material_id: e9ca2248d40f4cdd9f85ae66e26eb497
+multiproduct: true
+my_capabilities: 1
+name: Standard Back
+not_an_epd: false
+open_xpd_uuid: ec3tp675
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3tp675
+output_flows: {}
+owner:
+  name: Data Entry
+  user_id: data_entry@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:57:05.502294Z'
+  date_of_issue: '2018-09-28'
+  date_validity_ends: '2023-09-28'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34962
+  id: 574a7f64f1b8404aa268cef70a98e15c
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - 019
+      order: 1
+  name: 'Part B: Flooring'
+  open_xpd_uuid: ec35g1dj
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec35g1dj
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec35g1djuq
+  short_name: 'Part B: Flooring'
+  status: Expired
+  updated_on: '2023-09-29T00:02:28.126081Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 11.84625041 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 1501 Coronet Drive, Dalton, GA 30720
+  address_line: 1501 Coronet Drive
+  admin_district: GA
+  admin_district2: Whitfield
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-04-15T16:20:08.931855Z'
+  id: a75ef57abbde4d6494bf2db08298ac45
+  is_failed: false
+  latitude: 34.79824
+  locality: Dalton
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Whitfield
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    extendedPostalCode: 30720-2665
+    freeformAddress: 1501 Coronet Drive, Dalton, GA 30720
+    localName: Dalton
+    municipality: Dalton
+    postalCode: '30720'
+    streetName: Coronet Drive
+    streetNumber: '1501'
+  longitude: -84.9664
+  name: Dalton, Ga
+  openepd_id: 866QQ2XM+7C.efcontractflooring.com
+  owned_by:
+    address: 1502 Coronet Dr, Dalton, GA 30720, USA
+    address_line: 1502 Coronet Dr
+    admin_district: GA
+    admin_district2: Whitfield County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/ef-contract
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:52:18.100169Z'
+    email_extensions:
+    - efcontractflooring.com
+    enterprise: true
+    id: af145c69cd3c4dbdaf359488ac6884dc
+    is_failed: false
+    latitude: 34.7991546
+    locality: Dalton
+    location:
+    - long_name: '1502'
+      short_name: '1502'
+      types:
+      - street_number
+    - long_name: Coronet Drive
+      short_name: Coronet Dr
+      types:
+      - route
+    - long_name: Dalton
+      short_name: Dalton
+      types:
+      - locality
+      - political
+    - long_name: Whitfield County
+      short_name: Whitfield County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Georgia
+      short_name: GA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '30720'
+      short_name: '30720'
+      types:
+      - postal_code
+    - long_name: '2664'
+      short_name: '2664'
+      types:
+      - postal_code_suffix
+    longitude: -84.9654175
+    name: EF Contract
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/af145c69cd3c4dbdaf359488ac6884dc
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30720'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T12:36:17.131988Z'
+    web_domain: efcontractflooring.com
+    website: https://www.efcontractflooring.com/
+  postal_code: '30720'
+  total_epds: 4
+  type: Plant
+  units: SI
+  updated_on: '2021-01-12T22:33:04.888010Z'
+plant_specific: true
+private: false
+product_classes:
+  UNSPSC:
+  - '30161701'
+product_specific: false
+product_usage_description: "EF Contract\u2019s Standard Back is intended for use as\
+  \ a soft floor covering in medium-to-high traffic commercial applications such as\
+  \ retail, healthcare, education, offices, public venues and institutional environments.Further\
+  \ information about the product may be found on EFC\u2019s website."
+product_usage_image: https://static.buildingtransparency.org/images/b08320f018864b5cab9670c1cb3d45a1.png
+program_operator:
+  address: 789 North Dixboro Road, Ann Arbor, MI 48105
+  address_line: 789 North Dixboro Road
+  admin_district: MI
+  admin_district2: Washtenaw
+  alt_names:
+  - NSF
+  - NSF Certification LLC
+  - NSF Certification
+  attachments:
+    Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-08-01T22:31:34.491119Z'
+  email_extensions:
+  - nsf.org
+  enterprise: true
+  id: a44683606c014062ac954e094362582e
+  image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+  is_failed: false
+  latitude: 42.28365
+  legal_name: NSF International
+  locality: Ann Arbor
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Washtenaw
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+    freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+    localName: Ann Arbor
+    municipality: Ann Arbor
+    municipalitySubdivision: Ann Arbor
+    postalCode: '48105'
+    streetName: North Dixboro Road
+    streetNumber: '789'
+  longitude: -83.67447
+  name: NSF International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48105'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:00:07.818662Z'
+  web_domain: nsf.org
+  website: https://www.nsf.org/
+program_operator_fkey: EPD10184
+reference_service_life: 15 years
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3tp675w4
+standard_deviation: 2.764080809 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 11.84625041 kgCO2e
+uncertainty_factor: 1.2443540345646047
+updated_on: '2025-01-14T15:10:37.201635Z'
+use_stored_carbon: false
+verifier:
+  email: joorbeck@nsf.org
+  name: Jenny Oorbeck
+  org:
+    address: 789 North Dixboro Road, Ann Arbor, MI 48105
+    address_line: 789 North Dixboro Road
+    admin_district: MI
+    admin_district2: Washtenaw
+    alt_names:
+    - NSF
+    - NSF Certification LLC
+    - NSF Certification
+    attachments:
+      Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-08-01T22:31:34.491119Z'
+    email_extensions:
+    - nsf.org
+    enterprise: true
+    id: a44683606c014062ac954e094362582e
+    image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+    is_failed: false
+    latitude: 42.28365
+    legal_name: NSF International
+    locality: Ann Arbor
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Washtenaw
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+      freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+      localName: Ann Arbor
+      municipality: Ann Arbor
+      municipalitySubdivision: Ann Arbor
+      postalCode: '48105'
+      streetName: North Dixboro Road
+      streetNumber: '789'
+    longitude: -83.67447
+    name: NSF International
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48105'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2024-07-24T17:00:07.818662Z'
+    web_domain: nsf.org
+    website: https://www.nsf.org/
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+yarn_type: Nylon 6
+yarn_weight: 19.2 oz / sy

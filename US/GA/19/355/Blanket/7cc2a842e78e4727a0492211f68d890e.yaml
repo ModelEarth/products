@@ -1,0 +1,599 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+best_practice: 0.7114609204 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '810727385694'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-28T14:36:52.290863Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Non-rigid insulation batts, blankets, and rolls
+  display_name: Blanket
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: 53a5d5bee64545f1bdd60e102a4a6ddf
+  includes_b1_stage: true
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1.23 kg
+  massless: false
+  masterformat: 07 21 16 Blanket Insulation
+  may_contain_trusted_vendor_declarations: false
+  name: BlanketInsulation
+  no_statistics: false
+  obsolete: false
+  openepd: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  openepd_name: ThermalMoistureProtection >> Insulation >> BlanketInsulation
+  parents: []
+  pct10_gwp: 1.001082821 kgCO2e
+  pct20_gwp: 1.336528407 kgCO2e
+  pct30_gwp: 1.597270375 kgCO2e
+  pct40_gwp: 1.986303851 kgCO2e
+  pct50_gwp: 2.504225973 kgCO2e
+  pct60_gwp: 3.129296385 kgCO2e
+  pct70_gwp: 3.79777691 kgCO2e
+  pct80_gwp: 4.765875952 kgCO2e
+  pct90_gwp: 6.094585031 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Blanket
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30141500'
+  updated_on: '2025-05-23T10:09:05.238044Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields:
+- impacts__gwp
+confirmed_fields: []
+conservative_estimate: 1.16833908 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2021-05-20T12:01:09.198127Z'
+date_of_issue: '2019-01-01'
+date_validity_ends: '2024-01-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "CertainTeed is dedicated to Building Responsibly\u2122 with fiber glass\
+  \ insulation products that are engineered, produced,\nand shipped with a commitment\
+  \ to minimizing environmental impact and improving energy savings. The CertainTeed\n\
+  Unfaced and Kraft Faced Sustainable Insulation\xAE batt product line is an insulation\
+  \ material made of fiber glass that\nconsists of renewable content, a high percentage\
+  \ of recycled glass, and a new plant-based binder that has no\nformaldehyde, harsh\
+  \ acrylics, dyes or unnecessary fire retardants added. The Kraft Faced batts also\
+  \ have one side\ncovered with kraft paper, which is adhered with asphalt. Batt sizes\
+  \ R-8-38 are included in this EPD."
+developer:
+  email: 08d4379fb9a244e2a92bccac0da4bf1c@for.review
+  name: DECLARATION NUMBER
+  warnings:
+    org:
+    - Missing link
+doc: buildingtransparency.org/e/ec36e3q93h
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: CertainTeed_Sustainable_Insulation_EPD_54fc4c5eed8144f4843c0b64ecdb2170.pdf
+gwp: 0.9399 kgCO2e
+gwp_per_category_declared_unit: 0.9399 kgCO2e
+gwp_per_kg: 1.687432675 kgCO2e
+gwp_z: 0.28879058156387305
+id: b2bd6f5fc40e4e99a0c7e582ced09c74
+image: https://static.buildingtransparency.org/images/a7331a362f464b3faf81ee0692c8b036.png
+impacts: {}
+includes: []
+industry_standards: []
+insulating_material: Other
+insulation_intended_application:
+- Duct
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "\n\n## Source Data Notes\nProduct Category Rules for Building-Related\
+  \ Product and Services: Part A - Life Cycle Assessment\nCalculation Rules and Report\
+  \ Requirements, Version 3.2 2018. UL Environment.\n\n\n\nProduct Category Rule Guidance\
+  \ for Building Related Products and Services: Part B - Building Envelope\nThermal\
+  \ Insulation EPD Requirements. Version 2.0, 2018. UL Environment.\n\n\n\nISO 14040:\
+  \ 2006 Series - Environmental Management - Life Cycle Assessment\n\n\n\nISO 21930:2017-\
+  \ Sustainability in building construction - Environmental declaration of building\
+  \ products\n\n\n\nEN 15804 - Sustainability of construction works - Environmental\
+  \ Product Declarations - Core rules for the\nproduct category of construction products\n\
+  \n\n\nHome Energy Saver, US. Department of Energy: http://hes.lbl.gov/\n\n\n\nASTM\
+  \ Standard Specification C553 - 11 Standard Specification for Mineral Fiber Blanket\
+  \ Thermal Insulation\nfor Commercial and Industrial Applications\n\n\n\nASTM Standard\
+  \ Specification C665 - 12 Standard Specification for Mineral Fiber Blanket Thermal\
+  \ Insulation\nfor Light Frame Construction and Manufactured Housing\n\n\n\nASTM\
+  \ Standard Specification E84 - 12 Standard Test Method for Surface Burning Characteristics\
+  \ of Building\nMaterials\n\n\n\nASTM Standard Specification E790 - 08 Standard Test\
+  \ Method for Residual Moisture in a Refuse-Derived\nFuel Analysis Sample\n\n\n\n\
+  ASTM Standard Specificiation E136 - 12 Standard Tesh Method for Behavior of Materials\
+  \ in a Vertical Tube\nFurnace at 750\xB0C\n\n\n\nASMT Standard Specification C518-10\
+  \ Standard Test Method for Steady-State Thermal Transmission\nproperties of means\
+  \ of Heat Flow Meter Apparatus\n\nLCA Development\nThis EPD and the corresponding\
+  \ LCA were prepared by Saint-Gobain North America in Malvern, PA\nContact CertainTeed"
+lowest_plausible_gwp: 0.7114609204 kgCO2e
+manufacturer:
+  address: 20 Moores Rd, Malvern, PA 19355, USA
+  address_line: 20 Moores Rd
+  admin_district: PA
+  admin_district2: Chester County
+  alt_names:
+  - CertainTeed Gypsum, Inc
+  - CertainTeed Insulation Group
+  - CertainTeed
+  - CertainTeed Ceilings
+  - CertainTeed Gypsum Canada
+  - CertainTeed Gypsum
+  - CertainTeed Gypsum, Inc.
+  - Certainteed Gypsum
+  - CertainTeed Insulation
+  - CertainTeed Roofing
+  - CertainTeed Saint-Gobain
+  attachments:
+    Ecomedes: https://saintgobain.ecomedes.com/
+    TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:45:09.590285Z'
+  currency: USD
+  email_extensions:
+  - certainteed.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+  id: 4f0f4939d54945a08051f4c048ac71c0
+  image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+  is_failed: false
+  latitude: 40.0539584
+  legal_name: CertainTeed
+  locality: Malvern
+  location:
+  - long_name: '20'
+    short_name: '20'
+    types:
+    - street_number
+  - long_name: Moores Road
+    short_name: Moores Rd
+    types:
+    - route
+  - long_name: Malvern
+    short_name: Malvern
+    types:
+    - locality
+    - political
+  - long_name: East Whiteland Township
+    short_name: East Whiteland Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Chester County
+    short_name: Chester County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19355'
+    short_name: '19355'
+    types:
+    - postal_code
+  - long_name: '1114'
+    short_name: '1114'
+    types:
+    - postal_code_suffix
+  longitude: -75.5576008
+  name: CertainTeed Saint-Gobain
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '19355'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-08-30T23:41:13.973616Z'
+  web_domain: certainteed.com
+  website: www.certainteed.com
+manufacturer_specific: true
+mass_per_declared_unit: 0.557 kg
+matched_plants_count: 1
+material_id: 7cc2a842e78e4727a0492211f68d890e
+multiproduct: false
+my_capabilities: 1
+name: "Sustainable Insulation\xAE Unfaced and Kraft Faced Batts"
+not_an_epd: false
+open_xpd_uuid: ec36e3q9
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec36e3q9
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Building Envelope Thermal Insulation EPD requirements'
+  - 'Part B: Building Thermal Insulation EPD Requirements UL 10010-1(2nd edition,
+    April 10, 2018)'
+  - 'PCR for preparing an EPD for Product Group: Building Envelope Thermal Insulation'
+  - PCR for Building Envelope Thermal Insulation
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:19.470071Z'
+  date_of_issue: '2023-04-06'
+  date_validity_ends: '2024-04-06'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34197
+  id: af1087300982459398cb8bd7734ce08d
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 3
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 4
+    IPCC AR5:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Building Envelope Thermal Insulation Products'
+  open_xpd_uuid: ec3qgwtt
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qgwtt
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qgwttac
+  short_name: 'Part B: Building Envelope Thermal Insulation'
+  status: Expired
+  updated_on: '2025-05-23T21:40:17.595001Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 1.16833908 kgCO2e
+plant_geography:
+- US-GA
+- US-CA
+- '021'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-05-25T11:15:01.846766Z'
+  id: d6781707dde342a1826f16fa50ca7385
+  is_failed: false
+  jurisdiction:
+  - '021'
+  name: Athens and Chowchilla
+  owned_by:
+    address: 20 Moores Rd, Malvern, PA 19355, USA
+    address_line: 20 Moores Rd
+    admin_district: PA
+    admin_district2: Chester County
+    alt_names:
+    - CertainTeed Gypsum, Inc
+    - CertainTeed Insulation Group
+    - CertainTeed
+    - CertainTeed Ceilings
+    - CertainTeed Gypsum Canada
+    - CertainTeed Gypsum
+    - CertainTeed Gypsum, Inc.
+    - Certainteed Gypsum
+    - CertainTeed Insulation
+    - CertainTeed Roofing
+    - CertainTeed Saint-Gobain
+    attachments:
+      Ecomedes: https://saintgobain.ecomedes.com/
+      TransparencyCatalogURL: https://transparencycatalog.com/company/certainteed
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:45:09.590285Z'
+    currency: USD
+    email_extensions:
+    - certainteed.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/dc8760ecef9648d1af91fcb1d17e37f8.png
+    id: 4f0f4939d54945a08051f4c048ac71c0
+    image: https://static.buildingtransparency.org/images/989630f09dc547f48cc007c454580cab.png
+    is_failed: false
+    latitude: 40.0539584
+    legal_name: CertainTeed
+    locality: Malvern
+    location:
+    - long_name: '20'
+      short_name: '20'
+      types:
+      - street_number
+    - long_name: Moores Road
+      short_name: Moores Rd
+      types:
+      - route
+    - long_name: Malvern
+      short_name: Malvern
+      types:
+      - locality
+      - political
+    - long_name: East Whiteland Township
+      short_name: East Whiteland Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Chester County
+      short_name: Chester County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '19355'
+      short_name: '19355'
+      types:
+      - postal_code
+    - long_name: '1114'
+      short_name: '1114'
+      types:
+      - postal_code_suffix
+    longitude: -75.5576008
+    name: CertainTeed Saint-Gobain
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4f0f4939d54945a08051f4c048ac71c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19355'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-08-30T23:41:13.973616Z'
+    web_domain: certainteed.com
+    website: www.certainteed.com
+  plants_count: 0
+  total_epds: 2
+  type: PlantGroup
+  updated_on: '2021-07-12T20:28:07.853352Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4788647002.101.1
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec36e3q93h
+standard_deviation: 0.2714342676 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 1.16833908 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-01-14T18:18:59.598313Z'
+use_stored_carbon: false
+verifier:
+  email: jmellentine@ramboll.com
+  name: James Mellentine
+  org:
+    address: "Vesterbrogade 1B, 1620 K\xF8benhavn V"
+    address_line: 1B Vesterbrogade
+    admin_district: "K\xF8benhavn"
+    alt_names:
+    - Rambol Environ
+    - Rambol
+    confirmable_fields: []
+    confirmed_fields: []
+    country: DK
+    cqd_sync_unlocked: true
+    created_on: '2018-09-29T05:43:35.577225Z'
+    email: jmellentine@ramboll.com
+    email_extensions:
+    - ramboll.com
+    - ramboll.dk
+    - ramboll.co.uk
+    enterprise: true
+    id: ab770b091536447ca0b00ed43b937531
+    image: https://static.buildingtransparency.org/images/907a38ad-ec2f-4ac6-8841-cb6bae2b8887.png
+    is_failed: false
+    latitude: 55.675556
+    locality: "K\xF8benhavn V, K\xF8benhavn"
+    location:
+      boundingBox:
+        entity: position
+        northEast: 55.675681,12.567756
+        southWest: 55.675152,12.566247
+      buildingNumber: 1B
+      country: Danmark
+      countryCode: DK
+      countryCodeISO3: DNK
+      countrySubdivision: "K\xF8benhavn"
+      freeformAddress: "Vesterbrogade 1B, 1620 K\xF8benhavn V"
+      municipality: "K\xF8benhavn V, K\xF8benhavn"
+      municipalitySubdivision: "K\xF8benhavn, Indre By"
+      postalCode: '1620'
+      routeNumbers: []
+      street: Vesterbrogade
+      streetName: Vesterbrogade
+      streetNameAndNumber: Vesterbrogade 1B
+      streetNumber: 1B
+    longitude: 12.567414
+    name: Ramboll
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/ab770b091536447ca0b00ed43b937531
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '1620'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2023-11-29T05:31:14.411377Z'
+    web_domain: ramboll.com
+    website: https://ramboll.com
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - GWP B1 impact is not specified
+  - ODP B1 impact is not specified
+  - AP B1 impact is not specified
+  - EP-FRESH impact not specified
+  - EP Marine B1 impact is not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP B1 impact is not specified

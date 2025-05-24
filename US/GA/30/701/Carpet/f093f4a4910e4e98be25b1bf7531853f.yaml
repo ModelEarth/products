@@ -1,0 +1,716 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/atlas-carpet-mills
+best_practice: 12.05495308 kgCO2e
+biogenic_embodied_carbon_z: 0.2104756517984919
+box_id: '493005232065'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.226286945 kgCO2e
+  pct20_gwp: 6.31150987 kgCO2e
+  pct30_gwp: 7.193005662 kgCO2e
+  pct40_gwp: 8.328409228 kgCO2e
+  pct50_gwp: 10.05624338 kgCO2e
+  pct60_gwp: 11.73431683 kgCO2e
+  pct70_gwp: 13.92024591 kgCO2e
+  pct80_gwp: 16.33810585 kgCO2e
+  pct90_gwp: 20.03417486 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-05-23T10:09:00.788295Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 17.24504692 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2020-09-30T09:27:58.554920Z'
+date_of_issue: '2017-09-19'
+date_validity_ends: '2019-06-22'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "Products covered in this Environmental Product Declaration (EPD) are\
+  \ a broad variety of carpet styles and colors manufactured by Mannington Commercial,\
+  \ backed with our Infinity\xAE - tile backing system and made with either nylon\
+  \ 6,6 or nylon 6 yarn. The fiber in these products (product wear layer) is constructed\
+  \ using nylon 6,6 or nylon 6 yarn that is either solution dyed, yarn dyed, space\
+  \ dyed, or a combination of these methods. Infinity Modular is a vinyl composite\
+  \ backing that is engineered for strong performance, excellent tuft bind, and dimensional\
+  \ stability. It contains pre- consumer recycled content and is fully recyclable\
+  \ via LOOP\xAE, a Mannington program that reclaims post-consumer carpet and recycles\
+  \ it into new carpet backing (Infinity\xAE RE), as well as hard surface products.\
+  \ Infinity\xAE - tile is available in our standard 24\u201Dx24\" modular tiles,\
+  \ making installation and replacement simple. Like most Mannington Commercial backing\
+  \ systems, these products are certified as environmentally preferable products to\
+  \ NSF/ANSI 140:2012 Sustainability Assessment for Carpet, to the Gold level, and\
+  \ manufactured in the USA in an ISO 14001 registered facility."
+developer:
+  email: mike_schiffli@mannington.com
+  name: Michael Schiffli
+  org:
+    address: 1844 US-41, Calhoun, GA 30701, USA
+    address_line: 1844 US-41
+    admin_district: GA
+    admin_district2: Gordon County
+    alt_names:
+    - Mannington Mills, Inc
+    attachments:
+      MindfulMaterialsURL: https://portal.mindfulmaterials.com/?brand-name=Mannington%20Commercial
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:55:53.384535Z'
+    currency: USD
+    email_extensions:
+    - mannington.com
+    enterprise: true
+    id: 6d1b2df4bd4c468ea4b1f6d04b4d26ad
+    image: https://static.buildingtransparency.org/images/ffe84225-e14c-4c08-a4f3-395c114fec89.png
+    is_failed: false
+    iso14001_certified: true
+    latitude: 34.4572504
+    legal_name: Mannington Mills, Inc.
+    locality: Calhoun
+    location:
+    - long_name: '1844'
+      short_name: '1844'
+      types:
+      - street_number
+    - long_name: U.S. 41
+      short_name: US-41
+      types:
+      - route
+    - long_name: Calhoun
+      short_name: Calhoun
+      types:
+      - locality
+      - political
+    - long_name: Gordon County
+      short_name: Gordon County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Georgia
+      short_name: GA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '30701'
+      short_name: '30701'
+      types:
+      - postal_code
+    - long_name: '3683'
+      short_name: '3683'
+      types:
+      - postal_code_suffix
+    longitude: -84.93237870000002
+    name: Mannington Mills
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6d1b2df4bd4c468ea4b1f6d04b4d26ad
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30701'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2025-01-28T16:29:41.571735Z'
+    web_domain: manningtoncommercial.com
+    website: www.mannington.com
+doc: buildingtransparency.org/e/ec3xt4dj6j
+epd_degraded: true
+excluded: false
+externally_verified: true
+file_name: EPD10123.pdf
+form_factor: Tiles
+gwp: 14.65 kgCO2e
+gwp_per_category_declared_unit: 14.65 kgCO2e
+gwp_per_kg: 3.329545455 kgCO2e
+gwp_z: 0.2104756517984919
+id: b19764f56a334b67a13e309033d5d00c
+image: https://static.buildingtransparency.org/images/9afc5623d01f4dcfb1ae3afdd4bf27d2.png
+impacts: {}
+includes: []
+industry_standards: []
+intended_application:
+- Com
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lca_discussion: "## Product Component Notes\nMaterial Content of the product Table\
+  \ 2: Material content table for Infinity\xAE - tile carpet Availability Component\
+  \ Material Mass % (nature of resource, renewable / recycled, Origin availability)\
+  \ Nylon 6,6 Fossil resource, non renewable, limited Global (products: 95%) Nylon\
+  \ face fiber 10 - 19 % Nylon 6 Fossil resource, non renewable, limited Global (products:\
+  \ 5%) Polyester Fossil resource, non renewable, limited (15%) Synthetic Global (products:\
+  \ 60%) Post-consumer recycled, abundant (85%) tufting 2-3% substrate PET / Nylon\
+  \ Fossil resource, non renewable, limited Global (products: 40%) Polymeric Vinyl\
+  \ Acetate / Ethylene Fossil resource, non renewable, limited Global performance\
+  \ copolymer 14 - 16 % pre-coat Calcium carbonate Mineral, non renewable, abundant\
+  \ Global Polyvinyl chloride polymer Fossil resource, non renewable, limited Global\
+  \ Polymeric DOTP Fossil resource, non renewable, limited Global compound 28 - 31\
+  \ % layer BBCH Fossil resource, non renewable, limited Global Calcium carbonate\
+  \ Mineral, non renewable, abundant Global Reinforcement Glass 1-2% Mineral resource,\
+  \ non renewable, abundant US layer Polyvinyl chloride polymer Fossil resource, non\
+  \ renewable, limited Global Polymeric DOTP Fossil resource, non renewable, limited\
+  \ Global compound 35 - 39 % layer BBCH Fossil resource, non renewable, limited Global\
+  \ Calcium carbonate Pre-consumer recycled material, abundant US Modifiers Various\
+  \ 1 - 2% Global Environmental Product Declaration Program Operator Date of Issue:\
+  \ September 19, 2017 NSF International Valid Until: June 22, 2019 789 N. Dixboro\
+  \ Rd. Declaration#: EPD10123 Ann Arbor MI 48105 USA Page 6 www.nsf.org Environmental\
+  \ Product Declarations Name of Product | Product Description Production of main\
+  \ materials Nylon 6,6 ,CAS# 32131-17-2, is synthesized by polycondensation of hexamethylene\
+  \ diamine and adipic acid. (Nylon 6-6, 2007) Nylon 6, CAS# 25038-54-4, is synthesized\
+  \ by ring opening polymerization of caprolactam. Caprolactam is comprised of 6 carbons\
+  \ creating the 6 in Nylon 6. (Nylon 6, 2005) Polyester (PET), CAS# 25038-59-9, is\
+  \ a synthetic polymer made of purified terephthalic acid (PTA). (Polyester, 2002)\
+  \ Vinyl Acetate/Ethylene copolymer, CAS# 24939-78-8, is prepared by polymerization\
+  \ of vinyl acetate monomer and ethylene. Calcium carbonate, CAS# 1317-65-3, is an\
+  \ abundant mineral found worldwide and is the chief substance found in rocks (i.e.,\
+  \ marble and limestone). It can be ground into varying particle sizes and is widely\
+  \ used as filler material in formulated flooring systems. Polyvinyl chloride (PVC),\
+  \ CAS# 9002-86-2, is prepared by polymerization of vinyl chloride monomer. Vinyl\
+  \ chloride monomer is produced from salt and ethylene. Glass, CAS# 065997-17-3,\
+  \ is produced by fusing silicon dioxide (sand). Dioctyl terephthalate (DOTP), CAS#\
+  \ 6422-86-22, is prepared by the reaction of dimethyl terephthalate and 2- ethylhexanol.\
+  \ 1,2-cyclohexanedicarboxylic acid, 1-butyl 2-(phenylmethyl) ester (BBCH), CAS#\
+  \ 1200806-67-2, is synthesized from reacting the salt of mono-butyl dicarboxylic\
+  \ acid and benzyl chloride. Environmental Product Declaration Program Operator Date\
+  \ of Issue: September 19, 2017 NSF International Valid Until: June 22 2019 789 N.\
+  \ Dixboro Rd. Declaration#: EPD10123 Ann Arbor MI 48105 USA Page 7 www.nsf.org Environmental\
+  \ Product Declarations Name of Product | Product Description Life Cycle Assessment\
+  \ Stages and Reported EPD Information Sourcing/extraction (raw material acquisition)\
+  \ stage Figure 2: Diagram of the raw material sourcing and extraction stage The\
+  \ life cycle assessment stage for sourcing and extraction begins at the point of\
+  \ the raw material being extracted and ends at the point when the packaged raw material\
+  \ is received by the carpet manufacturing facility. Before a raw material is used,\
+  \ it must first be evaluated for quality, availability, consistency, performance\
+  \ and value before the material will be considered acceptable. Once the material\
+  \ has passed the initial evaluation process; future shipments a\n\n## LCA Notes\n\
+  Mannington Life Cycle Assessment for Infinity\xAE - tile carpet September 30, 2013"
+lowest_plausible_gwp: 12.05495308 kgCO2e
+manufacturer:
+  address: 1844 US-41, Calhoun, GA 30701, USA
+  address_line: 1844 US-41
+  admin_district: GA
+  admin_district2: Gordon County
+  alt_names:
+  - Mannington Mills, Inc
+  attachments:
+    MindfulMaterialsURL: https://portal.mindfulmaterials.com/?brand-name=Mannington%20Commercial
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:55:53.384535Z'
+  currency: USD
+  email_extensions:
+  - mannington.com
+  enterprise: true
+  id: 6d1b2df4bd4c468ea4b1f6d04b4d26ad
+  image: https://static.buildingtransparency.org/images/ffe84225-e14c-4c08-a4f3-395c114fec89.png
+  is_failed: false
+  iso14001_certified: true
+  latitude: 34.4572504
+  legal_name: Mannington Mills, Inc.
+  locality: Calhoun
+  location:
+  - long_name: '1844'
+    short_name: '1844'
+    types:
+    - street_number
+  - long_name: U.S. 41
+    short_name: US-41
+    types:
+    - route
+  - long_name: Calhoun
+    short_name: Calhoun
+    types:
+    - locality
+    - political
+  - long_name: Gordon County
+    short_name: Gordon County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30701'
+    short_name: '30701'
+    types:
+    - postal_code
+  - long_name: '3683'
+    short_name: '3683'
+    types:
+    - postal_code_suffix
+  longitude: -84.93237870000002
+  name: Mannington Mills
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/6d1b2df4bd4c468ea4b1f6d04b4d26ad
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30701'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2025-01-28T16:29:41.571735Z'
+  web_domain: manningtoncommercial.com
+  website: www.mannington.com
+manufacturer_specific: true
+mass_per_declared_unit: 4.4 kg
+matched_plants_count: 0
+material_id: f093f4a4910e4e98be25b1bf7531853f
+multiproduct: false
+my_capabilities: 1
+name: "Infinity\xAE-tile modular carpet tile"
+not_an_epd: false
+open_xpd_uuid: ec3xt4dj
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3xt4dj
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, and Wood (NSF 2012)'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood, Version 2. NSF
+    International. 2014.'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2. 2014.'
+  - 'PCR for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2.2014.'
+  - PCR for Environmental Product Declarations, Flooring:Carpet, Resilient, Laminate,
+    Ceramic, Wood
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood (NSF 2012)'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2.2014.'
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood, Version 2.'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient Laminate, Ceramic, Wood. NSF International.
+    Version 2. 2014.'
+  - 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood Version 2'
+  - 'Product Category Rule (PCR) for preparing an Environmental Product Declaration
+    (EPD) for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood. NSF International.
+    Version 2. 2014'
+  - 'NSF: PCR for Flooring: Carpet, Resilient, Laminate, Ceramic, Wood Version 2'
+  - NSF PCR for Flooring v2.0
+  categories: []
+  confirmable_fields:
+  - name
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-17T13:03:00.704713Z'
+  date_of_issue: '2014-06-23'
+  date_validity_ends: '2018-09-28'
+  declared_units:
+  - 1 m2
+  doc: http://www.nsf.org/newsroom_pdf/flooring_pcr-new.pdf
+  errors: {}
+  failures: {}
+  id: bd683757a8234358a945e703bcc8cce3
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Product Category Rule for Environmental Product Declarations - Flooring:
+    Carpet, Resilient, Laminate, Ceramic, Wood'
+  open_xpd_uuid: ec3qp4ff
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qp4ff
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3qp4ff49
+  short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
+  status: Sunset
+  updated_on: '2025-05-23T21:40:17.534318Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 17.24504692 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: US-41 South, Calhoun, GA 30701
+  address_line: ' US-41 South'
+  admin_district: GA
+  admin_district2: Gordon
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-09-26T18:18:00.481765Z'
+  id: 44cba569bde3444ea315eec9f85afc9a
+  is_failed: false
+  latitude: 34.47348
+  locality: Calhoun
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Gordon
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    extendedPostalCode: 307013022, 307013023, 307013024, 307013025, 307013040, 307013063,
+      307013065
+    freeformAddress: US-41 South, Calhoun, GA 30701
+    localName: Calhoun
+    municipality: Calhoun
+    postalCode: '30701'
+    streetName: US-41 South
+  longitude: -84.93447
+  name: Calhoun, GA
+  openepd_id: 866QF3F8+96.manningtoncommercial.com
+  owned_by:
+    address: 1844 US-41, Calhoun, GA 30701, USA
+    address_line: 1844 US-41
+    admin_district: GA
+    admin_district2: Gordon County
+    alt_names:
+    - Mannington Mills, Inc
+    attachments:
+      MindfulMaterialsURL: https://portal.mindfulmaterials.com/?brand-name=Mannington%20Commercial
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:55:53.384535Z'
+    currency: USD
+    email_extensions:
+    - mannington.com
+    enterprise: true
+    id: 6d1b2df4bd4c468ea4b1f6d04b4d26ad
+    image: https://static.buildingtransparency.org/images/ffe84225-e14c-4c08-a4f3-395c114fec89.png
+    is_failed: false
+    iso14001_certified: true
+    latitude: 34.4572504
+    legal_name: Mannington Mills, Inc.
+    locality: Calhoun
+    location:
+    - long_name: '1844'
+      short_name: '1844'
+      types:
+      - street_number
+    - long_name: U.S. 41
+      short_name: US-41
+      types:
+      - route
+    - long_name: Calhoun
+      short_name: Calhoun
+      types:
+      - locality
+      - political
+    - long_name: Gordon County
+      short_name: Gordon County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Georgia
+      short_name: GA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '30701'
+      short_name: '30701'
+      types:
+      - postal_code
+    - long_name: '3683'
+      short_name: '3683'
+      types:
+      - postal_code_suffix
+    longitude: -84.93237870000002
+    name: Mannington Mills
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6d1b2df4bd4c468ea4b1f6d04b4d26ad
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30701'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2025-01-28T16:29:41.571735Z'
+    web_domain: manningtoncommercial.com
+    website: www.mannington.com
+  postal_code: '30701'
+  total_epds: 6
+  type: Plant
+  units: SI
+  updated_on: '2020-07-31T15:09:24.501248Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 789 North Dixboro Road, Ann Arbor, MI 48105
+  address_line: 789 North Dixboro Road
+  admin_district: MI
+  admin_district2: Washtenaw
+  alt_names:
+  - NSF
+  - NSF Certification LLC
+  - NSF Certification
+  attachments:
+    Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-08-01T22:31:34.491119Z'
+  email_extensions:
+  - nsf.org
+  enterprise: true
+  id: a44683606c014062ac954e094362582e
+  image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+  is_failed: false
+  latitude: 42.28365
+  legal_name: NSF International
+  locality: Ann Arbor
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Washtenaw
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+    freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+    localName: Ann Arbor
+    municipality: Ann Arbor
+    municipalitySubdivision: Ann Arbor
+    postalCode: '48105'
+    streetName: North Dixboro Road
+    streetNumber: '789'
+  longitude: -83.67447
+  name: NSF International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48105'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:00:07.818662Z'
+  web_domain: nsf.org
+  website: https://www.nsf.org/
+program_operator_fkey: EPD10123
+recycled_content: 0.0
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3xt4dj6j
+standard_deviation: 3.083468299 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 17.24504692 kgCO2e
+uncertainty_factor: 1.1771363085536108
+updated_on: '2025-01-14T16:52:08.556591Z'
+use_stored_carbon: false
+verifier:
+  email: cara@sustainablesolutionscorporation.com
+  name: Cara Vought
+  org:
+    address: 155 Railroad Plaza, Royersford, PA 19468
+    address_line: 155 Railroad Plaza
+    admin_district: PA
+    admin_district2: Montgomery
+    alt_names:
+    - Sustainable Solutions Corp.
+    - Sustainable Solutions Corp
+    - SSC
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T23:56:56.916735Z'
+    email_extensions:
+    - greencirclecertified.com
+    - sustainablesolutionscorporation.com
+    enterprise: true
+    id: a091acc71c3a403884e36e1cdac9db39
+    image: https://static.buildingtransparency.org/images/d03f2259-a454-477f-8fa6-f25858a3ca7b.png
+    is_failed: false
+    latitude: 40.186058
+    legal_name: Sustainable Solutions Corporation
+    locality: Royersford
+    location:
+      boundingBox:
+        entity: position
+        northEast: 40.188496,-75.543354
+        southWest: 40.183033,-75.546312
+      buildingNumber: '155'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Montgomery
+      countrySubdivision: PA
+      countrySubdivisionName: Pennsylvania
+      countryTertiarySubdivision: Royersford
+      extendedPostalCode: '194681942'
+      freeformAddress: 155 Railroad Plaza, Royersford, PA 19468
+      municipality: Royersford
+      municipalitySubdivision: Royersford
+      postalCode: '19468'
+      routeNumbers: []
+      street: Railroad Plaza
+      streetName: Railroad Plaza
+      streetNameAndNumber: 155 Railroad Plaza
+      streetNumber: '155'
+    longitude: -75.544975
+    name: Sustainable Solutions Corporation
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/a091acc71c3a403884e36e1cdac9db39
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '19468'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2021-12-08T11:45:28.981304Z'
+    web_domain: sustainablesolutionscorporation.com
+    website: www.sustainablesolutionscorporation.com
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+yarn_type: Nylon 6,6
+yarn_weight: 20 oz / sy

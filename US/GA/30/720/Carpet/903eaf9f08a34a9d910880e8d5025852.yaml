@@ -1,0 +1,689 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  TransparencyCatalogURL: https://transparencycatalog.com/company/ef-contract
+best_practice: 11.38047743 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '493032404701'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.226286945 kgCO2e
+  pct20_gwp: 6.31150987 kgCO2e
+  pct30_gwp: 7.193005662 kgCO2e
+  pct40_gwp: 8.328409228 kgCO2e
+  pct50_gwp: 10.05624338 kgCO2e
+  pct60_gwp: 11.73431683 kgCO2e
+  pct70_gwp: 13.92024591 kgCO2e
+  pct80_gwp: 16.33810585 kgCO2e
+  pct90_gwp: 20.03417486 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-05-23T10:09:00.788295Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 16.21952257 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2019-07-19T06:27:39.772249Z'
+date_of_issue: '2019-03-22'
+date_validity_ends: '2024-03-22'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "EF Contract\u2019s collection of Nexus modular carpets works beautifully,\
+  \ whether specified alone or with one of our many broadloom options. Nexus backed\
+  \ carpet tiles are Nylon 6fibers tufted on to PVC backing. A representative product\
+  \ within the Nexus family was chosen. The composition within the Nexus family of\
+  \ products does not differ other than pigments and dyes used to give each style\
+  \ of carpet tile its own distinct appearance. The variation in terms of pigments\
+  \ and dyes used is less than 5% of the total product weight and is excluded from\
+  \ the study. This EPD covers all styles and colors under the Nexus product family.\
+  \ Specific products can be found on EFC\u2019s website. Each pattern, combined with\
+  \ our Nexus modular backing, continues our over 55-year tradition for high performance\
+  \ and appealing design. Pair your imagination with our comprehensive product choices\
+  \ on your next project and create your own dramatic statement."
+developer:
+  email: joorbeck@nsf.org
+  name: Jenny Oorbeck
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+doc: buildingtransparency.org/e/ec36s6gz8a
+epd_degraded: false
+excluded: false
+externally_verified: true
+file_name: EPD10183.pdf
+form_factor: Tiles
+gwp: 13.9 kgCO2e
+gwp_per_category_declared_unit: 13.8 kgCO2e
+gwp_per_kg: 5.411764706 kgCO2e
+gwp_z: 0.2083266665599966
+gypsum_specific_density: 2.55 kg / m^2
+id: 31b1c9da1d8444ada3533f20003eb871
+image: https://static.buildingtransparency.org/images/a241175efb404712910061540f0e6940.png
+impacts: {}
+includes: []
+industry_standards:
+- See Table 2 in EPD.
+- NSF 140
+intended_application:
+- Com
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lca_discussion: "## Product Component Notes\ncreate yarn which is then tufted to a\
+  \ primary backing. The primary backing materials differs based on the type Table\
+  \ 3: Material Composition of backing being produced. The next step is coating Component\
+  \ Material (Mass %) which affixes secondary thermoset (latex) backing to Nylon 6,\
+  \ Carbon Black, Titanium Face Yarn 20.0% tufted fiber and primary backing. Then,\
+  \ the dioxide manufactured secondary thermoplastic backing (PVC Primary Polyethylene\
+  \ Terephthalate, 3.9% Backing Polypropylene and PE) is affixed to the tufted fiber\
+  \ and backing. Finally, Secondary dye is applied to the tufted fiber in both piece\
+  \ (Beck and Backing/ Polypropylene, Fiberglass 2.1% Skein) and space (Belmont) dye\
+  \ methods. The last step is Scrim cutting and packaging for shipment. This product\
+  \ Latex SBR, Calcium carbonate 17.8% contains no regulated substances above the\
+  \ required Hotmelt DOTP, PVC, Tackifier 55.5% threshold. Topical Non-fluoro Stain\
+  \ Resist 0.8% 8. Transportation It is assumed that all raw materials are distributed\
+  \ by truck. An average distance using this information was calculated and used in\
+  \ the model. Transport of raw 3 10. Packaging building which is 75 years. Table\
+  \ 6 shows the parameters Table 4: Packaging Inputs for the use phase scenario undergoing\
+  \ study. 2 Table 6: Use phase parameters Input per sq. m Value Unit Cardboard 0.067\
+  \ kg Maintenance Light Medium Heavy Unit Pallet 0.127 kg #/ Vacuum 1 3 5 Paper 0.00003\
+  \ kg week Plastic film 0.001 kg Spot Check/ #/ 5 5 5 Clean week Interim #/ 2 4 12\
+  \ 11. Product Installation Maintenance year Restorative #/ Table 5: Product Installation\
+  \ Inputs 1 2 4 Maintenance year Input per sq. m2 Value Unit Adhesive 0.115 kg 13.\
+  \ Reference Service Life and Estimated Building Service Life Install waste 5 % A\
+  \ reference service life of 15 years is assumed for EFC\u2019s modular carpet tiles.\
+  \ The estimated service life The product is delivered to the customer via truck,\
+  \ of the building is 75 years as per Part A: Life Cycle depending on the location\
+  \ of the end-user. Detailed Assessment Calculation Rules and Report installation\
+  \ instructions are provided online. Installation Requirements, UL Environment, V3.2,\
+  \ 2018. equipment is required though not included in the study as these are multi-use\
+  \ tools and the impacts per declared 14. Reuse, Recycling and Energy Recovery unit\
+  \ is considered negligible. Packaging waste is EF Contract, as a brand of the larger\
+  \ Engineered generated and disposed of in this stage. For Nexus, EF Floors family,\
+  \ offers our customers the opportunity Contract recommends the use Commercialon\
+  \ Premium to use our Carpet Reclamation Program. With this Modular Pressure Sensitive\
+  \ Adhesive for installation. It is program we facilitate the reclamation of used\
+  \ carpet a superior-performance, acrylic-latex, pressure-sensitive and guarantee\
+  \ that it will not reach a landfill. To adhesive that is specifically formulated\
+  \ for installing PVC- initiate the carpet reclamation process, please call backed\
+  \ carpet tiles (modules). Because of its low odor 1.800.241.4586 or email and low\
+  \ VOCs, Commercialon Premium Modular Tile reclamation@engineeredfloors.com. In addition\
+  \ to Adhesive is ideally suited for use in health-conscious reclaiming used carpet,\
+  \ old flooring can be safely environments where odors associated with new disposed\
+  \ of in municipal landfills or sent to waste-to- installation are undesirable. It\
+  \ has great rebond to allow energy facilities (subject to local regulations). simple,\
+  \ fast removal and replacement of modular floor 15. Disposal coverings. It is recommended\
+  \ over virtually all smooth All waste has been classified according to regional-\
+  \ surfaces, including nonporous substrates. specific legislation as laid out in\
+  \ Section 2.8.5 and 12. Use 2.8.6 in Part A: Life Cycle Assessment Calculation The\
+  \ reference service life (RSL) of Nexus carpet tile is rules and Report Requirements\
+  \ from UL assumed to be 15 years. Given the RSL of the products Environment. Per\
+  \ Part A, the product is completely under consideration, 4 replace\n\n## LCA Notes\n\
+  Table\n\n## Source Data Notes\nPrimary data was collected by EFC associates for\
+  \ onsite energy, water and waste during the course of manufacturing. Whenever available,\
+  \ supplier data was used for raw materials used in the production process. When\
+  \ primary data did not exist, secondary data for raw material production was used\
+  \ from GaBi Database Version 8.7, Service Pack 35. All calculation procedures adhere\
+  \ to ISO14044."
+lowest_plausible_gwp: 11.38047743 kgCO2e
+manufacturer:
+  address: 1502 Coronet Dr, Dalton, GA 30720, USA
+  address_line: 1502 Coronet Dr
+  admin_district: GA
+  admin_district2: Whitfield County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/ef-contract
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:52:18.100169Z'
+  email_extensions:
+  - efcontractflooring.com
+  enterprise: true
+  id: af145c69cd3c4dbdaf359488ac6884dc
+  is_failed: false
+  latitude: 34.7991546
+  locality: Dalton
+  location:
+  - long_name: '1502'
+    short_name: '1502'
+    types:
+    - street_number
+  - long_name: Coronet Drive
+    short_name: Coronet Dr
+    types:
+    - route
+  - long_name: Dalton
+    short_name: Dalton
+    types:
+    - locality
+    - political
+  - long_name: Whitfield County
+    short_name: Whitfield County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30720'
+    short_name: '30720'
+    types:
+    - postal_code
+  - long_name: '2664'
+    short_name: '2664'
+    types:
+    - postal_code_suffix
+  longitude: -84.9654175
+  name: EF Contract
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/af145c69cd3c4dbdaf359488ac6884dc
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30720'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T12:36:17.131988Z'
+  web_domain: efcontractflooring.com
+  website: https://www.efcontractflooring.com/
+manufacturer_specific: true
+manufacturing_description: The manufacturing process starts with the fiber production.
+  This includes taking virgin and recycled content nylon granulate feedstock and extrude
+  fibers. This is combined in a fiber blend process to create a typical fiber. These
+  individual fibers then go through the processes of heat setting, air entangling
+  and twisting to create yarn which is then tufted to a primarybacking. The primary
+  backing materials differs based on the type of backing being produced. The next
+  step is coating which affixes secondary thermoset (latex) backing to tufted fiber
+  and primary backing. Then, the manufactured secondary thermoplastic backing (PVC
+  and PE) is affixed to the tufted fiber and backing. Finally, dye is applied to the
+  tufted fiber in both piece (Beck and Skein) and space (Belmont) dye methods. The
+  last step is cutting and packaging for shipment. This product contains no regulated
+  substances above the required threshold.
+mass_per_declared_unit: 2.5499999999999994 kg
+matched_plants_count: 0
+material_id: 903eaf9f08a34a9d910880e8d5025852
+multiproduct: false
+my_capabilities: 1
+name: "Nexus\xAE Modular Carpet Tile"
+not_an_epd: false
+open_xpd_uuid: ec36s6gz
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec36s6gz
+output_flows: {}
+owner:
+  name: cqd.io Script
+  user_id: script@cqd.io
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:57:05.502294Z'
+  date_of_issue: '2018-09-28'
+  date_validity_ends: '2023-09-28'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34962
+  id: 574a7f64f1b8404aa268cef70a98e15c
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - 019
+      order: 1
+  name: 'Part B: Flooring'
+  open_xpd_uuid: ec35g1dj
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec35g1dj
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec35g1djuq
+  short_name: 'Part B: Flooring'
+  status: Expired
+  updated_on: '2023-09-29T00:02:28.126081Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 16.21952257 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 1501 Coronet Drive, Dalton, GA 30720
+  address_line: 1501 Coronet Drive
+  admin_district: GA
+  admin_district2: Whitfield
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-04-15T16:20:08.931855Z'
+  id: a75ef57abbde4d6494bf2db08298ac45
+  is_failed: false
+  latitude: 34.79824
+  locality: Dalton
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Whitfield
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    extendedPostalCode: 30720-2665
+    freeformAddress: 1501 Coronet Drive, Dalton, GA 30720
+    localName: Dalton
+    municipality: Dalton
+    postalCode: '30720'
+    streetName: Coronet Drive
+    streetNumber: '1501'
+  longitude: -84.9664
+  name: Dalton, Ga
+  openepd_id: 866QQ2XM+7C.efcontractflooring.com
+  owned_by:
+    address: 1502 Coronet Dr, Dalton, GA 30720, USA
+    address_line: 1502 Coronet Dr
+    admin_district: GA
+    admin_district2: Whitfield County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/ef-contract
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:52:18.100169Z'
+    email_extensions:
+    - efcontractflooring.com
+    enterprise: true
+    id: af145c69cd3c4dbdaf359488ac6884dc
+    is_failed: false
+    latitude: 34.7991546
+    locality: Dalton
+    location:
+    - long_name: '1502'
+      short_name: '1502'
+      types:
+      - street_number
+    - long_name: Coronet Drive
+      short_name: Coronet Dr
+      types:
+      - route
+    - long_name: Dalton
+      short_name: Dalton
+      types:
+      - locality
+      - political
+    - long_name: Whitfield County
+      short_name: Whitfield County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Georgia
+      short_name: GA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '30720'
+      short_name: '30720'
+      types:
+      - postal_code
+    - long_name: '2664'
+      short_name: '2664'
+      types:
+      - postal_code_suffix
+    longitude: -84.9654175
+    name: EF Contract
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/af145c69cd3c4dbdaf359488ac6884dc
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30720'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T12:36:17.131988Z'
+    web_domain: efcontractflooring.com
+    website: https://www.efcontractflooring.com/
+  postal_code: '30720'
+  total_epds: 4
+  type: Plant
+  units: SI
+  updated_on: '2021-01-12T22:33:04.888010Z'
+plant_specific: true
+private: false
+product_classes:
+  UNSPSC:
+  - '30161701'
+product_specific: true
+product_usage_description: "EF Contract\u2019s Nexus\xAE is intended for use as a\
+  \ soft floor covering in medium-to-high traffic commercial applications such as\
+  \ retail, healthcare, education, offices, public venues and institutional environments.\
+  \ Further information about the product may be found on EFC\u2019s website."
+product_usage_image: https://static.buildingtransparency.org/images/19fdff5b09bd4f11806b485e72edd9f2.png
+program_operator:
+  address: 789 North Dixboro Road, Ann Arbor, MI 48105
+  address_line: 789 North Dixboro Road
+  admin_district: MI
+  admin_district2: Washtenaw
+  alt_names:
+  - NSF
+  - NSF Certification LLC
+  - NSF Certification
+  attachments:
+    Program Operator instructions: https://d2evkimvhatqav.cloudfront.net/documents/NSF_Program_Operator_Instructions-news.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-08-01T22:31:34.491119Z'
+  email_extensions:
+  - nsf.org
+  enterprise: true
+  id: a44683606c014062ac954e094362582e
+  image: https://static.buildingtransparency.org/images/d70cecab-c90a-4395-b715-02e4e2624461.png
+  is_failed: false
+  latitude: 42.28365
+  legal_name: NSF International
+  locality: Ann Arbor
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Washtenaw
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Ann Arbor City, Ann Arbor Charter Township
+    freeformAddress: 789 North Dixboro Road, Ann Arbor, MI 48105
+    localName: Ann Arbor
+    municipality: Ann Arbor
+    municipalitySubdivision: Ann Arbor
+    postalCode: '48105'
+    streetName: North Dixboro Road
+    streetNumber: '789'
+  longitude: -83.67447
+  name: NSF International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/a44683606c014062ac954e094362582e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48105'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:00:07.818662Z'
+  web_domain: nsf.org
+  website: https://www.nsf.org/
+program_operator_fkey: EPD10183
+reference_service_life: 15 years
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec36s6gz8a
+specific_density: "2.55 kg/m\xB2"
+standard_deviation: 2.874907999 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 16.21952257 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-01-14T03:01:39.548584Z'
+use_stored_carbon: false
+verifier:
+  email: jgeibig@ecoform.com
+  name: Jack Geibig
+  org:
+    address: 503 West Clinch Avenue, Knoxville, TN 37902
+    address_line: 503 West Clinch Avenue, Clinch Avenue Southwest
+    admin_district: TN
+    admin_district2: Knox
+    alt_names: []
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-14T10:31:46.922611Z'
+    email_extensions:
+    - ecoform.com
+    enterprise: true
+    id: 5e03a97e4f8446ffb04a465e1d82c041
+    is_failed: false
+    latitude: 35.96343
+    locality: Knoxville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Knox
+      countrySubdivision: TN
+      countrySubdivisionName: Tennessee
+      countryTertiarySubdivision: District 1
+      extendedPostalCode: '379022104'
+      freeformAddress: 503 West Clinch Avenue, Knoxville, TN 37902
+      localName: Knoxville
+      municipality: Knoxville
+      municipalitySubdivision: Knoxville
+      postalCode: '37902'
+      streetName: West Clinch Avenue, Clinch Avenue Southwest
+      streetNumber: '503'
+    longitude: -83.92008
+    name: EcoForm
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5e03a97e4f8446ffb04a465e1d82c041
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37902'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-21T03:04:58.033587Z'
+    web_domain: ecoform.com
+    website: http://www.ecoform.com
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B4_years are empty
+yarn_type: Nylon 6
+yarn_weight: 15 oz / sy
