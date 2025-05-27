@@ -71,7 +71,7 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git commit -m "Update CSV and YAML files with new data"
-        git push
+        git push https://<your-username>:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/ModelEarth/products.git
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
