@@ -33,22 +33,22 @@ category:
   openepd: ThermalMoistureProtection >> Insulation
   openepd_name: ThermalMoistureProtection >> Insulation
   parents: []
-  pct10_gwp: 1.203530852 kgCO2e
-  pct20_gwp: 1.83954031 kgCO2e
-  pct30_gwp: 2.545212176 kgCO2e
-  pct40_gwp: 3.287871087 kgCO2e
-  pct50_gwp: 4.210000135 kgCO2e
-  pct60_gwp: 5.671252263 kgCO2e
-  pct70_gwp: 8.121514563 kgCO2e
-  pct80_gwp: 11.91932427 kgCO2e
-  pct90_gwp: 19.6585355 kgCO2e
+  pct10_gwp: 1.210587554 kgCO2e
+  pct20_gwp: 1.857526431 kgCO2e
+  pct30_gwp: 2.592392247 kgCO2e
+  pct40_gwp: 3.309260603 kgCO2e
+  pct50_gwp: 4.243247258 kgCO2e
+  pct60_gwp: 5.729544445 kgCO2e
+  pct70_gwp: 8.191021587 kgCO2e
+  pct80_gwp: 11.92359703 kgCO2e
+  pct90_gwp: 19.84719465 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Insulation
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-05-23T10:09:04.994064Z'
+  updated_on: '2025-05-27T10:20:32.679370Z'
   use_stored_carbon: OPTIONAL
 compressive_strength: 20 psi
 confirmable_fields:
@@ -332,14 +332,14 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-05-23T21:40:17.595001Z'
+  updated_on: '2025-05-28T06:01:23.833035Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 2.722271076 kgCO2e
 plant_geography:
-- US-GA
 - US-UT
-- US-TX
+- US-GA
 - '003'
+- US-TX
 plant_or_group:
   categories: []
   confirmable_fields: []

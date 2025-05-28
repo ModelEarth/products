@@ -51,7 +51,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '11122000'
-  updated_on: '2025-05-23T10:09:03.770493Z'
+  updated_on: '2025-05-27T10:20:31.494607Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -295,7 +295,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec38861n82
   short_name: North American Structural and Architectural Wood Products
   status: Expired
-  updated_on: '2025-05-23T21:40:17.378163Z'
+  updated_on: '2025-05-28T06:01:23.629530Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 624.0985153 kgCO2e
 plant_geography:

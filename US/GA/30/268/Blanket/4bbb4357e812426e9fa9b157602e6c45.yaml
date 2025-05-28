@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-05-23T10:09:05.238044Z'
+  updated_on: '2025-05-27T10:20:32.897163Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp

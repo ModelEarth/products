@@ -26,7 +26,7 @@ category:
   id: 8ab304f186094beda76ff15fb15d0081
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 4.66 kg
+  mass_per_declared_unit: 4.27 kg
   massless: false
   masterformat: 09 65 00 Resilient Flooring
   may_contain_trusted_vendor_declarations: false
@@ -36,22 +36,22 @@ category:
   openepd: Finishes >> Flooring >> ResilientFlooring
   openepd_name: Finishes >> Flooring >> ResilientFlooring
   parents: []
-  pct10_gwp: 4.598976761 kgCO2e
-  pct20_gwp: 5.95944833 kgCO2e
-  pct30_gwp: 7.035606692 kgCO2e
-  pct40_gwp: 7.731692971 kgCO2e
-  pct50_gwp: 8.486443639 kgCO2e
-  pct60_gwp: 9.877002209 kgCO2e
-  pct70_gwp: 11.45168711 kgCO2e
-  pct80_gwp: 13.43417162 kgCO2e
-  pct90_gwp: 16.83149619 kgCO2e
+  pct10_gwp: 4.594795531 kgCO2e
+  pct20_gwp: 5.838224664 kgCO2e
+  pct30_gwp: 6.91005339 kgCO2e
+  pct40_gwp: 7.881044596 kgCO2e
+  pct50_gwp: 8.641524095 kgCO2e
+  pct60_gwp: 10.19236651 kgCO2e
+  pct70_gwp: 11.58934835 kgCO2e
+  pct80_gwp: 13.6242712 kgCO2e
+  pct90_gwp: 17.07508676 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Resilient Flooring
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161700'
-  updated_on: '2025-05-23T10:09:00.635574Z'
+  updated_on: '2025-05-27T10:20:27.119560Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []

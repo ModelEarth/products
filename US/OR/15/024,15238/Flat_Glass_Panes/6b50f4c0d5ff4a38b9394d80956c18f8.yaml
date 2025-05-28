@@ -33,21 +33,21 @@ category:
   openepd: Openings >> Glazing >> GlassPanes >> FlatGlassPanes
   openepd_name: Openings >> Glazing >> GlassPanes >> FlatGlassPanes
   parents: []
-  pct10_gwp: 1.225794922 kgCO2e
-  pct20_gwp: 1.26620239 kgCO2e
-  pct30_gwp: 1.294385032 kgCO2e
-  pct40_gwp: 1.301976474 kgCO2e
-  pct50_gwp: 1.31658198 kgCO2e
-  pct60_gwp: 1.342315489 kgCO2e
-  pct70_gwp: 1.426845612 kgCO2e
-  pct80_gwp: 1.438369915 kgCO2e
-  pct90_gwp: 1.476008846 kgCO2e
+  pct10_gwp: 1.223524046 kgCO2e
+  pct20_gwp: 1.257464458 kgCO2e
+  pct30_gwp: 1.271885606 kgCO2e
+  pct40_gwp: 1.298301307 kgCO2e
+  pct50_gwp: 1.303807379 kgCO2e
+  pct60_gwp: 1.321172281 kgCO2e
+  pct70_gwp: 1.367674526 kgCO2e
+  pct80_gwp: 1.429150472 kgCO2e
+  pct90_gwp: 1.451058058 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Flat Glass
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-05-23T10:09:09.680291Z'
+  updated_on: '2025-05-27T10:20:37.053014Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -339,8 +339,8 @@ pcr:
 pct80_gwp_per_category_declared_unit: 0.7589660007 kgCO2e
 plant_geography:
 - US-OR
-- US-TX
 - US-PA
+- US-TX
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -351,8 +351,8 @@ plant_or_group:
   is_failed: false
   jurisdiction:
   - US-OR
-  - US-TX
   - US-PA
+  - US-TX
   name: Carlisle, Wichita Falls and Salem
   owned_by:
     address: 400 Guys Run Road, Cheswick, PA

@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30171613'
-  updated_on: '2025-05-23T10:09:09.090524Z'
+  updated_on: '2025-05-27T10:20:36.522613Z'
   use_stored_carbon: ABSENT
 confirmable_fields:
 - impacts__gwp
@@ -425,8 +425,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -522,8 +522,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - US
     - CA
+    - US
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
