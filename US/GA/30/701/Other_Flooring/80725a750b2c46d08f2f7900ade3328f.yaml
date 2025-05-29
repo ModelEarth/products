@@ -49,7 +49,7 @@ category:
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
-  updated_on: '2025-05-28T10:04:51.994652Z'
+  updated_on: '2025-05-29T10:40:24.770707Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -219,7 +219,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3e6jsgyf
   short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
   status: Sunset
-  updated_on: '2025-05-29T06:50:13.994285Z'
+  updated_on: '2025-05-29T22:01:18.757097Z'
   version: '1'
 pct80_gwp_per_category_declared_unit: 22.36558986 kgCO2e
 plant_geography:

@@ -39,19 +39,19 @@ category:
   pct10_gwp: 5.226286945 kgCO2e
   pct20_gwp: 6.31150987 kgCO2e
   pct30_gwp: 7.193005662 kgCO2e
-  pct40_gwp: 8.328409228 kgCO2e
+  pct40_gwp: 8.326991438 kgCO2e
   pct50_gwp: 10.05624338 kgCO2e
-  pct60_gwp: 11.73431683 kgCO2e
-  pct70_gwp: 13.92024591 kgCO2e
-  pct80_gwp: 16.33810585 kgCO2e
-  pct90_gwp: 20.03417486 kgCO2e
+  pct60_gwp: 11.73427797 kgCO2e
+  pct70_gwp: 13.91837491 kgCO2e
+  pct80_gwp: 16.33784322 kgCO2e
+  pct90_gwp: 20.03044572 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Carpet
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-05-28T10:04:52.814347Z'
+  updated_on: '2025-05-29T10:40:25.577724Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -483,8 +483,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

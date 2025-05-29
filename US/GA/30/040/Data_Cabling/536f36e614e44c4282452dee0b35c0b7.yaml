@@ -37,22 +37,22 @@ category:
   openepd: NetworkInfrastructure >> DataCabling
   openepd_name: NetworkInfrastructure >> DataCabling
   parents: []
-  pct10_gwp: 0.1453405512 kgCO2e
+  pct10_gwp: 0.144345068 kgCO2e
   pct20_gwp: 0.2289611424 kgCO2e
-  pct30_gwp: 0.2966540018 kgCO2e
-  pct40_gwp: 0.4773342077 kgCO2e
-  pct50_gwp: 0.7690107934 kgCO2e
-  pct60_gwp: 2.339385585 kgCO2e
-  pct70_gwp: 5.300948187 kgCO2e
-  pct80_gwp: 10.97022517 kgCO2e
-  pct90_gwp: 29.36675522 kgCO2e
+  pct30_gwp: 0.2936675522 kgCO2e
+  pct40_gwp: 0.4628997009 kgCO2e
+  pct50_gwp: 0.767074697 kgCO2e
+  pct60_gwp: 2.264724343 kgCO2e
+  pct70_gwp: 5.257395796 kgCO2e
+  pct80_gwp: 10.7014447 kgCO2e
+  pct90_gwp: 29.86449683 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Data Cabling
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '26121616'
-  updated_on: '2025-05-28T10:04:51.106324Z'
+  updated_on: '2025-05-29T10:40:23.847895Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -334,8 +334,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
