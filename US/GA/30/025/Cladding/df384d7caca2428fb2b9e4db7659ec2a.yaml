@@ -29,22 +29,22 @@ category:
   openepd: Cladding
   openepd_name: Cladding
   parents: []
-  pct10_gwp: 5.169160537 kgCO2e
-  pct20_gwp: 10.69711331 kgCO2e
-  pct30_gwp: 15.47629544 kgCO2e
-  pct40_gwp: 21.28399663 kgCO2e
-  pct50_gwp: 27.25135336 kgCO2e
-  pct60_gwp: 33.26068741 kgCO2e
-  pct70_gwp: 40.36691895 kgCO2e
-  pct80_gwp: 51.23175949 kgCO2e
-  pct90_gwp: 73.12329382 kgCO2e
+  pct10_gwp: 5.139751552 kgCO2e
+  pct20_gwp: 10.65159095 kgCO2e
+  pct30_gwp: 15.42999003 kgCO2e
+  pct40_gwp: 21.15401859 kgCO2e
+  pct50_gwp: 27.10826852 kgCO2e
+  pct60_gwp: 32.60207571 kgCO2e
+  pct70_gwp: 39.90492086 kgCO2e
+  pct80_gwp: 50.64520921 kgCO2e
+  pct90_gwp: 73.45330565 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Cladding
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30151800'
-  updated_on: '2025-05-27T10:20:34.236245Z'
+  updated_on: '2025-05-28T10:04:59.244039Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -188,8 +188,8 @@ impacts: {}
 is_downloadable: false
 is_failed: false
 jurisdiction:
-- US-GA
 - '021'
+- US-GA
 language: en
 lowest_plausible_gwp: 17.609283 kgCO2e
 manufacturer:

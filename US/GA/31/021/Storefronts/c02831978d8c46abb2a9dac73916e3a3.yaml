@@ -3,7 +3,7 @@ applicable_in:
 - '001'
 approved_fields: {}
 are_impacts_locked: true
-best_practice: 0.07024531696 kgCO2e
+best_practice: 7.032101235 kgCO2e
 biogenic_embodied_carbon_z: 0.28879058156387305
 box_id: '1831319917653'
 category:
@@ -49,12 +49,11 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30171613'
-  updated_on: '2025-05-27T10:20:36.522613Z'
+  updated_on: '2025-05-28T10:05:01.726185Z'
   use_stored_carbon: ABSENT
-confirmable_fields:
-- impacts__gwp
+confirmable_fields: []
 confirmed_fields: []
-conservative_estimate: 0.115354683 kgCO2e
+conservative_estimate: 11.54789877 kgCO2e
 corrections_count: 0
 cqd_sync_unlocked: true
 created_on: '2025-04-11T13:07:37.313184Z'
@@ -62,8 +61,8 @@ date_of_issue: '2022-12-01'
 date_validity_ends: '2027-12-01'
 declaration_type: Product EPD
 declared_unit: 1 m2
-description: YES 20 is a complete sash system intended to provide a framing system
-  for single lites of glass.
+description: YHS 50 FS is a high performance monolithic storefront system designed
+  and tested to meet the most demanding conditions.
 developer:
   email: jlevis@sphera.com
   name: James Levis
@@ -139,25 +138,23 @@ developer:
     web_domain: sphera.com
     website: sphera.com
 doc: buildingtransparency.org/e/ec3brzew65
-errors: {}
 excluded: false
 externally_verified: true
-failures:
-  impacts:
-  - GWP is much lower than category's typical values
 file_name: 103.1_YKK_EPD_Aluminum-Storefront-Systems.pdf
-gwp: 0.0928 kgCO2e
-gwp_per_category_declared_unit: 0.0928 kgCO2e
-gwp_per_kg: 0.01342981187 kgCO2e
+gwp: 9.29 kgCO2e
+gwp_per_category_declared_unit: 9.29 kgCO2e
+gwp_per_kg: 1.344428365 kgCO2e
 gwp_z: 0.28879058156387305
 id: e54540fcf809456ba3a8361fabe965aa
 impacts: {}
+includes: []
+industry_standards: []
 is_downloadable: true
 is_duplicate: false
-is_failed: true
+is_failed: false
 jurisdiction:
 - '001'
-lowest_plausible_gwp: 0.07024531696 kgCO2e
+lowest_plausible_gwp: 7.032101235 kgCO2e
 manufacturer:
   address: 270 Riverside Parkway, Austell, GA 30168
   address_line: 270 Riverside Parkway
@@ -224,7 +221,7 @@ matched_plants_count: 0
 material_id: c02831978d8c46abb2a9dac73916e3a3
 multiproduct: true
 my_capabilities: 1
-name: YES 20 1" x 2" Commercial Storefront System
+name: Storefront YHS 50 FS
 not_an_epd: false
 open_xpd_uuid: ec3brzew
 original_data_format: pdf
@@ -234,34 +231,51 @@ owner:
   name: cqd.io Admin
   user_id: cqd.admin@buildingtransparency.org
 pcr:
+  allows_facility_specific_epds: true
+  alt_names:
+  - "Teil B: Anforderungen an die EPD f\xFCr Vorhangfassaden"
+  - Vorhangfassaden
+  attachments:
+    EnglishTranslation: https://app.box.com/file/1314315146117
+    URL: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/a78eb088-45bb-4379-8795-ea6d005bf80d/Vorhangfassaden.pdf?version=00.01.000
   categories: []
   confirmable_fields: []
   confirmed_fields: []
   cqd_sync_unlocked: true
-  created_on: '2020-10-08T14:59:16.946476Z'
-  date_of_issue: '2019-01-04'
-  date_validity_ends: '2024-01-04'
+  created_on: '2025-05-29T01:53:42.395063Z'
+  date_of_issue: '2019-04-01'
+  date_validity_ends: '2024-10-04'
   declared_units: []
-  doc: https://epd-online.com/Pcr/PdfDownload/5376
-  id: 106df2179d2b4f2284a6d46f75e9fd02
+  doc: https://oekobaudat.de/OEKOBAU.DAT/resource/sources/a78eb088-45bb-4379-8795-ea6d005bf80d/Vorhangfassaden.pdf?version=00.01.000
+  id: 1dd8a8337e2a4fe2b1524c22ae21e759
   is_failed: false
   lcia_requirements:
     EF 3.0:
       impacts: []
       jurisdiction:
-      - '001'
+      - 009
+      - AQ
+      - '002'
+      - '150'
+      - '142'
       order: 1
-  name: 'Part B: Requirements on the EPD for Self supporting facade elements based
-    on glazed curtain walls'
-  open_xpd_uuid: ec3h5b93
-  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3h5b93
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 2
+  name: 'Part B: EPD requirements for curtain walls'
+  open_xpd_uuid: ec3md18j
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3md18j
   product_classes: {}
-  short_link: buildingtransparency.org/p/ec3h5b93cy
-  short_name: Self supporting facade elements based on glazed curtain walls
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3md18jm6
+  short_name: Curtain walls
   status: Expired
-  updated_on: '2024-03-08T17:19:45.072602Z'
-  version: 1.0/1.7/1.0
-pct80_gwp_per_category_declared_unit: 0.115354683 kgCO2e
+  updated_on: '2025-05-29T01:53:47.112740Z'
+  version: '1.7'
+pct80_gwp_per_category_declared_unit: 11.54789877 kgCO2e
 plant_geography:
 - US-GA
 plant_or_group:
@@ -365,6 +379,7 @@ plant_or_group:
   updated_on: '2025-05-05T22:00:04.313226Z'
 plant_specific: false
 private: false
+product_classes: {}
 product_specific: true
 program_operator:
   address: 2211 New Market Parkway Southeast, Marietta, GA 30067
@@ -452,13 +467,13 @@ requires_ocr: false
 resource_uses: {}
 sanitizable: true
 short_link: buildingtransparency.org/e/ec3brzew65
-standard_deviation: 0.02679976597 kgCO2e
+standard_deviation: 2.682864503 kgCO2e
 stored_carbon_z: 0.2
 supply_chain_specific: 0.0
 third_party_verified: true
-uncertainty_adjusted_gwp: 0.115354683 kgCO2e
+uncertainty_adjusted_gwp: 11.54789877 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-05-05T21:19:31.845689Z'
+updated_on: '2025-05-29T01:54:15.210010Z'
 use_stored_carbon: false
 verifier:
   email: cooper.mccollum@ul.com
@@ -550,7 +565,6 @@ warnings:
   impacts:
   - Impact set is suspicious by comparing its magnitudes
   - Impact set is suspicious by having equal magnitudes
-  - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   language:

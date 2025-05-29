@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161509'
-  updated_on: '2025-05-27T10:20:28.057639Z'
+  updated_on: '2025-05-28T10:04:53.614889Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -257,26 +257,26 @@ pcr:
   version: '1.1'
 pct80_gwp_per_category_declared_unit: 384.1012614 kgCO2e
 plant_geography:
-- US-FL
-- CA-ON
-- US-MI
-- US-AL
-- US-TX
-- US-UT
 - '003'
-- US-IN
-- US-WI
-- US-MS
-- US-MD
-- US-MN
-- US-OR
-- US-PA
-- US-GA
-- US-IA
+- US-FL
 - US-LA
+- US-AL
 - US-CA
+- US-MD
+- US-IA
+- US-WI
+- US-OR
+- US-IN
+- US-UT
+- US-MI
 - US-OH
+- CA-ON
+- US-MN
+- US-MS
+- US-TX
+- US-PA
 - US-VA
+- US-GA
 plant_or_group:
   categories: []
   confirmable_fields: []

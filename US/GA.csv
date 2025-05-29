@@ -885,6 +885,7 @@ Finishes >> Flooring >> Carpet,EcoWorx® Performance Broadloom Carpet with Solut
 Concrete >> ReadyMix,35CN1,ec3xac08,30349,Clayton County,"502 Lee's Mill Rd, Atlanta, GA 30349, USA",33.609591,-84.408097
 Concrete >> ReadyMix,45CA1,ec3d8y3d,30349,Clayton County,"502 Lee's Mill Rd, Atlanta, GA 30349, USA",33.609591,-84.408097
 Finishes >> Flooring >> Carpet,CQUEST BioX Modular Flooring Tile (North America),ec3mktey,30240,Troup,"1503 Orchard Hill Road, Lagrange, GA 30240",33.002754,-85.054565
+Finishes >> Flooring >> Carpet,CQUESTTMBio Modular Carpet Tile,ec3md7kr,30240,Troup,"1503 Orchard Hill Road, Lagrange, GA 30240",33.002754,-85.054565
 Concrete >> ReadyMix,45CA1PA,ec3pmrfh,30349,Clayton County,"502 Lee's Mill Rd, Atlanta, GA 30349, USA",33.609591,-84.408097
 Concrete >> ReadyMix,45CN1,ec35228m,30349,Clayton County,"502 Lee's Mill Rd, Atlanta, GA 30349, USA",33.609591,-84.408097
 Finishes >> Flooring >> Carpet,EcoLogix® Carpet Tile with Solution Q® or Solution Q Extreme® Face Fiber,ec3fb7xt,,,,,
@@ -4205,7 +4206,9 @@ Finishes >> Flooring >> Carpet,CN-WellBAC® Comfort and Comfort Plus Solution Dy
 Finishes >> Flooring >> Carpet,CN-WellBAC® Function PrintWorks™ N6,ec30x9e0,,,,,
 Finishes >> Flooring >> OtherFlooring,CN-WellBAC® Comfort and Comfort Plus Solution Dyed rN6,ec3s2pbw,,,,,
 ThermalMoistureProtection >> Insulation >> BlanketInsulation,EcoTouch Insulation for Flexible Duct,ec31r63z,30268,Fulton,"7000 McLarin Road, Fairburn, GA 30268",33.53928,-84.61544
-Openings >> Storefronts,"YES 20 1"" x 2"" Commercial Storefront System",ec3brzew,31021,Laurens,"1229 Highway 441 Bypass, Dublin, GA 31021",32.50905,-82.94872
+Finishes >> Flooring >> Carpet,GlasBac Modular Carpet,ec3eb79q,30240,Troup,"1503 Orchard Hill Road, Lagrange, GA 30240",33.002754,-85.054565
+Openings >> Storefronts,Storefront YHS 50 FS,ec3brzew,31021,Laurens,"1229 Highway 441 Bypass, Dublin, GA 31021",32.50905,-82.94872
+Electrical >> ElectricalConduit,"Solid Wall PVC Conduit of Trade Sizes Greater Than or Equal to 2""",ec3ahmje,31792,Thomas County,"1206 Sunset Dr, Thomasville, GA 31792, USA",30.8229896,-83.9984806
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR 5850,ec3yrxr9,,,,,
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR PR370,ec34c0ry,,,,,
 Concrete >> ReadyMix,50CA3.5#67,ec3wam6f,30046,Gwinnett County,"500 Seaboard Industrial Dr, Lawrenceville, GA 30046, USA",33.9699617,-83.96688759999999

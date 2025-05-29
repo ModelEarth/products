@@ -51,7 +51,7 @@ category:
   short_name: Framing
   short_service_life_disclaimer: false
   subcategories: []
-  updated_on: '2025-05-27T10:20:24.805449Z'
+  updated_on: '2025-05-28T10:04:50.290438Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
@@ -292,10 +292,10 @@ pcr:
   version: '2'
 pct80_gwp_per_category_declared_unit: 3130.130322 kgCO2e
 plant_geography:
+- US-IN
 - US
 - US-GA
 - US-NJ
-- US-IN
 plant_or_group:
   categories: []
   confirmable_fields: []

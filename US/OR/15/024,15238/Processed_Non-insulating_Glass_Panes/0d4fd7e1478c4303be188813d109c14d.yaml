@@ -1,0 +1,524 @@
+acid_etched: false
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: true
+best_practice: 19.2266277 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '1685072384691'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2022-05-10T14:05:46Z'
+  declared_unit: 1 m2
+  default_distance: 1437.14062 km
+  default_transport_mode: truck, unspecified
+  description: 'Solid glass panes without internal gaps which have been heat-treated
+    or otherwise substantially processed. Includes:
+
+    1. Coatings including low-e and other coatings (see PCR)
+
+    2. laminating (fire-rated, glass clad polycarbonate, interlayers
+
+    3. Heat treated (heat strengthened, tempered, fire-rated)
+
+    4. Mechanically or chemically processed or fabricated (edging, bending, etching,
+    drilling, notching, cutting, polishing, etc)
+
+    5. combined products of processing in 1-5.'
+  display_name: Processed Non-insulating Glass Panes
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 6daae3d967104f5c8c85199b259f58c8
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 28.1 kg
+  massless: false
+  masterformat: 08 81 00 Glass Glazing
+  may_contain_trusted_vendor_declarations: false
+  name: ProcessedNonInsulatingGlassPanes
+  no_statistics: false
+  obsolete: false
+  openepd: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
+  openepd_name: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
+  parents: []
+  pct10_gwp: 6.175052724 kgCO2e
+  pct20_gwp: 18.21698207 kgCO2e
+  pct30_gwp: 33.79665558 kgCO2e
+  pct40_gwp: 60.35134068 kgCO2e
+  pct50_gwp: 83.37172032 kgCO2e
+  pct60_gwp: 120.824288 kgCO2e
+  pct70_gwp: 149.0736133 kgCO2e
+  pct80_gwp: 187.4893111 kgCO2e
+  pct90_gwp: 278.7277361 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Processed Glass
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-05-28T10:05:02.283881Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 31.5733723 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-10-28T20:41:23.652783Z'
+date_of_issue: '2023-06-14'
+date_validity_ends: '2028-03-22'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: Solarban 60 solar control low-e glass is a flat glass vacuum-coated with
+  low-emissivity coating, designed for commercial and residential building applications.
+  It is a processed glass product that helps control solar heat transmission while
+  allowing light to pass through.
+developer:
+  email: bcassese@scsglobalservices.com
+  name: Beth Cassese
+  org:
+    address: Global Logistics Drive, Lansing, MI 48906
+    address_line: ' Global Logistics Drive, Airport Perimeter Road'
+    admin_district: MI
+    admin_district2: Ingham, Eaton
+    alt_names:
+    - SCS
+    - SCS Global
+    - scsGlobalServices
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-25T13:59:24.810293Z'
+    email_extensions:
+    - scsglobalservices.com
+    enterprise: true
+    id: 58769e2d26d84d8f99bd07fda78bf79b
+    image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+    is_failed: false
+    latitude: 42.76946
+    legal_name: SCS Global Services
+    locality: Lansing
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ingham, Eaton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+      freeformAddress: Global Logistics Drive, Lansing, MI 48906
+      municipality: Lansing
+      municipalitySubdivision: Lansing
+      postalCode: '48906'
+      streetName: Global Logistics Drive, Airport Perimeter Road
+    longitude: -84.5792
+    name: SCS Global Services
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48906'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2024-07-24T17:01:16.978616Z'
+    web_domain: scsglobalservices.com
+    website: https://www.scsglobalservices.com/
+doc: buildingtransparency.org/e/ec3rzcrkpp
+electrochromic: false
+excluded: false
+externally_verified: true
+file_name: vitro-epd-processed-glass-products.pdf
+fire_protection: false
+fire_resistant: false
+gwp: 25.4 kgCO2e
+gwp_per_category_declared_unit: 25.4 kgCO2e
+gwp_per_kg: 1.693333333 kgCO2e
+gwp_z: 0.28879058156387305
+id: b37bd4a0e49e4a8695a9be607089640a
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+laminated: false
+low_emissivity: true
+lowest_plausible_gwp: 19.2266277 kgCO2e
+manufacturer:
+  address: 400 Guys Run Road, Cheswick, PA
+  address_line: 400 Guys Run Road
+  admin_district: PA
+  admin_district2: Allegheny
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/vitro
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-06-03T18:14:43.720754Z'
+  email_extensions:
+  - vitroglazings.com
+  enterprise: true
+  id: 9b4acf8e1121459caab5e7c71c64be81
+  is_failed: false
+  latitude: 40.5561
+  locality: Cheswick, Pittsburgh, Fox Chapel
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Allegheny
+    countrySubdivision: PA
+    countrySubdivisionName: Pennsylvania
+    countryTertiarySubdivision: Harmar
+    extendedPostalCode: '150249464'
+    freeformAddress: 400 Guys Run Road, Cheswick, PA
+    municipality: Cheswick, Pittsburgh, Fox Chapel
+    municipalitySubdivision: Cheswick, Pittsburgh
+    postalCode: 15024,15238
+    streetName: Guys Run Road
+    streetNumber: '400'
+  longitude: -79.86828
+  name: Vitro Architectural Glass
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9b4acf8e1121459caab5e7c71c64be81
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: 15024,15238
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:25:49.825151Z'
+  web_domain: vitroglazings.com
+  website: http://www.vitroglazings.com
+manufacturer_specific: true
+mass_per_declared_unit: 15.0 kg
+matched_plants_count: 1
+material_id: 0d4fd7e1478c4303be188813d109c14d
+multiproduct: true
+my_capabilities: 1
+name: Solarban 60 solar control low-e glass
+not_an_epd: false
+open_xpd_uuid: ec3rzcrk
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3rzcrk
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Processed Glass EPD Requirements'
+  - 'Part B: Processed Glass (North America) 2016'
+  - 'Product Category Rule (PCR) Guidance for Building-Related Products and Services
+    Part B: Processed Glass EPD Requirements'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-07T15:56:52.742103Z'
+  date_of_issue: '2016-08-17'
+  date_validity_ends: '2024-06-30'
+  declared_units:
+  - 1 m2
+  - 1 kg
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=35842
+  id: b92d89dd3e90403093e9cfb7bf90cb32
+  is_failed: false
+  lcia_requirements:
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 1
+  name: 'Part B: Processed Glass'
+  open_xpd_uuid: ec3p1b94
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3p1b94
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec3p1b9494
+  short_name: 'Part B: Processed Glass'
+  status: Expired
+  updated_on: '2024-07-01T00:04:17.250793Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 31.5733723 kgCO2e
+plant_geography:
+- US-OR
+- US-PA
+- US-TX
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-10-05T14:28:05.287026Z'
+  id: cf1682e449dc4422b4c5981676cd79ee
+  is_failed: false
+  jurisdiction:
+  - US-OR
+  - US-TX
+  - US-PA
+  name: Carlisle, Wichita Falls and Salem
+  owned_by:
+    address: 400 Guys Run Road, Cheswick, PA
+    address_line: 400 Guys Run Road
+    admin_district: PA
+    admin_district2: Allegheny
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/vitro
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-06-03T18:14:43.720754Z'
+    email_extensions:
+    - vitroglazings.com
+    enterprise: true
+    id: 9b4acf8e1121459caab5e7c71c64be81
+    is_failed: false
+    latitude: 40.5561
+    locality: Cheswick, Pittsburgh, Fox Chapel
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Allegheny
+      countrySubdivision: PA
+      countrySubdivisionName: Pennsylvania
+      countryTertiarySubdivision: Harmar
+      extendedPostalCode: '150249464'
+      freeformAddress: 400 Guys Run Road, Cheswick, PA
+      municipality: Cheswick, Pittsburgh, Fox Chapel
+      municipalitySubdivision: Cheswick, Pittsburgh
+      postalCode: 15024,15238
+      streetName: Guys Run Road
+      streetNumber: '400'
+    longitude: -79.86828
+    name: Vitro Architectural Glass
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9b4acf8e1121459caab5e7c71c64be81
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 15024,15238
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:25:49.825151Z'
+    web_domain: vitroglazings.com
+    website: http://www.vitroglazings.com
+  plants_count: 3
+  total_epds: 3
+  type: PlantGroup
+  updated_on: '2025-05-28T22:01:06.180608Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-08787
+pyrolytic_coated: false
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3rzcrkpp
+sputter_coat: false
+standard_deviation: 7.335280772 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+tempered: false
+third_party_verified: true
+toughened: false
+uncertainty_adjusted_gwp: 31.5733723 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-05-28T20:20:25.424517Z'
+use_stored_carbon: false
+verifier:
+  email: lindita.bushi@athenasmi.org
+  name: Lindita Bushi
+  org:
+    address: 119 Ross Avenue, Ottawa, ON K1Y0N6
+    address_line: 119 Ross Avenue
+    admin_district: 'ON'
+    admin_district2: Ottawa
+    alt_names:
+    - Athena
+    - Athena Sustainable Materials
+    - ASMI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T22:28:52.429990Z'
+    email_extensions:
+    - athenasmi.org
+    enterprise: true
+    id: 147e1a4c1dd1410fa996fcd07477e3e4
+    image: https://static.buildingtransparency.org/images/2c8c6248-00b5-4d92-b61e-f2f0cbbd0820.png
+    is_failed: false
+    latitude: 45.398754
+    legal_name: Athena Sustainable Materials Institute
+    locality: Ottawa
+    location:
+      boundingBox:
+        entity: position
+        northEast: 45.398761,-75.737346
+        southWest: 45.398554,-75.737470
+      buildingNumber: '119'
+      country: Canada
+      countryCode: CA
+      countryCodeISO3: CAN
+      countrySecondarySubdivision: Ottawa
+      countrySubdivision: 'ON'
+      countrySubdivisionName: Ontario
+      extendedPostalCode: K1Y0N6
+      freeformAddress: 119 Ross Avenue, Ottawa, ON K1Y0N6
+      municipality: Ottawa
+      municipalitySubdivision: Ottawa
+      postalCode: K1Y
+      routeNumbers: []
+      street: Ross Avenue
+      streetName: Ross Avenue
+      streetNameAndNumber: 119 Ross Avenue
+      streetNumber: '119'
+    longitude: -75.737465
+    name: Athena Sustainable Materials Institute
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/147e1a4c1dd1410fa996fcd07477e3e4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: K1Y
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-06-03T19:19:00.256226Z'
+    web_domain: athenasmi.org
+    website: athenasmi.org
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - Impact set is suspicious by having equal magnitudes
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified

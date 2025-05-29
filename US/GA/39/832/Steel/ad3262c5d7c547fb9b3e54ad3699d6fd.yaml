@@ -34,21 +34,21 @@ category:
   openepd: Steel
   openepd_name: Steel
   parents: []
-  pct10_gwp: 724.9274473 kgCO2e
-  pct20_gwp: 1010.732884 kgCO2e
-  pct30_gwp: 1324.012413 kgCO2e
-  pct40_gwp: 1683.898108 kgCO2e
-  pct50_gwp: 2041.270675 kgCO2e
-  pct60_gwp: 2431.940843 kgCO2e
-  pct70_gwp: 2955.245143 kgCO2e
-  pct80_gwp: 3442.246395 kgCO2e
-  pct90_gwp: 4037.297917 kgCO2e
+  pct10_gwp: 726.9312903 kgCO2e
+  pct20_gwp: 1012.540736 kgCO2e
+  pct30_gwp: 1323.542304 kgCO2e
+  pct40_gwp: 1685.199975 kgCO2e
+  pct50_gwp: 2039.770684 kgCO2e
+  pct60_gwp: 2431.779909 kgCO2e
+  pct70_gwp: 2947.992299 kgCO2e
+  pct80_gwp: 3438.526179 kgCO2e
+  pct90_gwp: 4036.693531 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Steel
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-05-27T10:20:22.625393Z'
+  updated_on: '2025-05-28T10:04:49.050624Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
@@ -502,8 +502,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-05-27T10:20:32.833369Z'
+  updated_on: '2025-05-28T10:04:57.352517Z'
   use_stored_carbon: OPTIONAL
 compressive_strength: 59.99999999999999 psi
 confirmable_fields:
@@ -319,7 +319,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-05-28T06:01:23.833035Z'
+  updated_on: '2025-05-29T06:50:14.070703Z'
   version: '2'
 pcr_notes: These results are for an unlaminated product, but two-sided lamination
   adds roughly 2% to the impact, and can safely be ignored.

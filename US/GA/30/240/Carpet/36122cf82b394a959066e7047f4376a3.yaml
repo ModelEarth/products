@@ -51,7 +51,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-05-27T10:20:27.300945Z'
+  updated_on: '2025-05-28T10:04:52.814347Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -416,10 +416,10 @@ plant_or_group:
     web_domain: interface.com
     website: www.interface.com
   postal_code: '30240'
-  total_epds: 181
+  total_epds: 183
   type: Plant
   units: SI
-  updated_on: '2024-06-20T22:00:03.041568Z'
+  updated_on: '2025-05-28T22:01:05.951353Z'
 plant_specific: true
 private: false
 product_classes: {}

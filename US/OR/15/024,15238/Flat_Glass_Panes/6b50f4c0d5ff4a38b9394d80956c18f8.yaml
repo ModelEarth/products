@@ -47,7 +47,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-05-27T10:20:37.053014Z'
+  updated_on: '2025-05-28T10:05:02.381038Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -414,9 +414,9 @@ plant_or_group:
     web_domain: vitroglazings.com
     website: http://www.vitroglazings.com
   plants_count: 3
-  total_epds: 2
+  total_epds: 3
   type: PlantGroup
-  updated_on: '2025-03-17T09:19:18.443910Z'
+  updated_on: '2025-05-28T22:01:06.180608Z'
 plant_specific: false
 private: false
 product_specific: false

@@ -37,22 +37,22 @@ category:
   openepd: Steel >> StructuralSteel >> HotRolledSections
   openepd_name: Steel >> StructuralSteel >> HotRolledSections
   parents: []
-  pct10_gwp: 526.9680781 kgCO2e
-  pct20_gwp: 608.081589 kgCO2e
-  pct30_gwp: 707.6424201 kgCO2e
-  pct40_gwp: 942.0317577 kgCO2e
-  pct50_gwp: 1053.722292 kgCO2e
-  pct60_gwp: 1140.661036 kgCO2e
-  pct70_gwp: 1223.909616 kgCO2e
-  pct80_gwp: 1325.480268 kgCO2e
-  pct90_gwp: 1932.883474 kgCO2e
+  pct10_gwp: 525.8016531 kgCO2e
+  pct20_gwp: 609.8507589 kgCO2e
+  pct30_gwp: 718.1384731 kgCO2e
+  pct40_gwp: 958.0736478 kgCO2e
+  pct50_gwp: 1055.908573 kgCO2e
+  pct60_gwp: 1140.745982 kgCO2e
+  pct70_gwp: 1225.465537 kgCO2e
+  pct80_gwp: 1325.81285 kgCO2e
+  pct90_gwp: 1935.229798 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Hot-Rolled Sections
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30102304'
-  updated_on: '2025-05-27T10:20:24.133995Z'
+  updated_on: '2025-05-28T10:04:49.708678Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
