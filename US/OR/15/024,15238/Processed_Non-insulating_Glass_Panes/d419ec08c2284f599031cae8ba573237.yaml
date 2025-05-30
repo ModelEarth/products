@@ -60,7 +60,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-05-29T10:40:34.534099Z'
+  updated_on: '2025-05-30T10:27:45.190931Z'
   use_stored_carbon: ABSENT
 confirmable_fields:
 - impacts__gwp
@@ -306,8 +306,8 @@ plant_or_group:
   id: cf1682e449dc4422b4c5981676cd79ee
   is_failed: false
   jurisdiction:
-  - US-PA
   - US-TX
+  - US-PA
   - US-OR
   name: Carlisle, Wichita Falls and Salem
   owned_by:
