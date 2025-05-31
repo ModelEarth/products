@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30103623'
-  updated_on: '2025-05-30T10:27:33.038376Z'
+  updated_on: '2025-05-31T10:50:57.293246Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
@@ -453,8 +453,7 @@ verifier:
   email: dstaaf@labelingsustainability.com
   name: Denice Viktoria Staaf
   org:
-    address: Mexico City
-    admin_district: Mexico City
+    address: Mexico City, Mexico
     alt_names:
     - Labeling Sustainability, Inc.
     confirmable_fields: []
@@ -465,17 +464,16 @@ verifier:
     enterprise: false
     horizontal_logo: https://static.buildingtransparency.org/images/50ec874ff62944818b2ef9f6335d42b4.png
     id: ae67206ab2024fa1b24e976b04855770
+    image: https://static.buildingtransparency.org/images/c1f3d11cc51a4c4e94e64c0e8cb7b11c.png
     is_failed: false
-    latitude: 19.43268
+    latitude: 19.43267822265625
     locality: Mexico City
     location:
-      country: Mexico
-      countryCode: MX
-      countryCodeISO3: MEX
-      countrySubdivision: Mexico City
-      freeformAddress: Mexico City
-      municipality: Mexico City
-    longitude: -99.13421
+      countryRegion: Mexico
+      countryRegionIso2: MX
+      formattedAddress: Mexico City, Mexico
+      locality: Mexico City
+    longitude: -99.13420867919922
     name: Labeling Sustainability Inc.
     original_ec3_link: https://buildingtransparency.org/ec3/organizations/ae67206ab2024fa1b24e976b04855770
     password_login_allowed: true
@@ -498,7 +496,7 @@ verifier:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: true
     primary_activity_verifier: true
-    updated_on: '2024-07-24T16:57:53.588178Z'
+    updated_on: '2025-05-30T23:44:38.423020Z'
     web_domain: labelingsustainability.com
     website: labelingsustainability.com
 warnings:

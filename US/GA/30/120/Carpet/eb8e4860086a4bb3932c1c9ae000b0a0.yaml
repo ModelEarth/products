@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-05-30T10:27:36.475966Z'
+  updated_on: '2025-05-31T10:51:00.909476Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -202,7 +202,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3rwzf4at
   short_name: Construction products and construction services (EN 15804:A1)
   status: Expired
-  updated_on: '2025-05-30T22:00:17.071639Z'
+  updated_on: '2025-05-31T22:10:04.409183Z'
   version: '2.34'
 pct80_gwp_per_category_declared_unit: 11.95824227 kgCO2e
 plant_geography:
