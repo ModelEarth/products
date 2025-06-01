@@ -35,22 +35,22 @@ category:
   openepd: ManufacturingInputs >> CementitiousMaterials >> Cement
   openepd_name: ManufacturingInputs >> CementitiousMaterials >> Cement
   parents: []
-  pct10_gwp: 417.631822 kgCO2e
-  pct20_gwp: 647.7940937 kgCO2e
-  pct30_gwp: 730.8806362 kgCO2e
-  pct40_gwp: 777.0644636 kgCO2e
-  pct50_gwp: 821.0856603 kgCO2e
-  pct60_gwp: 864.7122273 kgCO2e
-  pct70_gwp: 909.78098 kgCO2e
-  pct80_gwp: 966.3234433 kgCO2e
-  pct90_gwp: 1050.354014 kgCO2e
+  pct10_gwp: 415.6263077 kgCO2e
+  pct20_gwp: 643.6758265 kgCO2e
+  pct30_gwp: 730.5237985 kgCO2e
+  pct40_gwp: 778.1732064 kgCO2e
+  pct50_gwp: 824.6825146 kgCO2e
+  pct60_gwp: 868.6963274 kgCO2e
+  pct70_gwp: 912.5552865 kgCO2e
+  pct80_gwp: 967.4431679 kgCO2e
+  pct90_gwp: 1052.749998 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Cement
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30111601'
-  updated_on: '2025-05-31T10:50:54.328448Z'
+  updated_on: '2025-06-01T10:33:11.380017Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -452,8 +452,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

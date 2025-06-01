@@ -10661,11 +10661,15 @@ Concrete >> ReadyMix,0741AL,ec3sszdb,97132,Yamhill,"Northeast Wynooski Road, New
 Concrete >> ReadyMix,0570,ec3k1cem,97132,Yamhill,"Northeast Wynooski Road, Newberg, OR 97132",45.28585,-122.94998
 Concrete >> ReadyMix,0726,ec3qw1qf,97132,Yamhill,"Northeast Wynooski Road, Newberg, OR 97132",45.28585,-122.94998
 Concrete >> ReadyMix,5597C,ec38wpr3,97132,Yamhill,"Northeast Wynooski Road, Newberg, OR 97132",45.28585,-122.94998
+Asphalt,OR53D30000,ec3u3cen,97060,Multnomah County,"5700 NE Sundial Rd, Troutdale, OR 97060, USA",45.563661,-122.410523
 Concrete >> ReadyMix,0327FS,ec3y7wb2,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
 Concrete >> ReadyMix,5468FS,ec3d5me1,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
 Asphalt,B2013.03(2022),ec3r2y4w,97760,Crook County,"8500 Lone Pine Rd, Terrebonne, OR 97760, USA",44.381808,-121.034648
 Concrete >> ReadyMix,7730FSLC,ec3dck7h,97210,Multnomah County,"5034N NW Front Ave, Portland, OR 97210, USA",45.5616136,-122.7321259
+Asphalt,OR54D20000,ec3pfzy2,97140,Washington County,"12000 SW Tonquin Rd, Sherwood, OR 97140, USA",45.3469303,-122.7986107
+Asphalt,OR53D3000,ec3zp1cd,97140,Washington County,"12000 SW Tonquin Rd, Sherwood, OR 97140, USA",45.3469303,-122.7986107
 Concrete >> ReadyMix,16LCGC30,ec37w2uz,97502,Jackson County,"3959 Hamrick Rd, Central Point, OR 97502, USA",42.3750131,-122.8940946
+Asphalt,OR52D3000,ec3dq78c,97140,Washington County,"12000 SW Tonquin Rd, Sherwood, OR 97140, USA",45.3469303,-122.7986107
 Concrete >> ReadyMix,16L45GEP6KM,ec37eg0c,97502,Jackson County,"3959 Hamrick Rd, Central Point, OR 97502, USA",42.3750131,-122.8940946
 Concrete >> ReadyMix,16LCGC30MC,ec3pfmd5,97502,Jackson County,"3959 Hamrick Rd, Central Point, OR 97502, USA",42.3750131,-122.8940946
 Concrete >> ReadyMix,16L35MNA6KM,ec39w0az,97502,Jackson County,"3959 Hamrick Rd, Central Point, OR 97502, USA",42.3750131,-122.8940946
@@ -10674,6 +10678,8 @@ Concrete >> ReadyMix,5597FS,ec3pxtp4,97015,Clackamas County,"11210 SE Jennifer S
 Concrete >> ReadyMix,2867PFS,ec3t15tw,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
 Concrete >> ReadyMix,0208FS,ec3s6cny,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
 Concrete >> ReadyMix,0333FS,ec31bkj6,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
+Asphalt,OR54D20000,ec31htn9,97060,Multnomah County,"5700 NE Sundial Rd, Troutdale, OR 97060, USA",45.563661,-122.410523
+Asphalt,OR53D30000,ec3m9cb2,97060,Multnomah County,"5700 NE Sundial Rd, Troutdale, OR 97060, USA",45.563661,-122.410523
 Concrete >> ReadyMix,0327FS,ec3b59gg,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
 Concrete >> ReadyMix,2875PFS,ec3gjr2b,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
 Concrete >> ReadyMix,5241FS,ec3k1892,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
