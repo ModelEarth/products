@@ -26,7 +26,7 @@ category:
   id: 56f3c898f94b459eb18feadeb792ab88
   includes_b1_stage: true
   lcia_uncertainty: 0.15
-  mass_per_declared_unit: 1.9 kg
+  mass_per_declared_unit: 2.04 kg
   massless: false
   masterformat: 07 21 13 Board Insulation
   may_contain_trusted_vendor_declarations: false
@@ -36,22 +36,22 @@ category:
   openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
   openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
   parents: []
-  pct10_gwp: 2.154577702 kgCO2e
-  pct20_gwp: 2.820583479 kgCO2e
-  pct30_gwp: 3.441459566 kgCO2e
-  pct40_gwp: 4.216473434 kgCO2e
-  pct50_gwp: 5.340644448 kgCO2e
-  pct60_gwp: 6.968100791 kgCO2e
-  pct70_gwp: 8.896829682 kgCO2e
+  pct10_gwp: 2.147397216 kgCO2e
+  pct20_gwp: 2.817794154 kgCO2e
+  pct30_gwp: 3.409230528 kgCO2e
+  pct40_gwp: 4.221337543 kgCO2e
+  pct50_gwp: 5.363587743 kgCO2e
+  pct60_gwp: 6.978291797 kgCO2e
+  pct70_gwp: 8.942078109 kgCO2e
   pct80_gwp: 11.77273456 kgCO2e
-  pct90_gwp: 16.15970599 kgCO2e
+  pct90_gwp: 16.12884425 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Board
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-06-01T10:33:22.160223Z'
+  updated_on: '2025-06-02T10:07:36.505736Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -256,7 +256,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-06-01T22:10:04.734267Z'
+  updated_on: '2025-06-02T21:50:09.967079Z'
   version: '2'
 pcr_notes: 'Embodied GWP per declared unit = GWP_func * CS_factor, where:
 
@@ -269,11 +269,11 @@ pcr_notes: 'Embodied GWP per declared unit = GWP_func * CS_factor, where:
   CS_factor scales with the mass of product. See section 4.3 of the EPD.'
 pct80_gwp_per_category_declared_unit: 78.85291388 kgCO2e
 plant_geography:
-- US-OH
 - US-IL
 - CA-QC
-- US-OR
 - MX
+- US-OR
+- US-OH
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -283,11 +283,11 @@ plant_or_group:
   id: 70bd81f51ae042d486232ab9e06960dd
   is_failed: false
   jurisdiction:
-  - US-OH
   - US-IL
+  - CA-QC
   - MX
   - US-OR
-  - CA-QC
+  - US-OH
   name: Tallmadge OH, Rockford, IL, Monterrey, Gresham, Valleyfield
   owned_by:
     address: Toledo, OH, USA

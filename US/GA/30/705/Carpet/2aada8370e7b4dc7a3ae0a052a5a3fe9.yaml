@@ -36,19 +36,19 @@ category:
   pct10_gwp: 5.226286945 kgCO2e
   pct20_gwp: 6.31150987 kgCO2e
   pct30_gwp: 7.193005662 kgCO2e
-  pct40_gwp: 8.326991438 kgCO2e
-  pct50_gwp: 10.05624338 kgCO2e
-  pct60_gwp: 11.73427797 kgCO2e
-  pct70_gwp: 13.91837491 kgCO2e
-  pct80_gwp: 16.33784322 kgCO2e
-  pct90_gwp: 20.03044572 kgCO2e
+  pct40_gwp: 8.324155857 kgCO2e
+  pct50_gwp: 10.0526477 kgCO2e
+  pct60_gwp: 11.72306077 kgCO2e
+  pct70_gwp: 13.90656382 kgCO2e
+  pct80_gwp: 16.33235403 kgCO2e
+  pct90_gwp: 20.03417486 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Carpet
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-06-01T10:33:17.707466Z'
+  updated_on: '2025-06-02T10:07:32.111075Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -341,7 +341,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3e6jsgyf
   short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
   status: Sunset
-  updated_on: '2025-06-01T22:10:04.656016Z'
+  updated_on: '2025-06-02T21:50:09.877517Z'
   version: '1'
 pct80_gwp_per_category_declared_unit: 134.8584871 kgCO2e
 plant_geography:

@@ -53,7 +53,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-01T10:32:59.889821Z'
+  updated_on: '2025-06-02T10:07:14.720719Z'
   use_stored_carbon: ABSENT
 concrete_air_entrain: false
 concrete_co2_entrain: false
@@ -288,7 +288,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3n3h3t5z
   short_name: Concrete
   status: Expired
-  updated_on: '2025-06-01T22:24:27.872705Z'
+  updated_on: '2025-06-02T22:20:24.769596Z'
   version: '2.1'
 pct80_gwp_per_category_declared_unit: 398.965617 kgCO2e
 plant_geography:

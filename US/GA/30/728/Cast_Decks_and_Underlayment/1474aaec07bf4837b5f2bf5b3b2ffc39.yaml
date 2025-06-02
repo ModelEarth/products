@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30130000'
-  updated_on: '2025-06-01T10:33:11.500140Z'
+  updated_on: '2025-06-02T10:07:26.012429Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -133,8 +133,8 @@ developer:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - US
     - CA
+    - US
     postal_code: '19428'
     primary_activity_builder: false
     primary_activity_design: false
@@ -441,8 +441,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false
@@ -544,8 +544,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - US
     - CA
+    - US
     postal_code: '19428'
     primary_activity_builder: false
     primary_activity_design: false
