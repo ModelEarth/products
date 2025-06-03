@@ -47,7 +47,7 @@ category:
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-06-02T10:07:33.518744Z'
+  updated_on: '2025-06-03T10:14:40.845101Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -59,12 +59,14 @@ date_of_issue: '2024-08-26'
 date_validity_ends: '2029-08-26'
 declaration_type: Product EPD
 declared_unit: 6 m2
-density: 1200 kg / m^3
-description: "BEHR\xAE Bonding Primer has advanced chemistry to provide a sound anchor\
-  \ for topcoats while reducing or potentially eliminating the need for sanding dense\
-  \ and glossy surfaces. This water-based primer can be used under epoxies, lacquers,\
-  \ products containing xylene or other hot solvents, provided it's allowed to dry\
-  \ for 24 hours before topcoating and tested for compatibility."
+density: 1200 kg / m3
+description: "BEHR\xAE Interior/Exterior Bonding Primer is specifically formulated\
+  \ to bond to a variety of \u2018tough-to-paint\u2019 surfaces. Its advanced chemistry\
+  \ provides a sound anchor for topcoats while reducing or potentially eliminating\
+  \ the need for sanding dense and glossy surfaces. This product may be used under\
+  \ epoxies, lacquers, products containing xylene or other hot solvents, provided\
+  \ it\u2019s allowed to dry for 24 hours before topcoating and tested for compatibility\
+  \ in an inconspicuous area before full coat application."
 developer:
   email: maggie@wapsustainability.com
   name: Maggie Wildnauer
@@ -169,8 +171,9 @@ gwp_per_category_declared_unit: 0.2866666667 kgCO2e
 gwp_per_kg: 2.047619048 kgCO2e
 gwp_z: 0.28879058156387305
 id: eb33c15bebf0422ab1f52ddd46889157
-image: https://static.buildingtransparency.org/images/a937c9160e514ab5a108ee966b98d450.png
+image: https://static.buildingtransparency.org/images/944f6198685f4068995f4dd02fe98a2f.png
 impacts: {}
+industry_standards: []
 is_downloadable: true
 is_duplicate: false
 is_failed: false
@@ -279,7 +282,7 @@ matched_plants_count: 1
 material_id: 3bfc37822e0940518cd79e5b5ccdf382
 multiproduct: false
 my_capabilities: 1
-name: BEHR 432
+name: "BEHR\xAE Interior/Exterior Bonding Primer"
 not_an_epd: false
 open_xpd_uuid: ec3y91d1
 original_data_format: pdf_mixed
@@ -323,10 +326,10 @@ pcr:
 pct80_gwp_per_category_declared_unit: 0.3563398973 kgCO2e
 plant_geography:
 - US
-- US-PA
-- US-IL
 - US-CA
 - US-TX
+- US-IL
+- US-PA
 - US-GA
 plant_or_group:
   categories: []
@@ -436,11 +439,12 @@ plant_or_group:
     web_domain: behr.com
     website: https://www.behr.com/pro
   plants_count: 5
-  total_epds: 75
+  total_epds: 74
   type: PlantGroup
-  updated_on: '2025-05-07T17:50:17.959834Z'
+  updated_on: '2025-06-03T22:00:03.290529Z'
 plant_specific: false
 private: false
+product_classes: {}
 product_specific: true
 program_operator:
   address: 2211 New Market Parkway Southeast, Marietta, GA 30067
@@ -501,8 +505,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -529,13 +533,14 @@ requires_ocr: false
 resource_uses: {}
 sanitizable: true
 short_link: buildingtransparency.org/e/ec3y91d1mz
+sku: '432'
 standard_deviation: 0.4967198003 kgCO2e
 stored_carbon_z: 0.2
 supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 2.138039384 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-05-01T22:55:14.099347Z'
+updated_on: '2025-06-03T21:15:17.079020Z'
 use_stored_carbon: false
 verifier:
   email: cooper.mccollum@ul.com
@@ -599,8 +604,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -623,6 +628,7 @@ verifier:
     website: https://www.ul.com/
 warnings:
   impacts:
+  - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   language:

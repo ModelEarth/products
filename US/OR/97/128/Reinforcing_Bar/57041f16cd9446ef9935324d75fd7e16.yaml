@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30103623'
-  updated_on: '2025-06-02T10:07:28.551378Z'
+  updated_on: '2025-06-03T10:14:34.542625Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -183,15 +183,16 @@ jurisdiction:
 language: en
 lowest_plausible_gwp: 408.4763511 kgCO2e
 manufacturer:
-  address: Woodstock Mead, Basingstoke, RG22 4YW
-  address_line: ' Woodstock Mead'
-  admin_district: ENG
-  admin_district2: Hampshire
+  address: 3200 Oregon 99W, McMinnville, OR 97128
+  address_line: 3200 Oregon 99W, Northeast Highway 99W, State Highway 99W, Oregon
+    State Highway 99W
+  admin_district: OR
+  admin_district2: Yamhill
   alt_names:
   - Cascade Steel Rolling Mills, Inc.
   confirmable_fields: []
   confirmed_fields: []
-  country: GB
+  country: US
   cqd_sync_unlocked: true
   created_on: '2019-07-18T15:02:30.213708Z'
   email_extensions:
@@ -200,27 +201,31 @@ manufacturer:
   enterprise: true
   id: 21357e3b2139409b958407a7ca5d845a
   is_failed: false
-  latitude: 51.23288
-  locality: Basingstoke
+  latitude: 45.23049
+  locality: McMinnville
   location:
-    country: United Kingdom
-    countryCode: GB
-    countryCodeISO3: GBR
-    countrySecondarySubdivision: Hampshire
-    countrySubdivision: ENG
-    countrySubdivisionName: England
-    extendedPostalCode: RG22 4YW
-    freeformAddress: Woodstock Mead, Basingstoke, RG22 4YW
-    municipality: Basingstoke
-    municipalitySubdivision: Basingstoke
-    postalCode: RG22
-    streetName: Woodstock Mead
-  longitude: -1.1325
+    country: United States Of America
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Yamhill
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    countryTertiarySubdivision: McMinnville
+    extendedPostalCode: 971289330,971289399
+    freeformAddress: 3200 Oregon 99W, McMinnville, OR 97128
+    municipality: McMinnville
+    municipalitySubdivision: McMinnville
+    postalCode: '97128'
+    streetName: Oregon 99W, Northeast Highway 99W, State Highway 99W, Oregon State
+      Highway 99W
+    streetNumber: '3200'
+  longitude: -123.16547
   name: Cascade Steel Rolling Mills, Inc.
+  org_type: Public
   original_ec3_link: https://buildingtransparency.org/ec3/organizations/21357e3b2139409b958407a7ca5d845a
   password_login_allowed: true
   pilot_all_employees: false
-  postal_code: RG22
+  postal_code: '97128'
   primary_activity_builder: false
   primary_activity_design: false
   primary_activity_digitization_qa: false
@@ -237,9 +242,9 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2024-04-16T20:53:49.640499Z'
+  updated_on: '2025-06-03T17:40:52.201109Z'
   web_domain: schn.com
-  website: schn.com
+  website: cascadesteel.com
 manufacturer_specific: true
 mass_per_declared_unit: 1000 kg
 matched_plants_count: 0
@@ -343,15 +348,16 @@ plant_or_group:
   name: McMinnville, OR
   openepd_id: 84QR6RJM+5R.schn.com
   owned_by:
-    address: Woodstock Mead, Basingstoke, RG22 4YW
-    address_line: ' Woodstock Mead'
-    admin_district: ENG
-    admin_district2: Hampshire
+    address: 3200 Oregon 99W, McMinnville, OR 97128
+    address_line: 3200 Oregon 99W, Northeast Highway 99W, State Highway 99W, Oregon
+      State Highway 99W
+    admin_district: OR
+    admin_district2: Yamhill
     alt_names:
     - Cascade Steel Rolling Mills, Inc.
     confirmable_fields: []
     confirmed_fields: []
-    country: GB
+    country: US
     cqd_sync_unlocked: true
     created_on: '2019-07-18T15:02:30.213708Z'
     email_extensions:
@@ -360,27 +366,31 @@ plant_or_group:
     enterprise: true
     id: 21357e3b2139409b958407a7ca5d845a
     is_failed: false
-    latitude: 51.23288
-    locality: Basingstoke
+    latitude: 45.23049
+    locality: McMinnville
     location:
-      country: United Kingdom
-      countryCode: GB
-      countryCodeISO3: GBR
-      countrySecondarySubdivision: Hampshire
-      countrySubdivision: ENG
-      countrySubdivisionName: England
-      extendedPostalCode: RG22 4YW
-      freeformAddress: Woodstock Mead, Basingstoke, RG22 4YW
-      municipality: Basingstoke
-      municipalitySubdivision: Basingstoke
-      postalCode: RG22
-      streetName: Woodstock Mead
-    longitude: -1.1325
+      country: United States Of America
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Yamhill
+      countrySubdivision: OR
+      countrySubdivisionName: Oregon
+      countryTertiarySubdivision: McMinnville
+      extendedPostalCode: 971289330,971289399
+      freeformAddress: 3200 Oregon 99W, McMinnville, OR 97128
+      municipality: McMinnville
+      municipalitySubdivision: McMinnville
+      postalCode: '97128'
+      streetName: Oregon 99W, Northeast Highway 99W, State Highway 99W, Oregon State
+        Highway 99W
+      streetNumber: '3200'
+    longitude: -123.16547
     name: Cascade Steel Rolling Mills, Inc.
+    org_type: Public
     original_ec3_link: https://buildingtransparency.org/ec3/organizations/21357e3b2139409b958407a7ca5d845a
     password_login_allowed: true
     pilot_all_employees: false
-    postal_code: RG22
+    postal_code: '97128'
     primary_activity_builder: false
     primary_activity_design: false
     primary_activity_digitization_qa: false
@@ -397,9 +407,9 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2024-04-16T20:53:49.640499Z'
+    updated_on: '2025-06-03T17:40:52.201109Z'
     web_domain: schn.com
-    website: schn.com
+    website: cascadesteel.com
   postal_code: '97128'
   total_epds: 5
   type: Plant
@@ -499,13 +509,14 @@ short_link: buildingtransparency.org/e/ec36n7fu37
 standard_deviation: 31.51574249 kgCO2e
 steel_astm_marking: A615, A706
 steel_fabricated: false
+steel_making_route_eaf: true
 steel_recycled_content: 0.983
 stored_carbon_z: 0.2
 supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 461.5236489 kgCO2e
 uncertainty_factor: 1.0609739054796394
-updated_on: '2025-01-14T19:01:03.494749Z'
+updated_on: '2025-06-03T17:30:49.984953Z'
 use_stored_carbon: false
 verifier:
   email: t.gloria@industrial-ecology.com

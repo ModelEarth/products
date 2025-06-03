@@ -45,7 +45,7 @@ category:
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-06-02T10:07:33.518744Z'
+  updated_on: '2025-06-03T10:14:40.845101Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -206,10 +206,10 @@ owner:
   user_id: cqd.admin@buildingtransparency.org
 plant_geography:
 - US
-- US-PA
-- US-IL
 - US-CA
 - US-TX
+- US-IL
+- US-PA
 - US-GA
 plant_or_group:
   categories: []
@@ -319,9 +319,9 @@ plant_or_group:
     web_domain: behr.com
     website: https://www.behr.com/pro
   plants_count: 5
-  total_epds: 75
+  total_epds: 74
   type: PlantGroup
-  updated_on: '2025-05-07T17:50:17.959834Z'
+  updated_on: '2025-06-03T22:00:03.290529Z'
 plant_specific: false
 private: false
 product_classes: {}

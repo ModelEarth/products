@@ -47,7 +47,7 @@ category:
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-06-02T10:07:33.518744Z'
+  updated_on: '2025-06-03T10:14:40.845101Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -59,13 +59,13 @@ date_of_issue: '2024-10-04'
 date_validity_ends: '2029-10-04'
 declaration_type: Product EPD
 declared_unit: 6 m2
-density: 1200 kg / m^3
-description: "KILZ 3\xAE Premium Primer is a superior quality, fast drying, low odor,\
+density: 1200 kg / m3
+description: "KILZ\xAE PREMIUM primer is a superior quality, fast drying, low odor,\
   \ very low VOC, water-based primer-sealer-stainblocker. It has excellent adhesion\
   \ and provides a mildew resistant coating making it ideal for use in moisture-prone\
-  \ areas. KILZ 3\xAE Premium Primer blocks most medium to heavy stains caused by\
-  \ water, tannin, ink, pencil, felt marker and grease. Its thicker high hiding formula\
-  \ hides surface imperfections and prepares the surface better for painting."
+  \ areas. KILZ PREMIUM primer blocks most medium to heavy stains caused by water,\
+  \ tannin, ink, pencil, felt marker and grease. Its thicker high hiding formula hides\
+  \ surface imperfections and prepares the surface better for painting."
 developer:
   email: mwildnauer@sphera.com
   name: Maggie Wildnauer
@@ -149,7 +149,9 @@ gwp_per_category_declared_unit: 0.21 kgCO2e
 gwp_per_kg: 1.578947368 kgCO2e
 gwp_z: 0.28879058156387305
 id: 0bd51839131f4665a7bf6fafc371b797
+image: https://static.buildingtransparency.org/images/262796ca86c24d8f882374ad4daa956c.png
 impacts: {}
+industry_standards: []
 is_downloadable: true
 is_duplicate: false
 is_failed: false
@@ -258,7 +260,7 @@ matched_plants_count: 1
 material_id: 380f4b5c060c47e780fe9d5679296ef0
 multiproduct: false
 my_capabilities: 1
-name: BEHR 1300
+name: "KILZ\xAE 3 PREMIUM Interior/Exterior Heavy-Duty Primer, Sealer & Stain Blocker"
 not_an_epd: false
 open_xpd_uuid: ec3hb37k
 original_data_format: pdf_mixed
@@ -301,12 +303,12 @@ pcr:
   version: '3'
 pct80_gwp_per_category_declared_unit: 0.2610396922 kgCO2e
 plant_geography:
-- US-PA
 - US-TX
-- US-CA
 - US
 - US-IL
 - US-GA
+- US-CA
+- US-PA
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -415,11 +417,12 @@ plant_or_group:
     web_domain: behr.com
     website: https://www.behr.com/pro
   plants_count: 5
-  total_epds: 75
+  total_epds: 74
   type: PlantGroup
-  updated_on: '2025-05-07T17:50:17.959834Z'
+  updated_on: '2025-06-03T22:00:03.290529Z'
 plant_specific: false
 private: false
+product_classes: {}
 product_specific: true
 program_operator:
   address: 2211 New Market Parkway Southeast, Marietta, GA 30067
@@ -480,8 +483,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -508,13 +511,14 @@ requires_ocr: false
 resource_uses: {}
 sanitizable: true
 short_link: buildingtransparency.org/e/ec3hb37kh6
+sku: '1300'
 standard_deviation: 0.3638761328 kgCO2e
 stored_carbon_z: 0.2
 supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 1.566238153 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-05-01T22:55:53.613966Z'
+updated_on: '2025-06-03T21:12:18.444671Z'
 use_stored_carbon: false
 verifier:
   email: cooper.mccollum@ul.com
@@ -578,8 +582,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -603,6 +607,7 @@ verifier:
 warnings:
   impacts:
   - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   language:

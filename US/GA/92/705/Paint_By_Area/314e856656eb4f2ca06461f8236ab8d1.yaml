@@ -47,7 +47,7 @@ category:
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-06-02T10:07:33.518744Z'
+  updated_on: '2025-06-03T10:14:40.845101Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -60,12 +60,14 @@ date_validity_ends: '2029-11-11'
 declaration_type: Product EPD
 declared_unit: 12 m2
 density: 2400 kg / m3
-description: "A premium, interior/exterior, waterproofing formula that uses a water-based,\
-  \ silicone technology designed to penetrate surfaces up to \xBD\". This waterproofer\
-  \ creates a barrier inside the surface that keeps water out, but lets trapped water\
-  \ vapors escape; reducing corrosion, spalling, efflorescence and freeze-thaw damage.\
-  \ It reduces staining due to mold and mildew and ensures greater durability of the\
-  \ surface."
+description: "BEHR PREMIUM\xAE Concrete & Masonry Protector & Waterproofer is a premium,\
+  \ interior/exterior, waterproofing formula thatuses a water-based, silicone technology\
+  \ designed to penetrate surfaces up to 1/2\". This waterproofer creates a barrier\
+  \ inside the surface that keeps water out, but lets trapped water vapors escape;\
+  \ reducing corrosion, spalling, efflorescence and freeze-thaw damage. It reduces\
+  \ staining due to mold and mildew, and ensures greater durability of the surface.\
+  \ The protection is not worn away with normal use and continues long after the water\
+  \ beading is gone."
 developer:
   email: servicequality@sphera.com
   name: Sphera
@@ -149,7 +151,7 @@ gwp_per_category_declared_unit: 0.2091666667 kgCO2e
 gwp_per_kg: 1.291152263 kgCO2e
 gwp_z: 0.28879058156387305
 id: bdef264e19114362a1b6f74c4ab9308b
-image: https://static.buildingtransparency.org/images/46a99d68e6704741b7b1c8cdc3a31558.png
+image: https://static.buildingtransparency.org/images/700db533244c49afafde9294acc4b0da.png
 impacts: {}
 industry_standards: []
 is_downloadable: true
@@ -260,7 +262,7 @@ matched_plants_count: 1
 material_id: 314e856656eb4f2ca06461f8236ab8d1
 multiproduct: false
 my_capabilities: 1
-name: BEHR 980
+name: "BEHR PREMIUM\xAE Protector & Waterproofer"
 not_an_epd: false
 open_xpd_uuid: ec34xbgh
 original_data_format: pdf_mixed
@@ -303,11 +305,11 @@ pcr:
   version: '3'
 pct80_gwp_per_category_declared_unit: 0.2600038204 kgCO2e
 plant_geography:
-- US-IL
-- US-CA
 - US-TX
 - US
+- US-IL
 - US-GA
+- US-CA
 - US-PA
 plant_or_group:
   categories: []
@@ -417,9 +419,9 @@ plant_or_group:
     web_domain: behr.com
     website: https://www.behr.com/pro
   plants_count: 5
-  total_epds: 75
+  total_epds: 74
   type: PlantGroup
-  updated_on: '2025-05-07T17:50:17.959834Z'
+  updated_on: '2025-06-03T22:00:03.290529Z'
 plant_specific: false
 private: false
 product_classes: {}
@@ -483,8 +485,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -518,7 +520,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 3.120045845 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-05-01T22:55:58.609966Z'
+updated_on: '2025-06-03T21:13:12.104737Z'
 use_stored_carbon: false
 verifier:
   email: cooper.mccollum@ul.com
@@ -582,8 +584,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -607,6 +609,7 @@ verifier:
 warnings:
   impacts:
   - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   language:

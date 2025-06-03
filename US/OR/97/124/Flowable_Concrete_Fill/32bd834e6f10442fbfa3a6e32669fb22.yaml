@@ -42,22 +42,22 @@ category:
   openepd: Concrete >> FlowableFill
   openepd_name: Concrete >> FlowableFill
   parents: []
-  pct10_gwp: 60.20732992 kgCO2e
-  pct20_gwp: 75.30671001 kgCO2e
-  pct30_gwp: 91.19112722 kgCO2e
-  pct40_gwp: 104.750758 kgCO2e
-  pct50_gwp: 120.8931501 kgCO2e
-  pct60_gwp: 143.5043274 kgCO2e
-  pct70_gwp: 180.6492929 kgCO2e
-  pct80_gwp: 237.8083341 kgCO2e
-  pct90_gwp: 333.6972526 kgCO2e
+  pct10_gwp: 60.19721477 kgCO2e
+  pct20_gwp: 75.21361489 kgCO2e
+  pct30_gwp: 91.15017728 kgCO2e
+  pct40_gwp: 104.646478 kgCO2e
+  pct50_gwp: 121.4778503 kgCO2e
+  pct60_gwp: 144.1262631 kgCO2e
+  pct70_gwp: 180.7011415 kgCO2e
+  pct80_gwp: 237.8107038 kgCO2e
+  pct90_gwp: 333.7859931 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Flowable Fill (CDF)
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30110000'
-  updated_on: '2025-06-02T10:07:24.049051Z'
+  updated_on: '2025-06-03T10:14:30.079098Z'
   use_stored_carbon: ABSENT
 concrete_air_entrain: false
 concrete_co2_entrain: false
@@ -307,7 +307,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3n3h3t5z
   short_name: Concrete
   status: Expired
-  updated_on: '2025-06-02T22:20:24.769596Z'
+  updated_on: '2025-06-03T22:14:45.786763Z'
   version: '2.1'
 pct80_gwp_per_category_declared_unit: 191.753484 kgCO2e
 plant_geography:

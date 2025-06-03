@@ -61,7 +61,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30121601'
-  updated_on: '2025-06-02T10:07:39.672778Z'
+  updated_on: '2025-06-03T10:14:51.005198Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -472,9 +472,9 @@ plant_or_group:
     web_domain: kniferiver.com
     website: http://www.kniferiver.com/
   postal_code: '97060'
-  total_epds: 36
+  total_epds: 37
   type: Plant
-  updated_on: '2025-03-31T20:00:25.812873Z'
+  updated_on: '2025-06-03T20:00:48.361241Z'
 plant_specific: true
 private: false
 product_classes: {}

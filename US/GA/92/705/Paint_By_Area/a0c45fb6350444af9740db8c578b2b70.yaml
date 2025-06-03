@@ -47,7 +47,7 @@ category:
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-06-02T10:07:33.518744Z'
+  updated_on: '2025-06-03T10:14:40.845101Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -59,12 +59,13 @@ date_of_issue: '2024-09-09'
 date_validity_ends: '2029-09-09'
 declaration_type: Product EPD
 declared_unit: 6 m2
-density: 1200 kg / m^3
-description: "KILZ 2\xAE All-Purpose Primer is a fast-drying, water-based, multi-surface\
+density: 1200 kg / m3
+description: "KILZ 2\xAE ALL-PURPOSE Primer is a fast drying, water-based, multi-surface\
   \ primer-sealer-stainblocker with excellent adhesion, mildew resistance, sealing\
-  \ properties and very mild odor. It blocks medium stains including minor water stains,\
-  \ rust, grease, ink, pencil and felt marker. Enhanced hiding makes it ideal for\
-  \ changing colors and helps lessen the number of coats of paint required."
+  \ properties and very mild odor. KILZ 2 ALL-PURPOSE Primer blocks medium stains\
+  \ including minor water stains, rust, grease, ink, pencil and felt marker. Enhanced\
+  \ hiding makes it ideal for changing colors and helps lessen the number of coats\
+  \ of paint required."
 developer:
   email: mwildnauer@sphera.com
   name: Maggie Wildnauer
@@ -148,8 +149,9 @@ gwp_per_category_declared_unit: 0.1468333333 kgCO2e
 gwp_per_kg: 1.095771144 kgCO2e
 gwp_z: 0.28879058156387305
 id: 179e9d042c6b46a5965e1c9d8663ed05
-image: https://static.buildingtransparency.org/images/399fabe50b614bb5a244dbd0117586d3.png
+image: https://static.buildingtransparency.org/images/49fb78a4fae74b6b8f653035f8958c89.png
 impacts: {}
+industry_standards: []
 is_downloadable: true
 is_duplicate: false
 is_failed: false
@@ -258,7 +260,7 @@ matched_plants_count: 1
 material_id: a0c45fb6350444af9740db8c578b2b70
 multiproduct: false
 my_capabilities: 1
-name: BEHR 2000
+name: "KILZ 2\xAE ALL-PURPOSE Interior/Exterior Primer, Sealer & Blocker"
 not_an_epd: false
 open_xpd_uuid: ec323nx4
 original_data_format: pdf_mixed
@@ -302,10 +304,10 @@ pcr:
 pct80_gwp_per_category_declared_unit: 0.1825206102 kgCO2e
 plant_geography:
 - US
-- US-PA
-- US-IL
 - US-CA
 - US-TX
+- US-IL
+- US-PA
 - US-GA
 plant_or_group:
   categories: []
@@ -415,11 +417,12 @@ plant_or_group:
     web_domain: behr.com
     website: https://www.behr.com/pro
   plants_count: 5
-  total_epds: 75
+  total_epds: 74
   type: PlantGroup
-  updated_on: '2025-05-07T17:50:17.959834Z'
+  updated_on: '2025-06-03T22:00:03.290529Z'
 plant_specific: false
 private: false
+product_classes: {}
 product_specific: true
 program_operator:
   address: 2211 New Market Parkway Southeast, Marietta, GA 30067
@@ -480,8 +483,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -508,13 +511,14 @@ requires_ocr: false
 resource_uses: {}
 sanitizable: true
 short_link: buildingtransparency.org/e/ec323nx4yt
+sku: '2000'
 standard_deviation: 0.2544245024 kgCO2e
 stored_carbon_z: 0.2
 supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 1.095123661 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-05-01T22:55:37.609922Z'
+updated_on: '2025-06-03T20:58:56.855065Z'
 use_stored_carbon: false
 verifier:
   email: cooper.mccollum@ul.com
@@ -578,8 +582,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -603,6 +607,7 @@ verifier:
 warnings:
   impacts:
   - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   language:

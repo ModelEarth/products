@@ -41,7 +41,7 @@ also_shown_in:
   subcategories: []
   template_builders: []
   unspsc: '30103603'
-  updated_on: '2025-06-02T10:07:34.375437Z'
+  updated_on: '2025-06-03T10:14:42.996137Z'
   use_stored_carbon: REQUIRED
 - allows_any_declared_unit: false
   beta_only: false
@@ -86,7 +86,7 @@ also_shown_in:
   subcategories: []
   template_builders: []
   unspsc: '30103603'
-  updated_on: '2025-06-02T10:07:35.051879Z'
+  updated_on: '2025-06-03T10:14:43.727333Z'
   use_stored_carbon: ABSENT
 - allows_any_declared_unit: false
   beta_only: false
@@ -131,7 +131,7 @@ also_shown_in:
   subcategories: []
   template_builders: []
   unspsc: '30103602'
-  updated_on: '2025-06-02T10:07:34.733244Z'
+  updated_on: '2025-06-03T10:14:43.378114Z'
   use_stored_carbon: REQUIRED
 applicable_in:
 - '001'
@@ -186,7 +186,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30103602'
-  updated_on: '2025-06-02T10:07:35.013924Z'
+  updated_on: '2025-06-03T10:14:43.688628Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -615,8 +615,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

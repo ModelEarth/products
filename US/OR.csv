@@ -2384,6 +2384,7 @@ Concrete >> ReadyMix,35GM422A,ec3ya51h,97702,Deschutes,"95 Southwest Scale House
 Concrete >> ReadyMix,1028166S,ec3ggh0a,97217,Multnomah,"5225 North Channel Avenue, Portland, OR 97217",45.55959,-122.71416
 Steel >> RebarSteel,Reinforcing Bar - A615/706,ec36n7fu,97128,Yamhill,"3200 Oregon 99W, McMinnville, OR 97128",45.23049,-123.16547
 Concrete >> ReadyMix,1316318,ec3jbhw5,97217,Multnomah County,"5225 N Channel Ave, Portland, OR 97217, USA",45.5610747,-122.7155495
+Concrete >> ReadyMix,6HPG7000,ec35c2k4,97140,Washington County,"12000 SW Tonquin Rd, Sherwood, OR 97140, USA",45.3469248,-122.7986266
 Concrete >> ReadyMix,"4000 PSI 1"" RD",ec3pcnqh,97124,Washington Co.,"103 S 1st Ave, Hillsboro, OR 97124, United States",45.52253,-122.99018
 Asphalt,15164359,ec3p1r21,97317,Marion County,"4105 Lancaster Dr SE, Salem, OR 97317, USA",44.9010608,-122.9712008
 Concrete >> ReadyMix,5HZAWL00,ec32a8n5,97060,Multnomah County,"5700 NE Sundial Rd, Troutdale, OR 97060, USA",45.563661,-122.410523
@@ -10683,3 +10684,11 @@ Asphalt,OR53D30000,ec3m9cb2,97060,Multnomah County,"5700 NE Sundial Rd, Troutdal
 Concrete >> ReadyMix,0327FS,ec3b59gg,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
 Concrete >> ReadyMix,2875PFS,ec3gjr2b,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
 Concrete >> ReadyMix,5241FS,ec3k1892,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
+Concrete >> ReadyMix,6KPG7000,ec32jncf,97060,Multnomah County,"5700 NE Sundial Rd, Troutdale, OR 97060, USA",45.563661,-122.410523
+Concrete >> ReadyMix,0444FS,ec39zzue,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
+Concrete >> ReadyMix,40n17000,ec3f4tu9,97140,Washington County,"12000 SW Tonquin Rd, Sherwood, OR 97140, USA",45.3469248,-122.7986266
+Concrete >> ReadyMix,EWE5445FS,ec3ek9n3,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
+Concrete >> ReadyMix,0225FS,ec3hpe71,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
+Concrete >> ReadyMix,5867FS,ec371s9t,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
+Concrete >> ReadyMix,5327FS,ec3hzk1w,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
+Concrete >> ReadyMix,WE5444FS,ec3c7w93,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837

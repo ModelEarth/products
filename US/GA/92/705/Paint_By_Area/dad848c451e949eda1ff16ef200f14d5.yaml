@@ -47,7 +47,7 @@ category:
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-06-02T10:07:33.518744Z'
+  updated_on: '2025-06-03T10:14:40.845101Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -59,12 +59,15 @@ date_of_issue: '2024-08-12'
 date_validity_ends: '2029-08-12'
 declaration_type: Product EPD
 declared_unit: 6 m2
-density: 2400 kg / m^3
-description: An interior/exterior rust-inhibitive primer that can be applied over
-  clean and sound rusty metal surfaces while preventing corrosion with minimal surface
-  preparation. This innovative water-based primer features fast dry time, low odor
-  and easy clean up. For use on properly prepared coated/uncoated ferrous and non-ferrous
-  metal surfaces in residential and commercial settings.
+density: 2400 kg / m3
+description: "BEHR\xAE INTERIOR/EXTERIOR METAL PRIMER is a rust-inhibitive primer\
+  \ that can be applied over clean and sound rusty metal surfaces while preventing\
+  \ corrosion with minimal surface preparation. This innovative water-based primer\
+  \ features fast dry time, low odor and easy clean up. For use on properly prepared\
+  \ coated/uncoated ferrous and non-ferrous metal surfaces in residential and commercial\
+  \ settings such as: doors, windows, trim, flashing, shutters, fences, garage/roll\
+  \ up doors, outdoor furniture, railing and wrought iron, beams, girders, trusses\
+  \ and rafters."
 developer:
   email: mwildnauer@sphera.com
   name: Maggie Wildnauer
@@ -148,8 +151,9 @@ gwp_per_category_declared_unit: 0.5516666667 kgCO2e
 gwp_per_kg: 4.839181287 kgCO2e
 gwp_z: 0.28879058156387305
 id: d5688466df5c420e81c8b0b2744c04b8
-image: https://static.buildingtransparency.org/images/9586247bdb8a43f8a2e50424936e85bf.png
+image: https://static.buildingtransparency.org/images/5486c078a85c460a90b27437f326148f.png
 impacts: {}
+industry_standards: []
 is_downloadable: true
 is_duplicate: false
 is_failed: false
@@ -258,7 +262,7 @@ matched_plants_count: 1
 material_id: dad848c451e949eda1ff16ef200f14d5
 multiproduct: false
 my_capabilities: 1
-name: BEHR 435
+name: "BEHR\xAE Interior/Exterior Metal Primer"
 not_an_epd: false
 open_xpd_uuid: ec3zb1sw
 original_data_format: pdf_mixed
@@ -301,12 +305,12 @@ pcr:
   version: '3'
 pct80_gwp_per_category_declared_unit: 0.685747128 kgCO2e
 plant_geography:
+- US-GA
 - US-IL
+- US-CA
 - US
 - US-PA
-- US-CA
 - US-TX
-- US-GA
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -415,11 +419,12 @@ plant_or_group:
     web_domain: behr.com
     website: https://www.behr.com/pro
   plants_count: 5
-  total_epds: 75
+  total_epds: 74
   type: PlantGroup
-  updated_on: '2025-05-07T17:50:17.959834Z'
+  updated_on: '2025-06-03T22:00:03.290529Z'
 plant_specific: false
 private: false
+product_classes: {}
 product_specific: true
 program_operator:
   address: 2211 New Market Parkway Southeast, Marietta, GA 30067
@@ -508,13 +513,14 @@ requires_ocr: false
 resource_uses: {}
 sanitizable: true
 short_link: buildingtransparency.org/e/ec3zb1sw3u
+sku: '435'
 standard_deviation: 0.955896825 kgCO2e
 stored_carbon_z: 0.2
 supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 4.114482768 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-05-01T22:55:05.237274Z'
+updated_on: '2025-06-03T21:21:15.474878Z'
 use_stored_carbon: false
 verifier:
   email: cooper.mccollum@ul.com
@@ -603,6 +609,7 @@ verifier:
 warnings:
   impacts:
   - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   language:

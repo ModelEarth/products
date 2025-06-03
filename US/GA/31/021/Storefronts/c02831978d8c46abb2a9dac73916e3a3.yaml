@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30171613'
-  updated_on: '2025-06-02T10:07:40.274881Z'
+  updated_on: '2025-06-03T10:14:51.667411Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -253,9 +253,9 @@ pcr:
     EF 3.0:
       impacts: []
       jurisdiction:
+      - '002'
       - 009
       - AQ
-      - '002'
       - '150'
       - '142'
       order: 1
@@ -440,8 +440,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -537,8 +537,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false

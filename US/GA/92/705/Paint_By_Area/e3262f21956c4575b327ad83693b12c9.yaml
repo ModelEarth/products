@@ -47,7 +47,7 @@ category:
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-06-02T10:07:33.518744Z'
+  updated_on: '2025-06-03T10:14:40.845101Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -60,10 +60,10 @@ date_validity_ends: '2029-08-12'
 declaration_type: Product EPD
 declared_unit: 12 m2
 density: 640 kg / m3
-description: An interior water-based primer that seals uncoated and previously painted
-  interior drywall, wallboard, wood, and brick to promote a uniform finish for topcoats.
-  This 100% acrylic formula is ideal for use under lower sheen paints and has excellent
-  hiding properties. GREENGUARD GOLD certified and MPI approved.
+description: "BEHR\xAE Drywall Plus Interior Primer & Sealer is fast-drying and seals\
+  \ uncoated and previously painted interior drywall, wallboard, wood and brick to\
+  \ promote a uniform finish for topcoats. This 100% acrylic formula is ideal for\
+  \ use under lower sheen paints and has excellent hiding properties for topcoat products."
 developer:
   email: cooper.mccollum@ul.com
   name: Cooper McCollum
@@ -157,7 +157,7 @@ gwp_per_category_declared_unit: 0.16 kgCO2e
 gwp_per_kg: 1.300813008 kgCO2e
 gwp_z: 0.28879058156387305
 id: 6f06bef0c32e44098459ff40244fd100
-image: https://static.buildingtransparency.org/images/0cbfca1331bd461e95ad8deab9dad8b0.png
+image: https://static.buildingtransparency.org/images/51ea480bfade4762937a286f8016fd68.png
 impacts: {}
 includes: []
 industry_standards: []
@@ -269,7 +269,7 @@ matched_plants_count: 1
 material_id: e3262f21956c4575b327ad83693b12c9
 multiproduct: false
 my_capabilities: 1
-name: BEHR 73 Flat White
+name: "BEHR\xAE Drywall Plus Primer & Sealer"
 not_an_epd: false
 open_xpd_uuid: ec33tehj
 original_data_format: pdf_mixed
@@ -312,12 +312,12 @@ pcr:
   version: '3'
 pct80_gwp_per_category_declared_unit: 0.1988873846 kgCO2e
 plant_geography:
+- US-GA
 - US-IL
+- US-CA
 - US
 - US-PA
-- US-CA
 - US-TX
-- US-GA
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -426,9 +426,9 @@ plant_or_group:
     web_domain: behr.com
     website: https://www.behr.com/pro
   plants_count: 5
-  total_epds: 75
+  total_epds: 74
   type: PlantGroup
-  updated_on: '2025-05-07T17:50:17.959834Z'
+  updated_on: '2025-06-03T22:00:03.290529Z'
 plant_specific: false
 private: false
 product_classes: {}
@@ -520,13 +520,14 @@ requires_ocr: false
 resource_uses: {}
 sanitizable: true
 short_link: buildingtransparency.org/e/ec33tehja2
+sku: '73'
 standard_deviation: 0.5544779166 kgCO2e
 stored_carbon_z: 0.2
 supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 2.386648615 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-05-01T22:54:53.620445Z'
+updated_on: '2025-06-03T21:06:55.272463Z'
 use_stored_carbon: false
 verifier:
   email: maggie@wapsustainability.com
@@ -625,6 +626,7 @@ verifier:
     website: http://www.wapsustainability.com/
 warnings:
   impacts:
+  - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   language:

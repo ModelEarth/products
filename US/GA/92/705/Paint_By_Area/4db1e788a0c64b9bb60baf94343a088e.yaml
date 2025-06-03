@@ -47,7 +47,7 @@ category:
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-06-02T10:07:33.518744Z'
+  updated_on: '2025-06-03T10:14:40.845101Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -63,7 +63,16 @@ density: 2400 kg / m3
 description: "BEHR PREMIUM\xAE Concrete & Masonry Bonding Primer is a high performance,\
   \ ready-to-use, water-based prep product designed specially to promote optimum adhesion\
   \ to interior and exterior surfaces. Its water-thin viscosity penetrates concrete\
-  \ and masonry to form a better bonding profile for the topcoat."
+  \ and masonry to form a better bonding profile for the topcoat. For properly prepared\
+  \ bare or previously coated concrete and masonry, this primer provides a sound surface\
+  \ with excellent resistance to alkali and efflorescence. The primer will appear\
+  \ slightly milky in the container but it will dry to a clear, natural look. This\
+  \ specially formulated bonding primer can be used to improve bonding whenever a\
+  \ masonry coating is to be applied, such as BEHR PREMIUM\xAE Porch & Patio Floor\
+  \ Paint No. 6050 (Low-Lustre) and No. 6705 (Gloss Enamel), BEHR PREMIUM\xAE Solid\
+  \ Color Concrete Stain No. 800, BEHR PREMIUM\xAE Semi-Transparent Decorative Concrete\
+  \ Stain No. 855, or BEHR PREMIUM\xAE Interior/Exterior Concrete & Garage Self-Priming\
+  \ 1-Part Epoxy No. 900."
 developer:
   email: servicequality@sphera.com
   name: Sphera
@@ -147,7 +156,7 @@ gwp_per_category_declared_unit: 0.09733333333 kgCO2e
 gwp_per_kg: 1.131782946 kgCO2e
 gwp_z: 0.28879058156387305
 id: 2824afd234d040c2a2592d00029a5f14
-image: https://static.buildingtransparency.org/images/6c4de2252f8f482a921c99545879e37e.png
+image: https://static.buildingtransparency.org/images/1fb1ef70d0a94ac9aeab48a39b7bcdaa.png
 impacts: {}
 industry_standards: []
 is_downloadable: true
@@ -258,7 +267,7 @@ matched_plants_count: 1
 material_id: 4db1e788a0c64b9bb60baf94343a088e
 multiproduct: false
 my_capabilities: 1
-name: BEHR 880
+name: "BEHR PREMIUM\xAE Concrete & Masonry Bonding Primer"
 not_an_epd: false
 open_xpd_uuid: ec3sp1b4
 original_data_format: pdf_mixed
@@ -301,11 +310,11 @@ pcr:
   version: '3'
 pct80_gwp_per_category_declared_unit: 0.1209898256 kgCO2e
 plant_geography:
-- US-IL
-- US-CA
 - US-TX
 - US
+- US-IL
 - US-GA
+- US-CA
 - US-PA
 plant_or_group:
   categories: []
@@ -415,9 +424,9 @@ plant_or_group:
     web_domain: behr.com
     website: https://www.behr.com/pro
   plants_count: 5
-  total_epds: 75
+  total_epds: 74
   type: PlantGroup
-  updated_on: '2025-05-07T17:50:17.959834Z'
+  updated_on: '2025-06-03T22:00:03.290529Z'
 plant_specific: false
 private: false
 product_classes: {}
@@ -481,8 +490,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -516,7 +525,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 0.7259389536 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-05-01T22:55:54.823794Z'
+updated_on: '2025-06-03T20:42:51.562091Z'
 use_stored_carbon: false
 verifier:
   email: research@3keel.com
@@ -558,6 +567,7 @@ verifier:
 warnings:
   impacts:
   - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   language:

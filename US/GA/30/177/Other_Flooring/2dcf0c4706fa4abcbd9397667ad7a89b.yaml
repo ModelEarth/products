@@ -70,22 +70,22 @@ also_shown_in:
   openepd: Finishes >> Tiling
   openepd_name: Finishes >> Tiling
   parents: []
-  pct10_gwp: 8.051612351 kgCO2e
-  pct20_gwp: 9.309958136 kgCO2e
-  pct30_gwp: 10.7014447 kgCO2e
-  pct40_gwp: 11.44805712 kgCO2e
-  pct50_gwp: 12.19466954 kgCO2e
-  pct60_gwp: 12.48175269 kgCO2e
-  pct70_gwp: 13.71327037 kgCO2e
-  pct80_gwp: 15.55442543 kgCO2e
-  pct90_gwp: 17.79426269 kgCO2e
+  pct10_gwp: 8.060175024 kgCO2e
+  pct20_gwp: 9.425824712 kgCO2e
+  pct30_gwp: 10.93559631 kgCO2e
+  pct40_gwp: 11.67452955 kgCO2e
+  pct50_gwp: 12.38132264 kgCO2e
+  pct60_gwp: 12.69241115 kgCO2e
+  pct70_gwp: 14.03865696 kgCO2e
+  pct80_gwp: 15.7973623 kgCO2e
+  pct90_gwp: 18.5657622 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Tiling
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30131704'
-  updated_on: '2025-06-02T10:07:32.511111Z'
+  updated_on: '2025-06-03T10:14:39.514312Z'
   use_stored_carbon: ABSENT
 applicable_in:
 - '021'
@@ -134,7 +134,7 @@ category:
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-02T10:07:31.288881Z'
+  updated_on: '2025-06-03T10:14:38.236345Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -230,8 +230,8 @@ industry_standards: []
 is_downloadable: true
 is_failed: false
 jurisdiction:
-- US-GA
 - '021'
+- US-GA
 language: en
 lowest_plausible_gwp: 24.75239078 kgCO2e
 manufacturer:

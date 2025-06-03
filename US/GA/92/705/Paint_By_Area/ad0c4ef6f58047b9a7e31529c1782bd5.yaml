@@ -47,7 +47,7 @@ category:
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-06-02T10:07:33.518744Z'
+  updated_on: '2025-06-03T10:14:40.845101Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -60,10 +60,16 @@ date_validity_ends: '2029-08-26'
 declaration_type: Product EPD
 declared_unit: 8 m2
 density: 1200 kg / m3
-description: "BEHR PRO\xAE Pre-Catalyzed Waterborne Epoxy is a high-performance, single-component\
-  \ acrylic epoxy coating designed for interior/exterior use in commercial, institutional,\
-  \ and industrial facilities. It is GREENGUARD\xAE Gold certified, low VOC, and suitable\
-  \ for use in inspected facilities, chemical resistant, and mildew resistant."
+description: "BEHR PRO\xAE Pre-Catalyzed Waterborne Epoxy is a single-component interior/exterior\
+  \ acrylic epoxy coating designed for use in residential projects as well as commercial,\
+  \ institutional, and industrial facilities, such as hospitals, schools, and food\
+  \ and beverage processing plants. This product provides exceptional adhesion and\
+  \ resistance to abrasion, stains and most chemicals making it ideal for high maintenance\
+  \ areas subject to frequent cleaning. It exhibits application and appearance characteristics\
+  \ similar to conventional two-component epoxy coatings, but offers the convenience\
+  \ of a single-component and has low odor. This coating is also suitable for exterior\
+  \ use, but with some limitations (see CAUTIONS/LIMITATIONS section). Dried film\
+  \ is mold and mildew resistant*."
 developer:
   email: mwildnauer@sphera.com
   name: Maggie Wildnauer
@@ -148,7 +154,7 @@ gwp_per_category_declared_unit: 0.28 kgCO2e
 gwp_per_kg: 2.089552239 kgCO2e
 gwp_z: 0.28879058156387305
 id: bd60304085ab4f13ada4895d7b363988
-image: https://static.buildingtransparency.org/images/1c7db2020cbf4b438ea5e574a61ff09d.png
+image: https://static.buildingtransparency.org/images/bbbc62ed951847f9b1eec5b32bfa62c7.png
 impacts: {}
 industry_standards: []
 is_downloadable: true
@@ -259,7 +265,7 @@ matched_plants_count: 1
 material_id: ad0c4ef6f58047b9a7e31529c1782bd5
 multiproduct: true
 my_capabilities: 1
-name: BEHR HP140 Interior
+name: "BEHR PRO\xAE Pre-Catalyzed Waterborne Epoxy Eggshell"
 not_an_epd: false
 open_xpd_uuid: ec3d6sa1
 original_data_format: pdf_mixed
@@ -303,10 +309,10 @@ pcr:
 pct80_gwp_per_category_declared_unit: 0.348052923 kgCO2e
 plant_geography:
 - US
-- US-PA
-- US-IL
 - US-CA
 - US-TX
+- US-IL
+- US-PA
 - US-GA
 plant_or_group:
   categories: []
@@ -416,9 +422,9 @@ plant_or_group:
     web_domain: behr.com
     website: https://www.behr.com/pro
   plants_count: 5
-  total_epds: 75
+  total_epds: 74
   type: PlantGroup
-  updated_on: '2025-05-07T17:50:17.959834Z'
+  updated_on: '2025-06-03T22:00:03.290529Z'
 plant_specific: false
 private: false
 product_classes: {}
@@ -482,8 +488,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -510,14 +516,14 @@ requires_ocr: false
 resource_uses: {}
 sanitizable: true
 short_link: buildingtransparency.org/e/ec3d6sa1f6
-sku: HP150, HP153
+sku: HP140, HP143
 standard_deviation: 0.6468909027 kgCO2e
 stored_carbon_z: 0.2
 supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 2.784423384 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-05-01T22:55:12.161881Z'
+updated_on: '2025-06-03T19:04:04.038583Z'
 use_stored_carbon: false
 verifier:
   email: cooper.mccollum@ul.com
@@ -581,8 +587,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -606,6 +612,7 @@ verifier:
 warnings:
   impacts:
   - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   language:
