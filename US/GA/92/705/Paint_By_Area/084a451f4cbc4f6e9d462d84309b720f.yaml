@@ -21,7 +21,7 @@ category:
   id: 39f098d4c80648cbb524169224288ad5
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 0.115 kg
+  mass_per_declared_unit: 0.1155 kg
   massless: false
   masterformat: 09 90 00 Painting and Coating
   may_contain_trusted_vendor_declarations: false
@@ -31,20 +31,20 @@ category:
   openepd: Finishes >> PaintingAndCoating >> PaintByArea
   openepd_name: Finishes >> PaintingAndCoating >> PaintByArea
   parents: []
-  pct10_gwp: 0.1787885503 kgCO2e
-  pct20_gwp: 0.2411950255 kgCO2e
-  pct30_gwp: 0.2732857686 kgCO2e
-  pct40_gwp: 0.3063180195 kgCO2e
-  pct50_gwp: 0.3443237845 kgCO2e
-  pct60_gwp: 0.3933584244 kgCO2e
+  pct10_gwp: 0.1788225924 kgCO2e
+  pct20_gwp: 0.2412474398 kgCO2e
+  pct30_gwp: 0.2735723505 kgCO2e
+  pct40_gwp: 0.3065249464 kgCO2e
+  pct50_gwp: 0.3444480891 kgCO2e
+  pct60_gwp: 0.3937923136 kgCO2e
   pct70_gwp: 0.5322119502 kgCO2e
   pct80_gwp: 0.7882982809 kgCO2e
-  pct90_gwp: 1.614399313 kgCO2e
+  pct90_gwp: 1.613352321 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-06-03T10:14:40.845101Z'
+  updated_on: '2025-06-04T10:30:26.824692Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -292,12 +292,12 @@ pcr:
   version: '3'
 pct80_gwp_per_category_declared_unit: 0.283116827 kgCO2e
 plant_geography:
-- US
 - US-CA
-- US-TX
-- US-PA
 - US-IL
+- US
+- US-PA
 - US-GA
+- US-TX
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -469,8 +469,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -566,8 +566,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - US
     - CA
+    - US
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
