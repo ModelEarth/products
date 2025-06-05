@@ -21,7 +21,7 @@ category:
   id: 6fd418c8ff92415c833e6327638d8482
   includes_b1_stage: true
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 0.62 kg
+  mass_per_declared_unit: 0.653 kg
   massless: false
   masterformat: 07 21 26 Blown Insulation
   may_contain_trusted_vendor_declarations: false
@@ -31,22 +31,22 @@ category:
   openepd: ThermalMoistureProtection >> Insulation >> BlownInsulation
   openepd_name: ThermalMoistureProtection >> Insulation >> BlownInsulation
   parents: []
-  pct10_gwp: 0.3415267296 kgCO2e
-  pct20_gwp: 0.4808030648 kgCO2e
-  pct30_gwp: 0.7483002453 kgCO2e
-  pct40_gwp: 0.9951754004 kgCO2e
-  pct50_gwp: 1.146296948 kgCO2e
-  pct60_gwp: 1.252276409 kgCO2e
-  pct70_gwp: 1.629287118 kgCO2e
-  pct80_gwp: 1.969536931 kgCO2e
-  pct90_gwp: 2.449796243 kgCO2e
+  pct10_gwp: 0.3397167249 kgCO2e
+  pct20_gwp: 0.480050855 kgCO2e
+  pct30_gwp: 0.7350200509 kgCO2e
+  pct40_gwp: 0.9514734909 kgCO2e
+  pct50_gwp: 1.112452507 kgCO2e
+  pct60_gwp: 1.206598444 kgCO2e
+  pct70_gwp: 1.504566389 kgCO2e
+  pct80_gwp: 1.800330521 kgCO2e
+  pct90_gwp: 2.485551318 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Blown
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-06-04T10:30:29.861422Z'
+  updated_on: '2025-06-05T10:26:02.519852Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp

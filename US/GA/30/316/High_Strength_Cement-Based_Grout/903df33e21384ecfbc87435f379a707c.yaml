@@ -49,7 +49,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-04T10:30:00.828829Z'
+  updated_on: '2025-06-05T10:25:39.741524Z'
   use_stored_carbon: ABSENT
 concrete_air_entrain: false
 concrete_co2_entrain: false
@@ -266,7 +266,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec39kz7yt5
   short_name: Concrete
   status: Expired
-  updated_on: '2025-06-04T22:01:49.596612Z'
+  updated_on: '2025-06-05T22:00:06.824348Z'
   version: '2'
 plant_geography:
 - US-GA
