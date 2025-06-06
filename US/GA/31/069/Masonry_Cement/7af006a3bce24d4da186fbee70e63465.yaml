@@ -41,15 +41,15 @@ category:
   pct40_gwp: 609.5108216 kgCO2e
   pct50_gwp: 643.4106733 kgCO2e
   pct60_gwp: 688.7897378 kgCO2e
-  pct70_gwp: 738.8641794 kgCO2e
-  pct80_gwp: 792.0869774 kgCO2e
-  pct90_gwp: 846.2359603 kgCO2e
+  pct70_gwp: 727.2601546 kgCO2e
+  pct80_gwp: 789.9235881 kgCO2e
+  pct90_gwp: 842.9450426 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Masonry Cement
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-05T10:25:50.920292Z'
+  updated_on: '2025-06-06T10:27:29.940487Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -464,8 +464,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

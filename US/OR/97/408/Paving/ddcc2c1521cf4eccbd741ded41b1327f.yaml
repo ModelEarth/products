@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30110000'
-  updated_on: '2025-06-05T10:25:40.380821Z'
+  updated_on: '2025-06-06T10:27:20.216735Z'
   use_stored_carbon: ABSENT
 concrete_aggregate_size_max: 4 in
 concrete_air_entrain: false
@@ -277,7 +277,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec39kz7yt5
   short_name: Concrete
   status: Expired
-  updated_on: '2025-06-05T22:20:05.828607Z'
+  updated_on: '2025-06-06T22:10:04.392030Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 448.0948839 kgCO2e
 plant_geography:
@@ -481,8 +481,8 @@ program_operator:
   primary_activity_performance_standards_issuer: false
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
-  primary_activity_verifier: false
-  updated_on: '2024-07-24T16:59:40.245033Z'
+  primary_activity_verifier: true
+  updated_on: '2025-06-06T00:35:46.621058Z'
   web_domain: nrmca.org
   website: http://www.nrmca.org/sustainability/
 program_operator_fkey: 5389d388715b4547aaecb38091d8ba32

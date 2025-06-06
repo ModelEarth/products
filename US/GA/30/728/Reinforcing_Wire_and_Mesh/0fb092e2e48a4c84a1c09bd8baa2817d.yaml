@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30103623'
-  updated_on: '2025-06-05T10:25:54.312125Z'
+  updated_on: '2025-06-06T10:27:33.458285Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
@@ -428,8 +428,8 @@ program_operator:
   primary_activity_performance_standards_issuer: false
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
-  primary_activity_verifier: false
-  updated_on: '2024-07-24T16:59:40.245033Z'
+  primary_activity_verifier: true
+  updated_on: '2025-06-06T00:35:46.621058Z'
   web_domain: nrmca.org
   website: http://www.nrmca.org/sustainability/
 program_operator_fkey: NRMCAEPD:20080
