@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-06-06T10:27:42.164579Z'
+  updated_on: '2025-06-07T11:28:01.599029Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -280,10 +280,10 @@ pcr:
   version: '1.2'
 pct80_gwp_per_category_declared_unit: 75.5322899 kgCO2e
 plant_geography:
-- US-IL
+- CA-QC
 - US-OR
 - US-OH
-- CA-QC
+- US-IL
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -293,10 +293,10 @@ plant_or_group:
   id: 890f60edbfa9431fb30cf00c0aebd482
   is_failed: false
   jurisdiction:
-  - US-IL
+  - CA-QC
   - US-OR
   - US-OH
-  - CA-QC
+  - US-IL
   name: Tallmadge / Rockford / Gresham / Valleyfield
   owned_by:
     address: Toledo, OH, USA
@@ -503,8 +503,8 @@ reviewer:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - US
     - CA
+    - US
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
