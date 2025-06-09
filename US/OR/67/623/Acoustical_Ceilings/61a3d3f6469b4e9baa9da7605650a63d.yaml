@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161601'
-  updated_on: '2025-06-08T10:53:17.070163Z'
+  updated_on: '2025-06-09T10:23:45.204195Z'
   use_stored_carbon: OPTIONAL
 ceiling_panel_cac: 24
 ceiling_panel_core_material: Mineral Fiber
@@ -297,26 +297,26 @@ pcr:
 pcr_notes: Manufactured at ALL USG facilities, split by product
 pct80_gwp_per_category_declared_unit: 6.261857522 kgCO2e
 plant_geography:
+- US-TX
+- US-GA
+- US-MS
 - US-IA
-- US-WI
+- US-LA
+- US-OR
+- CA-ON
+- US-IN
+- US-MN
+- US-PA
+- US-FL
 - US-UT
 - US-AL
-- US-PA
-- US-GA
-- US-OH
-- US-OR
-- '003'
-- US-LA
-- US-VA
+- US-WI
 - US-MD
-- US-CA
-- US-MS
-- CA-ON
-- US-FL
-- US-IN
-- US-TX
+- US-VA
 - US-MI
-- US-MN
+- '003'
+- US-CA
+- US-OH
 plant_or_group:
   categories: []
   confirmable_fields: []
