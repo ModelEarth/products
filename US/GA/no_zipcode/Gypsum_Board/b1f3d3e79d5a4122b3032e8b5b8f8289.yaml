@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161509'
-  updated_on: '2025-06-09T10:23:44.955358Z'
+  updated_on: '2025-06-10T10:34:50.668509Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -284,15 +284,15 @@ pcr:
 pct80_gwp_per_category_declared_unit: 362.9694768 kgCO2e
 plant_geography:
 - US-NJ
-- US
+- US-OK
 - US-TX
+- US-TN
 - US-GA
 - US-NV
-- US-OK
+- US
 - US-IA
 - US-WY
 - US-CA
-- US-TN
 - US-IN
 - US-WA
 plant_or_group:
