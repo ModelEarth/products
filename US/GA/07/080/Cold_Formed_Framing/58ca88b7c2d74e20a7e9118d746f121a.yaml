@@ -49,7 +49,7 @@ category:
   short_name: Framing
   short_service_life_disclaimer: false
   subcategories: []
-  updated_on: '2025-06-10T10:34:47.236096Z'
+  updated_on: '2025-06-11T10:38:32.986906Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
@@ -281,10 +281,10 @@ pcr:
   version: '2'
 pct80_gwp_per_category_declared_unit: 3126.348449 kgCO2e
 plant_geography:
+- US-IN
+- US-NJ
 - US-GA
 - GE
-- US-NJ
-- US-IN
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -294,9 +294,9 @@ plant_or_group:
   id: c616b1129dc849388261d648dda76add
   is_failed: false
   jurisdiction:
+  - US-NJ
   - US-GA
   - GE
-  - US-NJ
   - US-IN
   name: Marino\WARE facilities
   owned_by:

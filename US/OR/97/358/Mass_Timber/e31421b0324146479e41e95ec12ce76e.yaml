@@ -27,22 +27,22 @@ also_shown_in:
   openepd: Wood >> PrefabricatedWood
   openepd_name: Wood >> PrefabricatedWood
   parents: []
-  pct10_gwp: -1307.01645 kgCO2e
-  pct20_gwp: -1157.540758 kgCO2e
-  pct30_gwp: -988.5088755 kgCO2e
-  pct40_gwp: -781.7525667 kgCO2e
-  pct50_gwp: 70.715286 kgCO2e
-  pct60_gwp: 86.21233172 kgCO2e
-  pct70_gwp: 99.51727492 kgCO2e
-  pct80_gwp: 116.6080728 kgCO2e
-  pct90_gwp: 139.3556057 kgCO2e
+  pct10_gwp: -1208.582364 kgCO2e
+  pct20_gwp: -920.9767866 kgCO2e
+  pct30_gwp: 71.08537685 kgCO2e
+  pct40_gwp: 86.22075314 kgCO2e
+  pct50_gwp: 98.33187122 kgCO2e
+  pct60_gwp: 109.1256961 kgCO2e
+  pct70_gwp: 121.969551 kgCO2e
+  pct80_gwp: 137.2405837 kgCO2e
+  pct90_gwp: 161.2906193 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Prefabricated Wood Products
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103603'
-  updated_on: '2025-06-10T10:34:52.754206Z'
+  updated_on: '2025-06-11T10:39:21.356099Z'
   use_stored_carbon: ABSENT
 applicable_in:
 - '001'
@@ -82,22 +82,22 @@ category:
   openepd: Wood >> MassTimber
   openepd_name: Wood >> MassTimber
   parents: []
-  pct10_gwp: -781.3579162 kgCO2e
-  pct20_gwp: -1.42827866 kgCO2e
-  pct30_gwp: 46.56372797 kgCO2e
-  pct40_gwp: 82.93240829 kgCO2e
-  pct50_gwp: 97.9320677 kgCO2e
-  pct60_gwp: 112.6999915 kgCO2e
-  pct70_gwp: 133.6388477 kgCO2e
-  pct80_gwp: 159.4127924 kgCO2e
-  pct90_gwp: 222.6223712 kgCO2e
+  pct10_gwp: 77.76064971 kgCO2e
+  pct20_gwp: 87.64791636 kgCO2e
+  pct30_gwp: 98.21770011 kgCO2e
+  pct40_gwp: 109.6372176 kgCO2e
+  pct50_gwp: 119.647124 kgCO2e
+  pct60_gwp: 136.953706 kgCO2e
+  pct70_gwp: 157.546481 kgCO2e
+  pct80_gwp: 199.1714634 kgCO2e
+  pct90_gwp: 310.4228568 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Mass Timber
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103602'
-  updated_on: '2025-06-10T10:34:52.424498Z'
+  updated_on: '2025-06-11T10:39:18.197669Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []

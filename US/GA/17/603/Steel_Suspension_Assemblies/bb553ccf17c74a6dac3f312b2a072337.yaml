@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: ''
-  updated_on: '2025-06-10T10:34:47.174292Z'
+  updated_on: '2025-06-11T10:38:32.808171Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
@@ -253,8 +253,8 @@ pcr:
   version: '1'
 pct80_gwp_per_category_declared_unit: 3038.104743 kgCO2e
 plant_geography:
-- US-GA
 - US-CA
+- US-GA
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -264,8 +264,8 @@ plant_or_group:
   id: 77de9b396f1b44869ec205ca1e518883
   is_failed: false
   jurisdiction:
-  - US-GA
   - US-CA
+  - US-GA
   name: Armstrong (Georgia, California)
   owned_by:
     address: 2300 Columbia Ave, Lancaster, PA 17603, USA
@@ -428,8 +428,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

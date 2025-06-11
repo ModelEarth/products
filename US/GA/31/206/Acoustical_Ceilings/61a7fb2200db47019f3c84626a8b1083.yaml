@@ -25,7 +25,7 @@ category:
   id: 342ccbc46fc1418c8db86016753807d5
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 4.781 kg
+  mass_per_declared_unit: 4.795 kg
   massless: false
   masterformat: 09 51 00 Acoustical Ceilings
   may_contain_trusted_vendor_declarations: false
@@ -35,22 +35,22 @@ category:
   openepd: Finishes >> CeilingPanel >> AcousticalCeilings
   openepd_name: Finishes >> CeilingPanel >> AcousticalCeilings
   parents: []
-  pct10_gwp: 2.370959659 kgCO2e
+  pct10_gwp: 2.372204013 kgCO2e
   pct20_gwp: 3.060554402 kgCO2e
-  pct30_gwp: 4.296518054 kgCO2e
+  pct30_gwp: 4.287409383 kgCO2e
   pct40_gwp: 5.014746759 kgCO2e
   pct50_gwp: 5.786246261 kgCO2e
-  pct60_gwp: 6.720407722 kgCO2e
-  pct70_gwp: 9.982394718 kgCO2e
-  pct80_gwp: 27.085353 kgCO2e
-  pct90_gwp: 50.65747227 kgCO2e
+  pct60_gwp: 6.713089314 kgCO2e
+  pct70_gwp: 9.879967322 kgCO2e
+  pct80_gwp: 27.06522893 kgCO2e
+  pct90_gwp: 50.60133471 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Acoustical Ceilings
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161601'
-  updated_on: '2025-06-10T10:34:50.871025Z'
+  updated_on: '2025-06-11T10:38:53.591225Z'
   use_stored_carbon: OPTIONAL
 ceiling_panel_core_material: Mineral Fiber
 confirmable_fields: []

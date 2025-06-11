@@ -36,22 +36,22 @@ category:
   openepd: Wood >> NonStructuralWood
   openepd_name: Wood >> NonStructuralWood
   parents: []
-  pct10_gwp: -1182.490781 kgCO2e
-  pct20_gwp: -956.4771405 kgCO2e
-  pct30_gwp: -742.3643771 kgCO2e
-  pct40_gwp: 123.7968451 kgCO2e
-  pct50_gwp: 169.1764981 kgCO2e
-  pct60_gwp: 246.6657091 kgCO2e
-  pct70_gwp: 449.6990404 kgCO2e
-  pct80_gwp: 684.3236032 kgCO2e
-  pct90_gwp: 826.9986059 kgCO2e
+  pct10_gwp: -1077.720774 kgCO2e
+  pct20_gwp: -817.8542322 kgCO2e
+  pct30_gwp: 90.57034169 kgCO2e
+  pct40_gwp: 116.5645598 kgCO2e
+  pct50_gwp: 141.2098082 kgCO2e
+  pct60_gwp: 169.5512581 kgCO2e
+  pct70_gwp: 230.5848459 kgCO2e
+  pct80_gwp: 509.1825678 kgCO2e
+  pct90_gwp: 795.5495382 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Non-Structural Wood
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '11122000'
-  updated_on: '2025-06-10T10:34:52.867043Z'
+  updated_on: '2025-06-11T10:39:23.438091Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -295,7 +295,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec38861n82
   short_name: North American Structural and Architectural Wood Products
   status: Expired
-  updated_on: '2025-06-10T22:10:05.036301Z'
+  updated_on: '2025-06-11T22:00:21.354806Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 624.0985153 kgCO2e
 plant_geography:

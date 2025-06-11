@@ -60,7 +60,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-10T10:34:58.642154Z'
+  updated_on: '2025-06-11T10:40:03.455025Z'
   use_stored_carbon: ABSENT
 confirmable_fields:
 - impacts__gwp
@@ -306,8 +306,8 @@ plant_or_group:
   id: cf1682e449dc4422b4c5981676cd79ee
   is_failed: false
   jurisdiction:
-  - US-TX
   - US-OR
+  - US-TX
   - US-PA
   name: Carlisle, Wichita Falls and Salem
   owned_by:
@@ -444,8 +444,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

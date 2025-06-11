@@ -26,22 +26,22 @@ also_shown_in:
   openepd: Wood >> DimensionLumber >> WoodFraming
   openepd_name: Wood >> DimensionLumber >> WoodFraming
   parents: []
-  pct10_gwp: 37.32613213 kgCO2e
-  pct20_gwp: 44.65710077 kgCO2e
-  pct30_gwp: 50.60753914 kgCO2e
-  pct40_gwp: 58.83690297 kgCO2e
-  pct50_gwp: 68.30908154 kgCO2e
-  pct60_gwp: 78.19421155 kgCO2e
-  pct70_gwp: 90.31815529 kgCO2e
-  pct80_gwp: 107.4784818 kgCO2e
-  pct90_gwp: 136.2919512 kgCO2e
+  pct10_gwp: 39.84805062 kgCO2e
+  pct20_gwp: 48.10932518 kgCO2e
+  pct30_gwp: 57.70176877 kgCO2e
+  pct40_gwp: 69.238789 kgCO2e
+  pct50_gwp: 80.54459916 kgCO2e
+  pct60_gwp: 94.88060789 kgCO2e
+  pct70_gwp: 107.713818 kgCO2e
+  pct80_gwp: 127.4376368 kgCO2e
+  pct90_gwp: 152.8401071 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Wood Framing
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103603'
-  updated_on: '2025-06-10T10:34:52.052646Z'
+  updated_on: '2025-06-11T10:39:15.680347Z'
   use_stored_carbon: REQUIRED
 - allows_any_declared_unit: false
   beta_only: false
@@ -71,22 +71,22 @@ also_shown_in:
   openepd: Wood >> PrefabricatedWood
   openepd_name: Wood >> PrefabricatedWood
   parents: []
-  pct10_gwp: -1307.01645 kgCO2e
-  pct20_gwp: -1157.540758 kgCO2e
-  pct30_gwp: -988.5088755 kgCO2e
-  pct40_gwp: -781.7525667 kgCO2e
-  pct50_gwp: 70.715286 kgCO2e
-  pct60_gwp: 86.21233172 kgCO2e
-  pct70_gwp: 99.51727492 kgCO2e
-  pct80_gwp: 116.6080728 kgCO2e
-  pct90_gwp: 139.3556057 kgCO2e
+  pct10_gwp: -1208.582364 kgCO2e
+  pct20_gwp: -920.9767866 kgCO2e
+  pct30_gwp: 71.08537685 kgCO2e
+  pct40_gwp: 86.22075314 kgCO2e
+  pct50_gwp: 98.33187122 kgCO2e
+  pct60_gwp: 109.1256961 kgCO2e
+  pct70_gwp: 121.969551 kgCO2e
+  pct80_gwp: 137.2405837 kgCO2e
+  pct90_gwp: 161.2906193 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Prefabricated Wood Products
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103603'
-  updated_on: '2025-06-10T10:34:52.754206Z'
+  updated_on: '2025-06-11T10:39:21.356099Z'
   use_stored_carbon: ABSENT
 - allows_any_declared_unit: false
   beta_only: false
@@ -116,22 +116,22 @@ also_shown_in:
   openepd: Wood >> MassTimber
   openepd_name: Wood >> MassTimber
   parents: []
-  pct10_gwp: -781.3579162 kgCO2e
-  pct20_gwp: -1.42827866 kgCO2e
-  pct30_gwp: 46.56372797 kgCO2e
-  pct40_gwp: 82.93240829 kgCO2e
-  pct50_gwp: 97.9320677 kgCO2e
-  pct60_gwp: 112.6999915 kgCO2e
-  pct70_gwp: 133.6388477 kgCO2e
-  pct80_gwp: 159.4127924 kgCO2e
-  pct90_gwp: 222.6223712 kgCO2e
+  pct10_gwp: 77.76064971 kgCO2e
+  pct20_gwp: 87.64791636 kgCO2e
+  pct30_gwp: 98.21770011 kgCO2e
+  pct40_gwp: 109.6372176 kgCO2e
+  pct50_gwp: 119.647124 kgCO2e
+  pct60_gwp: 136.953706 kgCO2e
+  pct70_gwp: 157.546481 kgCO2e
+  pct80_gwp: 199.1714634 kgCO2e
+  pct90_gwp: 310.4228568 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Mass Timber
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103602'
-  updated_on: '2025-06-10T10:34:52.424498Z'
+  updated_on: '2025-06-11T10:39:18.197669Z'
   use_stored_carbon: REQUIRED
 applicable_in:
 - '001'
@@ -171,22 +171,22 @@ category:
   openepd: Wood >> CompositeLumber
   openepd_name: Wood >> CompositeLumber
   parents: []
-  pct10_gwp: 209.8047813 kgCO2e
-  pct20_gwp: 235.9543569 kgCO2e
-  pct30_gwp: 263.5100281 kgCO2e
-  pct40_gwp: 281.7865818 kgCO2e
-  pct50_gwp: 297.9854607 kgCO2e
-  pct60_gwp: 312.1738157 kgCO2e
-  pct70_gwp: 341.691987 kgCO2e
-  pct80_gwp: 368.7668391 kgCO2e
-  pct90_gwp: 439.1998434 kgCO2e
+  pct10_gwp: 97.09413768 kgCO2e
+  pct20_gwp: 113.5432961 kgCO2e
+  pct30_gwp: 128.6917839 kgCO2e
+  pct40_gwp: 149.6656016 kgCO2e
+  pct50_gwp: 175.1318209 kgCO2e
+  pct60_gwp: 216.4889498 kgCO2e
+  pct70_gwp: 273.128873 kgCO2e
+  pct80_gwp: 299.2103162 kgCO2e
+  pct90_gwp: 365.7801398 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Composite Lumber
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103602'
-  updated_on: '2025-06-10T10:34:52.716503Z'
+  updated_on: '2025-06-11T10:39:19.589137Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -615,8 +615,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

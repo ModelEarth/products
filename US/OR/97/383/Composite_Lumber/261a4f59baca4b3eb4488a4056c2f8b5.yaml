@@ -36,22 +36,22 @@ category:
   openepd: Wood >> CompositeLumber
   openepd_name: Wood >> CompositeLumber
   parents: []
-  pct10_gwp: 209.8047813 kgCO2e
-  pct20_gwp: 235.9543569 kgCO2e
-  pct30_gwp: 263.5100281 kgCO2e
-  pct40_gwp: 281.7865818 kgCO2e
-  pct50_gwp: 297.9854607 kgCO2e
-  pct60_gwp: 312.1738157 kgCO2e
-  pct70_gwp: 341.691987 kgCO2e
-  pct80_gwp: 368.7668391 kgCO2e
-  pct90_gwp: 439.1998434 kgCO2e
+  pct10_gwp: 97.09413768 kgCO2e
+  pct20_gwp: 113.5432961 kgCO2e
+  pct30_gwp: 128.6917839 kgCO2e
+  pct40_gwp: 149.6656016 kgCO2e
+  pct50_gwp: 175.1318209 kgCO2e
+  pct60_gwp: 216.4889498 kgCO2e
+  pct70_gwp: 273.128873 kgCO2e
+  pct80_gwp: 299.2103162 kgCO2e
+  pct90_gwp: 365.7801398 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Composite Lumber
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103602'
-  updated_on: '2025-06-10T10:34:52.716503Z'
+  updated_on: '2025-06-11T10:39:19.589137Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []

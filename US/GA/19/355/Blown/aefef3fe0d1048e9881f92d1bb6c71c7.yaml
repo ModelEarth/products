@@ -21,7 +21,7 @@ category:
   id: 6fd418c8ff92415c833e6327638d8482
   includes_b1_stage: true
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 0.653 kg
+  mass_per_declared_unit: 0.6365 kg
   massless: false
   masterformat: 07 21 26 Blown Insulation
   may_contain_trusted_vendor_declarations: false
@@ -31,22 +31,22 @@ category:
   openepd: ThermalMoistureProtection >> Insulation >> BlownInsulation
   openepd_name: ThermalMoistureProtection >> Insulation >> BlownInsulation
   parents: []
-  pct10_gwp: 0.3397167249 kgCO2e
-  pct20_gwp: 0.480050855 kgCO2e
-  pct30_gwp: 0.7350200509 kgCO2e
-  pct40_gwp: 0.9514734909 kgCO2e
-  pct50_gwp: 1.112452507 kgCO2e
-  pct60_gwp: 1.206598444 kgCO2e
-  pct70_gwp: 1.504566389 kgCO2e
-  pct80_gwp: 1.800330521 kgCO2e
-  pct90_gwp: 2.485551318 kgCO2e
+  pct10_gwp: 0.3406217273 kgCO2e
+  pct20_gwp: 0.4804269599 kgCO2e
+  pct30_gwp: 0.7187782546 kgCO2e
+  pct40_gwp: 0.9204285024 kgCO2e
+  pct50_gwp: 1.098194376 kgCO2e
+  pct60_gwp: 1.200716946 kgCO2e
+  pct70_gwp: 1.478207828 kgCO2e
+  pct80_gwp: 1.780534628 kgCO2e
+  pct90_gwp: 2.46767378 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Blown
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-06-10T10:34:54.089609Z'
+  updated_on: '2025-06-11T10:39:37.342311Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -157,7 +157,7 @@ developer:
     primary_activity_design: false
     primary_activity_digitization_qa: false
     primary_activity_education: false
-    primary_activity_epd_developer: false
+    primary_activity_epd_developer: true
     primary_activity_forest_practices_certification: false
     primary_activity_general_contractor: false
     primary_activity_industry_association: false
@@ -169,7 +169,7 @@ developer:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2024-08-30T23:41:13.973616Z'
+    updated_on: '2025-06-10T22:47:30.631306Z'
     web_domain: certainteed.com
     website: www.certainteed.com
 doc: smartepd.com/epd-library/66b51969bbd494dc5b9f391b
@@ -281,7 +281,7 @@ manufacturer:
   primary_activity_design: false
   primary_activity_digitization_qa: false
   primary_activity_education: false
-  primary_activity_epd_developer: false
+  primary_activity_epd_developer: true
   primary_activity_forest_practices_certification: false
   primary_activity_general_contractor: false
   primary_activity_industry_association: false
@@ -293,7 +293,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2024-08-30T23:41:13.973616Z'
+  updated_on: '2025-06-10T22:47:30.631306Z'
   web_domain: certainteed.com
   website: www.certainteed.com
 manufacturer_specific: true
@@ -449,7 +449,7 @@ plant_or_group:
     primary_activity_design: false
     primary_activity_digitization_qa: false
     primary_activity_education: false
-    primary_activity_epd_developer: false
+    primary_activity_epd_developer: true
     primary_activity_forest_practices_certification: false
     primary_activity_general_contractor: false
     primary_activity_industry_association: false
@@ -461,7 +461,7 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2024-08-30T23:41:13.973616Z'
+    updated_on: '2025-06-10T22:47:30.631306Z'
     web_domain: certainteed.com
     website: www.certainteed.com
   plants_count: 3

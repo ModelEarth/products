@@ -35,22 +35,22 @@ category:
   openepd: Concrete >> ReadyMix
   openepd_name: Concrete >> ReadyMix
   parents: []
-  pct10_gwp: 247.2691239 kgCO2e
+  pct10_gwp: 247.2656514 kgCO2e
   pct20_gwp: 283.1051597 kgCO2e
-  pct30_gwp: 310.1656975 kgCO2e
+  pct30_gwp: 310.1602194 kgCO2e
   pct40_gwp: 334.9397277 kgCO2e
   pct50_gwp: 359.2861844 kgCO2e
-  pct60_gwp: 386.5716914 kgCO2e
+  pct60_gwp: 386.5990667 kgCO2e
   pct70_gwp: 416.9772691 kgCO2e
   pct80_gwp: 452.8100992 kgCO2e
-  pct90_gwp: 507.5939987 kgCO2e
+  pct90_gwp: 507.6488994 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Ready Mix
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30111505'
-  updated_on: '2025-06-10T10:34:38.687403Z'
+  updated_on: '2025-06-11T10:38:07.469201Z'
   use_stored_carbon: ABSENT
 concrete_air_entrain: false
 concrete_co2_entrain: false
@@ -260,16 +260,20 @@ pcr:
   is_failed: false
   lcia_requirements:
     TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
       order: 1
   name: Manufactured Concrete and Concrete Masonry Products
   open_xpd_uuid: ec3p875z
   original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3p875z
+  product_classes: {}
   requires_mass: false
   requires_uncertainty: false
   short_link: buildingtransparency.org/p/ec3p875zcu
   short_name: Manufactured Concrete and Concrete Masonry Products
   status: Sunset
-  updated_on: '2024-12-13T00:04:51.550561Z'
+  updated_on: '2025-06-11T00:34:47.678211Z'
   version: '1'
 pct80_gwp_per_category_declared_unit: 391.8575899 kgCO2e
 plant_geography:
