@@ -44,7 +44,7 @@ category:
   short_name: Architectural
   short_service_life_disclaimer: false
   subcategories: []
-  updated_on: '2025-06-11T10:38:11.683433Z'
+  updated_on: '2025-06-12T10:27:25.832997Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -257,7 +257,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3r08uctb
   short_name: Concrete
   status: Expired
-  updated_on: '2025-06-11T22:24:44.786239Z'
+  updated_on: '2025-06-12T22:01:40.649611Z'
   version: 2.3 extension
 plant_geography:
 - US-OR
@@ -432,8 +432,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

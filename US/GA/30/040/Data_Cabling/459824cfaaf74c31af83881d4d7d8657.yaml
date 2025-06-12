@@ -52,7 +52,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '26121616'
-  updated_on: '2025-06-11T10:38:34.938391Z'
+  updated_on: '2025-06-12T10:27:32.248002Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -330,8 +330,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
