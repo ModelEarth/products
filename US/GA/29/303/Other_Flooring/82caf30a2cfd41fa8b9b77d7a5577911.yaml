@@ -33,21 +33,21 @@ category:
   openepd: Finishes >> Flooring >> OtherFlooring
   openepd_name: Finishes >> Flooring >> OtherFlooring
   parents: []
-  pct10_gwp: 1.123255934 kgCO2e
-  pct20_gwp: 1.724297936 kgCO2e
-  pct30_gwp: 3.728139536 kgCO2e
-  pct40_gwp: 7.139914931 kgCO2e
+  pct10_gwp: 1.071466644 kgCO2e
+  pct20_gwp: 1.667434808 kgCO2e
+  pct30_gwp: 3.459492258 kgCO2e
+  pct40_gwp: 7.051273864 kgCO2e
   pct50_gwp: 11.18279493 kgCO2e
-  pct60_gwp: 14.87491858 kgCO2e
-  pct70_gwp: 18.07803887 kgCO2e
-  pct80_gwp: 22.33122673 kgCO2e
-  pct90_gwp: 26.84569394 kgCO2e
+  pct60_gwp: 14.95016863 kgCO2e
+  pct70_gwp: 17.91199449 kgCO2e
+  pct80_gwp: 22.04914808 kgCO2e
+  pct90_gwp: 26.72374725 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Other Flooring
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-12T10:27:33.267419Z'
+  updated_on: '2025-06-13T10:57:36.291882Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
