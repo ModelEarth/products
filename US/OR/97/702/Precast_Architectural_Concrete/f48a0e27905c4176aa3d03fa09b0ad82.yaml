@@ -44,7 +44,7 @@ category:
   short_name: Architectural
   short_service_life_disclaimer: false
   subcategories: []
-  updated_on: '2025-06-13T10:57:29.213744Z'
+  updated_on: '2025-06-14T11:31:36.826230Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -257,7 +257,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3r08uctb
   short_name: Concrete
   status: Expired
-  updated_on: '2025-06-13T22:20:23.900072Z'
+  updated_on: '2025-06-14T22:24:47.871286Z'
   version: 2.3 extension
 plant_geography:
 - US-OR

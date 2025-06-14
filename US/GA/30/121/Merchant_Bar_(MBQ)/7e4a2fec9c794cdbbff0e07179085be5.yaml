@@ -38,20 +38,20 @@ category:
   openepd_name: Steel >> MBQSteel
   parents: []
   pct10_gwp: 629.5305334 kgCO2e
-  pct20_gwp: 681.7251123 kgCO2e
-  pct30_gwp: 751.1695251 kgCO2e
-  pct40_gwp: 798.9133508 kgCO2e
-  pct50_gwp: 853.0094741 kgCO2e
-  pct60_gwp: 900.0901873 kgCO2e
-  pct70_gwp: 918.1985106 kgCO2e
-  pct80_gwp: 1001.681512 kgCO2e
-  pct90_gwp: 1291.418775 kgCO2e
+  pct20_gwp: 684.7126347 kgCO2e
+  pct30_gwp: 754.6226584 kgCO2e
+  pct40_gwp: 805.7035838 kgCO2e
+  pct50_gwp: 856.4582994 kgCO2e
+  pct60_gwp: 898.8119527 kgCO2e
+  pct70_gwp: 916.5298508 kgCO2e
+  pct80_gwp: 998.0596573 kgCO2e
+  pct90_gwp: 1290.100356 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Merchant Bar
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-13T10:57:34.938069Z'
+  updated_on: '2025-06-14T11:31:43.795991Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []

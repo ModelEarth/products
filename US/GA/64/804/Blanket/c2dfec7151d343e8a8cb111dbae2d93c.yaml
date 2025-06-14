@@ -33,22 +33,22 @@ category:
   openepd: ThermalMoistureProtection >> Insulation >> BlanketInsulation
   openepd_name: ThermalMoistureProtection >> Insulation >> BlanketInsulation
   parents: []
-  pct10_gwp: 0.9967275817 kgCO2e
-  pct20_gwp: 1.336528407 kgCO2e
-  pct30_gwp: 1.59502177 kgCO2e
+  pct10_gwp: 0.9811877753 kgCO2e
+  pct20_gwp: 1.319728818 kgCO2e
+  pct30_gwp: 1.592773164 kgCO2e
   pct40_gwp: 1.986303851 kgCO2e
-  pct50_gwp: 2.575812852 kgCO2e
+  pct50_gwp: 2.52603869 kgCO2e
   pct60_gwp: 3.149878297 kgCO2e
-  pct70_gwp: 3.839410325 kgCO2e
-  pct80_gwp: 4.789639025 kgCO2e
-  pct90_gwp: 6.11011955 kgCO2e
+  pct70_gwp: 3.837985402 kgCO2e
+  pct80_gwp: 4.780133796 kgCO2e
+  pct90_gwp: 6.10527863 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Blanket
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-06-13T10:57:41.670755Z'
+  updated_on: '2025-06-14T11:31:51.732377Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -236,16 +236,16 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-06-13T21:40:19.191025Z'
+  updated_on: '2025-06-14T22:10:07.400066Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 0.7767330172 kgCO2e
 plant_geography:
-- US-CA
-- US-KS
-- US-GA
-- US-NY
-- CA-AB
 - CA-ON
+- US-GA
+- US-KS
+- US-CA
+- CA-AB
+- US-NY
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -255,12 +255,12 @@ plant_or_group:
   id: c4a5a05fa04247cf87231635e7eb022b
   is_failed: false
   jurisdiction:
-  - US-CA
-  - US-KS
-  - US-GA
-  - US-NY
-  - CA-AB
   - CA-ON
+  - US-GA
+  - US-KS
+  - US-CA
+  - CA-AB
+  - US-NY
   name: Kansas City, Edmonton, Santa Clara, Delmar, Fairburn, Toronto
   owned_by:
     address: Toledo, OH, USA

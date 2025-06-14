@@ -44,7 +44,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30151800'
-  updated_on: '2025-06-13T10:57:42.985424Z'
+  updated_on: '2025-06-14T11:31:53.224780Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -187,8 +187,8 @@ impacts: {}
 is_downloadable: false
 is_failed: false
 jurisdiction:
-- '021'
 - US-GA
+- '021'
 language: en
 lowest_plausible_gwp: 11.76695079 kgCO2e
 manufacturer:

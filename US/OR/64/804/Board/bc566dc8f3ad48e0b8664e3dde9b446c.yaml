@@ -36,22 +36,22 @@ category:
   openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
   openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
   parents: []
-  pct10_gwp: 2.147397216 kgCO2e
-  pct20_gwp: 2.817794154 kgCO2e
-  pct30_gwp: 3.409230528 kgCO2e
-  pct40_gwp: 4.221337543 kgCO2e
-  pct50_gwp: 5.363587743 kgCO2e
-  pct60_gwp: 6.978291797 kgCO2e
-  pct70_gwp: 8.942078109 kgCO2e
-  pct80_gwp: 11.77273456 kgCO2e
-  pct90_gwp: 16.12884425 kgCO2e
+  pct10_gwp: 2.149900288 kgCO2e
+  pct20_gwp: 2.815880669 kgCO2e
+  pct30_gwp: 3.394146824 kgCO2e
+  pct40_gwp: 4.2173495 kgCO2e
+  pct50_gwp: 5.357970372 kgCO2e
+  pct60_gwp: 6.973196294 kgCO2e
+  pct70_gwp: 8.914929053 kgCO2e
+  pct80_gwp: 11.76530424 kgCO2e
+  pct90_gwp: 16.1226719 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Board
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-06-13T10:57:41.560720Z'
+  updated_on: '2025-06-14T11:31:51.668352Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -328,7 +328,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-06-13T21:40:19.191025Z'
+  updated_on: '2025-06-14T22:10:07.400066Z'
   version: '2'
 pcr_notes: 'Embodied GWP per declared unit = GWP_func * CS_factor, where:
 
@@ -341,11 +341,11 @@ pcr_notes: 'Embodied GWP per declared unit = GWP_func * CS_factor, where:
   CS_factor scales with the mass of product. See section 4.3 of the EPD.'
 pct80_gwp_per_category_declared_unit: 167.5171812 kgCO2e
 plant_geography:
-- US-OH
-- CA-QC
-- MX
 - US-IL
+- US-OH
+- MX
 - US-OR
+- CA-QC
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -355,11 +355,11 @@ plant_or_group:
   id: 70bd81f51ae042d486232ab9e06960dd
   is_failed: false
   jurisdiction:
-  - US-OH
-  - CA-QC
-  - MX
   - US-IL
+  - US-OH
+  - MX
   - US-OR
+  - CA-QC
   name: Tallmadge OH, Rockford, IL, Monterrey, Gresham, Valleyfield
   owned_by:
     address: Toledo, OH, USA
@@ -496,8 +496,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

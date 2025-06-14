@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-06-13T10:57:37.117456Z'
+  updated_on: '2025-06-14T11:31:46.500427Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -86,8 +86,8 @@ is_downloadable: true
 is_duplicate: false
 is_failed: false
 jurisdiction:
-- '150'
 - US-GA
+- '150'
 language: en
 lowest_plausible_gwp: 7.261757728 kgCO2e
 manufacturer:
@@ -202,7 +202,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3rwzf4at
   short_name: Construction products and construction services (EN 15804:A1)
   status: Expired
-  updated_on: '2025-06-13T21:40:18.896286Z'
+  updated_on: '2025-06-14T22:10:07.108690Z'
   version: '2.34'
 pct80_gwp_per_category_declared_unit: 11.95824227 kgCO2e
 plant_geography:

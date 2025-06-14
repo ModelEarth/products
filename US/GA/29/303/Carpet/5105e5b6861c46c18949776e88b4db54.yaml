@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-06-13T10:57:37.117456Z'
+  updated_on: '2025-06-14T11:31:46.500427Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -411,9 +411,9 @@ plant_or_group:
     web_domain: milliken.com
     website: www.milliken.com
   plants_count: 3
-  total_epds: 58
+  total_epds: 59
   type: PlantGroup
-  updated_on: '2025-05-07T00:01:06.864329Z'
+  updated_on: '2025-06-14T10:55:14.088471Z'
 plant_specific: false
 private: false
 product_classes: {}
@@ -477,8 +477,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
