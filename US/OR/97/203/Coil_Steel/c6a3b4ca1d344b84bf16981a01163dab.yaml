@@ -51,7 +51,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-14T11:31:43.970153Z'
+  updated_on: '2025-06-15T11:38:23.969652Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
@@ -140,8 +140,8 @@ developer:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - US
     - CA
+    - US
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
