@@ -33,22 +33,22 @@ category:
   openepd: Finishes >> CeilingPanel >> AcousticalCeilings
   openepd_name: Finishes >> CeilingPanel >> AcousticalCeilings
   parents: []
-  pct10_gwp: 2.372204013 kgCO2e
+  pct10_gwp: 2.400698587 kgCO2e
   pct20_gwp: 3.060554402 kgCO2e
-  pct30_gwp: 4.287409383 kgCO2e
-  pct40_gwp: 5.014746759 kgCO2e
-  pct50_gwp: 5.786246261 kgCO2e
-  pct60_gwp: 6.713089314 kgCO2e
-  pct70_gwp: 9.879967322 kgCO2e
-  pct80_gwp: 27.06522893 kgCO2e
-  pct90_gwp: 50.60133471 kgCO2e
+  pct30_gwp: 4.343044451 kgCO2e
+  pct40_gwp: 5.139182163 kgCO2e
+  pct50_gwp: 5.838758001 kgCO2e
+  pct60_gwp: 6.720407722 kgCO2e
+  pct70_gwp: 9.437365565 kgCO2e
+  pct80_gwp: 22.30746742 kgCO2e
+  pct90_gwp: 49.46521725 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Acoustical Ceilings
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161601'
-  updated_on: '2025-06-15T11:38:27.169346Z'
+  updated_on: '2025-06-16T10:47:15.165231Z'
   use_stored_carbon: OPTIONAL
 ceiling_panel_cac: 24
 ceiling_panel_core_material: Mineral Fiber
@@ -297,26 +297,26 @@ pcr:
 pcr_notes: Manufactured at ALL USG facilities, split by product
 pct80_gwp_per_category_declared_unit: 6.221717409 kgCO2e
 plant_geography:
-- US-IN
-- US-OR
-- US-PA
-- US-MN
-- US-CA
+- US-LA
+- US-WI
+- US-AL
+- US-MS
+- US-GA
 - US-MD
 - US-FL
-- US-LA
+- US-PA
+- US-VA
+- US-UT
+- CA-ON
 - US-IA
 - US-TX
+- US-OR
+- US-MN
+- US-CA
 - US-MI
-- US-MS
-- US-VA
-- US-AL
 - US-OH
 - '003'
-- US-UT
-- US-WI
-- US-GA
-- CA-ON
+- US-IN
 plant_or_group:
   categories: []
   confirmable_fields: []

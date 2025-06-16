@@ -33,22 +33,22 @@ category:
   openepd: ThermalMoistureProtection >> Insulation
   openepd_name: ThermalMoistureProtection >> Insulation
   parents: []
-  pct10_gwp: 1.193359855 kgCO2e
-  pct20_gwp: 1.85388634 kgCO2e
-  pct30_gwp: 2.600910155 kgCO2e
-  pct40_gwp: 3.31450347 kgCO2e
-  pct50_gwp: 4.2752261 kgCO2e
-  pct60_gwp: 5.758996669 kgCO2e
-  pct70_gwp: 8.232729292 kgCO2e
-  pct80_gwp: 11.92821009 kgCO2e
-  pct90_gwp: 19.82698 kgCO2e
+  pct10_gwp: 1.198438246 kgCO2e
+  pct20_gwp: 1.869993051 kgCO2e
+  pct30_gwp: 2.637172045 kgCO2e
+  pct40_gwp: 3.331295753 kgCO2e
+  pct50_gwp: 4.320475038 kgCO2e
+  pct60_gwp: 5.886926537 kgCO2e
+  pct70_gwp: 8.390649566 kgCO2e
+  pct80_gwp: 12.03028863 kgCO2e
+  pct90_gwp: 19.56379703 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Insulation
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-06-15T11:38:30.573378Z'
+  updated_on: '2025-06-16T10:47:18.502009Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -127,8 +127,8 @@ developer:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -453,8 +453,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

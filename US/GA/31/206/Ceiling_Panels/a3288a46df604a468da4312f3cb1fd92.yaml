@@ -35,22 +35,22 @@ category:
   openepd: Finishes >> CeilingPanel
   openepd_name: Finishes >> CeilingPanel
   parents: []
-  pct10_gwp: 2.473097296 kgCO2e
-  pct20_gwp: 3.179540613 kgCO2e
-  pct30_gwp: 4.342920016 kgCO2e
-  pct40_gwp: 5.176512784 kgCO2e
-  pct50_gwp: 5.992896862 kgCO2e
-  pct60_gwp: 7.749836927 kgCO2e
-  pct70_gwp: 11.37189659 kgCO2e
-  pct80_gwp: 31.22548299 kgCO2e
-  pct90_gwp: 59.47903117 kgCO2e
+  pct10_gwp: 2.488708069 kgCO2e
+  pct20_gwp: 3.197989869 kgCO2e
+  pct30_gwp: 4.405013282 kgCO2e
+  pct40_gwp: 5.196795755 kgCO2e
+  pct50_gwp: 6.028293803 kgCO2e
+  pct60_gwp: 7.524733282 kgCO2e
+  pct70_gwp: 10.92542842 kgCO2e
+  pct80_gwp: 30.05292203 kgCO2e
+  pct90_gwp: 59.1455241 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Ceiling Panels
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161600'
-  updated_on: '2025-06-15T11:38:27.087630Z'
+  updated_on: '2025-06-16T10:47:15.082378Z'
   use_stored_carbon: ABSENT
 ceiling_panel_core_material: Mineral Fiber
 confirmable_fields: []
