@@ -33,22 +33,22 @@ category:
   openepd: Finishes >> Flooring >> Carpet
   openepd_name: Finishes >> Flooring >> Carpet
   parents: []
-  pct10_gwp: 5.226286945 kgCO2e
+  pct10_gwp: 5.238826703 kgCO2e
   pct20_gwp: 6.31150987 kgCO2e
-  pct30_gwp: 7.193005662 kgCO2e
-  pct40_gwp: 8.324155857 kgCO2e
-  pct50_gwp: 10.0526477 kgCO2e
-  pct60_gwp: 11.72306077 kgCO2e
-  pct70_gwp: 13.90656382 kgCO2e
-  pct80_gwp: 16.33235403 kgCO2e
-  pct90_gwp: 20.03417486 kgCO2e
+  pct30_gwp: 7.194698289 kgCO2e
+  pct40_gwp: 8.328409228 kgCO2e
+  pct50_gwp: 10.05624338 kgCO2e
+  pct60_gwp: 11.73433626 kgCO2e
+  pct70_gwp: 13.91962225 kgCO2e
+  pct80_gwp: 16.35060034 kgCO2e
+  pct90_gwp: 20.03790399 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Carpet
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-06-16T10:47:14.100962Z'
+  updated_on: '2025-06-17T10:15:34.385219Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -450,8 +450,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -548,8 +548,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - US
     - CA
+    - US
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false

@@ -44,7 +44,7 @@ category:
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-06-16T10:47:15.520214Z'
+  updated_on: '2025-06-17T10:15:35.794716Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -293,11 +293,11 @@ pcr:
 pct80_gwp_per_category_declared_unit: 0.2154368281 kgCO2e
 plant_geography:
 - US-TX
-- US-PA
 - US
+- US-PA
+- US-IL
 - US-GA
 - US-CA
-- US-IL
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -469,8 +469,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

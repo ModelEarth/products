@@ -25,7 +25,7 @@ category:
   id: 2c2f27b4aab140a898822424e94ec3ad
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 3.99 kg
+  mass_per_declared_unit: 3.98 kg
   massless: false
   masterformat: 09 60 00 Flooring
   may_contain_trusted_vendor_declarations: false
@@ -35,21 +35,21 @@ category:
   openepd: Finishes >> Flooring >> OtherFlooring
   openepd_name: Finishes >> Flooring >> OtherFlooring
   parents: []
-  pct10_gwp: 1.071466644 kgCO2e
-  pct20_gwp: 1.667434808 kgCO2e
-  pct30_gwp: 3.459492258 kgCO2e
-  pct40_gwp: 7.051273864 kgCO2e
-  pct50_gwp: 11.18279493 kgCO2e
-  pct60_gwp: 14.95016863 kgCO2e
-  pct70_gwp: 17.91199449 kgCO2e
-  pct80_gwp: 22.04914808 kgCO2e
-  pct90_gwp: 26.72374725 kgCO2e
+  pct10_gwp: 1.07165843 kgCO2e
+  pct20_gwp: 1.708932151 kgCO2e
+  pct30_gwp: 3.442869531 kgCO2e
+  pct40_gwp: 7.086360577 kgCO2e
+  pct50_gwp: 11.00563592 kgCO2e
+  pct60_gwp: 14.92666208 kgCO2e
+  pct70_gwp: 17.92374777 kgCO2e
+  pct80_gwp: 22.33122673 kgCO2e
+  pct90_gwp: 26.98381724 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Other Flooring
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-16T10:47:13.254772Z'
+  updated_on: '2025-06-17T10:15:33.587425Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -183,8 +183,8 @@ is_downloadable: true
 is_duplicate: false
 is_failed: false
 jurisdiction:
-- US-GA
 - '021'
+- US-GA
 language: en
 lowest_plausible_gwp: 2.185381535 kgCO2e
 manufacturer:

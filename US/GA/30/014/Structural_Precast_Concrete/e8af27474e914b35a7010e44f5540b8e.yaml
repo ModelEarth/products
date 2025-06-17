@@ -44,7 +44,7 @@ category:
   short_name: Structural
   short_service_life_disclaimer: false
   subcategories: []
-  updated_on: '2025-06-16T10:47:06.361980Z'
+  updated_on: '2025-06-17T10:15:26.702941Z'
   use_stored_carbon: ABSENT
 concrete_compressive_strength_28d: 34.5 MPa
 confirmable_fields: []
@@ -240,7 +240,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3r08uctb
   short_name: Concrete
   status: Expired
-  updated_on: '2025-06-16T22:00:20.104143Z'
+  updated_on: '2025-06-17T22:05:48.360313Z'
   version: 2.3 extension
 plant_geography:
 - US-GA
