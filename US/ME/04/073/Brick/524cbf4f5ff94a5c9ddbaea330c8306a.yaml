@@ -33,22 +33,22 @@ category:
   openepd: Masonry >> Brick
   openepd_name: Masonry >> Brick
   parents: []
-  pct10_gwp: 113.3751219 kgCO2e
-  pct20_gwp: 137.5358059 kgCO2e
-  pct30_gwp: 157.0060508 kgCO2e
-  pct40_gwp: 169.9140831 kgCO2e
-  pct50_gwp: 190.3697239 kgCO2e
-  pct60_gwp: 215.8284078 kgCO2e
-  pct70_gwp: 250.6381932 kgCO2e
-  pct80_gwp: 283.9512102 kgCO2e
-  pct90_gwp: 476.9100095 kgCO2e
+  pct10_gwp: 112.1898151 kgCO2e
+  pct20_gwp: 137.5157515 kgCO2e
+  pct30_gwp: 156.8483925 kgCO2e
+  pct40_gwp: 171.4637304 kgCO2e
+  pct50_gwp: 194.293439 kgCO2e
+  pct60_gwp: 216.6943015 kgCO2e
+  pct70_gwp: 255.5922144 kgCO2e
+  pct80_gwp: 286.8894493 kgCO2e
+  pct90_gwp: 489.0764387 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Brick
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30131600'
-  updated_on: '2025-06-17T10:15:27.154572Z'
+  updated_on: '2025-06-18T10:27:22.419032Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -470,8 +470,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

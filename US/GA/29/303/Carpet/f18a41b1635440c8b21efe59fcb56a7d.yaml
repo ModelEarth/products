@@ -47,7 +47,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-06-17T10:15:34.385219Z'
+  updated_on: '2025-06-18T10:27:29.695847Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -290,8 +290,8 @@ pcr:
   version: '2'
 pct80_gwp_per_category_declared_unit: 16.28390461 kgCO2e
 plant_geography:
-- US-GA
 - '003'
+- US-GA
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -431,8 +431,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

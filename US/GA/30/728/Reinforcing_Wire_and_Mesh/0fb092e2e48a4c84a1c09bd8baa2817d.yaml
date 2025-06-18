@@ -35,22 +35,22 @@ category:
   openepd: Steel >> WireMeshSteel
   openepd_name: Steel >> WireMeshSteel
   parents: []
-  pct10_gwp: 643.6354535 kgCO2e
-  pct20_gwp: 811.7105633 kgCO2e
-  pct30_gwp: 962.3274649 kgCO2e
-  pct40_gwp: 1652.413235 kgCO2e
-  pct50_gwp: 2183.145853 kgCO2e
-  pct60_gwp: 2320.777578 kgCO2e
-  pct70_gwp: 2477.0009 kgCO2e
-  pct80_gwp: 3079.886902 kgCO2e
-  pct90_gwp: 3461.297701 kgCO2e
+  pct10_gwp: 638.5656433 kgCO2e
+  pct20_gwp: 805.8476384 kgCO2e
+  pct30_gwp: 909.5406538 kgCO2e
+  pct40_gwp: 1315.116712 kgCO2e
+  pct50_gwp: 2074.013277 kgCO2e
+  pct60_gwp: 2307.744173 kgCO2e
+  pct70_gwp: 2357.966996 kgCO2e
+  pct80_gwp: 2834.464047 kgCO2e
+  pct90_gwp: 3367.92564 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Wire & Mesh
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103623'
-  updated_on: '2025-06-17T10:15:30.737478Z'
+  updated_on: '2025-06-18T10:27:26.168557Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
