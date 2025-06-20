@@ -33,22 +33,22 @@ category:
   openepd: PrecastConcrete
   openepd_name: PrecastConcrete
   parents: []
-  pct10_gwp: 158.113446 kgCO2e
-  pct20_gwp: 189.4030361 kgCO2e
-  pct30_gwp: 207.9770852 kgCO2e
-  pct40_gwp: 226.3273976 kgCO2e
+  pct10_gwp: 158.3335065 kgCO2e
+  pct20_gwp: 189.7105956 kgCO2e
+  pct30_gwp: 208.0967443 kgCO2e
+  pct40_gwp: 226.3524373 kgCO2e
   pct50_gwp: 242.2272961 kgCO2e
-  pct60_gwp: 259.3771215 kgCO2e
+  pct60_gwp: 259.1333204 kgCO2e
   pct70_gwp: 279.7044341 kgCO2e
-  pct80_gwp: 312.0970528 kgCO2e
-  pct90_gwp: 384.1476364 kgCO2e
+  pct80_gwp: 311.7774328 kgCO2e
+  pct90_gwp: 383.8526355 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Precast
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103619'
-  updated_on: '2025-06-19T10:25:25.815328Z'
+  updated_on: '2025-06-20T11:00:35.167705Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -504,8 +504,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

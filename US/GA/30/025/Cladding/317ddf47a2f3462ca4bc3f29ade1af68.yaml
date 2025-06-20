@@ -29,22 +29,22 @@ category:
   openepd: Cladding
   openepd_name: Cladding
   parents: []
-  pct10_gwp: 5.143427675 kgCO2e
-  pct20_gwp: 10.65830312 kgCO2e
-  pct30_gwp: 15.43275287 kgCO2e
-  pct40_gwp: 21.15401859 kgCO2e
-  pct50_gwp: 27.12005074 kgCO2e
-  pct60_gwp: 32.58315358 kgCO2e
-  pct70_gwp: 39.87460876 kgCO2e
-  pct80_gwp: 50.49914764 kgCO2e
-  pct90_gwp: 73.41205417 kgCO2e
+  pct10_gwp: 5.139751552 kgCO2e
+  pct20_gwp: 10.63667462 kgCO2e
+  pct30_gwp: 15.47549009 kgCO2e
+  pct40_gwp: 21.29508191 kgCO2e
+  pct50_gwp: 27.25135336 kgCO2e
+  pct60_gwp: 33.0410849 kgCO2e
+  pct70_gwp: 39.93547205 kgCO2e
+  pct80_gwp: 50.64520921 kgCO2e
+  pct90_gwp: 74.17073934 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Cladding
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30151800'
-  updated_on: '2025-06-19T10:25:40.558380Z'
+  updated_on: '2025-06-20T11:01:30.941193Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []

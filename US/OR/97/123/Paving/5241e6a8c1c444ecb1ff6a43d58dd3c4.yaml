@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30110000'
-  updated_on: '2025-06-19T10:25:17.851309Z'
+  updated_on: '2025-06-20T11:00:26.323411Z'
   use_stored_carbon: ABSENT
 concrete_air_entrain: false
 concrete_co2_entrain: false
@@ -307,7 +307,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec39kz7yt5
   short_name: Concrete
   status: Expired
-  updated_on: '2025-06-19T22:20:17.500793Z'
+  updated_on: '2025-06-20T22:21:21.229276Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 560.3283012 kgCO2e
 plant_geography:
@@ -469,10 +469,10 @@ plant_or_group:
     web_domain: kniferiver.com
     website: http://www.kniferiver.com/
   postal_code: '97123'
-  total_epds: 132
+  total_epds: 135
   type: Plant
   units: SI
-  updated_on: '2025-03-31T20:00:25.924849Z'
+  updated_on: '2025-06-20T18:01:07.065398Z'
 plant_specific: true
 plc: false
 private: false
@@ -545,8 +545,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

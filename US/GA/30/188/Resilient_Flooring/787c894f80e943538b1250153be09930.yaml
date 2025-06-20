@@ -26,7 +26,7 @@ category:
   id: 8ab304f186094beda76ff15fb15d0081
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 4.99 kg
+  mass_per_declared_unit: 4.94 kg
   massless: false
   masterformat: 09 65 00 Resilient Flooring
   may_contain_trusted_vendor_declarations: false
@@ -36,22 +36,22 @@ category:
   openepd: Finishes >> Flooring >> ResilientFlooring
   openepd_name: Finishes >> Flooring >> ResilientFlooring
   parents: []
-  pct10_gwp: 6.022913671 kgCO2e
-  pct20_gwp: 7.438950272 kgCO2e
-  pct30_gwp: 8.259957115 kgCO2e
-  pct40_gwp: 9.162139425 kgCO2e
+  pct10_gwp: 5.948840372 kgCO2e
+  pct20_gwp: 7.431004444 kgCO2e
+  pct30_gwp: 8.252930877 kgCO2e
+  pct40_gwp: 9.14065385 kgCO2e
   pct50_gwp: 10.67865374 kgCO2e
-  pct60_gwp: 11.89398109 kgCO2e
-  pct70_gwp: 13.64984325 kgCO2e
-  pct80_gwp: 15.97713817 kgCO2e
-  pct90_gwp: 20.30843232 kgCO2e
+  pct60_gwp: 11.89842302 kgCO2e
+  pct70_gwp: 13.59268103 kgCO2e
+  pct80_gwp: 15.93248222 kgCO2e
+  pct90_gwp: 20.28273927 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Resilient Flooring
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161700'
-  updated_on: '2025-06-19T10:25:34.167121Z'
+  updated_on: '2025-06-20T11:01:24.673026Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -286,7 +286,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3e6jsgyf
   short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
   status: Sunset
-  updated_on: '2025-06-19T22:00:17.393323Z'
+  updated_on: '2025-06-20T22:01:28.054477Z'
   version: '1'
 pct80_gwp_per_category_declared_unit: 28.74015221 kgCO2e
 plant_geography:

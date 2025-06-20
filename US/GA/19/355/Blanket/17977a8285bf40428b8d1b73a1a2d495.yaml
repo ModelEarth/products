@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-06-19T10:25:39.158487Z'
+  updated_on: '2025-06-20T11:01:29.560358Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -274,13 +274,13 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-06-19T22:00:17.472159Z'
+  updated_on: '2025-06-20T22:01:28.142057Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 0.2256377378 kgCO2e
 plant_geography:
-- US-CA
 - US-GA
 - '021'
+- US-CA
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -463,8 +463,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

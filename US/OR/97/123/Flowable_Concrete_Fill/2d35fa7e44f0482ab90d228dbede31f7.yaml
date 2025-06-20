@@ -57,7 +57,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30110000'
-  updated_on: '2025-06-19T10:25:25.712007Z'
+  updated_on: '2025-06-20T11:00:34.395439Z'
   use_stored_carbon: ABSENT
 cementitious:
   fly_ash: 0.0
@@ -524,10 +524,10 @@ plant_or_group:
     web_domain: kniferiver.com
     website: http://www.kniferiver.com/
   postal_code: '97123'
-  total_epds: 132
+  total_epds: 135
   type: Plant
   units: SI
-  updated_on: '2025-03-31T20:00:25.924849Z'
+  updated_on: '2025-06-20T18:01:07.065398Z'
 plant_specific: true
 private: false
 product_classes: {}
