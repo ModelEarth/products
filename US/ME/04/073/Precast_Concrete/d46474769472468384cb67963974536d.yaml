@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30103619'
-  updated_on: '2025-06-20T11:00:35.167705Z'
+  updated_on: '2025-06-21T11:46:12.593630Z'
   use_stored_carbon: ABSENT
 concrete_compressive_strength_28d: 20.7 MPa
 confirmable_fields: []
@@ -472,8 +472,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

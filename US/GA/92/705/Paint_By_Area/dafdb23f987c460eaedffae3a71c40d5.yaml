@@ -45,7 +45,7 @@ category:
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-06-20T11:01:26.374230Z'
+  updated_on: '2025-06-21T11:46:23.635435Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -205,12 +205,12 @@ owner:
   name: cqd.io Admin
   user_id: cqd.admin@buildingtransparency.org
 plant_geography:
-- US-IL
 - US
+- US-IL
+- US-PA
 - US-GA
 - US-CA
 - US-TX
-- US-PA
 plant_or_group:
   categories: []
   confirmable_fields: []

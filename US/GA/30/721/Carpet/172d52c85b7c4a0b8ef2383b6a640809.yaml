@@ -3,7 +3,7 @@ applicable_in:
 - '001'
 approved_fields: {}
 are_impacts_locked: true
-best_practice: 7.174648814 kgCO2e
+best_practice: 9.318796735 kgCO2e
 biogenic_embodied_carbon_z: 0.2083266665599966
 box_id: '664994736041'
 category:
@@ -48,11 +48,11 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-06-20T11:01:24.860327Z'
+  updated_on: '2025-06-21T11:46:22.088360Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
-conservative_estimate: 10.22535119 kgCO2e
+conservative_estimate: 13.28120327 kgCO2e
 corrections_count: 0
 cqd_sync_unlocked: true
 created_on: '2020-05-14T18:54:44.616384Z'
@@ -145,19 +145,14 @@ developer:
     website: http://industrial-ecology.com/
 doc: buildingtransparency.org/e/ec3jnut6ej
 epd_degraded: false
-errors: {}
 excluded: false
 externally_verified: true
-failures:
-  impacts:
-  - GWP values from multiple LCIA methods are more different than expected.
 file_name: 103.1_TandusCentiva_EPD_PowerbondCushion_c30b3632ebf640368d08bb85bb931d10.pdf
 form_factor: Tiles
 gwp: 11.3 kgCO2e
-gwp_per_category_declared_unit: 8.7 kgCO2e
+gwp_per_category_declared_unit: 11.3 kgCO2e
 gwp_per_kg: 0.1215053763 kgCO2e
 gwp_z: 0.2083266665599966
-gypsum_specific_density: 2.610742556 kg / m^2
 id: b39c8412f82c4b17991ae670bcd1374f
 image: https://static.buildingtransparency.org/images/4325b726b8834726a489e06b21517cce.png
 impacts: {}
@@ -167,7 +162,7 @@ intended_application:
 - Com
 is_downloadable: true
 is_duplicate: false
-is_failed: true
+is_failed: false
 jurisdiction:
 - '001'
 language: en
@@ -221,7 +216,7 @@ lca_discussion: "## Source Data Notes\n/1/ Product Category Rule: NSF Sustainabi
   \ Energy Demand (CED): see Frischknecht R., Jungbluth N., et.al. (2003). Implementation\
   \ of Life Cycle Impact Assessment Methods. Final report ecoinvent 2000, Swiss Centre\
   \ for LCI. Duebendorf, CH, www.ecoinvent.ch. See also www.pre.nl."
-lowest_plausible_gwp: 7.174648814 kgCO2e
+lowest_plausible_gwp: 9.318796735 kgCO2e
 manufacturer:
   address: 30000 Aurora Road, Solon, OH 44139
   address_line: 30000 Aurora Road
@@ -367,9 +362,9 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qp4ff49
   short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
   status: Sunset
-  updated_on: '2025-06-20T22:01:28.078790Z'
+  updated_on: '2025-06-21T22:04:41.152434Z'
   version: '2'
-pct80_gwp_per_category_declared_unit: 10.22535119 kgCO2e
+pct80_gwp_per_category_declared_unit: 13.28120327 kgCO2e
 plant_geography:
 - US-GA
 plant_or_group:
@@ -544,8 +539,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -567,20 +562,18 @@ program_operator:
   web_domain: ul.com
   website: https://www.ul.com/
 program_operator_fkey: 4788046862.103.1
-recycled_content: 0.0
-reference_service_life: 60 year
+reference_service_life: 60 years
 requires_ocr: false
 resource_uses: {}
 sanitizable: true
 short_link: buildingtransparency.org/e/ec3jnut6ej
-specific_density: "2.610742556 kg/m\xB2"
-standard_deviation: 1.812441999 kgCO2e
+standard_deviation: 2.354091332 kgCO2e
 stored_carbon_z: 0.2
 supply_chain_specific: 0.0
 third_party_verified: true
-uncertainty_adjusted_gwp: 10.22535119 kgCO2e
+uncertainty_adjusted_gwp: 13.28120327 kgCO2e
 uncertainty_factor: 1.1753277225768932
-updated_on: '2025-06-19T16:18:41.943323Z'
+updated_on: '2025-06-21T01:50:38.150587Z'
 use_stored_carbon: false
 verifier:
   email: wade.stout@ul.com
@@ -644,8 +637,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - US
     - CA
+    - US
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -677,7 +670,12 @@ warnings:
   impacts:
   - Impact set is suspicious by having equal magnitudes
   - PCR's required LCIA Method not found in the document
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
   - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
   specific_density:
   - Value described using more than one measurement unit. The first unit listed has
     been used.

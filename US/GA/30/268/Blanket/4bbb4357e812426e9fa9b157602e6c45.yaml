@@ -33,22 +33,22 @@ category:
   openepd: ThermalMoistureProtection >> Insulation >> BlanketInsulation
   openepd_name: ThermalMoistureProtection >> Insulation >> BlanketInsulation
   parents: []
-  pct10_gwp: 0.9811877753 kgCO2e
-  pct20_gwp: 1.319728818 kgCO2e
+  pct10_gwp: 0.9805040652 kgCO2e
+  pct20_gwp: 1.318047934 kgCO2e
   pct30_gwp: 1.592773164 kgCO2e
   pct40_gwp: 1.986303851 kgCO2e
-  pct50_gwp: 2.52603869 kgCO2e
+  pct50_gwp: 2.501151609 kgCO2e
   pct60_gwp: 3.149878297 kgCO2e
-  pct70_gwp: 3.837985402 kgCO2e
-  pct80_gwp: 4.780133796 kgCO2e
-  pct90_gwp: 6.10527863 kgCO2e
+  pct70_gwp: 3.828010942 kgCO2e
+  pct80_gwp: 4.745966288 kgCO2e
+  pct90_gwp: 6.093898587 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Blanket
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-06-20T11:01:29.560358Z'
+  updated_on: '2025-06-21T11:46:27.081936Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
