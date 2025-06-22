@@ -3,6 +3,8 @@ applicable_in:
 - '001'
 approved_fields: {}
 are_impacts_locked: true
+attachments:
+  Spot: https://spot.ul.com/main-appproducts/detail/5ad1ea7255b0e82d946a4dff
 best_practice: 9.318796735 kgCO2e
 biogenic_embodied_carbon_z: 0.2083266665599966
 box_id: '664994736041'
@@ -48,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-06-21T11:46:22.088360Z'
+  updated_on: '2025-06-22T11:01:39.661423Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -362,7 +364,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qp4ff49
   short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
   status: Sunset
-  updated_on: '2025-06-21T22:04:41.152434Z'
+  updated_on: '2025-06-22T22:10:08.862141Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 13.28120327 kgCO2e
 plant_geography:
@@ -573,7 +575,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 13.28120327 kgCO2e
 uncertainty_factor: 1.1753277225768932
-updated_on: '2025-06-21T01:50:38.150587Z'
+updated_on: '2025-06-22T01:00:25.239981Z'
 use_stored_carbon: false
 verifier:
   email: wade.stout@ul.com

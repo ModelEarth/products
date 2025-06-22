@@ -45,7 +45,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-21T11:46:34.801476Z'
+  updated_on: '2025-06-22T11:01:53.908129Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -164,7 +164,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qpee337
   short_name: Electrical, Electronic and HVAC-R Products
   status: Published
-  updated_on: '2025-06-21T22:04:42.613331Z'
+  updated_on: '2025-06-22T22:10:10.204966Z'
   version: '4'
 plant_geography:
 - '001'

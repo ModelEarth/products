@@ -60,7 +60,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-21T11:46:31.926270Z'
+  updated_on: '2025-06-22T11:01:51.116074Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -276,9 +276,9 @@ pcr:
   version: '1'
 pct80_gwp_per_category_declared_unit: 31.5733723 kgCO2e
 plant_geography:
-- US-PA
 - US-TX
 - US-OR
+- US-PA
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -288,9 +288,9 @@ plant_or_group:
   id: cf1682e449dc4422b4c5981676cd79ee
   is_failed: false
   jurisdiction:
-  - US-PA
-  - US-TX
   - US-OR
+  - US-TX
+  - US-PA
   name: Carlisle, Wichita Falls and Salem
   owned_by:
     address: 400 Guys Run Road, Cheswick, PA

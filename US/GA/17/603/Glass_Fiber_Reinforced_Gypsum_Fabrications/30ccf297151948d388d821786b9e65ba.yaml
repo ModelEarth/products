@@ -48,7 +48,7 @@ category:
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-21T11:46:22.280179Z'
+  updated_on: '2025-06-22T11:01:39.853525Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -403,9 +403,9 @@ plant_or_group:
     web_domain: armstrongceilings.com
     website: www.armstrongceilings.com
   plants_count: 2
-  total_epds: 6
+  total_epds: 7
   type: PlantGroup
-  updated_on: '2025-05-13T18:01:04.680280Z'
+  updated_on: '2025-06-22T10:29:45.701277Z'
 plant_specific: false
 private: false
 product_specific: true
@@ -477,8 +477,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

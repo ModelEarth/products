@@ -40,16 +40,16 @@ category:
   pct30_gwp: 1.204534705 kgCO2e
   pct40_gwp: 2.227642593 kgCO2e
   pct50_gwp: 3.633513781 kgCO2e
-  pct60_gwp: 6.620888513 kgCO2e
-  pct70_gwp: 15.8530704 kgCO2e
-  pct80_gwp: 40.01842575 kgCO2e
-  pct90_gwp: 155.4053523 kgCO2e
+  pct60_gwp: 6.498016768 kgCO2e
+  pct70_gwp: 15.50465127 kgCO2e
+  pct80_gwp: 39.64511954 kgCO2e
+  pct90_gwp: 151.508722 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Unsupported
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-21T11:46:32.932818Z'
+  updated_on: '2025-06-22T11:01:52.124096Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -375,8 +375,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

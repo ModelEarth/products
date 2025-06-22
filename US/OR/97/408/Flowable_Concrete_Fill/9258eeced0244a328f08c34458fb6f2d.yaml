@@ -55,7 +55,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30110000'
-  updated_on: '2025-06-21T11:46:12.441662Z'
+  updated_on: '2025-06-22T11:01:21.756980Z'
   use_stored_carbon: ABSENT
 cdf: true
 concrete_aggregate_size_max: 0.75 in
@@ -276,7 +276,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3r08uctb
   short_name: Concrete
   status: Expired
-  updated_on: '2025-06-21T22:04:40.707303Z'
+  updated_on: '2025-06-22T22:10:08.388533Z'
   version: 2.3 extension
 pct80_gwp_per_category_declared_unit: 64.68933956 kgCO2e
 plant_geography:

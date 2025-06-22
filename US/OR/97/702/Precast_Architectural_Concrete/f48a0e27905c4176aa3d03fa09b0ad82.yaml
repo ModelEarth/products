@@ -32,19 +32,19 @@ category:
   openepd_name: PrecastConcrete >> ArchitecturalPrecast
   parents: []
   pct10_gwp: 172.5164861 kgCO2e
-  pct20_gwp: 189.8643753 kgCO2e
-  pct30_gwp: 203.2030997 kgCO2e
-  pct40_gwp: 218.3694795 kgCO2e
-  pct50_gwp: 229.4875446 kgCO2e
-  pct60_gwp: 243.2571775 kgCO2e
-  pct70_gwp: 260.2641252 kgCO2e
-  pct80_gwp: 276.4585397 kgCO2e
-  pct90_gwp: 304.199452 kgCO2e
+  pct20_gwp: 189.7105956 kgCO2e
+  pct30_gwp: 203.8310248 kgCO2e
+  pct40_gwp: 218.6919193 kgCO2e
+  pct50_gwp: 231.5619935 kgCO2e
+  pct60_gwp: 244.541396 kgCO2e
+  pct70_gwp: 260.291209 kgCO2e
+  pct80_gwp: 277.1225035 kgCO2e
+  pct90_gwp: 304.2277412 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Architectural
   short_service_life_disclaimer: false
   subcategories: []
-  updated_on: '2025-06-21T11:46:12.675135Z'
+  updated_on: '2025-06-22T11:01:23.140274Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -257,7 +257,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3r08uctb
   short_name: Concrete
   status: Expired
-  updated_on: '2025-06-21T22:04:40.707303Z'
+  updated_on: '2025-06-22T22:10:08.388533Z'
   version: 2.3 extension
 plant_geography:
 - US-OR
