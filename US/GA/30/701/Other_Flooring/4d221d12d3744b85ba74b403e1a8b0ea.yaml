@@ -49,7 +49,7 @@ category:
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-22T11:01:38.838431Z'
+  updated_on: '2025-06-23T10:26:13.066705Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -183,8 +183,8 @@ is_downloadable: true
 is_duplicate: false
 is_failed: false
 jurisdiction:
-- '021'
 - US-GA
+- '021'
 language: en
 lowest_plausible_gwp: 2.185381535 kgCO2e
 manufacturer:

@@ -42,7 +42,7 @@ also_shown_in:
   subcategories: []
   template_builders: []
   unspsc: '30103603'
-  updated_on: '2025-06-22T11:01:44.274998Z'
+  updated_on: '2025-06-23T10:26:17.080589Z'
   use_stored_carbon: ABSENT
 applicable_in:
 - '001'
@@ -72,7 +72,7 @@ category:
   id: ef49fef3f7c240e18d6f32dfd9583bfc
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 505 kg
+  mass_per_declared_unit: 506 kg
   massless: false
   masterformat: 06 18 00 Glued-Laminated Construction
   may_contain_trusted_vendor_declarations: false
@@ -82,22 +82,22 @@ category:
   openepd: Wood >> MassTimber
   openepd_name: Wood >> MassTimber
   parents: []
-  pct10_gwp: 77.76064971 kgCO2e
-  pct20_gwp: 87.64791636 kgCO2e
-  pct30_gwp: 98.21770011 kgCO2e
-  pct40_gwp: 109.6372176 kgCO2e
-  pct50_gwp: 119.647124 kgCO2e
-  pct60_gwp: 136.953706 kgCO2e
-  pct70_gwp: 157.546481 kgCO2e
-  pct80_gwp: 199.1714634 kgCO2e
-  pct90_gwp: 310.4228568 kgCO2e
+  pct10_gwp: 78.10955099 kgCO2e
+  pct20_gwp: 87.70982769 kgCO2e
+  pct30_gwp: 99.21741355 kgCO2e
+  pct40_gwp: 109.7462449 kgCO2e
+  pct50_gwp: 120.4460819 kgCO2e
+  pct60_gwp: 139.842722 kgCO2e
+  pct70_gwp: 158.9345555 kgCO2e
+  pct80_gwp: 199.4068907 kgCO2e
+  pct90_gwp: 311.3936775 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Mass Timber
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103602'
-  updated_on: '2025-06-22T11:01:42.650943Z'
+  updated_on: '2025-06-23T10:26:16.712571Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -485,8 +485,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

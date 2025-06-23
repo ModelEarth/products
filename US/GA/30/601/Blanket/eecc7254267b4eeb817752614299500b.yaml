@@ -46,7 +46,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-06-22T11:01:46.288765Z'
+  updated_on: '2025-06-23T10:26:18.543663Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -196,8 +196,8 @@ industry_standards: []
 is_downloadable: false
 is_failed: false
 jurisdiction:
-- '021'
 - US-GA
+- '021'
 language: en
 lowest_plausible_gwp: 0.9545218821 kgCO2e
 manufacturer:
@@ -368,7 +368,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-06-22T22:10:08.915124Z'
+  updated_on: '2025-06-23T22:10:05.347429Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 1.365478118 kgCO2e
 plant_geography:
