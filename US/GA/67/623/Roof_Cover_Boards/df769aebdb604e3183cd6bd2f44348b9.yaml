@@ -25,7 +25,7 @@ category:
   id: 4ecbbb1ffe224f1b960fdaaf41c503a4
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 5.299818155 kg
+  mass_per_declared_unit: 6.1 kg
   massless: false
   masterformat: 07 22 17 Low Slope Roofing Cover Board
   may_contain_trusted_vendor_declarations: false
@@ -35,22 +35,22 @@ category:
   openepd: ThermalMoistureProtection >> RoofCoverBoards
   openepd_name: ThermalMoistureProtection >> RoofCoverBoards
   parents: []
-  pct10_gwp: 5.335169393 kgCO2e
-  pct20_gwp: 6.955119331 kgCO2e
-  pct30_gwp: 7.519362219 kgCO2e
-  pct40_gwp: 8.346785423 kgCO2e
-  pct50_gwp: 8.894120915 kgCO2e
-  pct60_gwp: 9.770624563 kgCO2e
-  pct70_gwp: 10.64654222 kgCO2e
-  pct80_gwp: 11.77010733 kgCO2e
-  pct90_gwp: 13.08761989 kgCO2e
+  pct10_gwp: 4.855206136 kgCO2e
+  pct20_gwp: 6.816878039 kgCO2e
+  pct30_gwp: 7.364401068 kgCO2e
+  pct40_gwp: 8.192405382 kgCO2e
+  pct50_gwp: 8.805332164 kgCO2e
+  pct60_gwp: 9.631286447 kgCO2e
+  pct70_gwp: 10.56567425 kgCO2e
+  pct80_gwp: 11.71119667 kgCO2e
+  pct90_gwp: 13.04079256 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Roof Cover Boards
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30151500'
-  updated_on: '2025-06-23T10:26:19.446437Z'
+  updated_on: '2025-06-24T10:28:16.420540Z'
   use_stored_carbon: ABSENT
 confirmable_fields:
 - impacts__gwp
@@ -140,8 +140,8 @@ developer:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '19428'
     primary_activity_builder: false
     primary_activity_design: false
@@ -466,8 +466,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

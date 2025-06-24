@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161700'
-  updated_on: '2025-06-23T10:26:13.817347Z'
+  updated_on: '2025-06-24T10:28:09.381889Z'
   use_stored_carbon: OPTIONAL
 conductive_flooring: false
 confirmable_fields: []
@@ -347,7 +347,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qp4ff49
   short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
   status: Sunset
-  updated_on: '2025-06-23T22:10:05.284687Z'
+  updated_on: '2025-06-24T22:10:06.130544Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 7.604139243 kgCO2e
 plant_geography:

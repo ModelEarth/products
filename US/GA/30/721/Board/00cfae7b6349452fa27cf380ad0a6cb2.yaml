@@ -51,7 +51,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-06-23T10:26:18.465763Z'
+  updated_on: '2025-06-24T10:28:15.357779Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -263,7 +263,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-06-23T22:10:05.347429Z'
+  updated_on: '2025-06-24T22:10:06.186508Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 42.79807906 kgCO2e
 plant_geography:

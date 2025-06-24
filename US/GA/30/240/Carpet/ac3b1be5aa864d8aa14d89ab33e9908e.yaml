@@ -51,7 +51,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-06-23T10:26:13.983231Z'
+  updated_on: '2025-06-24T10:28:09.611317Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -165,8 +165,8 @@ is_downloadable: true
 is_duplicate: false
 is_failed: false
 jurisdiction:
-- US-GA
 - '021'
+- US-GA
 language: en
 lca_discussion: '## Product Component Notes
 
