@@ -47,7 +47,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-06-24T10:28:09.611317Z'
+  updated_on: '2025-06-25T10:27:20.159675Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -290,8 +290,8 @@ pcr:
   version: '2'
 pct80_gwp_per_category_declared_unit: 12.38073969 kgCO2e
 plant_geography:
-- US-GA
 - '003'
+- US-GA
 plant_or_group:
   categories: []
   confirmable_fields: []

@@ -49,7 +49,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-24T10:27:52.261307Z'
+  updated_on: '2025-06-25T10:27:02.848050Z'
   use_stored_carbon: ABSENT
 concrete_air_entrain: false
 concrete_co2_entrain: false
@@ -266,7 +266,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec39kz7yt5
   short_name: Concrete
   status: Expired
-  updated_on: '2025-06-24T22:10:05.605661Z'
+  updated_on: '2025-06-25T22:04:28.073512Z'
   version: '2'
 plant_geography:
 - US-GA
@@ -466,8 +466,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

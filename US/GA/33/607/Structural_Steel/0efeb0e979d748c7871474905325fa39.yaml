@@ -35,22 +35,22 @@ category:
   openepd: Steel >> StructuralSteel
   openepd_name: Steel >> StructuralSteel
   parents: []
-  pct10_gwp: 732.880281 kgCO2e
-  pct20_gwp: 1112.634514 kgCO2e
-  pct30_gwp: 1294.390654 kgCO2e
-  pct40_gwp: 1493.312125 kgCO2e
-  pct50_gwp: 1756.345556 kgCO2e
-  pct60_gwp: 2010.740521 kgCO2e
-  pct70_gwp: 2272.806287 kgCO2e
-  pct80_gwp: 3027.735505 kgCO2e
-  pct90_gwp: 3749.730817 kgCO2e
+  pct10_gwp: 733.392899 kgCO2e
+  pct20_gwp: 1112.77771 kgCO2e
+  pct30_gwp: 1294.685544 kgCO2e
+  pct40_gwp: 1495.186406 kgCO2e
+  pct50_gwp: 1760.183296 kgCO2e
+  pct60_gwp: 2007.914447 kgCO2e
+  pct70_gwp: 2271.628692 kgCO2e
+  pct80_gwp: 3024.313418 kgCO2e
+  pct90_gwp: 3749.294417 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Structural Steel
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103618'
-  updated_on: '2025-06-24T10:28:06.054296Z'
+  updated_on: '2025-06-25T10:27:16.590327Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -138,6 +138,8 @@ developer:
 doc: buildingtransparency.org/e/ec34gjht0f
 en_standards: []
 errors:
+  name:
+  - Tagged for manual fixing
   verifier_org:
   - Missing link
 excluded: false
@@ -150,6 +152,8 @@ gwp_per_kg: 0.806 kgCO2e
 gwp_z: 0.3777525645180983
 id: a2923a4ac3154ee09f495b5c20b2a33e
 impacts: {}
+includes: []
+industry_standards: []
 is_downloadable: true
 is_duplicate: false
 is_failed: false
@@ -228,12 +232,12 @@ manufacturer:
   web_domain: gerdau.com
   website: www.gerdau.com/northamerica
 manufacturer_specific: true
-mass_per_declared_unit: 1 metric ton
+mass_per_declared_unit: 1000 kg
 matched_plants_count: 1
 material_id: 0efeb0e979d748c7871474905325fa39
 multiproduct: false
 my_capabilities: 1
-name: Structural Steel
+name: '#merge_to_ec38y1cf Structural Steel'
 not_an_epd: false
 open_xpd_uuid: ec34gjht
 original_data_format: pdf
@@ -381,6 +385,7 @@ plant_or_group:
   updated_on: '2025-06-24T10:14:27.110884Z'
 plant_specific: false
 private: false
+product_classes: {}
 product_specific: true
 program_operator:
   address: Global Logistics Drive, Lansing, MI 48906
@@ -458,7 +463,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 1062.240746 kgCO2e
 uncertainty_factor: 1.3179165582984316
-updated_on: '2025-06-24T01:15:56.396856Z'
+updated_on: '2025-06-25T17:16:17.767427Z'
 use_stored_carbon: false
 warnings:
   density:

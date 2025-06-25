@@ -24,7 +24,7 @@ category:
   id: 8ab304f186094beda76ff15fb15d0081
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 4.9 kg
+  mass_per_declared_unit: 5 kg
   massless: false
   masterformat: 09 65 00 Resilient Flooring
   may_contain_trusted_vendor_declarations: false
@@ -34,22 +34,22 @@ category:
   openepd: Finishes >> Flooring >> ResilientFlooring
   openepd_name: Finishes >> Flooring >> ResilientFlooring
   parents: []
-  pct10_gwp: 5.830276297 kgCO2e
-  pct20_gwp: 7.415065151 kgCO2e
-  pct30_gwp: 8.238138353 kgCO2e
-  pct40_gwp: 9.131427915 kgCO2e
-  pct50_gwp: 10.67865374 kgCO2e
-  pct60_gwp: 11.86272667 kgCO2e
-  pct70_gwp: 13.53356245 kgCO2e
-  pct80_gwp: 15.91545402 kgCO2e
-  pct90_gwp: 20.20028631 kgCO2e
+  pct10_gwp: 5.838302488 kgCO2e
+  pct20_gwp: 7.433653054 kgCO2e
+  pct30_gwp: 8.272049462 kgCO2e
+  pct40_gwp: 9.300993364 kgCO2e
+  pct50_gwp: 10.73686523 kgCO2e
+  pct60_gwp: 12.05041331 kgCO2e
+  pct70_gwp: 13.7399339 kgCO2e
+  pct80_gwp: 16.08108569 kgCO2e
+  pct90_gwp: 22.20222343 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Resilient Flooring
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161700'
-  updated_on: '2025-06-24T10:28:09.381889Z'
+  updated_on: '2025-06-25T10:27:19.972759Z'
   use_stored_carbon: OPTIONAL
 conductive_flooring: false
 confirmable_fields: []

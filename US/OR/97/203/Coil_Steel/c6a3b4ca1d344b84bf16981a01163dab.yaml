@@ -37,21 +37,21 @@ category:
   openepd: Steel >> CoilSteel
   openepd_name: Steel >> CoilSteel
   parents: []
-  pct10_gwp: 1080.941103 kgCO2e
-  pct20_gwp: 1279.455719 kgCO2e
-  pct30_gwp: 1598.295747 kgCO2e
+  pct10_gwp: 1085.937413 kgCO2e
+  pct20_gwp: 1287.911125 kgCO2e
+  pct30_gwp: 1602.542476 kgCO2e
   pct40_gwp: 2193.167717 kgCO2e
-  pct50_gwp: 2614.701381 kgCO2e
+  pct50_gwp: 2667.858489 kgCO2e
   pct60_gwp: 2813.913167 kgCO2e
-  pct70_gwp: 2916.893849 kgCO2e
-  pct80_gwp: 3032.344599 kgCO2e
-  pct90_gwp: 3266.915332 kgCO2e
+  pct70_gwp: 2948.804314 kgCO2e
+  pct80_gwp: 3041.045171 kgCO2e
+  pct90_gwp: 3482.690736 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Coil
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-24T10:28:07.376912Z'
+  updated_on: '2025-06-25T10:27:17.874592Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
@@ -140,8 +140,8 @@ developer:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
