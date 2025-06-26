@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30102304'
-  updated_on: '2025-06-25T10:27:16.828276Z'
+  updated_on: '2025-06-26T10:24:07.124060Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
@@ -381,9 +381,9 @@ plant_or_group:
     web_domain: gerdau.com
     website: www.gerdau.com/northamerica
   plants_count: 4
-  total_epds: 2
+  total_epds: 1
   type: PlantGroup
-  updated_on: '2025-06-24T10:14:27.110884Z'
+  updated_on: '2025-06-26T09:53:59.610620Z'
 plant_specific: false
 private: false
 product_classes: {}
@@ -466,7 +466,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 926.5844152 kgCO2e
 uncertainty_factor: 1.149608455598472
-updated_on: '2025-01-14T21:30:27.767068Z'
+updated_on: '2025-06-26T01:01:44.969985Z'
 use_stored_carbon: false
 verifier:
   email: t.gloria@industrial-ecology.com
@@ -546,8 +546,8 @@ verifier:
     website: http://industrial-ecology.com/
 warnings:
   impacts:
+  - Impact set is suspicious by having equal magnitudes
   - GWP with the PCR's required LCIA Method not found in the document
-  - EP-MARINE impact not specified
   - EP-TERRESTRIAL impact not specified
   steel_post_consumer_recycled_content:
   - Not specified

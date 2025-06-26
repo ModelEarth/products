@@ -42,22 +42,22 @@ category:
   openepd: Concrete >> FlowableFill
   openepd_name: Concrete >> FlowableFill
   parents: []
-  pct10_gwp: 60.19721477 kgCO2e
-  pct20_gwp: 75.21361489 kgCO2e
-  pct30_gwp: 91.15017728 kgCO2e
-  pct40_gwp: 104.646478 kgCO2e
+  pct10_gwp: 60.20395821 kgCO2e
+  pct20_gwp: 75.13880021 kgCO2e
+  pct30_gwp: 91.12231759 kgCO2e
+  pct40_gwp: 104.5738351 kgCO2e
   pct50_gwp: 121.4778503 kgCO2e
   pct60_gwp: 144.1262631 kgCO2e
-  pct70_gwp: 180.7011415 kgCO2e
-  pct80_gwp: 237.8107038 kgCO2e
-  pct90_gwp: 333.7859931 kgCO2e
+  pct70_gwp: 180.6760156 kgCO2e
+  pct80_gwp: 237.809124 kgCO2e
+  pct90_gwp: 333.7268327 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Flowable Fill (CDF)
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30110000'
-  updated_on: '2025-06-25T10:27:12.030735Z'
+  updated_on: '2025-06-26T10:24:02.057293Z'
   use_stored_carbon: ABSENT
 cementitious:
   fly_ash: 0.0

@@ -33,22 +33,22 @@ category:
   openepd: Finishes >> Flooring >> Carpet
   openepd_name: Finishes >> Flooring >> Carpet
   parents: []
-  pct10_gwp: 5.258416231 kgCO2e
-  pct20_gwp: 6.311897893 kgCO2e
-  pct30_gwp: 7.205295643 kgCO2e
-  pct40_gwp: 8.347467828 kgCO2e
-  pct50_gwp: 10.08515687 kgCO2e
-  pct60_gwp: 11.75828952 kgCO2e
-  pct70_gwp: 13.93530036 kgCO2e
-  pct80_gwp: 16.38586017 kgCO2e
-  pct90_gwp: 20.01180002 kgCO2e
+  pct10_gwp: 5.421345571 kgCO2e
+  pct20_gwp: 6.492337522 kgCO2e
+  pct30_gwp: 7.428071207 kgCO2e
+  pct40_gwp: 8.710218278 kgCO2e
+  pct50_gwp: 10.5774794 kgCO2e
+  pct60_gwp: 12.2885237 kgCO2e
+  pct70_gwp: 14.39447446 kgCO2e
+  pct80_gwp: 16.86565021 kgCO2e
+  pct90_gwp: 20.03790399 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Carpet
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-06-25T10:27:20.159675Z'
+  updated_on: '2025-06-26T10:24:10.278403Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -328,7 +328,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3e6jsgyf
   short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
   status: Sunset
-  updated_on: '2025-06-25T22:04:28.572219Z'
+  updated_on: '2025-06-26T22:04:29.730873Z'
   version: '1'
 pct80_gwp_per_category_declared_unit: 15.18505838 kgCO2e
 plant_geography:
@@ -503,8 +503,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
