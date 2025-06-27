@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161601'
-  updated_on: '2025-06-26T10:24:11.287455Z'
+  updated_on: '2025-06-27T10:35:46.514131Z'
   use_stored_carbon: OPTIONAL
 ceiling_panel_core_material: Wood
 confirmable_fields: []
@@ -488,8 +488,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false
