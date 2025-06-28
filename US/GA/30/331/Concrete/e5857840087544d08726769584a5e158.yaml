@@ -32,14 +32,14 @@ category:
   openepd: Concrete
   openepd_name: Concrete
   parents: []
-  pct10_gwp: 239.2944094 kgCO2e
+  pct10_gwp: 239.2646377 kgCO2e
   pct20_gwp: 278.0218654 kgCO2e
-  pct30_gwp: 306.7057215 kgCO2e
+  pct30_gwp: 306.6928537 kgCO2e
   pct40_gwp: 331.6560048 kgCO2e
   pct50_gwp: 356.6302175 kgCO2e
   pct60_gwp: 384.19557 kgCO2e
   pct70_gwp: 414.8777431 kgCO2e
-  pct80_gwp: 451.9387821 kgCO2e
+  pct80_gwp: 451.9378204 kgCO2e
   pct90_gwp: 507.5303408 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Concrete
@@ -47,7 +47,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30110000'
-  updated_on: '2025-06-27T10:35:28.123095Z'
+  updated_on: '2025-06-28T10:54:23.036347Z'
   use_stored_carbon: ABSENT
 concrete_air_entrain: false
 concrete_co2_entrain: false
@@ -266,7 +266,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3r08uctb
   short_name: Concrete
   status: Expired
-  updated_on: '2025-06-27T21:50:04.632636Z'
+  updated_on: '2025-06-28T22:00:10.075855Z'
   version: 2.3 extension
 pct80_gwp_per_category_declared_unit: 259.6945379 kgCO2e
 plant_geography:
