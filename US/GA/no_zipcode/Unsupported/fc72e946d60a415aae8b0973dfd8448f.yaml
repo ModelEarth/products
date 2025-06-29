@@ -35,21 +35,21 @@ category:
   openepd: OtherMaterials >> Unsupported
   openepd_name: OtherMaterials >> Unsupported
   parents: []
-  pct10_gwp: 0.1270535073 kgCO2e
-  pct20_gwp: 0.4686237294 kgCO2e
-  pct30_gwp: 1.204534705 kgCO2e
-  pct40_gwp: 2.227642593 kgCO2e
-  pct50_gwp: 3.633513781 kgCO2e
-  pct60_gwp: 6.498016768 kgCO2e
-  pct70_gwp: 15.50465127 kgCO2e
-  pct80_gwp: 39.64511954 kgCO2e
-  pct90_gwp: 151.508722 kgCO2e
+  pct10_gwp: 0.1259804772 kgCO2e
+  pct20_gwp: 0.4633725554 kgCO2e
+  pct30_gwp: 1.192588907 kgCO2e
+  pct40_gwp: 2.215447923 kgCO2e
+  pct50_gwp: 3.632891604 kgCO2e
+  pct60_gwp: 6.463174856 kgCO2e
+  pct70_gwp: 14.9571355 kgCO2e
+  pct80_gwp: 39.96865159 kgCO2e
+  pct90_gwp: 153.2085113 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Unsupported
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-28T10:54:57.682200Z'
+  updated_on: '2025-06-29T10:49:19.171476Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []

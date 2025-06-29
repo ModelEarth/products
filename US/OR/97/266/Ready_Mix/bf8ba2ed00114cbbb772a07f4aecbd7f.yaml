@@ -52,7 +52,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30111505'
-  updated_on: '2025-06-28T10:54:32.219693Z'
+  updated_on: '2025-06-29T10:49:00.893497Z'
   use_stored_carbon: ABSENT
 cementitious:
   fly_ash: 0.0
@@ -321,7 +321,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec39kz7yt5
   short_name: Concrete
   status: Expired
-  updated_on: '2025-06-28T22:14:23.382469Z'
+  updated_on: '2025-06-29T22:00:22.354793Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 301.0079252 kgCO2e
 plant_geography:
@@ -546,8 +546,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false
@@ -579,7 +579,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 301.0079252 kgCO2e
 uncertainty_factor: 1.0945742734134394
-updated_on: '2025-06-28T03:06:25.820823Z'
+updated_on: '2025-06-29T03:03:45.182932Z'
 use_stored_carbon: false
 verifier:
   email: t.gloria@industrial-ecology.com
