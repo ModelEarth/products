@@ -32,14 +32,14 @@ category:
   openepd: Finishes >> Flooring >> Carpet
   openepd_name: Finishes >> Flooring >> Carpet
   parents: []
-  pct10_gwp: 5.421345571 kgCO2e
-  pct20_gwp: 6.492337522 kgCO2e
-  pct30_gwp: 7.428071207 kgCO2e
-  pct40_gwp: 8.710218278 kgCO2e
-  pct50_gwp: 10.5774794 kgCO2e
-  pct60_gwp: 12.2885237 kgCO2e
+  pct10_gwp: 5.418551906 kgCO2e
+  pct20_gwp: 6.487577641 kgCO2e
+  pct30_gwp: 7.42240267 kgCO2e
+  pct40_gwp: 8.723282357 kgCO2e
+  pct50_gwp: 10.5779495 kgCO2e
+  pct60_gwp: 12.29575141 kgCO2e
   pct70_gwp: 14.39447446 kgCO2e
-  pct80_gwp: 16.86565021 kgCO2e
+  pct80_gwp: 16.85073366 kgCO2e
   pct90_gwp: 20.03790399 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Carpet
@@ -47,7 +47,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-06-29T10:49:09.076034Z'
+  updated_on: '2025-06-30T10:28:50.623748Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -289,8 +289,8 @@ pcr:
   version: '2'
 pct80_gwp_per_category_declared_unit: 17.10431507 kgCO2e
 plant_geography:
-- '003'
 - US-GA
+- '003'
 plant_or_group:
   categories: []
   confirmable_fields: []

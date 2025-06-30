@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161601'
-  updated_on: '2025-06-29T10:49:10.130496Z'
+  updated_on: '2025-06-30T10:28:51.697484Z'
   use_stored_carbon: OPTIONAL
 ceiling_panel_core_material: Mineral Fiber
 confirmable_fields: []
@@ -518,8 +518,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
