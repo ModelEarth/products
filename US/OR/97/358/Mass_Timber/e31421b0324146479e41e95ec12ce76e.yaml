@@ -42,7 +42,7 @@ also_shown_in:
   subcategories: []
   template_builders: []
   unspsc: '30103603'
-  updated_on: '2025-06-30T10:28:53.539457Z'
+  updated_on: '2025-07-01T10:30:31.205059Z'
   use_stored_carbon: ABSENT
 applicable_in:
 - '001'
@@ -82,22 +82,22 @@ category:
   openepd: Wood >> MassTimber
   openepd_name: Wood >> MassTimber
   parents: []
-  pct10_gwp: 78.10955099 kgCO2e
-  pct20_gwp: 87.70982769 kgCO2e
-  pct30_gwp: 99.21741355 kgCO2e
-  pct40_gwp: 109.7462449 kgCO2e
-  pct50_gwp: 120.4460819 kgCO2e
-  pct60_gwp: 139.842722 kgCO2e
-  pct70_gwp: 158.9345555 kgCO2e
-  pct80_gwp: 199.4068907 kgCO2e
-  pct90_gwp: 311.3936775 kgCO2e
+  pct10_gwp: 77.57328273 kgCO2e
+  pct20_gwp: 86.63723231 kgCO2e
+  pct30_gwp: 97.9320677 kgCO2e
+  pct40_gwp: 109.4736767 kgCO2e
+  pct50_gwp: 117.3935908 kgCO2e
+  pct60_gwp: 141.2955217 kgCO2e
+  pct70_gwp: 159.8445703 kgCO2e
+  pct80_gwp: 203.6445814 kgCO2e
+  pct90_gwp: 314.8215707 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Mass Timber
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103602'
-  updated_on: '2025-06-30T10:28:53.198511Z'
+  updated_on: '2025-07-01T10:30:30.856677Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []

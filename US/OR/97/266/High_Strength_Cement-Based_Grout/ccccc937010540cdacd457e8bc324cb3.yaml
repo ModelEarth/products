@@ -53,7 +53,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-30T10:28:33.772372Z'
+  updated_on: '2025-07-01T10:30:09.276165Z'
   use_stored_carbon: ABSENT
 concrete_air_entrain: false
 concrete_co2_entrain: false
@@ -316,7 +316,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec39kz7yt5
   short_name: Concrete
   status: Expired
-  updated_on: '2025-06-30T22:20:06.330849Z'
+  updated_on: '2025-07-01T22:20:19.249846Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 450.9646006 kgCO2e
 plant_geography:
@@ -540,8 +540,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

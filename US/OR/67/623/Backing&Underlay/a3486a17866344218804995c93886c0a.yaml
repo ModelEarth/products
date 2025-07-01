@@ -40,7 +40,7 @@ also_shown_in:
   subcategories: []
   template_builders: []
   unspsc: '30161501'
-  updated_on: '2025-06-30T10:28:50.862973Z'
+  updated_on: '2025-07-01T10:30:28.514977Z'
   use_stored_carbon: ABSENT
 applicable_in:
 - '001'
@@ -91,7 +91,7 @@ category:
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-30T10:28:50.904252Z'
+  updated_on: '2025-07-01T10:30:28.559188Z'
   use_stored_carbon: ABSENT
 confirmable_fields:
 - impacts__gwp
@@ -299,16 +299,16 @@ pcr:
   version: '1.0'
 pct80_gwp_per_category_declared_unit: 38.6683082 kgCO2e
 plant_geography:
-- US-FL
 - US-UT
-- US-OR
-- US-PA
-- US-IA
 - US-TX
 - US-AL
-- US-IN
-- US
 - US-CA
+- US-FL
+- US
+- US-IA
+- US-PA
+- US-IN
+- US-OR
 plant_or_group:
   categories: []
   confirmable_fields: []

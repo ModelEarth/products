@@ -36,22 +36,22 @@ category:
   openepd: Wood >> CompositeLumber
   openepd_name: Wood >> CompositeLumber
   parents: []
-  pct10_gwp: 97.09413768 kgCO2e
-  pct20_gwp: 113.5432961 kgCO2e
-  pct30_gwp: 128.6917839 kgCO2e
-  pct40_gwp: 149.6656016 kgCO2e
-  pct50_gwp: 175.1318209 kgCO2e
-  pct60_gwp: 216.4889498 kgCO2e
-  pct70_gwp: 273.128873 kgCO2e
-  pct80_gwp: 299.2103162 kgCO2e
-  pct90_gwp: 365.7801398 kgCO2e
+  pct10_gwp: 94.2497296 kgCO2e
+  pct20_gwp: 107.3329846 kgCO2e
+  pct30_gwp: 120.041593 kgCO2e
+  pct40_gwp: 134.2450457 kgCO2e
+  pct50_gwp: 150.8285458 kgCO2e
+  pct60_gwp: 173.0066854 kgCO2e
+  pct70_gwp: 205.330803 kgCO2e
+  pct80_gwp: 259.0759598 kgCO2e
+  pct90_gwp: 298.3848739 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Composite Lumber
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103602'
-  updated_on: '2025-06-30T10:28:53.490083Z'
+  updated_on: '2025-07-01T10:30:31.155648Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -346,7 +346,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec38861n82
   short_name: North American Structural and Architectural Wood Products
   status: Sunset
-  updated_on: '2025-06-30T22:20:06.739996Z'
+  updated_on: '2025-07-01T22:04:40.633196Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 322.5353485 kgCO2e
 plant_geography:

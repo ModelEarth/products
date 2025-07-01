@@ -24,7 +24,7 @@ category:
   id: d113c0063bcf41f0af23277b8b6362f0
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 638.26 kg
+  mass_per_declared_unit: 630.04 kg
   massless: false
   masterformat: 06 20 00 Finish Carpentry
   may_contain_trusted_vendor_declarations: false
@@ -34,22 +34,22 @@ category:
   openepd: Wood >> NonStructuralWood
   openepd_name: Wood >> NonStructuralWood
   parents: []
-  pct10_gwp: -1077.720774 kgCO2e
-  pct20_gwp: -817.8542322 kgCO2e
-  pct30_gwp: 90.57034169 kgCO2e
-  pct40_gwp: 116.5645598 kgCO2e
-  pct50_gwp: 141.2098082 kgCO2e
-  pct60_gwp: 169.5512581 kgCO2e
-  pct70_gwp: 230.5848459 kgCO2e
-  pct80_gwp: 509.1825678 kgCO2e
-  pct90_gwp: 795.5495382 kgCO2e
+  pct10_gwp: -1078.10259 kgCO2e
+  pct20_gwp: -828.6537575 kgCO2e
+  pct30_gwp: 89.38877636 kgCO2e
+  pct40_gwp: 114.4499719 kgCO2e
+  pct50_gwp: 136.8382112 kgCO2e
+  pct60_gwp: 163.9611501 kgCO2e
+  pct70_gwp: 213.1086632 kgCO2e
+  pct80_gwp: 484.8493802 kgCO2e
+  pct90_gwp: 798.0356305 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Non-Structural Wood
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '11122000'
-  updated_on: '2025-06-30T10:28:53.653943Z'
+  updated_on: '2025-07-01T10:30:31.327833Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -284,14 +284,14 @@ pcr:
   short_link: buildingtransparency.org/p/ec38861n82
   short_name: North American Structural and Architectural Wood Products
   status: Sunset
-  updated_on: '2025-06-30T22:20:06.739996Z'
+  updated_on: '2025-07-01T22:04:40.633196Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 608.4759943 kgCO2e
 plant_geography:
 - US-OR
 - US-MS
-- US-MT
 - US-LA
+- US-MT
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -303,8 +303,8 @@ plant_or_group:
   jurisdiction:
   - US-OR
   - US-MS
-  - US-MT
   - US-LA
+  - US-MT
   name: US Plants - Particleboard
   owned_by:
     address: 3660 Gateway Street, Springfield, OR 97477

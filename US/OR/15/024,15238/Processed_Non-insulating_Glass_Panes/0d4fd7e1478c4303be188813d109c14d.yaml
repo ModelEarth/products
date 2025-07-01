@@ -46,21 +46,21 @@ category:
   openepd: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
   openepd_name: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
   parents: []
-  pct10_gwp: 6.213147523 kgCO2e
-  pct20_gwp: 18.47820617 kgCO2e
-  pct30_gwp: 32.0255063 kgCO2e
-  pct40_gwp: 59.51445943 kgCO2e
-  pct50_gwp: 82.48616351 kgCO2e
-  pct60_gwp: 118.5869395 kgCO2e
-  pct70_gwp: 148.7003071 kgCO2e
-  pct80_gwp: 185.8318315 kgCO2e
-  pct90_gwp: 275.6181123 kgCO2e
+  pct10_gwp: 6.175052724 kgCO2e
+  pct20_gwp: 20.15853536 kgCO2e
+  pct30_gwp: 33.79665558 kgCO2e
+  pct40_gwp: 60.35134068 kgCO2e
+  pct50_gwp: 83.37172032 kgCO2e
+  pct60_gwp: 120.824288 kgCO2e
+  pct70_gwp: 149.0736133 kgCO2e
+  pct80_gwp: 187.4893111 kgCO2e
+  pct90_gwp: 278.7277361 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Processed Glass
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-30T10:28:59.592572Z'
+  updated_on: '2025-07-01T10:30:37.331967Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -276,9 +276,9 @@ pcr:
   version: '1'
 pct80_gwp_per_category_declared_unit: 31.5733723 kgCO2e
 plant_geography:
-- US-PA
-- US-OR
 - US-TX
+- US-OR
+- US-PA
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -288,8 +288,8 @@ plant_or_group:
   id: cf1682e449dc4422b4c5981676cd79ee
   is_failed: false
   jurisdiction:
-  - US-PA
   - US-OR
+  - US-PA
   - US-TX
   name: Carlisle, Wichita Falls and Salem
   owned_by:

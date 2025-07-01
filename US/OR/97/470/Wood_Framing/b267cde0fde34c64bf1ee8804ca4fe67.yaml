@@ -37,22 +37,22 @@ category:
   openepd: Wood >> DimensionLumber >> WoodFraming
   openepd_name: Wood >> DimensionLumber >> WoodFraming
   parents: []
-  pct10_gwp: 39.84805062 kgCO2e
-  pct20_gwp: 48.10932518 kgCO2e
-  pct30_gwp: 57.70176877 kgCO2e
-  pct40_gwp: 69.238789 kgCO2e
-  pct50_gwp: 80.54459916 kgCO2e
-  pct60_gwp: 94.88060789 kgCO2e
-  pct70_gwp: 107.713818 kgCO2e
-  pct80_gwp: 127.4376368 kgCO2e
-  pct90_gwp: 152.8401071 kgCO2e
+  pct10_gwp: 44.83515075 kgCO2e
+  pct20_gwp: 55.90424635 kgCO2e
+  pct30_gwp: 66.91708426 kgCO2e
+  pct40_gwp: 80.03421836 kgCO2e
+  pct50_gwp: 90.9641968 kgCO2e
+  pct60_gwp: 101.7942441 kgCO2e
+  pct70_gwp: 114.8166516 kgCO2e
+  pct80_gwp: 134.6202071 kgCO2e
+  pct90_gwp: 157.089992 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Wood Framing
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103603'
-  updated_on: '2025-06-30T10:28:52.843948Z'
+  updated_on: '2025-07-01T10:30:30.504524Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -430,8 +430,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

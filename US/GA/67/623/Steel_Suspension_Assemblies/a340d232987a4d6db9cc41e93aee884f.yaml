@@ -36,22 +36,22 @@ category:
   openepd: Steel >> ColdFormedSteel >> SteelSuspensionAssembly
   openepd_name: Steel >> ColdFormedSteel >> SteelSuspensionAssembly
   parents: []
-  pct10_gwp: 3134.17669 kgCO2e
+  pct10_gwp: 3164.70593 kgCO2e
   pct20_gwp: 3406.980068 kgCO2e
-  pct30_gwp: 3446.825385 kgCO2e
-  pct40_gwp: 3514.761708 kgCO2e
-  pct50_gwp: 3712.188699 kgCO2e
+  pct30_gwp: 3453.066752 kgCO2e
+  pct40_gwp: 3523.316909 kgCO2e
+  pct50_gwp: 3714.554657 kgCO2e
   pct60_gwp: 3885.48708 kgCO2e
-  pct70_gwp: 4113.612971 kgCO2e
-  pct80_gwp: 4328.12653 kgCO2e
-  pct90_gwp: 5028.450211 kgCO2e
+  pct70_gwp: 4128.755104 kgCO2e
+  pct80_gwp: 4328.96776 kgCO2e
+  pct90_gwp: 5059.996323 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Suspension Assemblies
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: ''
-  updated_on: '2025-06-30T10:28:48.046159Z'
+  updated_on: '2025-07-01T10:30:25.122358Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []

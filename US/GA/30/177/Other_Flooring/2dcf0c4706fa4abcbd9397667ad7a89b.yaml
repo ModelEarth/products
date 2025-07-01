@@ -60,7 +60,7 @@ also_shown_in:
   id: 322f5fe92dc14206868213d0f800fe80
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 20.16 kg
+  mass_per_declared_unit: 20.145 kg
   massless: false
   masterformat: 09 30 00 Tiling
   may_contain_trusted_vendor_declarations: false
@@ -70,22 +70,22 @@ also_shown_in:
   openepd: Finishes >> Tiling
   openepd_name: Finishes >> Tiling
   parents: []
-  pct10_gwp: 8.058747912 kgCO2e
-  pct20_gwp: 9.407408387 kgCO2e
+  pct10_gwp: 8.131130463 kgCO2e
+  pct20_gwp: 9.462657361 kgCO2e
   pct30_gwp: 10.93559631 kgCO2e
-  pct40_gwp: 11.6595973 kgCO2e
+  pct40_gwp: 11.66706343 kgCO2e
   pct50_gwp: 12.35643556 kgCO2e
-  pct60_gwp: 12.69241115 kgCO2e
-  pct70_gwp: 13.98771107 kgCO2e
-  pct80_gwp: 15.80329624 kgCO2e
-  pct90_gwp: 18.60309282 kgCO2e
+  pct60_gwp: 12.67300062 kgCO2e
+  pct70_gwp: 14.03865696 kgCO2e
+  pct80_gwp: 15.90284456 kgCO2e
+  pct90_gwp: 18.67775406 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Tiling
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30131704'
-  updated_on: '2025-06-30T10:28:50.956939Z'
+  updated_on: '2025-07-01T10:30:28.612069Z'
   use_stored_carbon: ABSENT
 applicable_in:
 - '021'
@@ -120,21 +120,21 @@ category:
   openepd: Finishes >> Flooring >> OtherFlooring
   openepd_name: Finishes >> Flooring >> OtherFlooring
   parents: []
-  pct10_gwp: 1.07165843 kgCO2e
-  pct20_gwp: 1.708932151 kgCO2e
-  pct30_gwp: 3.442869531 kgCO2e
-  pct40_gwp: 7.086360577 kgCO2e
-  pct50_gwp: 11.00563592 kgCO2e
-  pct60_gwp: 14.92666208 kgCO2e
-  pct70_gwp: 17.92374777 kgCO2e
+  pct10_gwp: 1.071594501 kgCO2e
+  pct20_gwp: 1.695099704 kgCO2e
+  pct30_gwp: 3.393001348 kgCO2e
+  pct40_gwp: 7.01618715 kgCO2e
+  pct50_gwp: 10.8284769 kgCO2e
+  pct60_gwp: 14.97367519 kgCO2e
+  pct70_gwp: 17.9590076 kgCO2e
   pct80_gwp: 22.33122673 kgCO2e
-  pct90_gwp: 26.98381724 kgCO2e
+  pct90_gwp: 27.02985834 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Other Flooring
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-30T10:28:49.775784Z'
+  updated_on: '2025-07-01T10:30:26.944890Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -230,8 +230,8 @@ industry_standards: []
 is_downloadable: true
 is_failed: false
 jurisdiction:
-- US-GA
 - '021'
+- US-GA
 language: en
 lowest_plausible_gwp: 24.75239078 kgCO2e
 manufacturer:

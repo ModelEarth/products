@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30171613'
-  updated_on: '2025-06-30T10:28:59.070291Z'
+  updated_on: '2025-07-01T10:30:36.777268Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -254,10 +254,10 @@ pcr:
       impacts: []
       jurisdiction:
       - 009
-      - '150'
-      - '142'
       - '002'
+      - '150'
       - AQ
+      - '142'
       order: 1
     TRACI 2.1:
       impacts: []
@@ -440,8 +440,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -537,8 +537,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - US
     - CA
+    - US
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false

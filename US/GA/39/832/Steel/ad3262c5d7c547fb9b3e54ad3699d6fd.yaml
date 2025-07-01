@@ -34,21 +34,21 @@ category:
   openepd: Steel
   openepd_name: Steel
   parents: []
-  pct10_gwp: 726.7070881 kgCO2e
-  pct20_gwp: 1015.114276 kgCO2e
-  pct30_gwp: 1322.131978 kgCO2e
-  pct40_gwp: 1677.913758 kgCO2e
-  pct50_gwp: 2029.376376 kgCO2e
-  pct60_gwp: 2414.817318 kgCO2e
-  pct70_gwp: 2926.899812 kgCO2e
+  pct10_gwp: 726.4828859 kgCO2e
+  pct20_gwp: 1014.470891 kgCO2e
+  pct30_gwp: 1320.721652 kgCO2e
+  pct40_gwp: 1676.249867 kgCO2e
+  pct50_gwp: 2029.161252 kgCO2e
+  pct60_gwp: 2409.57008 kgCO2e
+  pct70_gwp: 2922.935393 kgCO2e
   pct80_gwp: 3438.526179 kgCO2e
-  pct90_gwp: 4012.795217 kgCO2e
+  pct90_gwp: 4013.452394 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Steel
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-06-30T10:28:46.844320Z'
+  updated_on: '2025-07-01T10:30:23.889651Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
