@@ -85,7 +85,7 @@ also_shown_in:
   subcategories: []
   template_builders: []
   unspsc: '30131704'
-  updated_on: '2025-07-01T10:30:28.612069Z'
+  updated_on: '2025-07-02T10:53:23.397473Z'
   use_stored_carbon: ABSENT
 applicable_in:
 - '021'
@@ -134,7 +134,7 @@ category:
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-01T10:30:26.944890Z'
+  updated_on: '2025-07-02T10:53:22.225808Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -230,8 +230,8 @@ industry_standards: []
 is_downloadable: true
 is_failed: false
 jurisdiction:
-- '021'
 - US-GA
+- '021'
 language: en
 lowest_plausible_gwp: 24.75239078 kgCO2e
 manufacturer:

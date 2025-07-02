@@ -47,7 +47,7 @@ category:
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-07-01T10:30:29.658579Z'
+  updated_on: '2025-07-02T10:53:24.353836Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -305,9 +305,9 @@ plant_geography:
 - US-CA
 - US
 - US-PA
+- US-IL
 - US-GA
 - US-TX
-- US-IL
 plant_or_group:
   categories: []
   confirmable_fields: []

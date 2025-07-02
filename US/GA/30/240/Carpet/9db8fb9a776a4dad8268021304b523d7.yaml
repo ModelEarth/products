@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-01T10:30:27.756231Z'
+  updated_on: '2025-07-02T10:53:23.070111Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -166,8 +166,8 @@ is_downloadable: true
 is_duplicate: false
 is_failed: false
 jurisdiction:
-- 019
 - US-GA
+- 019
 language: en
 lowest_plausible_gwp: -0.09896067329 kgCO2e
 manufacturer:

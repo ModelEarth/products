@@ -60,7 +60,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-01T10:30:37.331967Z'
+  updated_on: '2025-07-02T10:53:31.672990Z'
   use_stored_carbon: ABSENT
 confirmable_fields:
 - impacts__gwp
