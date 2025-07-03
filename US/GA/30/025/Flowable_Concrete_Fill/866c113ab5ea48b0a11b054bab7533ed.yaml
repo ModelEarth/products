@@ -57,7 +57,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30110000'
-  updated_on: '2025-07-02T10:53:14.747010Z'
+  updated_on: '2025-07-03T10:35:53.954938Z'
   use_stored_carbon: ABSENT
 cementitious:
   fly_ash: 0.0
@@ -293,7 +293,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec39kz7yt5
   short_name: Concrete
   status: Expired
-  updated_on: '2025-07-02T21:50:15.322540Z'
+  updated_on: '2025-07-03T22:01:31.976088Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 108.1682028 kgCO2e
 plant_geography:

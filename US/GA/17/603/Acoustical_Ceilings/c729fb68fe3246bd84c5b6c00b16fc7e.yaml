@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161601'
-  updated_on: '2025-07-02T10:53:24.013994Z'
+  updated_on: '2025-07-03T10:36:02.495845Z'
   use_stored_carbon: OPTIONAL
 ceiling_panel_cac: 35
 ceiling_panel_core_material: Mineral Fiber
@@ -318,12 +318,12 @@ pcr:
   version: '1'
 pct80_gwp_per_category_declared_unit: 9.152039179 kgCO2e
 plant_geography:
-- US-GA
-- '003'
-- US-OH
 - US-PA
-- US-OR
 - US-FL
+- '003'
+- US-OR
+- US-GA
+- US-OH
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -496,8 +496,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '11122000'
-  updated_on: '2025-07-02T10:53:25.969808Z'
+  updated_on: '2025-07-03T10:36:04.372182Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -284,14 +284,14 @@ pcr:
   short_link: buildingtransparency.org/p/ec38861n82
   short_name: North American Structural and Architectural Wood Products
   status: Sunset
-  updated_on: '2025-07-02T22:20:19.564852Z'
+  updated_on: '2025-07-03T22:20:25.692582Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 608.4759943 kgCO2e
 plant_geography:
+- US-MS
+- US-OR
 - US-LA
 - US-MT
-- US-OR
-- US-MS
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -301,9 +301,9 @@ plant_or_group:
   id: 950cc3cb94664243a628dd46b08e8f16
   is_failed: false
   jurisdiction:
-  - US-LA
   - US-MT
   - US-OR
+  - US-LA
   - US-MS
   name: US Plants - Particleboard
   owned_by:

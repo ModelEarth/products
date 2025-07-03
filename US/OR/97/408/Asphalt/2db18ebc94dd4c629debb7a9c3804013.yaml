@@ -59,7 +59,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30121601'
-  updated_on: '2025-07-02T10:53:30.642700Z'
+  updated_on: '2025-07-03T10:36:08.974336Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -448,6 +448,9 @@ program_operator:
   admin_district2: Prince George's
   alt_names:
   - NAPA
+  - Asphalt EPD
+  - Emerald Ecolabel
+  - Emerald Eco-label
   confirmable_fields: []
   confirmed_fields: []
   country: US
@@ -455,6 +458,7 @@ program_operator:
   created_on: '2018-09-10T23:11:11.739481Z'
   email_extensions:
   - asphaltpavement.org
+  - asphaltepd.org
   enterprise: true
   id: 136904d07bd94f9f959bfae24e24c56a
   image: https://static.buildingtransparency.org/images/fbdd34b1-8146-4d80-8bc9-0e578a03f018.png
@@ -510,7 +514,7 @@ program_operator:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2024-07-24T16:59:03.222714Z'
+  updated_on: '2025-07-03T13:56:29.001838Z'
   web_domain: asphaltpavement.org
   website: asphaltpavement.org
 program_operator_fkey: 24.63.93
