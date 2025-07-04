@@ -25,7 +25,7 @@ category:
   id: 73e602b930884f559e904184f35ee4ed
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 41.4 kg
+  mass_per_declared_unit: 41.8 kg
   massless: false
   masterformat: 08 10 00 Doors and Frames
   may_contain_trusted_vendor_declarations: false
@@ -35,22 +35,22 @@ category:
   openepd: Openings >> DoorsAndFrames
   openepd_name: Openings >> DoorsAndFrames
   parents: []
-  pct10_gwp: 5.848463962 kgCO2e
-  pct20_gwp: 19.59634531 kgCO2e
-  pct30_gwp: 38.65873537 kgCO2e
-  pct40_gwp: 65.95076383 kgCO2e
-  pct50_gwp: 133.8166536 kgCO2e
-  pct60_gwp: 174.0264615 kgCO2e
-  pct70_gwp: 230.3642336 kgCO2e
-  pct80_gwp: 403.1707072 kgCO2e
-  pct90_gwp: 654.5302222 kgCO2e
+  pct10_gwp: 5.736472099 kgCO2e
+  pct20_gwp: 20.62580936 kgCO2e
+  pct30_gwp: 38.78946934 kgCO2e
+  pct40_gwp: 66.13292152 kgCO2e
+  pct50_gwp: 135.8973883 kgCO2e
+  pct60_gwp: 174.5974444 kgCO2e
+  pct70_gwp: 231.8831421 kgCO2e
+  pct80_gwp: 404.6909435 kgCO2e
+  pct90_gwp: 659.5076383 kgCO2e
   requires_mass_per_declared_unit: true
   short_name: Doors and Frames
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30171500'
-  updated_on: '2025-07-03T10:36:09.167388Z'
+  updated_on: '2025-07-04T10:54:59.631851Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -440,8 +440,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

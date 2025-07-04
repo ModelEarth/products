@@ -42,7 +42,7 @@ also_shown_in:
   subcategories: []
   template_builders: []
   unspsc: '30161509'
-  updated_on: '2025-07-03T10:36:06.904202Z'
+  updated_on: '2025-07-04T10:54:57.379778Z'
   use_stored_carbon: ABSENT
 applicable_in:
 - '001'
@@ -95,7 +95,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161509'
-  updated_on: '2025-07-03T10:36:02.292669Z'
+  updated_on: '2025-07-04T10:54:52.892114Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -534,8 +534,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

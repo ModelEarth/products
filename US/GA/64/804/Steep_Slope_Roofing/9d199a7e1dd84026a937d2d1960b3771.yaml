@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30151500'
-  updated_on: '2025-07-03T10:36:06.469247Z'
+  updated_on: '2025-07-04T10:54:56.948574Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -207,14 +207,14 @@ pcr:
   short_name: Asphalt Shingles, Built-up Asphalt and Modified Bituminous Membrane
     Roofing
   status: Sunset
-  updated_on: '2025-07-03T22:01:32.048408Z'
+  updated_on: '2025-07-04T21:40:16.868927Z'
   version: '1'
 pct80_gwp_per_category_declared_unit: 6.550853229 kgCO2e
 plant_geography:
-- US-OR
 - US-GA
-- US-OH
+- US-OR
 - US-TX
+- US-OH
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -224,10 +224,10 @@ plant_or_group:
   id: 34ca1d23495b401fbfa5cd2278eb94a1
   is_failed: false
   jurisdiction:
-  - US-GA
-  - US-OR
   - US-TX
+  - US-GA
   - US-OH
+  - US-OR
   name: Medina Roofing Plant, Atlanta Roofing Plant, Portland Roofing Plant", Irving
     Roofing Plant
   owned_by:
