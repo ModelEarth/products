@@ -51,7 +51,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '11122000'
-  updated_on: '2025-07-04T10:54:54.921755Z'
+  updated_on: '2025-07-05T11:52:21.741673Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -167,8 +167,8 @@ is_downloadable: true
 is_duplicate: false
 is_failed: false
 jurisdiction:
-- '021'
 - US-OR
+- '021'
 language: en
 lca_discussion: "## Product Component Notes\nTable 1 provides the average material\
   \ content for MDF produced by Roseburg. This product meets the EPA Formaldehyde\
@@ -560,8 +560,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '11122000'
-  updated_on: '2025-07-04T10:54:54.921755Z'
+  updated_on: '2025-07-05T11:52:21.741673Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -284,14 +284,14 @@ pcr:
   short_link: buildingtransparency.org/p/ec38861n82
   short_name: North American Structural and Architectural Wood Products
   status: Sunset
-  updated_on: '2025-07-04T21:40:17.250273Z'
+  updated_on: '2025-07-05T22:10:05.376012Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 608.4759943 kgCO2e
 plant_geography:
-- US-OR
 - US-LA
-- US-MS
+- US-OR
 - US-MT
+- US-MS
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -301,10 +301,10 @@ plant_or_group:
   id: 950cc3cb94664243a628dd46b08e8f16
   is_failed: false
   jurisdiction:
-  - US-OR
   - US-LA
-  - US-MT
   - US-MS
+  - US-MT
+  - US-OR
   name: US Plants - Particleboard
   owned_by:
     address: 3660 Gateway Street, Springfield, OR 97477

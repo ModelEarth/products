@@ -48,7 +48,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-04T10:55:00.315536Z'
+  updated_on: '2025-07-05T11:52:27.408473Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -502,7 +502,7 @@ verifier:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2025-06-14T05:25:14.291525Z'
+    updated_on: '2025-07-05T05:24:38.416988Z'
     warnings:
       address:
       - Not specified

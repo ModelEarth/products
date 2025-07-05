@@ -35,22 +35,22 @@ category:
   openepd: PrecastConcrete
   openepd_name: PrecastConcrete
   parents: []
-  pct10_gwp: 160.1913496 kgCO2e
-  pct20_gwp: 192.4659756 kgCO2e
-  pct30_gwp: 211.143267 kgCO2e
-  pct40_gwp: 230.7855972 kgCO2e
-  pct50_gwp: 247.4282518 kgCO2e
-  pct60_gwp: 265.4655444 kgCO2e
-  pct70_gwp: 291.9327968 kgCO2e
-  pct80_gwp: 321.8403992 kgCO2e
-  pct90_gwp: 395.588963 kgCO2e
+  pct10_gwp: 168.7906382 kgCO2e
+  pct20_gwp: 199.6016994 kgCO2e
+  pct30_gwp: 220.8760515 kgCO2e
+  pct40_gwp: 236.9642927 kgCO2e
+  pct50_gwp: 252.208597 kgCO2e
+  pct60_gwp: 270.8590206 kgCO2e
+  pct70_gwp: 294.2883037 kgCO2e
+  pct80_gwp: 321.8803357 kgCO2e
+  pct90_gwp: 374.5904235 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Precast
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103619'
-  updated_on: '2025-07-04T10:54:44.769842Z'
+  updated_on: '2025-07-05T11:52:09.649767Z'
   use_stored_carbon: ABSENT
 concrete_compressive_strength_28d: 13.8 MPa
 confirmable_fields: []

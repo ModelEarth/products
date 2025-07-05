@@ -51,7 +51,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-07-04T10:54:56.179435Z'
+  updated_on: '2025-07-05T11:52:23.186188Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -256,7 +256,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-07-04T21:40:17.461051Z'
+  updated_on: '2025-07-05T22:10:05.578767Z'
   version: '2'
 pcr_notes: 'Embodied GWP per declared unit = GWP_func * CS_factor, where:
 
@@ -271,9 +271,9 @@ pct80_gwp_per_category_declared_unit: 78.85291388 kgCO2e
 plant_geography:
 - US-IL
 - US-OH
+- CA-QC
 - MX
 - US-OR
-- CA-QC
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -284,10 +284,10 @@ plant_or_group:
   is_failed: false
   jurisdiction:
   - US-IL
-  - US-OR
-  - MX
   - US-OH
   - CA-QC
+  - MX
+  - US-OR
   name: Tallmadge OH, Rockford, IL, Monterrey, Gresham, Valleyfield
   owned_by:
     address: Toledo, OH, USA
@@ -424,8 +424,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
