@@ -39,22 +39,22 @@ category:
   openepd: Asphalt
   openepd_name: Asphalt
   parents: []
-  pct10_gwp: 0.05476557056 kgCO2e
-  pct20_gwp: 0.05979362256 kgCO2e
-  pct30_gwp: 0.06404065064 kgCO2e
-  pct40_gwp: 0.06791043581 kgCO2e
-  pct50_gwp: 0.07156570503 kgCO2e
-  pct60_gwp: 0.07547954634 kgCO2e
-  pct70_gwp: 0.07945215405 kgCO2e
-  pct80_gwp: 0.08491272665 kgCO2e
-  pct90_gwp: 0.09536609141 kgCO2e
+  pct10_gwp: 0.0548055317 kgCO2e
+  pct20_gwp: 0.05982418108 kgCO2e
+  pct30_gwp: 0.0640729908 kgCO2e
+  pct40_gwp: 0.06792218909 kgCO2e
+  pct50_gwp: 0.07162447141 kgCO2e
+  pct60_gwp: 0.07551480618 kgCO2e
+  pct70_gwp: 0.07946978396 kgCO2e
+  pct80_gwp: 0.08495268779 kgCO2e
+  pct90_gwp: 0.09535433813 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Asphalt
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30121601'
-  updated_on: '2025-07-05T11:52:26.504267Z'
+  updated_on: '2025-07-06T12:11:00.185983Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []

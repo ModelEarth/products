@@ -44,7 +44,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   unspsc: '40101806'
-  updated_on: '2025-07-05T11:52:31.314256Z'
+  updated_on: '2025-07-06T12:11:04.737523Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -164,7 +164,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qpee337
   short_name: Electrical, Electronic and HVAC-R Products
   status: Published
-  updated_on: '2025-07-05T22:10:06.525157Z'
+  updated_on: '2025-07-06T22:10:07.590935Z'
   version: '4'
 plant_geography:
 - '001'
@@ -222,9 +222,9 @@ plant_or_group:
     web_domain: lghausys.com
     website: http://www.lghausys.com/main.jsp
   plants_count: 2
-  total_epds: 4
+  total_epds: 5
   type: PlantGroup
-  updated_on: '2025-03-02T11:28:11.592260Z'
+  updated_on: '2025-07-06T11:40:43.118447Z'
 plant_specific: false
 private: false
 product_classes:
