@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-07-06T12:10:56.682828Z'
+  updated_on: '2025-07-07T10:37:08.498727Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -304,13 +304,13 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-07-06T22:10:06.518751Z'
+  updated_on: '2025-07-07T21:40:16.251137Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 1.599303181 kgCO2e
 plant_geography:
+- US-GA
 - US-KS
 - US-CA
-- US-GA
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -320,9 +320,9 @@ plant_or_group:
   id: 4e7fd516d9bf450f975d5d55ba9c5602
   is_failed: false
   jurisdiction:
+  - US-GA
   - US-KS
   - US-CA
-  - US-GA
   name: Athens, GA/Chowchilla, CA/Kansas City, KS
   owned_by:
     address: 20 Moores Rd, Malvern, PA 19355, USA

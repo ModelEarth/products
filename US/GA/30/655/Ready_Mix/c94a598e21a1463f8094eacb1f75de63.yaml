@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30111505'
-  updated_on: '2025-07-06T12:10:43.218924Z'
+  updated_on: '2025-07-07T10:36:56.498520Z'
   use_stored_carbon: ABSENT
 concrete_air_entrain: false
 concrete_co2_entrain: false
@@ -256,7 +256,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3n3h3t5z
   short_name: Concrete
   status: Expired
-  updated_on: '2025-07-06T22:10:05.882916Z'
+  updated_on: '2025-07-07T21:40:15.598392Z'
   version: '2.1'
 pct80_gwp_per_category_declared_unit: 323.0259763 kgCO2e
 plant_geography:
@@ -352,9 +352,9 @@ plant_or_group:
     web_domain: ernstconcrete.com
     website: ernstconcrete.com
   postal_code: '30655'
-  total_epds: 23
+  total_epds: 30
   type: Plant
-  updated_on: '2025-05-30T18:00:07.689281Z'
+  updated_on: '2025-07-07T20:01:03.075436Z'
 plant_specific: true
 plc: false
 private: false

@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-06T12:10:52.378684Z'
+  updated_on: '2025-07-07T10:37:04.409465Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -101,6 +101,8 @@ developer:
     created_on: '2020-02-13T12:06:28.128107Z'
     email_extensions:
     - tarkett.com
+    - tarkettna.com
+    - tarkett.fr
     enterprise: true
     id: 91a2a12664d148cd90dcf7f2627cc681
     image: https://static.buildingtransparency.org/images/1a3b205b-1ef4-4049-b778-cd6e521e8aac.png
@@ -146,7 +148,7 @@ developer:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2024-12-11T16:25:19.664969Z'
+    updated_on: '2025-07-07T18:26:33.247507Z'
     web_domain: tarkett.com
     website: www.tarkett.com
 doc: buildingtransparency.org/e/ec3chqyqes
@@ -245,6 +247,8 @@ manufacturer:
   created_on: '2020-02-13T12:06:28.128107Z'
   email_extensions:
   - tarkett.com
+  - tarkettna.com
+  - tarkett.fr
   enterprise: true
   id: 91a2a12664d148cd90dcf7f2627cc681
   image: https://static.buildingtransparency.org/images/1a3b205b-1ef4-4049-b778-cd6e521e8aac.png
@@ -290,7 +294,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2024-12-11T16:25:19.664969Z'
+  updated_on: '2025-07-07T18:26:33.247507Z'
   web_domain: tarkett.com
   website: www.tarkett.com
 manufacturer_specific: true
@@ -345,7 +349,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3e6jsgyf
   short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
   status: Sunset
-  updated_on: '2025-07-06T22:10:06.430328Z'
+  updated_on: '2025-07-07T21:40:16.162081Z'
   version: '1'
 pct80_gwp_per_category_declared_unit: 11.87081 kgCO2e
 plant_geography:
@@ -406,6 +410,8 @@ plant_or_group:
     created_on: '2020-02-13T12:06:28.128107Z'
     email_extensions:
     - tarkett.com
+    - tarkettna.com
+    - tarkett.fr
     enterprise: true
     id: 91a2a12664d148cd90dcf7f2627cc681
     image: https://static.buildingtransparency.org/images/1a3b205b-1ef4-4049-b778-cd6e521e8aac.png
@@ -451,7 +457,7 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2024-12-11T16:25:19.664969Z'
+    updated_on: '2025-07-07T18:26:33.247507Z'
     web_domain: tarkett.com
     website: www.tarkett.com
   postal_code: '30721'
@@ -522,8 +528,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

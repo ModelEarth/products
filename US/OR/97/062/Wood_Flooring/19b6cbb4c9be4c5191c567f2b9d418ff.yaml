@@ -37,22 +37,22 @@ category:
   openepd: Finishes >> Flooring >> WoodFlooring
   openepd_name: Finishes >> Flooring >> WoodFlooring
   parents: []
-  pct10_gwp: -16.97496842 kgCO2e
-  pct20_gwp: -3.741477488 kgCO2e
-  pct30_gwp: 4.270277562 kgCO2e
-  pct40_gwp: 5.956440041 kgCO2e
-  pct50_gwp: 7.170282026 kgCO2e
-  pct60_gwp: 8.540741201 kgCO2e
-  pct70_gwp: 10.72349342 kgCO2e
-  pct80_gwp: 12.47492845 kgCO2e
-  pct90_gwp: 14.17842394 kgCO2e
+  pct10_gwp: -17.81685108 kgCO2e
+  pct20_gwp: -4.849666501 kgCO2e
+  pct30_gwp: 3.02875772 kgCO2e
+  pct40_gwp: 5.677938124 kgCO2e
+  pct50_gwp: 7.030528405 kgCO2e
+  pct60_gwp: 8.458039742 kgCO2e
+  pct70_gwp: 10.18893241 kgCO2e
+  pct80_gwp: 12.13174768 kgCO2e
+  pct90_gwp: 12.67402896 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Wood Flooring
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161702'
-  updated_on: '2025-07-06T12:10:52.479468Z'
+  updated_on: '2025-07-07T10:37:04.488055Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
