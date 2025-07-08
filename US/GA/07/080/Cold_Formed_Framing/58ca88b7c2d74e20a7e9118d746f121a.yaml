@@ -36,20 +36,20 @@ category:
   openepd: Steel >> ColdFormedSteel >> ColdFormedFraming
   openepd_name: Steel >> ColdFormedSteel >> ColdFormedFraming
   parents: []
-  pct10_gwp: 1830.891229 kgCO2e
-  pct20_gwp: 1993.381857 kgCO2e
-  pct30_gwp: 2131.227536 kgCO2e
-  pct40_gwp: 2299.502465 kgCO2e
-  pct50_gwp: 2491.268183 kgCO2e
-  pct60_gwp: 2709.598901 kgCO2e
-  pct70_gwp: 2855.37661 kgCO2e
-  pct80_gwp: 2992.722266 kgCO2e
-  pct90_gwp: 3127.104824 kgCO2e
+  pct10_gwp: 1828.846361 kgCO2e
+  pct20_gwp: 1953.967781 kgCO2e
+  pct30_gwp: 2128.106227 kgCO2e
+  pct40_gwp: 2227.922182 kgCO2e
+  pct50_gwp: 2448.682402 kgCO2e
+  pct60_gwp: 2637.563679 kgCO2e
+  pct70_gwp: 2842.600875 kgCO2e
+  pct80_gwp: 2987.679768 kgCO2e
+  pct90_gwp: 3126.348449 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Framing
   short_service_life_disclaimer: false
   subcategories: []
-  updated_on: '2025-07-07T10:37:01.887248Z'
+  updated_on: '2025-07-08T10:53:27.244578Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
@@ -281,10 +281,10 @@ pcr:
   version: '2'
 pct80_gwp_per_category_declared_unit: 3126.348449 kgCO2e
 plant_geography:
+- US-IN
+- US-GA
 - US-NJ
 - GE
-- US-GA
-- US-IN
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -294,10 +294,10 @@ plant_or_group:
   id: c616b1129dc849388261d648dda76add
   is_failed: false
   jurisdiction:
+  - US-IN
+  - US-GA
   - US-NJ
   - GE
-  - US-GA
-  - US-IN
   name: Marino\WARE facilities
   owned_by:
     address: 400 Metuchen Road, South Plainfield, NJ 07080

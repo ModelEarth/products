@@ -33,13 +33,13 @@ category:
   openepd: Concrete >> ReadyMix
   openepd_name: Concrete >> ReadyMix
   parents: []
-  pct10_gwp: 247.2316517 kgCO2e
+  pct10_gwp: 247.1798458 kgCO2e
   pct20_gwp: 283.1051597 kgCO2e
-  pct30_gwp: 310.3283993 kgCO2e
+  pct30_gwp: 310.3125401 kgCO2e
   pct40_gwp: 334.9397277 kgCO2e
   pct50_gwp: 359.2861844 kgCO2e
-  pct60_gwp: 386.8811181 kgCO2e
-  pct70_gwp: 417.0327982 kgCO2e
+  pct60_gwp: 386.7522469 kgCO2e
+  pct70_gwp: 417.0145863 kgCO2e
   pct80_gwp: 452.8100992 kgCO2e
   pct90_gwp: 507.5529002 kgCO2e
   requires_mass_per_declared_unit: false
@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30111505'
-  updated_on: '2025-07-07T10:36:56.498520Z'
+  updated_on: '2025-07-08T10:53:21.484093Z'
   use_stored_carbon: ABSENT
 concrete_aggregate_size_max: 0.5 in
 concrete_air_entrain: false
@@ -268,7 +268,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3n3h3t5z
   short_name: Concrete
   status: Expired
-  updated_on: '2025-07-07T22:20:06.361778Z'
+  updated_on: '2025-07-08T22:30:17.754604Z'
   version: '2.1'
 pct80_gwp_per_category_declared_unit: 369.9661044 kgCO2e
 plant_geography:

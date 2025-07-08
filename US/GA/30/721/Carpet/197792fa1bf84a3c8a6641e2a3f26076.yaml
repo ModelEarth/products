@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-07T10:37:04.409465Z'
+  updated_on: '2025-07-08T10:53:29.882397Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -298,7 +298,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qp4ff49
   short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
   status: Sunset
-  updated_on: '2025-07-07T21:40:16.190428Z'
+  updated_on: '2025-07-08T22:04:27.199722Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 8.34482683 kgCO2e
 plant_geography:
@@ -410,10 +410,10 @@ plant_or_group:
     web_domain: tarkett.com
     website: www.tarkett.com
   postal_code: '30721'
-  total_epds: 10
+  total_epds: 22
   type: Plant
   units: SI
-  updated_on: '2020-08-03T18:09:33.439712Z'
+  updated_on: '2025-07-08T14:01:07.556534Z'
 plant_specific: true
 private: false
 product_classes: {}
@@ -477,8 +477,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

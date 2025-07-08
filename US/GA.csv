@@ -3154,7 +3154,16 @@ Concrete >> ReadyMix,45CAC124,ec328dn9,30337,Fulton County,"2625 Sullivan Rd, At
 OtherMaterials >> Unsupported,Flex MSE Vegetated Wall System,ec35zepq,,,,,
 Concrete >> ReadyMix,10004543,ec3a28jw,30290,Fayette County,"195 Peggy Ln, Tyrone, GA 30290, USA",33.496351,-84.584093
 Concrete >> ReadyMix,50CNF979,ec3td5f7,30324,Fulton,"Armour Drive Northeast, Atlanta, GA 30324",33.81058,-84.38147
+Finishes >> Flooring >> Carpet,ethos® Modular with Dynex,ec3s8eek,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,ethos® Modular Carpet Tile with ECONYL®,ec3nya8d,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,ethos® Modular with Omnicoat Technology® w/ nylon 6'6 face fiber,ec3d2ktk,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
 Concrete >> ReadyMix,EVOBRPRO3,ec32m80j,30290,Fayette County,"1015 Tyrone Rd Ste 720, Tyrone, GA 30290, USA",33.478586,-84.585183
+Finishes >> Flooring >> Carpet,Flex-Aire Modular® Cushion with Dynex,ec3td1tr,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,Flex-Aire Modular® Cushion w/ ECONYL® nylon face fiber,ec3z1e1y,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,Powerbond® w/ Dynex nylon face fiber,ec3zqdmq,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,Powerbond® w/ ECONYL® nylon face fiber,ec3nybn7,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,Powerbond® Hybrid Carpet with Nylon 6'6,ec3ummbz,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,Flex-Aire Modular® Cushion with Nylon 6'6,ec3aa0t7,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
 Concrete >> ReadyMix,40CA6.5PA,ec3xeap0,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
 Finishes >> Flooring >> Carpet,"NA-WellBAC® Comfort R/EN Printworks™ Nylon 6 & 6,6",ec3qgjj5,,,,,
 Concrete >> ReadyMix,Mix 30MASS01,ec3b0rde,30324,Fulton,"Armour Drive Northeast, Atlanta, GA 30324",33.81058,-84.38147
@@ -4269,6 +4278,9 @@ Concrete >> ReadyMix,40CA3.5#67,ec35c2xy,30655,Walton County,"2006 Leroy Anderso
 Finishes >> Gypsum,XP Fire-Shield Gypsum Board 5/8 inch,ec3xnmag,,,,,
 Concrete >> ReadyMix,50CA4.5#67,ec39phr8,30046,Gwinnett County,"500 Seaboard Industrial Dr, Lawrenceville, GA 30046, USA",33.9699617,-83.96688759999999
 Concrete >> ReadyMix,50CA4.5#67,ec3dnrrt,30046,Gwinnett County,"500 Seaboard Industrial Dr, Lawrenceville, GA 30046, USA",33.9699617,-83.96688759999999
+Finishes >> Flooring >> Carpet,Powerbond® w/ Dynex nylon face fiber,ec3qwqeh,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,Powerbond® w/ Dynex nylon face fiber,ec3e4u79,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,Powerbond® w/ Dynex nylon face fiber,ec3dxx6f,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
 Concrete >> ReadyMix,50CA2.5#67,ec31cbdr,30046,Gwinnett County,"500 Seaboard Industrial Dr, Lawrenceville, GA 30046, USA",33.9699617,-83.96688759999999
 Concrete >> ReadyMix,10005307,ec389jnm,30290,Fayette County,"195 Peggy Ln, Tyrone, GA 30290, USA",33.496351,-84.584093
 OtherElectricalEquipment,PULSE 400,ec3k1zwu,,,,,
@@ -4277,6 +4289,7 @@ Concrete >> ReadyMix,40CA3.5PA,ec366pkx,30655,Walton County,"2006 Leroy Anderson
 Concrete >> ReadyMix,35CA3,ec3rn0sf,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
 Concrete >> ReadyMix,40CN3.5#67,ec3crq5f,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
 Concrete >> ReadyMix,25CA3,ec3b6e6m,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
+Concrete >> ReadyMix,Mix 45JNC0436,ec3msntk,30080,Cobb County,"2820 Plant Atkinson Rd, Smyrna, GA 30080, USA",33.8329472,-84.4711279
 Concrete >> ReadyMix,30CA3.9#67,ec3jqkeg,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
 Electrical >> ElectricalGenerationEquipment,KCHH067LDGC,ec3863af,,,,,
 Concrete >> ReadyMix,40CA3.5HC,ec3kq3z9,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999

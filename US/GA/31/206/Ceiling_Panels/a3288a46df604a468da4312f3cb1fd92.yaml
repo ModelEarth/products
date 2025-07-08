@@ -35,14 +35,14 @@ category:
   openepd: Finishes >> CeilingPanel
   openepd_name: Finishes >> CeilingPanel
   parents: []
-  pct10_gwp: 2.505783554 kgCO2e
+  pct10_gwp: 2.505113076 kgCO2e
   pct20_gwp: 3.210433409 kgCO2e
-  pct30_gwp: 4.422434239 kgCO2e
-  pct40_gwp: 5.197724464 kgCO2e
-  pct50_gwp: 6.062016562 kgCO2e
-  pct60_gwp: 7.6868975 kgCO2e
-  pct70_gwp: 10.99605796 kgCO2e
-  pct80_gwp: 30.23870695 kgCO2e
+  pct30_gwp: 4.436025169 kgCO2e
+  pct40_gwp: 5.198062422 kgCO2e
+  pct50_gwp: 6.079675666 kgCO2e
+  pct60_gwp: 7.733396123 kgCO2e
+  pct70_gwp: 11.03137273 kgCO2e
+  pct80_gwp: 30.3315994 kgCO2e
   pct90_gwp: 59.1455241 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Ceiling Panels
@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161600'
-  updated_on: '2025-07-07T10:37:05.284312Z'
+  updated_on: '2025-07-08T10:53:30.822416Z'
   use_stored_carbon: ABSENT
 ceiling_panel_core_material: Mineral Fiber
 confirmable_fields: []
@@ -127,8 +127,8 @@ developer:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -510,8 +510,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -607,8 +607,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false

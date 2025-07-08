@@ -44,7 +44,7 @@ category:
   short_name: Structural
   short_service_life_disclaimer: false
   subcategories: []
-  updated_on: '2025-07-07T10:36:57.040473Z'
+  updated_on: '2025-07-08T10:53:22.137783Z'
   use_stored_carbon: ABSENT
 concrete_compressive_strength_28d: 34.5 MPa
 confirmable_fields: []
@@ -240,7 +240,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3r08uctb
   short_name: Concrete
   status: Expired
-  updated_on: '2025-07-07T21:40:15.653777Z'
+  updated_on: '2025-07-08T22:14:28.532310Z'
   version: 2.3 extension
 plant_geography:
 - US-GA
@@ -408,8 +408,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

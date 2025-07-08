@@ -147,8 +147,8 @@ impacts: {}
 is_downloadable: false
 is_failed: false
 jurisdiction:
-- US-GA
 - '021'
+- US-GA
 language: en
 lowest_plausible_gwp: 20.28693802 kgCO2e
 manufacturer:

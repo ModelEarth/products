@@ -23,7 +23,7 @@ category:
   id: 342ccbc46fc1418c8db86016753807d5
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 4.795 kg
+  mass_per_declared_unit: 4.7975 kg
   massless: false
   masterformat: 09 51 00 Acoustical Ceilings
   may_contain_trusted_vendor_declarations: false
@@ -33,22 +33,22 @@ category:
   openepd: Finishes >> CeilingPanel >> AcousticalCeilings
   openepd_name: Finishes >> CeilingPanel >> AcousticalCeilings
   parents: []
-  pct10_gwp: 2.400698587 kgCO2e
+  pct10_gwp: 2.406694182 kgCO2e
   pct20_gwp: 3.060554402 kgCO2e
-  pct30_gwp: 4.343044451 kgCO2e
-  pct40_gwp: 5.139182163 kgCO2e
-  pct50_gwp: 5.838758001 kgCO2e
-  pct60_gwp: 6.720407722 kgCO2e
-  pct70_gwp: 9.437365565 kgCO2e
-  pct80_gwp: 22.30746742 kgCO2e
-  pct90_gwp: 49.46521725 kgCO2e
+  pct30_gwp: 4.342795581 kgCO2e
+  pct40_gwp: 5.101851542 kgCO2e
+  pct50_gwp: 5.820901521 kgCO2e
+  pct60_gwp: 6.719511787 kgCO2e
+  pct70_gwp: 9.370101234 kgCO2e
+  pct80_gwp: 22.2427612 kgCO2e
+  pct90_gwp: 49.30749742 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Acoustical Ceilings
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161601'
-  updated_on: '2025-07-07T10:37:05.360266Z'
+  updated_on: '2025-07-08T10:53:30.912466Z'
   use_stored_carbon: OPTIONAL
 ceiling_panel_cac: 24
 ceiling_panel_core_material: Mineral Fiber
@@ -297,26 +297,26 @@ pcr:
 pcr_notes: Manufactured at ALL USG facilities, split by product
 pct80_gwp_per_category_declared_unit: 6.261857522 kgCO2e
 plant_geography:
-- US-MN
-- '003'
-- US-MS
-- US-MD
-- US-AL
-- US-WI
-- US-UT
-- CA-ON
-- US-GA
 - US-MI
-- US-CA
-- US-IA
+- US-MS
 - US-PA
-- US-FL
 - US-LA
+- US-CA
+- US-MN
 - US-OH
-- US-VA
-- US-TX
-- US-OR
+- CA-ON
 - US-IN
+- US-TX
+- US-UT
+- US-MD
+- US-WI
+- US-AL
+- US-GA
+- US-IA
+- US-FL
+- '003'
+- US-VA
+- US-OR
 plant_or_group:
   categories: []
   confirmable_fields: []
