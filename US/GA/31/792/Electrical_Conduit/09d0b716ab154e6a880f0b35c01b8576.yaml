@@ -45,7 +45,7 @@ category:
   short_name: Conduit
   short_service_life_disclaimer: false
   subcategories: []
-  updated_on: '2025-07-08T10:53:40.304612Z'
+  updated_on: '2025-07-09T10:55:44.420076Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -166,6 +166,9 @@ owner:
   name: cqd.io Admin
   user_id: cqd.admin@buildingtransparency.org
 pcr:
+  alt_names:
+  - Conduit and Conduit Accessories
+  - Electrical and Telecommunications Conduit
   categories: []
   confirmable_fields: []
   confirmed_fields: []
@@ -183,8 +186,8 @@ pcr:
   original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3nrxfx
   product_classes: {}
   short_link: buildingtransparency.org/p/ec3nrxfx7e
-  short_name: Part B PCR for Conduit and Conduit Accessories
-  updated_on: '2024-07-20T20:34:08.192469Z'
+  short_name: Conduit and Conduit Accessories
+  updated_on: '2025-07-09T14:59:51.633959Z'
   version: '1'
 pct80_gwp_per_category_declared_unit: 8.228965536 kgCO2e
 plant_geography:

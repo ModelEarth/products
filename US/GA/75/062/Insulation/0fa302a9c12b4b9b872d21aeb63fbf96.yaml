@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-07-08T10:53:34.090528Z'
+  updated_on: '2025-07-09T10:55:38.173806Z'
   use_stored_carbon: OPTIONAL
 compressive_strength: 20 psi
 confirmable_fields:
@@ -332,13 +332,13 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-07-08T22:04:27.255833Z'
+  updated_on: '2025-07-09T22:11:10.575140Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 2.722271076 kgCO2e
 plant_geography:
 - US-TX
-- US-GA
 - '003'
+- US-GA
 - US-UT
 plant_or_group:
   categories: []

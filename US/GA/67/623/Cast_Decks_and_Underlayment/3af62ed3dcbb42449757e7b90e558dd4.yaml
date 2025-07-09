@@ -34,22 +34,22 @@ category:
   openepd: CastDecksAndUnderlayment
   openepd_name: CastDecksAndUnderlayment
   parents: []
-  pct10_gwp: 126.3776854 kgCO2e
-  pct20_gwp: 170.7423928 kgCO2e
-  pct30_gwp: 201.1889456 kgCO2e
-  pct40_gwp: 294.5331714 kgCO2e
-  pct50_gwp: 388.4067255 kgCO2e
-  pct60_gwp: 497.7119433 kgCO2e
-  pct70_gwp: 671.4004924 kgCO2e
-  pct80_gwp: 952.8640183 kgCO2e
-  pct90_gwp: 1404.232974 kgCO2e
+  pct10_gwp: 126.0023889 kgCO2e
+  pct20_gwp: 169.6022821 kgCO2e
+  pct30_gwp: 200.4885056 kgCO2e
+  pct40_gwp: 292.7508666 kgCO2e
+  pct50_gwp: 382.7701541 kgCO2e
+  pct60_gwp: 493.067329 kgCO2e
+  pct70_gwp: 673.8748787 kgCO2e
+  pct80_gwp: 981.9973259 kgCO2e
+  pct90_gwp: 1424.197821 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Cast Decks and Underlayment
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30130000'
-  updated_on: '2025-07-08T10:53:23.667232Z'
+  updated_on: '2025-07-09T10:55:28.348189Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -442,8 +442,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false
@@ -548,8 +548,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - US
     - CA
+    - US
     postal_code: '19428'
     primary_activity_builder: false
     primary_activity_design: false
