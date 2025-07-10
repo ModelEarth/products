@@ -37,7 +37,7 @@ category:
   pct20_gwp: 137.5157515 kgCO2e
   pct30_gwp: 156.8483925 kgCO2e
   pct40_gwp: 171.4637304 kgCO2e
-  pct50_gwp: 194.293439 kgCO2e
+  pct50_gwp: 191.3146729 kgCO2e
   pct60_gwp: 216.6943015 kgCO2e
   pct70_gwp: 255.5922144 kgCO2e
   pct80_gwp: 286.8894493 kgCO2e
@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30131600'
-  updated_on: '2025-07-09T10:55:27.409225Z'
+  updated_on: '2025-07-10T10:40:55.565902Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []

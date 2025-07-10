@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-09T10:55:34.140097Z'
+  updated_on: '2025-07-10T10:41:02.878719Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -268,7 +268,7 @@ matched_plants_count: 0
 material_id: 4bcb4068c6df4b5fac27d12ed6f3b561
 multiproduct: false
 my_capabilities: 1
-name: Tufted Nylon Carpet on Unibond Plus OnGuard
+name: Unibond Plus OnGuard
 not_an_epd: false
 open_xpd_uuid: ec3gf2nw
 original_data_format: pdf_mixed
@@ -461,13 +461,17 @@ plant_or_group:
     web_domain: mohawkind.com
     website: www.mohawkind.com
   postal_code: '30701'
-  total_epds: 44
+  total_epds: 32
   type: Plant
   units: SI
-  updated_on: '2024-12-04T18:47:00.682345Z'
+  updated_on: '2025-07-10T20:00:04.181197Z'
 plant_specific: false
 private: false
-product_classes: {}
+product_classes:
+  UNSPSC:
+  - '30161701'
+  masterformat:
+  - 09 68 00
 product_specific: true
 program_operator:
   address: 2211 New Market Parkway Southeast, Marietta, GA 30067
@@ -551,6 +555,7 @@ program_operator:
   web_domain: ul.com
   website: https://www.ul.com/
 program_operator_fkey: 4790644072.108.1
+reference_service_life: 15 years
 requires_ocr: false
 resource_uses: {}
 sanitizable: true
@@ -561,7 +566,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 21.75330769 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2024-08-29T16:14:43.168832Z'
+updated_on: '2025-07-10T19:12:59.837445Z'
 use_stored_carbon: false
 verifier:
   email: tgloria@industrial-ecology.com
@@ -648,5 +653,5 @@ warnings:
   - EP-TERRESTRIAL impact not specified
   - B2_years are empty
   - B4_years are empty
-yarn_type: Olefin
-yarn_weight: 28 oz / yd2
+yarn_type: Nylon 6
+yarn_weight: 950 g / m2

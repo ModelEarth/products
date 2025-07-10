@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30171613'
-  updated_on: '2025-07-09T10:55:42.010379Z'
+  updated_on: '2025-07-10T10:41:11.599510Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -253,11 +253,11 @@ pcr:
     EF 3.0:
       impacts: []
       jurisdiction:
-      - '002'
-      - '142'
-      - AQ
       - 009
+      - '002'
       - '150'
+      - AQ
+      - '142'
       order: 1
     TRACI 2.1:
       impacts: []

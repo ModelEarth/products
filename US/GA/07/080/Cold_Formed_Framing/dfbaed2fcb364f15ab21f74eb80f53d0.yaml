@@ -51,7 +51,7 @@ category:
   short_name: Framing
   short_service_life_disclaimer: false
   subcategories: []
-  updated_on: '2025-07-09T10:55:31.665278Z'
+  updated_on: '2025-07-10T10:41:00.096884Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
@@ -293,9 +293,9 @@ pcr:
 pct80_gwp_per_category_declared_unit: 3130.130322 kgCO2e
 plant_geography:
 - US
-- US-GA
-- US-IN
 - US-NJ
+- US-IN
+- US-GA
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -437,8 +437,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

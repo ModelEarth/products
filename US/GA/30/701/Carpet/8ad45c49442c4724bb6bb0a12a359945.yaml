@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-09T10:55:34.140097Z'
+  updated_on: '2025-07-10T10:41:02.878719Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -64,16 +64,16 @@ date_validity_ends: '2028-02-01'
 declaration_type: Product EPD
 declared_unit: 1 m2
 description: "The next evolution in attached cushion backed broadloom, Weldlok AIR\
-  \ offers substantial sound reduction and enhanced comfort under foot.\nWeldlok backing\
-  \ with attached cushion is designed for commercial applications where acoustic performance\
-  \ is important. As of 2022, all Mohawk Group flooring products will be carbon neutral\
-  \ plus an additional 5%. Weldlok AIR meets Mohawk Group\u2019s commitment to Beyond\
-  \ Carbon Neutral. This study covers all products and styles with tufted nylon face\
-  \ fiber on Weldlok AIR backing, including standard tufted solution dyed yarns, precision-dye\
-  \ injection (PDI), and Definity/CYP. Due to a range of face weights offered with\
-  \ this product, an average face weight of 38 oz/yd2 (1288 g/m2) was used, which\
-  \ is the average of the annual sales. Unless noted in the report, the average face\
-  \ weight is presented for the impacts."
+  \ offers substantial sound reduction and enhanced comfort under foot.\n\nWeldlok\
+  \ backing with attached cushion is designed for commercial applications where acoustic\
+  \ performance is important. As of 2022, all Mohawk Group flooring products will\
+  \ be carbon neutral plus an additional 5%. Weldlok AIR meets Mohawk Group\u2019\
+  s commitment to Beyond Carbon Neutral. This study covers all products and styles\
+  \ with tufted nylon face fiber on Weldlok AIR backing, including standard tufted\
+  \ solution dyed yarns, precision-dye injection (PDI), and Definity/CYP. Due to a\
+  \ range of face weights offered with this product, an average face weight of 38\
+  \ oz/yd2 (1288 g/m2) was used, which is the average of the annual sales. Unless\
+  \ noted in the report, the average face weight is presented for the impacts."
 developer:
   email: info@sphera.com
   name: Sphera staff
@@ -158,7 +158,6 @@ gwp: 22 kgCO2e
 gwp_per_category_declared_unit: 22 kgCO2e
 gwp_per_kg: 6.769230769 kgCO2e
 gwp_z: 0.28879058156387305
-gypsum_specific_density: 3.25 kg / m^2
 id: a444274d1e464d3f89021776562ac910
 image: https://static.buildingtransparency.org/images/d4d67b82fb854ad9805bc403021d6820.png
 impacts: {}
@@ -267,7 +266,7 @@ matched_plants_count: 0
 material_id: 8ad45c49442c4724bb6bb0a12a359945
 multiproduct: false
 my_capabilities: 1
-name: Tufted Nylon Carpet on Weldlok Air
+name: Weldlok Air
 not_an_epd: false
 open_xpd_uuid: ec3bmysb
 original_data_format: pdf_mixed
@@ -460,13 +459,17 @@ plant_or_group:
     web_domain: mohawkind.com
     website: www.mohawkind.com
   postal_code: '30701'
-  total_epds: 44
+  total_epds: 32
   type: Plant
   units: SI
-  updated_on: '2024-12-04T18:47:00.682345Z'
+  updated_on: '2025-07-10T20:00:04.181197Z'
 plant_specific: false
 private: false
-product_classes: {}
+product_classes:
+  UNSPSC:
+  - '30161701'
+  masterformat:
+  - 09 68 00
 product_specific: true
 program_operator:
   address: 2211 New Market Parkway Southeast, Marietta, GA 30067
@@ -555,14 +558,13 @@ requires_ocr: false
 resource_uses: {}
 sanitizable: true
 short_link: buildingtransparency.org/e/ec3bmysbck
-specific_density: 3.25 kg / m^2
 standard_deviation: 6.353392794 kgCO2e
 stored_carbon_z: 0.2
 supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 27.34701538 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2024-05-31T18:06:26.207094Z'
+updated_on: '2025-07-10T19:20:17.429232Z'
 use_stored_carbon: false
 verifier:
   email: tgloria@industrial-ecology.com
@@ -648,5 +650,5 @@ warnings:
   - EP-TERRESTRIAL impact not specified
   - B2_years are empty
   - B4_years are empty
-yarn_type: Olefin
-yarn_weight: 3.25 kg / m2
+yarn_type: Nylon 6
+yarn_weight: 1288 g / m2

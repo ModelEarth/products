@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-09T10:55:34.140097Z'
+  updated_on: '2025-07-10T10:41:02.878719Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -461,10 +461,10 @@ plant_or_group:
     web_domain: mohawkind.com
     website: www.mohawkind.com
   postal_code: '30701'
-  total_epds: 44
+  total_epds: 32
   type: Plant
   units: SI
-  updated_on: '2024-12-04T18:47:00.682345Z'
+  updated_on: '2025-07-10T20:00:04.181197Z'
 plant_specific: false
 private: false
 product_classes: {}
