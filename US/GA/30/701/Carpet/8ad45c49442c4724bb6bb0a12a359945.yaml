@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-10T10:41:02.878719Z'
+  updated_on: '2025-07-11T11:35:05.659985Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -63,8 +63,8 @@ date_of_issue: '2023-02-01'
 date_validity_ends: '2028-02-01'
 declaration_type: Product EPD
 declared_unit: 1 m2
-description: "The next evolution in attached cushion backed broadloom, Weldlok AIR\
-  \ offers substantial sound reduction and enhanced comfort under foot.\n\nWeldlok\
+description: "The next evolution in attached cushion backed broadloom, Weldlok\xAE\
+  \ AIR offers substantial sound reduction and enhanced comfort under foot.\n\nWeldlok\
   \ backing with attached cushion is designed for commercial applications where acoustic\
   \ performance is important. As of 2022, all Mohawk Group flooring products will\
   \ be carbon neutral plus an additional 5%. Weldlok AIR meets Mohawk Group\u2019\
@@ -266,7 +266,7 @@ matched_plants_count: 0
 material_id: 8ad45c49442c4724bb6bb0a12a359945
 multiproduct: false
 my_capabilities: 1
-name: Weldlok Air
+name: "Tufted Nylon Carpet on Weldlok\xAE Air"
 not_an_epd: false
 open_xpd_uuid: ec3bmysb
 original_data_format: pdf_mixed
@@ -530,8 +530,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -564,7 +564,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 27.34701538 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-07-10T19:20:17.429232Z'
+updated_on: '2025-07-11T18:58:55.364164Z'
 use_stored_carbon: false
 verifier:
   email: tgloria@industrial-ecology.com

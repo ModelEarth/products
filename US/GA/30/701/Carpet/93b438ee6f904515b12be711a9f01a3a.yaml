@@ -47,7 +47,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-10T10:41:02.878719Z'
+  updated_on: '2025-07-11T11:35:05.659985Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -60,14 +60,14 @@ date_of_issue: '2023-11-01'
 date_validity_ends: '2028-11-01'
 declaration_type: Product EPD
 declared_unit: 1 m2
-description: EcoFlex ONE is an advanced flooring solution that improves every aspect
-  of comfort and acoustics while eliminating moisture testing-all with a lighter environmental
-  footprint that is Beyond Carbon Neutral. Tested, proven, and certified, EcoFlex
-  ONE is the holistic solution for human-centric environments. EcoFlex ONE is an advanced
-  flooring solution that improves every aspect of comfort and acoustics while eliminating
-  moisture testing-all with a lighter environmental footprint that is Beyond Carbon
-  Neutral. Tested, proven, and certified, EcoFlex ONE is the holistic solution for
-  human-centric environments.
+description: "EcoFlex\u2122 ONE is an advanced flooring solution that improves every\
+  \ aspect of comfort and acoustics while eliminating moisture testing-all with a\
+  \ lighter environmental footprint that is Beyond Carbon Neutral. Tested, proven,\
+  \ and certified, EcoFlex ONE is the holistic solution for human-centric environments.\
+  \ EcoFlex ONE is an advanced flooring solution that improves every aspect of comfort\
+  \ and acoustics while eliminating moisture testing-all with a lighter environmental\
+  \ footprint that is Beyond Carbon Neutral. Tested, proven, and certified, EcoFlex\
+  \ ONE is the holistic solution for human-centric environments."
 developer:
   email: info@sphera.com
   name: Sphera staff
@@ -190,7 +190,7 @@ mass_per_declared_unit: 3.15 kg
 matched_plants_count: 0
 material_id: 93b438ee6f904515b12be711a9f01a3a
 my_capabilities: 1
-name: EcoFlex ONE 23 oz
+name: "EcoFlex\u2122 ONE 23 oz"
 not_an_epd: false
 open_xpd_uuid: ec3bae8q
 original_data_format: pdf_manual
@@ -450,8 +450,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -483,7 +483,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 6.452549197 kgCO2e
 uncertainty_factor: 1.1753277225768932
-updated_on: '2024-08-31T01:36:21.226758Z'
+updated_on: '2025-07-11T15:12:14.568775Z'
 use_stored_carbon: false
 verifier:
   email: t.gloria@industrial-ecology.com
@@ -575,4 +575,4 @@ warnings:
   - EPD issued after PCR expiry date. Check version or expiry of PCR.
 width: 23.999999999999996 in
 yarn_type: Olefin
-yarn_weight: 23 oz/yd2
+yarn_weight: 23 oz / yd2

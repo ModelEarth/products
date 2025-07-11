@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-10T10:41:02.878719Z'
+  updated_on: '2025-07-11T11:35:05.659985Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -264,7 +264,7 @@ mass_per_declared_unit: 2.44 kg
 matched_plants_count: 0
 material_id: 12dcbcdaf4c14f658f6fdc9701c507d9
 my_capabilities: 1
-name: "Unibond\xAE Plus OnGuard"
+name: "Tufted Nylon Carpet on Unibond\xAE Plus OnGuard"
 not_an_epd: false
 open_xpd_uuid: ec3872rm
 original_data_format: pdf_manual
@@ -506,8 +506,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -539,7 +539,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 21.75330769 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-07-10T17:59:12.077811Z'
+updated_on: '2025-07-11T18:40:20.283813Z'
 use_stored_carbon: false
 verifier:
   email: tgloria@industrial-ecology.com

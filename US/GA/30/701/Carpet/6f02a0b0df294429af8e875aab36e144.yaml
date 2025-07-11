@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-10T10:41:02.878719Z'
+  updated_on: '2025-07-11T11:35:05.659985Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -61,21 +61,25 @@ date_of_issue: '2023-11-01'
 date_validity_ends: '2028-11-01'
 declaration_type: Product EPD
 declared_unit: 1 m2
-description: "Product Identification EcoFlex ONE is an advanced flooring solution\
-  \ that improves every aspect of comfort and acoustics while eliminating moisture\
-  \ testing-all with a lighter environmental footprint that is Beyond Carbon Neutral.\
-  \ Tested, proven, and certified, EcoFlex ONE is the holistic solution for human-centric\
-  \ environments. Every element in the EcoFlex ONE construction has a purpose, and\
-  \ combined they form the industry\u2019s leading modular carpet solution. The hydrophobic\
-  \ PET cushion, backing layers, and Duracolor Tricor fiber are engineered with your\
-  \ end goals in mind: to optimize your investment, be sustainably made, and provide\
-  \ a better occupant experience. As of 2022, all Mohawk Group flooring products will\
+description: "EcoFlex\u2122 ONE is an advanced flooring solution that improves every\
+  \ aspect of comfort and acoustics while eliminating moisture testing-all with a\
+  \ lighter environmental footprint that is Beyond Carbon Neutral. Tested, proven,\
+  \ and certified, EcoFlex ONE is the holistic solution for human-centric environments.\
+  \ Every element in the EcoFlex ONE construction has a purpose, and combined they\
+  \ form the industry\u2019s leading modular carpet solution. The hydrophobic PET\
+  \ cushion, backing layers, and Duracolor Tricor fiber are engineered with your end\
+  \ goals in mind: to optimize your investment, be sustainably made, and provide a\
+  \ better occupant experience. As of 2022, all Mohawk Group flooring products will\
   \ be carbon neutral plus an additional 5%. EcoFlex ONE meets Mohawk Group\u2019\
   s commitment to Beyond Carbon Neutral."
 doc: https://spot.ul.com/main-appproducts/detail/624eee779561418b4c7e3a51
 epd_degraded: true
+errors: {}
 excluded: false
 externally_verified: true
+failures:
+  impacts:
+  - GWP values from multiple LCIA methods are more different than expected.
 file_name: EcoFlexONEModularCarpetTile_6c8e85488e11287a0d961e6b51459ba37d05532f.pdf
 form_factor: Tiles
 gwp: 5.31 kgCO2e
@@ -91,7 +95,7 @@ intended_application:
 - Com
 is_downloadable: true
 is_duplicate: false
-is_failed: false
+is_failed: true
 jurisdiction:
 - '001'
 language: en
@@ -190,7 +194,7 @@ matched_plants_count: 0
 material_id: 6f02a0b0df294429af8e875aab36e144
 multiproduct: false
 my_capabilities: 1
-name: EcoFlex ONE Modular Carpet Tile
+name: "EcoFlex\u2122 ONE Modular Carpet Tile"
 not_an_epd: false
 open_xpd_uuid: ec3k8kh7
 original_data_format: pdf_mixed
@@ -484,7 +488,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 6.879848809 kgCO2e
 uncertainty_factor: 1.295640076958453
-updated_on: '2024-05-31T17:32:07.145724Z'
+updated_on: '2025-07-11T15:16:10.617253Z'
 use_stored_carbon: false
 verifier:
   email: cooper.mccollum@ul.com

@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-10T10:41:02.878719Z'
+  updated_on: '2025-07-11T11:35:05.659985Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -63,7 +63,7 @@ declaration_type: Product EPD
 declared_unit: 1 m2
 description: "One of Mohawk\u2019s successes in creating sustainable products which\
   \ perform to the needs and expectations of the commercial user is the product group\
-  \ \u201CTufted Nylon Broadloom Carpet on Unibond Plus Backing\u201D, the construction\
+  \ \u201CTufted Nylon Broadloom Carpet on Unibond\xAE Plus Backing\u201D, the construction\
   \ was specifically designed for commercial high performance environments. The high\
   \ performance \u201CThermoset Adhesive Coating\u201D is designed to encapsulate\
   \ and penetrate the carpet back stitch while securing the secondary backing for\
@@ -141,7 +141,6 @@ gwp: 106 kgCO2e
 gwp_per_category_declared_unit: 106 kgCO2e
 gwp_per_kg: 47.74774775 kgCO2e
 gwp_z: 0.3525620512760839
-gypsum_specific_density: 2.216 kg / m^2
 id: d657d43849af4886a739802740481f31
 image: https://static.buildingtransparency.org/images/33f984e8c2fc4b4fbd994087adf1d907.png
 impacts: {}
@@ -295,7 +294,7 @@ matched_plants_count: 0
 material_id: 38e8cfb1b8c348a2932d4c3300cdf383
 multiproduct: false
 my_capabilities: 1
-name: Tufted nylon broadloom carpet on Unibond Plus Backing
+name: "Tufted nylon broadloom carpet on Unibond\xAE Plus Backing"
 not_an_epd: false
 open_xpd_uuid: ec31s403
 original_data_format: pdf
@@ -344,7 +343,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3e6jsgyf
   short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
   status: Sunset
-  updated_on: '2025-07-10T22:10:05.123929Z'
+  updated_on: '2025-07-11T22:00:15.109106Z'
   version: '1'
 pct80_gwp_per_category_declared_unit: 137.4519196 kgCO2e
 plant_geography:
@@ -479,7 +478,8 @@ plant_or_group:
 plant_specific: false
 private: false
 product_classes:
-  masterformat: 09 68 16 Sheet Carpeting
+  masterformat:
+  - 09 68 16 Sheet Carpeting
 product_specific: false
 program_operator:
   address: 2211 New Market Parkway Southeast, Marietta, GA 30067
@@ -563,7 +563,6 @@ program_operator:
   web_domain: ul.com
   website: https://www.ul.com/
 program_operator_fkey: 12CA57885.104.1
-recycled_content: 0.0
 reference_service_life: 15 years
 requires_ocr: false
 resource_uses: {}
@@ -638,14 +637,13 @@ reviewer:
     website: https://www.nsf.org/
 sanitizable: true
 short_link: buildingtransparency.org/e/ec31s403q7
-specific_density: 2.216 kg / m^2
 standard_deviation: 37.37157744 kgCO2e
 stored_carbon_z: 0.2
 supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 137.4519196 kgCO2e
 uncertainty_factor: 1.2967162223539521
-updated_on: '2024-03-14T03:02:51.632863Z'
+updated_on: '2025-07-11T15:16:33Z'
 use_stored_carbon: false
 verifier:
   email: brad@wapsustainability.com
@@ -744,23 +742,15 @@ verifier:
     website: http://www.wapsustainability.com/
 warnings:
   density:
-  - Value described using more than one measurement unit. The first unit listed has
-    been used.
   - Not specified
   developer:
   - Missing link
   developer_org:
   - Missing link
-  gypsum_specific_density:
-  - Value described using more than one measurement unit. The first unit listed has
-    been used.
   impacts:
   - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   - GWP is suspiciously greater than category's typical values
-  specific_density:
-  - Value described using more than one measurement unit. The first unit listed has
-    been used.
 yarn_type: Nylon 6
 yarn_weight: 28 oz / sy

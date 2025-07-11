@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30131502'
-  updated_on: '2025-07-10T10:40:55.650762Z'
+  updated_on: '2025-07-11T11:34:58.551130Z'
   use_stored_carbon: ABSENT
 cmu_block_type: Gray
 cmu_insulated: false
@@ -219,8 +219,8 @@ owner:
 plant_geography:
 - US-GA
 - US-TX
-- US
 - US-PA
+- US
 - US-CA
 plant_or_group:
   categories: []

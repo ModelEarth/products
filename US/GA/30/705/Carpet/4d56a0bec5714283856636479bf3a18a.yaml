@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-10T10:41:02.878719Z'
+  updated_on: '2025-07-11T11:35:05.659985Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -62,12 +62,12 @@ date_of_issue: '2019-10-01'
 date_validity_ends: '2024-10-01'
 declaration_type: Product EPD
 declared_unit: 1 m2
-description: "Broadloom Carpet on Weldlok OnGuard is one of Mohawk\u2019s high performance\
-  \ commercial broadloom floor coverings with a nylon backing and nylon face fiber.\
-  \ The Weldlok platform consists of various styles, colors, and patterns made with\
-  \ a nylon pile fiber layer and Weldlok backing. The pile fiber wear layer contains\
-  \ Type 6, 6.6, or Recycled Type 6, which may be yarn dyed, solution dyed, or a a\
-  \ combination of yarn and solution dyed."
+description: "Broadloom Carpet on Weldlok\xAE OnGuard is one of Mohawk\u2019s high\
+  \ performance commercial broadloom floor coverings with a nylon backing and nylon\
+  \ face fiber. The Weldlok platform consists of various styles, colors, and patterns\
+  \ made with a nylon pile fiber layer and Weldlok backing. The pile fiber wear layer\
+  \ contains Type 6, 6.6, or Recycled Type 6, which may be yarn dyed, solution dyed,\
+  \ or a a combination of yarn and solution dyed."
 developer:
   email: jgeibig@ecoform.com
   name: Jack Geibig
@@ -178,7 +178,6 @@ gwp: 13.225 kgCO2e
 gwp_per_category_declared_unit: 13.225 kgCO2e
 gwp_per_kg: 5.725108225 kgCO2e
 gwp_z: 0.2083266665599966
-gypsum_specific_density: 2.306 kg / m^2
 id: fa8e2ddd23e74566a74f4803d98216a9
 image: https://static.buildingtransparency.org/images/fec831972b2547c8a4d6e84907b9986c.png
 impacts: {}
@@ -305,7 +304,7 @@ matched_plants_count: 0
 material_id: 4d56a0bec5714283856636479bf3a18a
 multiproduct: false
 my_capabilities: 1
-name: Tufted Nylon Carpet on Weldlok OnGuard
+name: "Tufted Nylon Carpet on Weldlok\xAE OnGuard"
 not_an_epd: false
 open_xpd_uuid: ec3zj6dy
 original_data_format: pdf_mixed
@@ -566,20 +565,18 @@ program_operator:
   web_domain: ul.com
   website: https://www.ul.com/
 program_operator_fkey: 4788979446.107.1
-recycled_content: 0.0
 reference_service_life: 15 years
 requires_ocr: false
 resource_uses: {}
 sanitizable: true
 short_link: buildingtransparency.org/e/ec3zj6dyz2
-specific_density: 2.306 kg / m^2
 standard_deviation: 2.755120165 kgCO2e
 stored_carbon_z: 0.2
 supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 15.54370913 kgCO2e
 uncertainty_factor: 1.1753277225768932
-updated_on: '2025-01-14T06:44:52.434865Z'
+updated_on: '2025-07-11T15:03:20Z'
 use_stored_carbon: false
 verifier:
   email: t.gloria@industrial-ecology.com

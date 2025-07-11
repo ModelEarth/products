@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-10T10:41:02.878719Z'
+  updated_on: '2025-07-11T11:35:05.659985Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -137,8 +137,8 @@ developer:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -277,7 +277,7 @@ matched_plants_count: 0
 material_id: 7d993b2bc0bb43c2b1bca9ddef32b497
 multiproduct: false
 my_capabilities: 1
-name: "Unibond\xAE Plus (Durkan)"
+name: "Tufted Nylon Broadloom Carpet on Unibond\xAE Plus (Durkan)"
 not_an_epd: false
 open_xpd_uuid: ec3c7wsc
 original_data_format: pdf_mixed
@@ -519,8 +519,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -553,7 +553,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 36.67022494 kgCO2e
 uncertainty_factor: 1.1753277225768932
-updated_on: '2025-07-10T19:08:12.190386Z'
+updated_on: '2025-07-11T18:53:38.908389Z'
 use_stored_carbon: false
 verifier:
   email: t.gloria@industrial-ecology.com

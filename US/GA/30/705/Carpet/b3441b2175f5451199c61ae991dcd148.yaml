@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-10T10:41:02.878719Z'
+  updated_on: '2025-07-11T11:35:05.659985Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -63,10 +63,10 @@ date_validity_ends: '2028-02-01'
 declaration_type: Product EPD
 declared_unit: 1 m2
 description: "OnGuard is a revolutionary moisture barriet that enhances Durkan\u2019\
-  s Unibond Plus backing system with an integrated later that prevents moisture from\
-  \ getting beneath the carpet backing. This advanced moisture barrier passess both\
-  \ the British Spill Test and the 10,000 impact test. Unibond Plus OnGuard is the\
-  \ ideal solution for areas requiring high performance flooring prone to frequent\
+  s Unibond\xAE Plus backing system with an integrated later that prevents moisture\
+  \ from getting beneath the carpet backing. This advanced moisture barrier passess\
+  \ both the British Spill Test and the 10,000 impact test. Unibond Plus OnGuard is\
+  \ the ideal solution for areas requiring high performance flooring prone to frequent\
   \ spills and areas with existing high moisture subfloor concerns.\n\nAs of 2022,\
   \ all Durkan flooring products will be carbon neutral plus an additional 5%. Unibond\
   \ Plus OnGuard meets Durkan\u2019s commitment to Beyond Carbon Neutral.\n\nThis\
@@ -138,8 +138,8 @@ developer:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - US
     - CA
+    - US
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -278,7 +278,7 @@ matched_plants_count: 0
 material_id: b3441b2175f5451199c61ae991dcd148
 multiproduct: false
 my_capabilities: 1
-name: Unibond Plus OnGuard (Durkan)
+name: "Tufted Nylon Broadloom Carpet on Unibond\xAE Plus OnGuard (Durkan)"
 not_an_epd: false
 open_xpd_uuid: ec3m8gc9
 original_data_format: pdf_mixed
@@ -520,8 +520,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -554,7 +554,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 21.75330769 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-07-10T18:53:34.061390Z'
+updated_on: '2025-07-11T18:52:48.962623Z'
 use_stored_carbon: false
 verifier:
   email: cooper.mccollum@ul.com
@@ -618,8 +618,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - US
     - CA
+    - US
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false

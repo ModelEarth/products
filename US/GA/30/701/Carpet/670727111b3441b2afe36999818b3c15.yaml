@@ -47,7 +47,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-10T10:41:02.878719Z'
+  updated_on: '2025-07-11T11:35:05.659985Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -60,14 +60,14 @@ date_of_issue: '2023-11-01'
 date_validity_ends: '2028-11-01'
 declaration_type: Product EPD
 declared_unit: 1 m2
-description: EcoFlex ONE is an advanced flooring solution that improves every aspect
-  of comfort and acoustics while eliminating moisture testing-all with a lighter environmental
-  footprint that is Beyond Carbon Neutral. Tested, proven, and certified, EcoFlex
-  ONE is the holistic solution for human-centric environments. EcoFlex ONE is an advanced
-  flooring solution that improves every aspect of comfort and acoustics while eliminating
-  moisture testing-all with a lighter environmental footprint that is Beyond Carbon
-  Neutral. Tested, proven, and certified, EcoFlex ONE is the holistic solution for
-  human-centric environments.
+description: "EcoFlex\u2122 ONE is an advanced flooring solution that improves every\
+  \ aspect of comfort and acoustics while eliminating moisture testing-all with a\
+  \ lighter environmental footprint that is Beyond Carbon Neutral. Tested, proven,\
+  \ and certified, EcoFlex ONE is the holistic solution for human-centric environments.\
+  \ EcoFlex ONE is an advanced flooring solution that improves every aspect of comfort\
+  \ and acoustics while eliminating moisture testing-all with a lighter environmental\
+  \ footprint that is Beyond Carbon Neutral. Tested, proven, and certified, EcoFlex\
+  \ ONE is the holistic solution for human-centric environments."
 doc: https://spot.ul.com/main-appproducts/detail/624eee779561418b4c7e3a51
 epd_degraded: false
 excluded: false
@@ -184,7 +184,7 @@ mass_per_declared_unit: 2.91 kg
 matched_plants_count: 0
 material_id: 670727111b3441b2afe36999818b3c15
 my_capabilities: 1
-name: EcoFlex ONE 16 oz
+name: "EcoFlex\u2122 ONE 16 oz"
 not_an_epd: false
 open_xpd_uuid: ec3fqsm9
 original_data_format: pdf_manual
@@ -444,8 +444,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -477,7 +477,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 5.958911553 kgCO2e
 uncertainty_factor: 1.1753277225768932
-updated_on: '2024-08-31T01:02:34.897757Z'
+updated_on: '2025-07-11T15:14:43.801019Z'
 use_stored_carbon: false
 verifier:
   email: t.gloria@industrial-ecology.com

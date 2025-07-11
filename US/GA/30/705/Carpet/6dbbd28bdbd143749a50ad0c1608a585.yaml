@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-10T10:41:02.878719Z'
+  updated_on: '2025-07-11T11:35:05.659985Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -62,7 +62,7 @@ date_of_issue: '2019-10-01'
 date_validity_ends: '2024-10-01'
 declaration_type: Product EPD
 declared_unit: 1 m2
-description: "Unibond Plus OnGuard is one of Mohawk\u2019s high performance commercial\
+description: "Unibond\xAE Plus OnGuard is one of Mohawk\u2019s high performance commercial\
   \ broadloom floor coverings. The Unibond Plus OnGuard platform consists of various\
   \ styles, colors, and patterns made with a nylon pile fiber layer and polypropylene\
   \ backing."
@@ -176,7 +176,6 @@ gwp: 16.4 kgCO2e
 gwp_per_category_declared_unit: 16.4 kgCO2e
 gwp_per_kg: 7.288888889 kgCO2e
 gwp_z: 0.2083266665599966
-gypsum_specific_density: 2.255 kg / m^2
 id: 401332758f0d4b0eac64ceabd8c608ee
 image: https://static.buildingtransparency.org/images/144b07b1bca944a9b2a5855c39ac470a.png
 impacts: {}
@@ -303,7 +302,7 @@ matched_plants_count: 0
 material_id: 6dbbd28bdbd143749a50ad0c1608a585
 multiproduct: false
 my_capabilities: 1
-name: Tufted nylon broadloom carpet on Unibond Plus OnGuard
+name: "Tufted nylon broadloom carpet on Unibond\xAE Plus OnGuard"
 not_an_epd: false
 open_xpd_uuid: ec31bktr
 original_data_format: pdf_mixed
@@ -481,7 +480,8 @@ plant_or_group:
 plant_specific: true
 private: false
 product_classes:
-  masterformat: 09 68 16 Sheet Carpeting
+  masterformat:
+  - 09 68 16 Sheet Carpeting
 product_specific: true
 program_operator:
   address: 2211 New Market Parkway Southeast, Marietta, GA 30067
@@ -565,20 +565,18 @@ program_operator:
   web_domain: ul.com
   website: https://www.ul.com/
 program_operator_fkey: 4788979446.104.1
-recycled_content: 0.0
 reference_service_life: 15 years
 requires_ocr: false
 resource_uses: {}
 sanitizable: true
 short_link: buildingtransparency.org/e/ec31bktr4b
-specific_density: 2.255 kg / m^2
 standard_deviation: 3.416557332 kgCO2e
 stored_carbon_z: 0.2
 supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 19.27537465 kgCO2e
 uncertainty_factor: 1.1753277225768932
-updated_on: '2025-01-14T06:41:59.195424Z'
+updated_on: '2025-07-11T15:04:10Z'
 use_stored_carbon: false
 verifier:
   email: t.gloria@industrial-ecology.com

@@ -47,7 +47,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-10T10:41:02.878719Z'
+  updated_on: '2025-07-11T11:35:05.659985Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -60,14 +60,14 @@ date_of_issue: '2023-11-01'
 date_validity_ends: '2028-11-01'
 declaration_type: Product EPD
 declared_unit: 1 m2
-description: EcoFlex ONE is an advanced flooring solution that improves every aspect
-  of comfort and acoustics while eliminating moisture testing-all with a lighter environmental
-  footprint that is Beyond Carbon Neutral. Tested, proven, and certified, EcoFlex
-  ONE is the holistic solution for human-centric environments. EcoFlex ONE is an advanced
-  flooring solution that improves every aspect of comfort and acoustics while eliminating
-  moisture testing-all with a lighter environmental footprint that is Beyond Carbon
-  Neutral. Tested, proven, and certified, EcoFlex ONE is the holistic solution for
-  human-centric environments.
+description: "EcoFlex\u2122 ONE is an advanced flooring solution that improves every\
+  \ aspect of comfort and acoustics while eliminating moisture testing-all with a\
+  \ lighter environmental footprint that is Beyond Carbon Neutral. Tested, proven,\
+  \ and certified, EcoFlex ONE is the holistic solution for human-centric environments.\
+  \ EcoFlex ONE is an advanced flooring solution that improves every aspect of comfort\
+  \ and acoustics while eliminating moisture testing-all with a lighter environmental\
+  \ footprint that is Beyond Carbon Neutral. Tested, proven, and certified, EcoFlex\
+  \ ONE is the holistic solution for human-centric environments."
 developer:
   email: info@sphera.com
   name: Sphera staff
@@ -81,7 +81,7 @@ externally_verified: true
 form_factor: Tiles
 gwp: 5.54 kgCO2e
 gwp_per_category_declared_unit: 5.54 kgCO2e
-gwp_per_kg: 1.739949749 kgCO2e
+gwp_per_kg: 1.742138365 kgCO2e
 gwp_z: 0.2083266665599966
 id: b762fa453b6a49d9815544630608381d
 image: https://static.buildingtransparency.org/images/b86677df3b844a3ba876900a39ba0ab5.png
@@ -190,7 +190,7 @@ mass_per_declared_unit: 3.18 kg
 matched_plants_count: 0
 material_id: 84a0863b038246dca9cae94b3416ad11
 my_capabilities: 1
-name: EcoFlex ONE 24 oz
+name: "EcoFlex\u2122 ONE 24 oz"
 not_an_epd: false
 open_xpd_uuid: ec36bj7y
 original_data_format: pdf_manual
@@ -450,8 +450,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -483,7 +483,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 6.511315583 kgCO2e
 uncertainty_factor: 1.1753277225768932
-updated_on: '2024-08-31T01:36:26.962566Z'
+updated_on: '2025-07-11T15:11:49.606976Z'
 use_stored_carbon: false
 verifier:
   email: t.gloria@industrial-ecology.com
@@ -575,4 +575,4 @@ warnings:
   - EPD issued after PCR expiry date. Check version or expiry of PCR.
 width: 23.999999999999996 in
 yarn_type: Olefin
-yarn_weight: 24 oz/yd2
+yarn_weight: 24 oz / yd2

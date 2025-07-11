@@ -44,7 +44,7 @@ category:
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-07-10T10:41:04.356541Z'
+  updated_on: '2025-07-11T11:35:07.129862Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -293,12 +293,12 @@ pcr:
   version: '3'
 pct80_gwp_per_category_declared_unit: 0.3506851427 kgCO2e
 plant_geography:
-- US
+- US-IL
+- US-PA
 - US-TX
 - US-CA
-- US-PA
 - US-GA
-- US-IL
+- US
 plant_or_group:
   categories: []
   confirmable_fields: []

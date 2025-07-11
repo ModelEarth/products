@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-10T10:41:02.878719Z'
+  updated_on: '2025-07-11T11:35:05.659985Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -63,18 +63,19 @@ date_validity_ends: '2028-02-01'
 declaration_type: Product EPD
 declared_unit: 1 m2
 description: "OnGuard is a revolutionary moisture barriet that enhances Mohawk Group\u2019\
-  s Weldlok backing system with an integrated later that prevents moisture from getting\
-  \ beneath the carpet backing. This advanced moisture barrier passess both the British\
-  \ Spill Test and the 10,000 impact test. Weldlok OnGuard is the ideal solution for\
-  \ areas requiring high performance flooring prone to frequent spills and areas with\
-  \ existing high moisture subfloor concerns. As of 2022, all Mohawk Group flooring\
-  \ products will be carbon neutral plus an additional 5%. Weldlok OnGuard meets Mohawk\
-  \ Group\u2019s commitment to Beyond Carbon Neutral. This study covers all products\
-  \ and styles with tufted nylon face fiber on Weldlok OnGuard backing, including\
-  \ standard tufted solution dyed yarns, precision-dye injection (PDI), and Definity/CYP.\
-  \ Due to a range of face weights offered with this product, an average face weight\
-  \ of 30 oz/yd2 (1017 g/m2) was used, which is the average of the annual sales. Unless\
-  \ noted in the report, the average face weight is presented for the impacts."
+  s Weldlok\xAE backing system with an integrated later that prevents moisture from\
+  \ getting beneath the carpet backing. This advanced moisture barrier passess both\
+  \ the British Spill Test and the 10,000 impact test. Weldlok OnGuard is the ideal\
+  \ solution for areas requiring high performance flooring prone to frequent spills\
+  \ and areas with existing high moisture subfloor concerns. As of 2022, all Mohawk\
+  \ Group flooring products will be carbon neutral plus an additional 5%. Weldlok\
+  \ OnGuard meets Mohawk Group\u2019s commitment to Beyond Carbon Neutral. This study\
+  \ covers all products and styles with tufted nylon face fiber on Weldlok OnGuard\
+  \ backing, including standard tufted solution dyed yarns, precision-dye injection\
+  \ (PDI), and Definity/CYP. Due to a range of face weights offered with this product,\
+  \ an average face weight of 30 oz/yd2 (1017 g/m2) was used, which is the average\
+  \ of the annual sales. Unless noted in the report, the average face weight is presented\
+  \ for the impacts."
 developer:
   email: info@sphera.com
   name: Sphera staff
@@ -267,7 +268,7 @@ matched_plants_count: 0
 material_id: 8c7fcde6149e44fba68cb2a000d39d5f
 multiproduct: false
 my_capabilities: 1
-name: Weldlok OnGuard
+name: "Tufted Nylon Carpet on Weldlok\xAE OnGuard"
 not_an_epd: false
 open_xpd_uuid: ec3fk5uf
 original_data_format: pdf_mixed
@@ -509,8 +510,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -543,7 +544,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 22.87204922 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-07-10T17:34:49.156229Z'
+updated_on: '2025-07-11T18:35:57.007891Z'
 use_stored_carbon: false
 verifier:
   email: t.gloria@industrial-ecology.com

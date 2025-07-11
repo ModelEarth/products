@@ -49,7 +49,7 @@ category:
   short_name: Framing
   short_service_life_disclaimer: false
   subcategories: []
-  updated_on: '2025-07-10T10:41:00.096884Z'
+  updated_on: '2025-07-11T11:35:03.238089Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
@@ -282,9 +282,9 @@ pcr:
 pct80_gwp_per_category_declared_unit: 3126.348449 kgCO2e
 plant_geography:
 - US-GA
+- US-NJ
 - US-IN
 - GE
-- US-NJ
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -295,9 +295,9 @@ plant_or_group:
   is_failed: false
   jurisdiction:
   - US-GA
+  - US-NJ
   - US-IN
   - GE
-  - US-NJ
   name: Marino\WARE facilities
   owned_by:
     address: 400 Metuchen Road, South Plainfield, NJ 07080
