@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-07-11T11:35:10.232052Z'
+  updated_on: '2025-07-12T12:38:01.715946Z'
   use_stored_carbon: OPTIONAL
 compressive_strength: 40 psi
 confirmable_fields: []
@@ -319,15 +319,15 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-07-11T22:00:15.194797Z'
+  updated_on: '2025-07-12T22:20:10.195155Z'
   version: '2'
 pcr_notes: These results are for an unlaminated product, but two-sided lamination
   adds roughly 2% to the impact, and can safely be ignored.
 pct80_gwp_per_category_declared_unit: 12.75526949 kgCO2e
 plant_geography:
 - US-OR
-- CA-QC
 - '003'
+- CA-QC
 - US-OH
 plant_or_group:
   categories: []
