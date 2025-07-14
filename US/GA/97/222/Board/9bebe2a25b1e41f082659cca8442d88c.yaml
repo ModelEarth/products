@@ -51,7 +51,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-07-13T13:02:18.086927Z'
+  updated_on: '2025-07-14T10:46:07.933661Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -357,34 +357,34 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-07-13T22:10:05.364033Z'
+  updated_on: '2025-07-14T22:10:06.736137Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 3.566852324 kgCO2e
 plant_geography:
 - CA-SK
-- US-WI
-- US-FL
-- US-NV
-- MX
-- US-GA
-- US-KS
-- US-AK
-- DE
-- US-WA
-- CA-ON
-- US-MI
-- US-CO
-- US-NE
+- US-AZ
 - US-UT
-- CA-BC
+- US-WA
+- US-NV
+- CA-ON
 - US-IA
+- US-CA
 - US-OH
 - US-MO
-- US-AZ
-- US-CA
+- DE
 - CA-AB
-- CA-MB
+- US-AK
 - US-VA
+- MX
+- US-KS
+- US-CO
+- US-WI
+- US-FL
+- US-GA
+- CA-MB
+- US-NE
+- CA-BC
+- US-MI
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -395,29 +395,29 @@ plant_or_group:
   is_failed: false
   jurisdiction:
   - CA-SK
-  - US-WI
-  - US-FL
-  - US-NV
-  - MX
-  - US-GA
-  - US-KS
-  - US-AK
-  - DE
-  - US-WA
-  - CA-ON
-  - US-MI
-  - US-CO
-  - US-NE
+  - US-AZ
   - US-UT
-  - CA-BC
+  - US-WA
+  - US-NV
+  - CA-ON
   - US-IA
   - US-OH
-  - US-MO
-  - US-AZ
-  - US-CA
+  - US-AK
   - CA-AB
-  - CA-MB
+  - DE
+  - US-MO
   - US-VA
+  - MX
+  - US-KS
+  - US-CO
+  - US-WI
+  - US-FL
+  - US-GA
+  - US-MI
+  - CA-MB
+  - US-NE
+  - CA-BC
+  - US-CA
   name: BASF Insulation Plants
   owned_by:
     address: 4011 Southeast International Way, Portland, OR 97222

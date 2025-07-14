@@ -52,7 +52,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161700'
-  updated_on: '2025-07-13T13:02:13.263542Z'
+  updated_on: '2025-07-14T10:46:03.369803Z'
   use_stored_carbon: OPTIONAL
 conductive_flooring: false
 confirmable_fields: []
@@ -388,10 +388,10 @@ plant_or_group:
     web_domain: shawcontract.com
     website: shawcontract.com
   postal_code: '30736'
-  total_epds: 1
+  total_epds: 2
   type: Plant
   units: SI
-  updated_on: '2021-12-07T19:19:50.134400Z'
+  updated_on: '2025-07-14T22:01:08.036138Z'
 plant_specific: true
 private: false
 product_classes: {}
@@ -455,8 +455,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

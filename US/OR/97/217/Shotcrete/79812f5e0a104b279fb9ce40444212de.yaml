@@ -35,22 +35,22 @@ category:
   openepd: Concrete >> Shotcrete
   openepd_name: Concrete >> Shotcrete
   parents: []
-  pct10_gwp: 314.2972561 kgCO2e
+  pct10_gwp: 314.2779511 kgCO2e
   pct20_gwp: 341.7851382 kgCO2e
   pct30_gwp: 365.5878073 kgCO2e
   pct40_gwp: 385.2901442 kgCO2e
   pct50_gwp: 403.8979069 kgCO2e
-  pct60_gwp: 424.0534521 kgCO2e
-  pct70_gwp: 449.1873532 kgCO2e
+  pct60_gwp: 424.1018591 kgCO2e
+  pct70_gwp: 449.34523 kgCO2e
   pct80_gwp: 479.9569877 kgCO2e
-  pct90_gwp: 528.7077766 kgCO2e
+  pct90_gwp: 528.7219779 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Shotcrete
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30110000'
-  updated_on: '2025-07-13T13:01:57.722782Z'
+  updated_on: '2025-07-14T10:45:48.265503Z'
   use_stored_carbon: ABSENT
 concrete_air_entrain: false
 concrete_co2_entrain: false
@@ -284,7 +284,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3n3h3t5z
   short_name: Concrete
   status: Expired
-  updated_on: '2025-07-13T22:20:18.105645Z'
+  updated_on: '2025-07-14T22:10:05.913882Z'
   version: '2.1'
 pct80_gwp_per_category_declared_unit: 519.9227799 kgCO2e
 plant_geography:

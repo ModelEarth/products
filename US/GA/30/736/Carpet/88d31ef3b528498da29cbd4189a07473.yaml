@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-13T13:02:13.471070Z'
+  updated_on: '2025-07-14T10:46:03.548202Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -390,10 +390,10 @@ plant_or_group:
     web_domain: shawinc.com
     website: www.shawinc.com
   postal_code: '30736'
-  total_epds: 2
+  total_epds: 1
   type: Plant
   units: SI
-  updated_on: '2020-09-23T16:19:33.879322Z'
+  updated_on: '2025-07-14T22:01:07.945446Z'
 plant_specific: false
 private: false
 product_specific: true

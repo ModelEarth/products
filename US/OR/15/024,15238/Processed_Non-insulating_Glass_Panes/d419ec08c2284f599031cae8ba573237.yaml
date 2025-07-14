@@ -60,7 +60,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-13T13:02:22.674854Z'
+  updated_on: '2025-07-14T10:46:12.020481Z'
   use_stored_carbon: ABSENT
 confirmable_fields:
 - impacts__gwp
@@ -444,8 +444,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false
