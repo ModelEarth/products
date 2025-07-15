@@ -17,7 +17,7 @@ also_shown_in:
   id: 4063336edfe749b480a9f932d4109fe6
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 10.22654902 kg
+  mass_per_declared_unit: 10.2 kg
   massless: false
   masterformat: 06 16 43 Gypsum Sheathing
   may_contain_trusted_vendor_declarations: false
@@ -27,22 +27,22 @@ also_shown_in:
   openepd: Sheathing >> GypsumSheathingBoard
   openepd_name: Sheathing >> GypsumSheathingBoard
   parents: []
-  pct10_gwp: 2.613242605 kgCO2e
+  pct10_gwp: 2.588345611 kgCO2e
   pct20_gwp: 2.650474094 kgCO2e
-  pct30_gwp: 3.213582122 kgCO2e
-  pct40_gwp: 3.546408999 kgCO2e
+  pct30_gwp: 3.206519305 kgCO2e
+  pct40_gwp: 3.576174832 kgCO2e
   pct50_gwp: 3.799930633 kgCO2e
-  pct60_gwp: 3.921847918 kgCO2e
-  pct70_gwp: 4.230803718 kgCO2e
-  pct80_gwp: 5.101851542 kgCO2e
-  pct90_gwp: 5.852428376 kgCO2e
+  pct60_gwp: 3.921899252 kgCO2e
+  pct70_gwp: 4.270130264 kgCO2e
+  pct80_gwp: 5.161580535 kgCO2e
+  pct90_gwp: 5.852447527 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Gypsum Sheathing
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30161509'
-  updated_on: '2025-07-14T10:46:09.190603Z'
+  updated_on: '2025-07-15T10:58:53.746712Z'
   use_stored_carbon: ABSENT
 applicable_in:
 - '001'
@@ -70,7 +70,7 @@ category:
   id: 0d1d4544c70f4a82938c79d88f86ec5d
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 1031.223744 kg
+  mass_per_declared_unit: 1026.578592 kg
   massless: false
   masterformat: 09 29 00 Gypsum Board
   may_contain_trusted_vendor_declarations: false
@@ -80,22 +80,22 @@ category:
   openepd: Finishes >> Gypsum
   openepd_name: Finishes >> Gypsum
   parents: []
-  pct10_gwp: 116.7539358 kgCO2e
-  pct20_gwp: 173.6376175 kgCO2e
-  pct30_gwp: 217.104824 kgCO2e
-  pct40_gwp: 263.1603712 kgCO2e
-  pct50_gwp: 296.3643576 kgCO2e
+  pct10_gwp: 116.7523409 kgCO2e
+  pct20_gwp: 173.406409 kgCO2e
+  pct30_gwp: 216.7580112 kgCO2e
+  pct40_gwp: 262.8821243 kgCO2e
+  pct50_gwp: 296.2100762 kgCO2e
   pct60_gwp: 337.5644761 kgCO2e
   pct70_gwp: 393.054527 kgCO2e
-  pct80_gwp: 455.9060227 kgCO2e
-  pct90_gwp: 569.3388506 kgCO2e
+  pct80_gwp: 456.6928747 kgCO2e
+  pct90_gwp: 569.4372196 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Gypsum Board
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161509'
-  updated_on: '2025-07-14T10:46:04.328037Z'
+  updated_on: '2025-07-15T10:58:49.148321Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -537,8 +537,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
