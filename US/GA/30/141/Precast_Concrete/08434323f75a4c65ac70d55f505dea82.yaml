@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30103619'
-  updated_on: '2025-07-15T10:58:40.542436Z'
+  updated_on: '2025-07-16T11:15:25.824926Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -504,8 +504,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

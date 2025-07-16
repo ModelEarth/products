@@ -25,7 +25,7 @@ category:
   id: e9605505973e4f088078c6f53e58129f
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 6.085 kg
+  mass_per_declared_unit: 6.16 kg
   massless: false
   masterformat: 08 11 00 Metal Doors and Frames
   may_contain_trusted_vendor_declarations: false
@@ -35,22 +35,22 @@ category:
   openepd: Openings >> DoorsAndFrames >> MetalDoorAndFrames
   openepd_name: Openings >> DoorsAndFrames >> MetalDoorAndFrames
   parents: []
-  pct10_gwp: 2.160368777 kgCO2e
-  pct20_gwp: 10.8914 kgCO2e
-  pct30_gwp: 22.08591643 kgCO2e
-  pct40_gwp: 42.0152047 kgCO2e
-  pct50_gwp: 70.92817997 kgCO2e
-  pct60_gwp: 140.9614338 kgCO2e
-  pct70_gwp: 179.5190216 kgCO2e
-  pct80_gwp: 331.675305 kgCO2e
-  pct90_gwp: 490.8483022 kgCO2e
+  pct10_gwp: 2.257320697 kgCO2e
+  pct20_gwp: 11.33138154 kgCO2e
+  pct30_gwp: 22.24214453 kgCO2e
+  pct40_gwp: 48.35461772 kgCO2e
+  pct50_gwp: 76.52777313 kgCO2e
+  pct60_gwp: 144.7533506 kgCO2e
+  pct70_gwp: 182.0590257 kgCO2e
+  pct80_gwp: 327.280786 kgCO2e
+  pct90_gwp: 487.9574456 kgCO2e
   requires_mass_per_declared_unit: true
   short_name: Metal Doors and Frames
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30171505'
-  updated_on: '2025-07-15T10:58:56.217408Z'
+  updated_on: '2025-07-16T11:15:41.635861Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []

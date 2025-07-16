@@ -57,7 +57,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30110000'
-  updated_on: '2025-07-15T10:58:40.463810Z'
+  updated_on: '2025-07-16T11:15:25.741529Z'
   use_stored_carbon: ABSENT
 concrete_air_entrain: false
 concrete_co2_entrain: false
@@ -210,6 +210,7 @@ manufacturer:
   - interstate-ica.com
   - helenasg.com
   - midco-rm.com
+  - oldcastle.com
   enterprise: true
   id: c004a7c0db4a473086b107d1536637c3
   image: https://static.buildingtransparency.org/images/96ce89f122ef4715bb64b0ba4908a0ae.png
@@ -259,7 +260,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2023-11-28T18:00:28.447411Z'
+  updated_on: '2025-07-16T17:54:03.858785Z'
   web_domain: crhamericasmaterials.com
   website: https://www.crhamericasmaterials.com/
 manufacturer_specific: true
@@ -309,7 +310,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3n3h3t5z
   short_name: Concrete
   status: Expired
-  updated_on: '2025-07-15T21:50:05.555939Z'
+  updated_on: '2025-07-16T22:30:08.278107Z'
   version: '2.1'
 pct80_gwp_per_category_declared_unit: 83.95384677 kgCO2e
 plant_geography:
@@ -415,6 +416,7 @@ plant_or_group:
     - interstate-ica.com
     - helenasg.com
     - midco-rm.com
+    - oldcastle.com
     enterprise: true
     id: c004a7c0db4a473086b107d1536637c3
     image: https://static.buildingtransparency.org/images/96ce89f122ef4715bb64b0ba4908a0ae.png
@@ -464,7 +466,7 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2023-11-28T18:00:28.447411Z'
+    updated_on: '2025-07-16T17:54:03.858785Z'
     web_domain: crhamericasmaterials.com
     website: https://www.crhamericasmaterials.com/
   postal_code: '97058'

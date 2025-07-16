@@ -51,7 +51,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-07-15T10:58:52.498403Z'
+  updated_on: '2025-07-16T11:15:37.723395Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -316,10 +316,10 @@ pcr_notes: 'Embodied GWP per declared unit = GWP_func * CS_factor, where:
   CS_factor scales with the mass of product. See section 4.3 of the EPD.'
 pct80_gwp_per_category_declared_unit: 56.9422496 kgCO2e
 plant_geography:
-- US-OR
+- US-OH
 - MX
 - CA-QC
-- US-OH
+- US-OR
 - US-IL
 plant_or_group:
   categories: []
@@ -330,11 +330,11 @@ plant_or_group:
   id: 70bd81f51ae042d486232ab9e06960dd
   is_failed: false
   jurisdiction:
-  - US-OR
-  - MX
-  - US-IL
-  - CA-QC
   - US-OH
+  - MX
+  - CA-QC
+  - US-OR
+  - US-IL
   name: Tallmadge OH, Rockford, IL, Monterrey, Gresham, Valleyfield
   owned_by:
     address: Toledo, OH, USA

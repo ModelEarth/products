@@ -33,22 +33,22 @@ category:
   openepd: Concrete >> ReadyMix
   openepd_name: Concrete >> ReadyMix
   parents: []
-  pct10_gwp: 247.0963878 kgCO2e
+  pct10_gwp: 247.0899029 kgCO2e
   pct20_gwp: 283.1051597 kgCO2e
-  pct30_gwp: 310.2852595 kgCO2e
+  pct30_gwp: 310.2776144 kgCO2e
   pct40_gwp: 334.9397277 kgCO2e
   pct50_gwp: 359.2861844 kgCO2e
-  pct60_gwp: 386.6175619 kgCO2e
+  pct60_gwp: 386.5716914 kgCO2e
   pct70_gwp: 416.9762065 kgCO2e
   pct80_gwp: 452.7683669 kgCO2e
-  pct90_gwp: 507.4431115 kgCO2e
+  pct90_gwp: 507.4029522 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Ready Mix
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30111505'
-  updated_on: '2025-07-15T10:58:40.182673Z'
+  updated_on: '2025-07-16T11:15:25.487499Z'
   use_stored_carbon: ABSENT
 concrete_air_entrain: false
 concrete_co2_entrain: false
@@ -197,6 +197,7 @@ manufacturer:
   - interstate-ica.com
   - helenasg.com
   - midco-rm.com
+  - oldcastle.com
   enterprise: true
   id: c004a7c0db4a473086b107d1536637c3
   image: https://static.buildingtransparency.org/images/96ce89f122ef4715bb64b0ba4908a0ae.png
@@ -246,7 +247,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2023-11-28T18:00:28.447411Z'
+  updated_on: '2025-07-16T17:54:03.858785Z'
   web_domain: crhamericasmaterials.com
   website: https://www.crhamericasmaterials.com/
 manufacturer_specific: true
@@ -296,7 +297,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3r08uctb
   short_name: Concrete
   status: Expired
-  updated_on: '2025-07-15T21:50:05.604873Z'
+  updated_on: '2025-07-16T22:30:08.339047Z'
   version: 2.3 extension
 pct80_gwp_per_category_declared_unit: 332.7530142 kgCO2e
 plant_geography:
@@ -402,6 +403,7 @@ plant_or_group:
     - interstate-ica.com
     - helenasg.com
     - midco-rm.com
+    - oldcastle.com
     enterprise: true
     id: c004a7c0db4a473086b107d1536637c3
     image: https://static.buildingtransparency.org/images/96ce89f122ef4715bb64b0ba4908a0ae.png
@@ -451,7 +453,7 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2023-11-28T18:00:28.447411Z'
+    updated_on: '2025-07-16T17:54:03.858785Z'
     web_domain: crhamericasmaterials.com
     website: https://www.crhamericasmaterials.com/
   postal_code: '97031'

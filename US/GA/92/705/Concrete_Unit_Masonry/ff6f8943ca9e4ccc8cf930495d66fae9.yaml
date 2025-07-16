@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30131502'
-  updated_on: '2025-07-15T10:58:41.289266Z'
+  updated_on: '2025-07-16T11:15:26.587354Z'
   use_stored_carbon: ABSENT
 cmu_block_type: Gray
 cmu_insulated: false
@@ -218,10 +218,10 @@ owner:
   user_id: cqd.admin@buildingtransparency.org
 plant_geography:
 - US-GA
-- US-CA
-- US
 - US-TX
 - US-PA
+- US
+- US-CA
 plant_or_group:
   categories: []
   confirmable_fields: []

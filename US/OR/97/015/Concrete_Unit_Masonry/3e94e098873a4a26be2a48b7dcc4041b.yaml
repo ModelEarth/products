@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30131502'
-  updated_on: '2025-07-15T10:58:41.289266Z'
+  updated_on: '2025-07-16T11:15:26.587354Z'
   use_stored_carbon: ABSENT
 cmu_insulated: false
 cmu_weight_classification: Medium
@@ -516,8 +516,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

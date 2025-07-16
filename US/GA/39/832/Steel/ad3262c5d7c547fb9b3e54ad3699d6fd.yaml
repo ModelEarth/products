@@ -48,7 +48,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-15T10:58:44.607968Z'
+  updated_on: '2025-07-16T11:15:29.661355Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
@@ -502,8 +502,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false
