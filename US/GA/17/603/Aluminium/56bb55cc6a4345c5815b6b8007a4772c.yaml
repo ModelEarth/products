@@ -33,21 +33,21 @@ category:
   openepd: Aluminium
   openepd_name: Aluminium
   parents: []
-  pct10_gwp: 1.149860659 kgCO2e
-  pct20_gwp: 2.063905632 kgCO2e
-  pct30_gwp: 3.016161762 kgCO2e
-  pct40_gwp: 3.637926122 kgCO2e
-  pct50_gwp: 4.711707686 kgCO2e
-  pct60_gwp: 5.761964514 kgCO2e
-  pct70_gwp: 7.398794923 kgCO2e
-  pct80_gwp: 9.875618458 kgCO2e
-  pct90_gwp: 13.17784602 kgCO2e
+  pct10_gwp: 1.186035945 kgCO2e
+  pct20_gwp: 2.099489124 kgCO2e
+  pct30_gwp: 3.068784007 kgCO2e
+  pct40_gwp: 3.681623014 kgCO2e
+  pct50_gwp: 4.777070945 kgCO2e
+  pct60_gwp: 5.762592465 kgCO2e
+  pct70_gwp: 7.494906735 kgCO2e
+  pct80_gwp: 9.880156333 kgCO2e
+  pct90_gwp: 13.18254733 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Aluminium
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-16T11:15:34.931626Z'
+  updated_on: '2025-07-17T10:34:04.384710Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []

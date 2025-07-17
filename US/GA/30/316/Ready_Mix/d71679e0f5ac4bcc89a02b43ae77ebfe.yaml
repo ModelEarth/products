@@ -33,22 +33,22 @@ category:
   openepd: Concrete >> ReadyMix
   openepd_name: Concrete >> ReadyMix
   parents: []
-  pct10_gwp: 247.0899029 kgCO2e
+  pct10_gwp: 247.1134289 kgCO2e
   pct20_gwp: 283.1051597 kgCO2e
-  pct30_gwp: 310.2776144 kgCO2e
+  pct30_gwp: 310.2959463 kgCO2e
   pct40_gwp: 334.9397277 kgCO2e
   pct50_gwp: 359.2861844 kgCO2e
-  pct60_gwp: 386.5716914 kgCO2e
-  pct70_gwp: 416.9762065 kgCO2e
-  pct80_gwp: 452.7683669 kgCO2e
-  pct90_gwp: 507.4029522 kgCO2e
+  pct60_gwp: 386.7522469 kgCO2e
+  pct70_gwp: 416.9772691 kgCO2e
+  pct80_gwp: 452.7578461 kgCO2e
+  pct90_gwp: 507.2195417 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Ready Mix
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30111505'
-  updated_on: '2025-07-16T11:15:25.487499Z'
+  updated_on: '2025-07-17T10:33:53.632205Z'
   use_stored_carbon: ABSENT
 concrete_air_entrain: false
 concrete_co2_entrain: false
@@ -265,7 +265,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec39kz7yt5
   short_name: Concrete
   status: Expired
-  updated_on: '2025-07-16T22:10:17.622007Z'
+  updated_on: '2025-07-17T21:40:04.520293Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 354.2313349 kgCO2e
 plant_geography:
@@ -466,8 +466,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false
