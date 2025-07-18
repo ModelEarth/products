@@ -85,7 +85,7 @@ also_shown_in:
   subcategories: []
   template_builders: []
   unspsc: '30131704'
-  updated_on: '2025-07-17T10:34:03.031938Z'
+  updated_on: '2025-07-18T11:35:04.285825Z'
   use_stored_carbon: ABSENT
 applicable_in:
 - '021'
@@ -134,7 +134,7 @@ category:
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-17T10:34:01.776118Z'
+  updated_on: '2025-07-18T11:35:03.042321Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
