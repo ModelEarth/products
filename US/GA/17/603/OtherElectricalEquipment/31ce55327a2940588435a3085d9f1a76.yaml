@@ -45,7 +45,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-18T11:35:15.047350Z'
+  updated_on: '2025-07-19T12:51:37.987642Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -216,7 +216,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qpee337
   short_name: Electrical, Electronic and HVAC-R Products
   status: Published
-  updated_on: '2025-07-18T22:01:30.560899Z'
+  updated_on: '2025-07-19T22:10:23.186634Z'
   version: '4'
 plant_geography:
 - '001'
@@ -326,9 +326,9 @@ plant_or_group:
     web_domain: armstrongceilings.com
     website: www.armstrongceilings.com
   plants_count: 2
-  total_epds: 7
+  total_epds: 9
   type: PlantGroup
-  updated_on: '2025-06-22T10:29:45.701277Z'
+  updated_on: '2025-07-19T12:28:00.749946Z'
 plant_specific: false
 private: false
 product_classes:

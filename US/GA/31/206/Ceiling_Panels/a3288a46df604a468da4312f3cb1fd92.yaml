@@ -25,7 +25,7 @@ category:
   id: 237ca52c30ba4a1bbe214e10a2dee3fe
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 4.8305 kg
+  mass_per_declared_unit: 4.861 kg
   massless: false
   masterformat: 09 50 00 Ceilings
   may_contain_trusted_vendor_declarations: false
@@ -35,14 +35,14 @@ category:
   openepd: Finishes >> CeilingPanel
   openepd_name: Finishes >> CeilingPanel
   parents: []
-  pct10_gwp: 2.4980774 kgCO2e
-  pct20_gwp: 3.205455993 kgCO2e
-  pct30_gwp: 4.422434239 kgCO2e
-  pct40_gwp: 5.197724464 kgCO2e
-  pct50_gwp: 6.062016562 kgCO2e
-  pct60_gwp: 7.6868975 kgCO2e
-  pct70_gwp: 10.99605796 kgCO2e
-  pct80_gwp: 30.23870695 kgCO2e
+  pct10_gwp: 2.499248566 kgCO2e
+  pct20_gwp: 3.197989869 kgCO2e
+  pct30_gwp: 4.413723761 kgCO2e
+  pct40_gwp: 5.197285389 kgCO2e
+  pct50_gwp: 6.045155182 kgCO2e
+  pct60_gwp: 7.605815391 kgCO2e
+  pct70_gwp: 10.96074319 kgCO2e
+  pct80_gwp: 30.14581449 kgCO2e
   pct90_gwp: 59.1455241 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Ceiling Panels
@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161600'
-  updated_on: '2025-07-18T11:35:04.896138Z'
+  updated_on: '2025-07-19T12:51:25.406662Z'
   use_stored_carbon: ABSENT
 ceiling_panel_core_material: Mineral Fiber
 confirmable_fields: []
@@ -127,8 +127,8 @@ developer:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - US
     - CA
+    - US
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -510,8 +510,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -607,8 +607,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - US
     - CA
+    - US
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false

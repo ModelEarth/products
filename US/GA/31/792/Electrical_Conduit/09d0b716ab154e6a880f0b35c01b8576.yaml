@@ -33,19 +33,19 @@ category:
   openepd_name: Electrical >> ElectricalConduit
   parents: []
   pct10_gwp: 1.578668615 kgCO2e
-  pct20_gwp: 2.445351579 kgCO2e
-  pct30_gwp: 5.524097106 kgCO2e
-  pct40_gwp: 8.281173474 kgCO2e
-  pct50_gwp: 8.96394342 kgCO2e
-  pct60_gwp: 9.901633703 kgCO2e
-  pct70_gwp: 11.13259871 kgCO2e
-  pct80_gwp: 23.68757737 kgCO2e
+  pct20_gwp: 2.251757463 kgCO2e
+  pct30_gwp: 7.259389536 kgCO2e
+  pct40_gwp: 8.43779729 kgCO2e
+  pct50_gwp: 9.437881612 kgCO2e
+  pct60_gwp: 9.981660612 kgCO2e
+  pct70_gwp: 14.16027808 kgCO2e
+  pct80_gwp: 23.95438799 kgCO2e
   pct90_gwp: 110.7554123 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Conduit
   short_service_life_disclaimer: false
   subcategories: []
-  updated_on: '2025-07-18T11:35:15.186923Z'
+  updated_on: '2025-07-19T12:51:38.148463Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -285,10 +285,10 @@ plant_or_group:
     web_domain: atkore.com
     website: atkore.com
   postal_code: '31792'
-  total_epds: 1
+  total_epds: 2
   type: Plant
   units: USA
-  updated_on: '2025-05-28T12:00:30.727220Z'
+  updated_on: '2025-07-19T12:28:01.393840Z'
 plant_specific: false
 private: false
 product_specific: true

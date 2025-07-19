@@ -34,13 +34,13 @@ category:
   openepd: Finishes >> Flooring >> ResilientFlooring
   openepd_name: Finishes >> Flooring >> ResilientFlooring
   parents: []
-  pct10_gwp: 5.832021138 kgCO2e
-  pct20_gwp: 7.420639514 kgCO2e
-  pct30_gwp: 8.252930877 kgCO2e
-  pct40_gwp: 9.259143976 kgCO2e
-  pct50_gwp: 10.70629268 kgCO2e
-  pct60_gwp: 11.94936167 kgCO2e
-  pct70_gwp: 13.6974002 kgCO2e
+  pct10_gwp: 5.832457348 kgCO2e
+  pct20_gwp: 7.4227125 kgCO2e
+  pct30_gwp: 8.258200556 kgCO2e
+  pct40_gwp: 9.273927674 kgCO2e
+  pct50_gwp: 10.70614525 kgCO2e
+  pct60_gwp: 11.92898621 kgCO2e
+  pct70_gwp: 13.69323052 kgCO2e
   pct80_gwp: 16.0441221 kgCO2e
   pct90_gwp: 21.64449993 kgCO2e
   requires_mass_per_declared_unit: false
@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161700'
-  updated_on: '2025-07-18T11:35:03.728342Z'
+  updated_on: '2025-07-19T12:51:24.110741Z'
   use_stored_carbon: OPTIONAL
 conductive_flooring: false
 confirmable_fields: []
@@ -452,8 +452,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

@@ -21,7 +21,7 @@ category:
   id: bf1c8882d7784db4b10d9d5698b8b5cc
   includes_b1_stage: true
   lcia_uncertainty: 0.05
-  mass_per_declared_unit: 1.3995 kg
+  mass_per_declared_unit: 1.4 kg
   massless: false
   masterformat: 07 21 00 Thermal Insulation
   may_contain_trusted_vendor_declarations: false
@@ -31,22 +31,22 @@ category:
   openepd: ThermalMoistureProtection >> Insulation
   openepd_name: ThermalMoistureProtection >> Insulation
   parents: []
-  pct10_gwp: 1.210657254 kgCO2e
-  pct20_gwp: 1.903861673 kgCO2e
-  pct30_gwp: 2.69619528 kgCO2e
-  pct40_gwp: 3.395498534 kgCO2e
-  pct50_gwp: 4.524335787 kgCO2e
-  pct60_gwp: 6.170977069 kgCO2e
-  pct70_gwp: 9.053164377 kgCO2e
-  pct80_gwp: 12.62219933 kgCO2e
-  pct90_gwp: 20.56787214 kgCO2e
+  pct10_gwp: 1.210671194 kgCO2e
+  pct20_gwp: 1.903892846 kgCO2e
+  pct30_gwp: 2.698238452 kgCO2e
+  pct40_gwp: 3.392751853 kgCO2e
+  pct50_gwp: 4.521492414 kgCO2e
+  pct60_gwp: 6.170775852 kgCO2e
+  pct70_gwp: 9.05303343 kgCO2e
+  pct80_gwp: 12.61601677 kgCO2e
+  pct90_gwp: 20.56746186 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Insulation
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-07-18T11:35:08.275507Z'
+  updated_on: '2025-07-19T12:51:29.705408Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []

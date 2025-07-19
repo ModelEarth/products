@@ -47,7 +47,7 @@ category:
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-18T11:35:03.042321Z'
+  updated_on: '2025-07-19T12:51:23.430280Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -262,9 +262,9 @@ plant_or_group:
     web_domain: milliken.com
     website: www.milliken.com
   plants_count: 3
-  total_epds: 59
+  total_epds: 63
   type: PlantGroup
-  updated_on: '2025-06-14T10:55:14.088471Z'
+  updated_on: '2025-07-19T12:28:01.315300Z'
 plant_specific: false
 private: false
 product_specific: true

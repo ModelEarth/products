@@ -25,7 +25,7 @@ category:
   id: ab32975edbc04a408d97c34204b05dc1
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 0.569 kg
+  mass_per_declared_unit: 1.775 kg
   massless: false
   masterformat: 07 27 00 Air Barriers
   may_contain_trusted_vendor_declarations: false
@@ -35,21 +35,21 @@ category:
   openepd: ThermalMoistureProtection >> AirBarriers
   openepd_name: ThermalMoistureProtection >> AirBarriers
   parents: []
-  pct10_gwp: 1.837530258 kgCO2e
-  pct20_gwp: 2.638030553 kgCO2e
-  pct30_gwp: 3.431128537 kgCO2e
+  pct10_gwp: 1.778619122 kgCO2e
+  pct20_gwp: 2.635790055 kgCO2e
+  pct30_gwp: 3.414223129 kgCO2e
   pct40_gwp: 4.703658251 kgCO2e
-  pct50_gwp: 7.175726999 kgCO2e
-  pct60_gwp: 10.57700929 kgCO2e
-  pct70_gwp: 13.8240777 kgCO2e
-  pct80_gwp: 18.1675689 kgCO2e
-  pct90_gwp: 23.70494436 kgCO2e
+  pct50_gwp: 7.040213058 kgCO2e
+  pct60_gwp: 10.22024578 kgCO2e
+  pct70_gwp: 13.7874427 kgCO2e
+  pct80_gwp: 17.9510513 kgCO2e
+  pct90_gwp: 23.41874293 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Air Barriers
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-18T11:35:09.392017Z'
+  updated_on: '2025-07-19T12:51:31.100848Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []

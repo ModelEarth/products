@@ -34,22 +34,22 @@ category:
   openepd: Finishes >> Gypsum
   openepd_name: Finishes >> Gypsum
   parents: []
-  pct10_gwp: 116.7523409 kgCO2e
+  pct10_gwp: 116.750746 kgCO2e
   pct20_gwp: 173.406409 kgCO2e
-  pct30_gwp: 216.7580112 kgCO2e
-  pct40_gwp: 262.8821243 kgCO2e
-  pct50_gwp: 296.2100762 kgCO2e
+  pct30_gwp: 216.4111984 kgCO2e
+  pct40_gwp: 262.6979541 kgCO2e
+  pct50_gwp: 296.0557948 kgCO2e
   pct60_gwp: 337.5644761 kgCO2e
-  pct70_gwp: 393.054527 kgCO2e
-  pct80_gwp: 456.6928747 kgCO2e
-  pct90_gwp: 569.4372196 kgCO2e
+  pct70_gwp: 391.8984843 kgCO2e
+  pct80_gwp: 456.9128837 kgCO2e
+  pct90_gwp: 569.5355885 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Gypsum Board
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161509'
-  updated_on: '2025-07-18T11:35:04.734446Z'
+  updated_on: '2025-07-19T12:51:25.241388Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -347,19 +347,19 @@ pcr:
   version: '1.1'
 pct80_gwp_per_category_declared_unit: 200.1304307 kgCO2e
 plant_geography:
-- US-IN
-- '003'
 - US-IA
-- US-FL
-- US-PA
-- US-TX
-- US-OR
-- US-VA
-- US-UT
+- '003'
 - US-CA
-- US-MD
 - CA-ON
+- US-MD
+- US-VA
+- US-TX
 - CA-QC
+- US-FL
+- US-OR
+- US-PA
+- US-IN
+- US-UT
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -521,8 +521,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30171613'
-  updated_on: '2025-07-18T11:35:12.553620Z'
+  updated_on: '2025-07-19T12:51:35.093864Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -253,8 +253,8 @@ pcr:
     EF 3.0:
       impacts: []
       jurisdiction:
-      - 009
       - '150'
+      - 009
       - '142'
       - AQ
       - '002'

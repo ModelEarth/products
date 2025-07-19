@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30103602'
-  updated_on: '2025-07-18T11:35:06.849148Z'
+  updated_on: '2025-07-19T12:51:27.649573Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -403,10 +403,10 @@ plant_or_group:
     web_domain: bc.com
     website: https://www.bc.com/
   postal_code: '97503'
-  total_epds: 5
+  total_epds: 6
   type: Plant
   units: SI
-  updated_on: '2023-03-08T17:08:49.710023Z'
+  updated_on: '2025-07-19T12:28:01.094714Z'
 plant_specific: false
 private: false
 product_specific: true

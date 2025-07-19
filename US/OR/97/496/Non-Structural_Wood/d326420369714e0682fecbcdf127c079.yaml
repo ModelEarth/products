@@ -26,7 +26,7 @@ category:
   id: d113c0063bcf41f0af23277b8b6362f0
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 630.04 kg
+  mass_per_declared_unit: 562.5 kg
   massless: false
   masterformat: 06 20 00 Finish Carpentry
   may_contain_trusted_vendor_declarations: false
@@ -36,22 +36,22 @@ category:
   openepd: Wood >> NonStructuralWood
   openepd_name: Wood >> NonStructuralWood
   parents: []
-  pct10_gwp: -1078.10259 kgCO2e
-  pct20_gwp: -828.6537575 kgCO2e
-  pct30_gwp: 89.38877636 kgCO2e
-  pct40_gwp: 114.4499719 kgCO2e
-  pct50_gwp: 136.8382112 kgCO2e
-  pct60_gwp: 163.9611501 kgCO2e
-  pct70_gwp: 213.1086632 kgCO2e
-  pct80_gwp: 484.8493802 kgCO2e
-  pct90_gwp: 798.0356305 kgCO2e
+  pct10_gwp: -1077.338958 kgCO2e
+  pct20_gwp: -801.8185111 kgCO2e
+  pct30_gwp: 92.6069632 kgCO2e
+  pct40_gwp: 119.2986158 kgCO2e
+  pct50_gwp: 141.8744339 kgCO2e
+  pct60_gwp: 171.2825896 kgCO2e
+  pct70_gwp: 222.1369396 kgCO2e
+  pct80_gwp: 463.45644 kgCO2e
+  pct90_gwp: 793.0634459 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Non-Structural Wood
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '11122000'
-  updated_on: '2025-07-18T11:35:06.992836Z'
+  updated_on: '2025-07-19T12:51:27.845122Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -295,7 +295,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec38861n82
   short_name: North American Structural and Architectural Wood Products
   status: Sunset
-  updated_on: '2025-07-18T22:01:29.390242Z'
+  updated_on: '2025-07-19T22:10:21.951215Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 624.0985153 kgCO2e
 plant_geography:
@@ -465,8 +465,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

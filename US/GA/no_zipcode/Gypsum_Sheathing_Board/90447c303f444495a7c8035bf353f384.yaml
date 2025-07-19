@@ -26,22 +26,22 @@ also_shown_in:
   openepd: Finishes >> Gypsum
   openepd_name: Finishes >> Gypsum
   parents: []
-  pct10_gwp: 116.7523409 kgCO2e
+  pct10_gwp: 116.750746 kgCO2e
   pct20_gwp: 173.406409 kgCO2e
-  pct30_gwp: 216.7580112 kgCO2e
-  pct40_gwp: 262.8821243 kgCO2e
-  pct50_gwp: 296.2100762 kgCO2e
+  pct30_gwp: 216.4111984 kgCO2e
+  pct40_gwp: 262.6979541 kgCO2e
+  pct50_gwp: 296.0557948 kgCO2e
   pct60_gwp: 337.5644761 kgCO2e
-  pct70_gwp: 393.054527 kgCO2e
-  pct80_gwp: 456.6928747 kgCO2e
-  pct90_gwp: 569.4372196 kgCO2e
+  pct70_gwp: 391.8984843 kgCO2e
+  pct80_gwp: 456.9128837 kgCO2e
+  pct90_gwp: 569.5355885 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Gypsum Board
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161509'
-  updated_on: '2025-07-18T11:35:04.734446Z'
+  updated_on: '2025-07-19T12:51:25.241388Z'
   use_stored_carbon: ABSENT
 applicable_in:
 - '001'
@@ -93,7 +93,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161509'
-  updated_on: '2025-07-18T11:35:09.800859Z'
+  updated_on: '2025-07-19T12:51:31.540210Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -325,18 +325,18 @@ pcr:
 pcr_notes: NSF International PCR for Gypsum Boards
 pct80_gwp_per_category_declared_unit: 6.663258645 kgCO2e
 plant_geography:
-- US-TN
-- US-IN
-- US-NV
-- US-TX
-- US-GA
-- US-WY
-- US-NJ
-- US-CA
-- US-IA
 - US-WA
-- US
+- US-CA
+- US-NV
+- US-IN
+- US-WY
+- US-TN
+- US-IA
+- US-NJ
+- US-GA
 - US-OK
+- US
+- US-TX
 plant_or_group:
   categories: []
   confirmable_fields: []
