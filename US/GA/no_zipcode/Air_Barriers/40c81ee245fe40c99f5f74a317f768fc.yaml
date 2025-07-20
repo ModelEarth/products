@@ -35,21 +35,21 @@ category:
   openepd: ThermalMoistureProtection >> AirBarriers
   openepd_name: ThermalMoistureProtection >> AirBarriers
   parents: []
-  pct10_gwp: 1.778619122 kgCO2e
-  pct20_gwp: 2.635790055 kgCO2e
-  pct30_gwp: 3.414223129 kgCO2e
+  pct10_gwp: 1.776410674 kgCO2e
+  pct20_gwp: 2.633549557 kgCO2e
+  pct30_gwp: 3.398633161 kgCO2e
   pct40_gwp: 4.703658251 kgCO2e
-  pct50_gwp: 7.040213058 kgCO2e
-  pct60_gwp: 10.22024578 kgCO2e
-  pct70_gwp: 13.7874427 kgCO2e
-  pct80_gwp: 17.9510513 kgCO2e
-  pct90_gwp: 23.41874293 kgCO2e
+  pct50_gwp: 7.046730298 kgCO2e
+  pct60_gwp: 10.23678848 kgCO2e
+  pct70_gwp: 13.81232978 kgCO2e
+  pct80_gwp: 17.98340451 kgCO2e
+  pct90_gwp: 23.44363001 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Air Barriers
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-19T12:51:31.100848Z'
+  updated_on: '2025-07-20T12:06:12.296943Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -146,8 +146,8 @@ industry_standards: []
 is_downloadable: true
 is_failed: false
 jurisdiction:
-- US
 - US-GA
+- US
 language: en
 lowest_plausible_gwp: 0.8576591685 kgCO2e
 manufacturer:

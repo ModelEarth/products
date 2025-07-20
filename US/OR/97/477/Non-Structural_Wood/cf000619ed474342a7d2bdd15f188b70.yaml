@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '11122000'
-  updated_on: '2025-07-19T12:51:27.845122Z'
+  updated_on: '2025-07-20T12:06:09.963337Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -284,14 +284,14 @@ pcr:
   short_link: buildingtransparency.org/p/ec38861n82
   short_name: North American Structural and Architectural Wood Products
   status: Sunset
-  updated_on: '2025-07-19T22:10:21.951215Z'
+  updated_on: '2025-07-20T21:54:30.427301Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 608.4759943 kgCO2e
 plant_geography:
-- US-LA
-- US-OR
-- US-MT
 - US-MS
+- US-LA
+- US-MT
+- US-OR
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -301,8 +301,8 @@ plant_or_group:
   id: 950cc3cb94664243a628dd46b08e8f16
   is_failed: false
   jurisdiction:
-  - US-LA
   - US-MS
+  - US-LA
   - US-MT
   - US-OR
   name: US Plants - Particleboard
@@ -436,8 +436,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
