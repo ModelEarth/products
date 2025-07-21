@@ -51,7 +51,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-07-20T12:06:11.321804Z'
+  updated_on: '2025-07-21T11:22:53.505065Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -294,33 +294,33 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-07-20T21:54:30.618391Z'
+  updated_on: '2025-07-21T22:10:11.711199Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 2.840743101 kgCO2e
 plant_geography:
-- US-AK
-- US-AZ
-- CA-MB
+- US-WA
+- US-MI
+- CA-SK
+- US-NV
+- US-NE
 - US-MO
-- US-GA
-- US-CO
-- DE
-- CA-AB
 - US-OH
 - US-VA
-- US-FL
-- CA-BC
-- CA-SK
-- US-UT
-- MX
+- DE
+- US-AZ
 - US-KS
 - US-IA
+- US-GA
+- US-AK
+- CA-BC
+- CA-MB
+- US-UT
+- US-CO
 - US-CA
-- US-MI
-- US-NV
 - US-WI
-- US-NE
-- US-WA
+- US-FL
+- CA-AB
+- MX
 - CA-ON
 plant_or_group:
   categories: []
@@ -331,29 +331,29 @@ plant_or_group:
   id: 98fa44ffe6214cc2aa8afe2a1daa61c7
   is_failed: false
   jurisdiction:
-  - US-AK
-  - US-AZ
-  - CA-MB
+  - US-WA
+  - US-MI
+  - CA-SK
+  - US-NV
+  - US-NE
   - US-MO
-  - US-GA
-  - US-CO
-  - DE
-  - CA-AB
   - US-OH
   - US-VA
-  - US-FL
-  - CA-BC
-  - CA-SK
-  - US-UT
-  - MX
+  - DE
+  - US-AZ
   - US-KS
   - US-IA
+  - US-GA
+  - US-AK
+  - CA-BC
+  - CA-MB
+  - US-UT
+  - US-CO
   - US-CA
-  - US-MI
-  - US-NV
   - US-WI
-  - US-NE
-  - US-WA
+  - US-FL
+  - CA-AB
+  - MX
   - CA-ON
   name: BASF Insulation Plants
   owned_by:

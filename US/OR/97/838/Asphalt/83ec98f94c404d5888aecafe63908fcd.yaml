@@ -59,7 +59,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30121601'
-  updated_on: '2025-07-20T12:06:14.849551Z'
+  updated_on: '2025-07-21T11:22:56.800981Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -214,7 +214,7 @@ manufacturer:
   primary_activity_forest_practices_certification: false
   primary_activity_general_contractor: true
   primary_activity_industry_association: false
-  primary_activity_manufacturer: false
+  primary_activity_manufacturer: true
   primary_activity_operator: false
   primary_activity_other: false
   primary_activity_owner: false
@@ -222,7 +222,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2024-08-11T04:59:56.683486Z'
+  updated_on: '2025-07-21T21:46:10.935840Z'
   warnings:
     address:
     - Not specified
@@ -361,7 +361,7 @@ plant_or_group:
     primary_activity_forest_practices_certification: false
     primary_activity_general_contractor: true
     primary_activity_industry_association: false
-    primary_activity_manufacturer: false
+    primary_activity_manufacturer: true
     primary_activity_operator: false
     primary_activity_other: false
     primary_activity_owner: false
@@ -369,7 +369,7 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2024-08-11T04:59:56.683486Z'
+    updated_on: '2025-07-21T21:46:10.935840Z'
     warnings:
       address:
       - Not specified

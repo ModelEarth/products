@@ -24,7 +24,7 @@ category:
   id: 8ab304f186094beda76ff15fb15d0081
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 5 kg
+  mass_per_declared_unit: 5.015 kg
   massless: false
   masterformat: 09 65 00 Resilient Flooring
   may_contain_trusted_vendor_declarations: false
@@ -34,13 +34,13 @@ category:
   openepd: Finishes >> Flooring >> ResilientFlooring
   openepd_name: Finishes >> Flooring >> ResilientFlooring
   parents: []
-  pct10_gwp: 5.832457348 kgCO2e
-  pct20_gwp: 7.4227125 kgCO2e
-  pct30_gwp: 8.258200556 kgCO2e
-  pct40_gwp: 9.273927674 kgCO2e
+  pct10_gwp: 5.831584928 kgCO2e
+  pct20_gwp: 7.419245923 kgCO2e
+  pct30_gwp: 8.247661199 kgCO2e
+  pct40_gwp: 9.254719076 kgCO2e
   pct50_gwp: 10.70614525 kgCO2e
-  pct60_gwp: 11.92898621 kgCO2e
-  pct70_gwp: 13.69323052 kgCO2e
+  pct60_gwp: 11.96867377 kgCO2e
+  pct70_gwp: 13.70156988 kgCO2e
   pct80_gwp: 16.0441221 kgCO2e
   pct90_gwp: 21.64449993 kgCO2e
   requires_mass_per_declared_unit: false
@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161700'
-  updated_on: '2025-07-20T12:06:06.657762Z'
+  updated_on: '2025-07-21T11:22:48.890775Z'
   use_stored_carbon: OPTIONAL
 conductive_flooring: false
 confirmable_fields: []
@@ -411,8 +411,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -510,8 +510,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
