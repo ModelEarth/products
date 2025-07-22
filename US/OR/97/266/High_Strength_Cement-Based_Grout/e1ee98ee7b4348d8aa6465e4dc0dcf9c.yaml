@@ -53,7 +53,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-21T11:22:31.897499Z'
+  updated_on: '2025-07-22T10:57:18.859158Z'
   use_stored_carbon: ABSENT
 concrete_air_entrain: false
 concrete_co2_entrain: false
@@ -91,6 +91,7 @@ developer:
     email_extensions:
     - climateearth.com
     enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/d2ab7c4a1a184c3d8f524a095e0fc6d1.png
     id: 5d43c53212c848d9861a81a4bbd626b2
     image: https://static.buildingtransparency.org/images/7ce922a6-8120-420c-9ca9-cd4ff793d90e
     is_failed: false
@@ -134,7 +135,7 @@ developer:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: true
     primary_activity_verifier: true
-    updated_on: '2023-10-06T13:31:13.719486Z'
+    updated_on: '2025-07-22T02:02:02.312901Z'
     web_domain: climateearth.com
     website: https://climateearth.com/
 doc: https://api.climateearth.com/api/mixes/epd/bbf661b6fcde4d488f7228fd60e3b5a6/true
@@ -288,7 +289,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3n3h3t5z
   short_name: Concrete
   status: Expired
-  updated_on: '2025-07-21T22:30:04.741015Z'
+  updated_on: '2025-07-22T22:14:29.153433Z'
   version: '2.1'
 pct80_gwp_per_category_declared_unit: 404.9924812 kgCO2e
 plant_geography:
@@ -512,8 +513,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

@@ -35,21 +35,21 @@ category:
   openepd: ThermalMoistureProtection >> AirBarriers
   openepd_name: ThermalMoistureProtection >> AirBarriers
   parents: []
-  pct10_gwp: 1.776410674 kgCO2e
-  pct20_gwp: 2.633549557 kgCO2e
-  pct30_gwp: 3.398633161 kgCO2e
+  pct10_gwp: 1.774202226 kgCO2e
+  pct20_gwp: 2.631309059 kgCO2e
+  pct30_gwp: 3.385674072 kgCO2e
   pct40_gwp: 4.703658251 kgCO2e
-  pct50_gwp: 7.046730298 kgCO2e
-  pct60_gwp: 10.23678848 kgCO2e
+  pct50_gwp: 7.053247539 kgCO2e
+  pct60_gwp: 10.24547165 kgCO2e
   pct70_gwp: 13.81232978 kgCO2e
-  pct80_gwp: 17.98340451 kgCO2e
-  pct90_gwp: 23.44363001 kgCO2e
+  pct80_gwp: 18.01575771 kgCO2e
+  pct90_gwp: 23.46851709 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Air Barriers
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-21T11:22:54.421076Z'
+  updated_on: '2025-07-22T10:57:40.977719Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -84,6 +84,7 @@ developer:
     - sustainableminds.com
     - ebsqart.com
     enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/7090690533a6458bb4f249811ae7367f.png
     id: 321e5dc991904465af04913936fd75c8
     image: https://static.buildingtransparency.org/images/f1493547-5dc1-4c14-967b-c05695c96708.png
     is_failed: false
@@ -127,7 +128,7 @@ developer:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: true
     primary_activity_verifier: true
-    updated_on: '2024-07-24T17:03:30.186451Z'
+    updated_on: '2025-07-22T02:03:03.572846Z'
     web_domain: sustainableminds.com
     website: https://www.sustainableminds.com
 doc: buildingtransparency.org/e/ec3wqja90p
@@ -229,7 +230,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec308hhdqx
   short_name: Water-Resistive and Air Barriers
   status: Expired
-  updated_on: '2023-09-19T22:52:31.430210Z'
+  updated_on: '2025-07-21T23:13:29.617119Z'
   version: '1'
 pct80_gwp_per_category_declared_unit: 7.040213058 kgCO2e
 plant_geography:
@@ -336,6 +337,7 @@ program_operator:
   - sustainableminds.com
   - ebsqart.com
   enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/7090690533a6458bb4f249811ae7367f.png
   id: 321e5dc991904465af04913936fd75c8
   image: https://static.buildingtransparency.org/images/f1493547-5dc1-4c14-967b-c05695c96708.png
   is_failed: false
@@ -379,7 +381,7 @@ program_operator:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: true
   primary_activity_verifier: true
-  updated_on: '2024-07-24T17:03:30.186451Z'
+  updated_on: '2025-07-22T02:03:03.572846Z'
   web_domain: sustainableminds.com
   website: https://www.sustainableminds.com
 program_operator_fkey: "SM-WRM \u2013 05272025 \u2013 006\_-4"

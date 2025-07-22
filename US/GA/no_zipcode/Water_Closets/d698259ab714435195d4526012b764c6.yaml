@@ -47,7 +47,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30180000'
-  updated_on: '2025-07-21T11:22:43.870002Z'
+  updated_on: '2025-07-22T10:57:31.098569Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -276,6 +276,7 @@ program_operator:
   - sustainableminds.com
   - ebsqart.com
   enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/7090690533a6458bb4f249811ae7367f.png
   id: 321e5dc991904465af04913936fd75c8
   image: https://static.buildingtransparency.org/images/f1493547-5dc1-4c14-967b-c05695c96708.png
   is_failed: false
@@ -319,7 +320,7 @@ program_operator:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: true
   primary_activity_verifier: true
-  updated_on: '2024-07-24T17:03:30.186451Z'
+  updated_on: '2025-07-22T02:03:03.572846Z'
   web_domain: sustainableminds.com
   website: https://www.sustainableminds.com
 program_operator_fkey: "TOTO \u2013 20240831 \u2013 004"

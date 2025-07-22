@@ -36,22 +36,22 @@ category:
   openepd: Openings >> Glazing >> NAFSFenestration >> Windows
   openepd_name: Openings >> Glazing >> NAFSFenestration >> Windows
   parents: []
-  pct10_gwp: 54.75157752 kgCO2e
-  pct20_gwp: 69.6560452 kgCO2e
-  pct30_gwp: 82.96231734 kgCO2e
-  pct40_gwp: 97.28338749 kgCO2e
-  pct50_gwp: 109.8882992 kgCO2e
-  pct60_gwp: 123.0239851 kgCO2e
-  pct70_gwp: 135.7991627 kgCO2e
-  pct80_gwp: 161.7299943 kgCO2e
-  pct90_gwp: 199.3723422 kgCO2e
+  pct10_gwp: 53.94876402 kgCO2e
+  pct20_gwp: 66.45869717 kgCO2e
+  pct30_gwp: 79.48702808 kgCO2e
+  pct40_gwp: 95.26982633 kgCO2e
+  pct50_gwp: 107.5556697 kgCO2e
+  pct60_gwp: 122.177087 kgCO2e
+  pct70_gwp: 134.5204981 kgCO2e
+  pct80_gwp: 163.5175685 kgCO2e
+  pct90_gwp: 207.6244251 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Windows
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30171600'
-  updated_on: '2025-07-21T11:22:58.203679Z'
+  updated_on: '2025-07-22T10:57:44.949788Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -432,8 +432,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

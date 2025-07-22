@@ -85,7 +85,7 @@ also_shown_in:
   subcategories: []
   template_builders: []
   unspsc: '30131704'
-  updated_on: '2025-07-21T11:22:49.416140Z'
+  updated_on: '2025-07-22T10:57:36.114278Z'
   use_stored_carbon: ABSENT
 applicable_in:
 - '021'
@@ -134,7 +134,7 @@ category:
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-21T11:22:48.205720Z'
+  updated_on: '2025-07-22T10:57:34.981619Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -168,6 +168,7 @@ developer:
     - sustainableminds.com
     - ebsqart.com
     enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/7090690533a6458bb4f249811ae7367f.png
     id: 321e5dc991904465af04913936fd75c8
     image: https://static.buildingtransparency.org/images/f1493547-5dc1-4c14-967b-c05695c96708.png
     is_failed: false
@@ -211,7 +212,7 @@ developer:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: true
     primary_activity_verifier: true
-    updated_on: '2024-07-24T17:03:30.186451Z'
+    updated_on: '2025-07-22T02:03:03.572846Z'
     web_domain: sustainableminds.com
     website: https://www.sustainableminds.com
 doc: https://transparencycatalog.com/company/polycor/showroom/marble-flooring-products
@@ -230,8 +231,8 @@ industry_standards: []
 is_downloadable: true
 is_failed: false
 jurisdiction:
-- US-GA
 - '021'
+- US-GA
 language: en
 lowest_plausible_gwp: 24.75239078 kgCO2e
 manufacturer:
@@ -544,6 +545,7 @@ program_operator:
   - sustainableminds.com
   - ebsqart.com
   enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/7090690533a6458bb4f249811ae7367f.png
   id: 321e5dc991904465af04913936fd75c8
   image: https://static.buildingtransparency.org/images/f1493547-5dc1-4c14-967b-c05695c96708.png
   is_failed: false
@@ -587,7 +589,7 @@ program_operator:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: true
   primary_activity_verifier: true
-  updated_on: '2024-07-24T17:03:30.186451Z'
+  updated_on: '2025-07-22T02:03:03.572846Z'
   web_domain: sustainableminds.com
   website: https://www.sustainableminds.com
 program_operator_fkey: "POL \u2013 20230213 \u2013 003"

@@ -21,7 +21,7 @@ category:
   id: b048f841e2a64100ba77896c66ade6f5
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 0.51283 kg
+  mass_per_declared_unit: 0.51391 kg
   massless: false
   masterformat: 00 00 00 No Masterformat Code
   may_contain_trusted_vendor_declarations: false
@@ -31,21 +31,21 @@ category:
   openepd: OtherElectricalEquipment
   openepd_name: OtherElectricalEquipment
   parents: []
-  pct10_gwp: 0.2787353037 kgCO2e
-  pct20_gwp: 0.612222185 kgCO2e
-  pct30_gwp: 1.014770715 kgCO2e
-  pct40_gwp: 2.16517602 kgCO2e
-  pct50_gwp: 4.858020369 kgCO2e
-  pct60_gwp: 9.70596147 kgCO2e
+  pct10_gwp: 0.2782375621 kgCO2e
+  pct20_gwp: 0.6107289602 kgCO2e
+  pct30_gwp: 1.019125954 kgCO2e
+  pct40_gwp: 2.175552089 kgCO2e
+  pct50_gwp: 4.876685679 kgCO2e
+  pct60_gwp: 9.805509792 kgCO2e
   pct70_gwp: 20.40740617 kgCO2e
-  pct80_gwp: 60.10229987 kgCO2e
-  pct90_gwp: 361.484847 kgCO2e
+  pct80_gwp: 60.55026732 kgCO2e
+  pct90_gwp: 361.7337178 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Other
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-21T11:22:59.807194Z'
+  updated_on: '2025-07-22T10:57:46.590563Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -216,7 +216,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qpee337
   short_name: Electrical, Electronic and HVAC-R Products
   status: Published
-  updated_on: '2025-07-21T22:10:12.742405Z'
+  updated_on: '2025-07-22T22:14:30.634031Z'
   version: '4'
 plant_geography:
 - '001'

@@ -50,7 +50,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-21T11:22:49.074154Z'
+  updated_on: '2025-07-22T10:57:35.767517Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -85,6 +85,7 @@ digitization_qa:
   - waldmanlca.com
   - carbonleadershipforum.org
   enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/5482cda008cc4d31a16ed44fc6f6a3a1.png
   id: 14961b8cc7d4440f9456f7210fdfe76a
   image: https://static.buildingtransparency.org/images/c2c300af-096b-4770-adde-bea7fb5bd8be.png
   is_failed: false
@@ -128,7 +129,7 @@ digitization_qa:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2020-05-21T22:02:04.366702Z'
+  updated_on: '2025-07-22T02:04:00.457127Z'
   web_domain: carbonleadershipforum.org
   website: www.carbonleadershipforum.org
 doc: buildingtransparency.org/e/ec37y9ae6x
@@ -208,6 +209,7 @@ manufacturer:
   - interface.com
   - inzide.co.nz
   enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/76a9c061c824499bbd43f4766602452b.png
   id: 159e5adbf6fc40d5a10fdeced59115b8
   image: https://static.buildingtransparency.org/images/e05e54fca91d46d08194b99135f887cc.png
   is_failed: false
@@ -260,7 +262,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2024-01-30T19:48:58.344710Z'
+  updated_on: '2025-07-22T01:49:35.297576Z'
   web_domain: interface.com
   website: www.interface.com
 manufacturer_specific: true
@@ -370,6 +372,7 @@ plant_or_group:
     - interface.com
     - inzide.co.nz
     enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/76a9c061c824499bbd43f4766602452b.png
     id: 159e5adbf6fc40d5a10fdeced59115b8
     image: https://static.buildingtransparency.org/images/e05e54fca91d46d08194b99135f887cc.png
     is_failed: false
@@ -422,7 +425,7 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2024-01-30T19:48:58.344710Z'
+    updated_on: '2025-07-22T01:49:35.297576Z'
     web_domain: interface.com
     website: www.interface.com
   postal_code: '30240'
@@ -492,8 +495,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

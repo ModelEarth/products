@@ -51,7 +51,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30103603'
-  updated_on: '2025-07-21T11:22:51.288380Z'
+  updated_on: '2025-07-22T10:57:37.897993Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -179,6 +179,7 @@ digitization_qa:
   - waldmanlca.com
   - carbonleadershipforum.org
   enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/5482cda008cc4d31a16ed44fc6f6a3a1.png
   id: 14961b8cc7d4440f9456f7210fdfe76a
   image: https://static.buildingtransparency.org/images/c2c300af-096b-4770-adde-bea7fb5bd8be.png
   is_failed: false
@@ -222,7 +223,7 @@ digitization_qa:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2020-05-21T22:02:04.366702Z'
+  updated_on: '2025-07-22T02:04:00.457127Z'
   web_domain: carbonleadershipforum.org
   website: www.carbonleadershipforum.org
 doc: buildingtransparency.org/e/ec3nwc8737
@@ -372,7 +373,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3p5nqsw3
   short_name: North American Structural and Architectural Wood Products
   status: Sunset
-  updated_on: '2025-07-21T22:10:11.452827Z'
+  updated_on: '2025-07-22T22:14:29.559487Z'
   version: '1'
 pct80_gwp_per_category_declared_unit: 55.56416306 kgCO2e
 plant_geography:
@@ -543,8 +544,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-21T11:22:49.074154Z'
+  updated_on: '2025-07-22T10:57:35.767517Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -85,6 +85,7 @@ digitization_qa:
   - waldmanlca.com
   - carbonleadershipforum.org
   enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/5482cda008cc4d31a16ed44fc6f6a3a1.png
   id: 14961b8cc7d4440f9456f7210fdfe76a
   image: https://static.buildingtransparency.org/images/c2c300af-096b-4770-adde-bea7fb5bd8be.png
   is_failed: false
@@ -128,7 +129,7 @@ digitization_qa:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2020-05-21T22:02:04.366702Z'
+  updated_on: '2025-07-22T02:04:00.457127Z'
   web_domain: carbonleadershipforum.org
   website: www.carbonleadershipforum.org
 doc: buildingtransparency.org/e/ec31s403q7
@@ -343,7 +344,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3e6jsgyf
   short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
   status: Sunset
-  updated_on: '2025-07-21T22:10:11.637122Z'
+  updated_on: '2025-07-22T22:04:36.976719Z'
   version: '1'
 pct80_gwp_per_category_declared_unit: 137.4519196 kgCO2e
 plant_geography:
@@ -540,8 +541,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

@@ -35,20 +35,20 @@ category:
   parents: []
   pct10_gwp: 247.0863983 kgCO2e
   pct20_gwp: 283.1051597 kgCO2e
-  pct30_gwp: 310.2578554 kgCO2e
+  pct30_gwp: 310.252828 kgCO2e
   pct40_gwp: 334.9397277 kgCO2e
   pct50_gwp: 359.2861844 kgCO2e
-  pct60_gwp: 386.680423 kgCO2e
+  pct60_gwp: 386.6049425 kgCO2e
   pct70_gwp: 416.9762065 kgCO2e
-  pct80_gwp: 452.6585783 kgCO2e
-  pct90_gwp: 507.1540675 kgCO2e
+  pct80_gwp: 452.5487896 kgCO2e
+  pct90_gwp: 507.1207021 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Ready Mix
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30111505'
-  updated_on: '2025-07-21T11:22:40.573142Z'
+  updated_on: '2025-07-22T10:57:27.909010Z'
   use_stored_carbon: ABSENT
 concrete_aggregate_size_max: 0.75 in
 concrete_air_entrain: false
@@ -88,6 +88,7 @@ developer:
     email_extensions:
     - climateearth.com
     enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/d2ab7c4a1a184c3d8f524a095e0fc6d1.png
     id: 5d43c53212c848d9861a81a4bbd626b2
     image: https://static.buildingtransparency.org/images/7ce922a6-8120-420c-9ca9-cd4ff793d90e
     is_failed: false
@@ -131,7 +132,7 @@ developer:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: true
     primary_activity_verifier: true
-    updated_on: '2023-10-06T13:31:13.719486Z'
+    updated_on: '2025-07-22T02:02:02.312901Z'
     web_domain: climateearth.com
     website: https://climateearth.com/
 doc: buildingtransparency.org/e/ec3rewdmu7
@@ -268,7 +269,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3r08uctb
   short_name: Concrete
   status: Expired
-  updated_on: '2025-07-21T22:30:04.796311Z'
+  updated_on: '2025-07-22T22:14:29.200912Z'
   version: 2.3 extension
 pct80_gwp_per_category_declared_unit: 180.6047551 kgCO2e
 plant_geography:
