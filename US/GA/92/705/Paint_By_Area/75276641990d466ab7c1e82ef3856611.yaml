@@ -34,20 +34,20 @@ category:
   openepd: Finishes >> PaintingAndCoating >> PaintByArea
   openepd_name: Finishes >> PaintingAndCoating >> PaintByArea
   parents: []
-  pct10_gwp: 0.178720466 kgCO2e
+  pct10_gwp: 0.1786523817 kgCO2e
   pct20_gwp: 0.2361166168 kgCO2e
-  pct30_gwp: 0.2694432672 kgCO2e
-  pct40_gwp: 0.3051671187 kgCO2e
-  pct50_gwp: 0.3417504894 kgCO2e
-  pct60_gwp: 0.3868644831 kgCO2e
+  pct30_gwp: 0.2692688767 kgCO2e
+  pct40_gwp: 0.3049426583 kgCO2e
+  pct50_gwp: 0.3409364837 kgCO2e
+  pct60_gwp: 0.3867191532 kgCO2e
   pct70_gwp: 0.505207738 kgCO2e
-  pct80_gwp: 0.7713227656 kgCO2e
-  pct90_gwp: 1.576679741 kgCO2e
+  pct80_gwp: 0.7625262679 kgCO2e
+  pct90_gwp: 1.576555436 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-07-22T10:57:37.101193Z'
+  updated_on: '2025-07-23T10:49:38.951896Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -242,12 +242,12 @@ pcr:
   version: '1'
 pct80_gwp_per_category_declared_unit: 1.653251384 kgCO2e
 plant_geography:
-- US-GA
-- US-IL
-- US-TX
 - US
+- US-TX
 - US-PA
 - US-CA
+- US-GA
+- US-IL
 plant_or_group:
   categories: []
   confirmable_fields: []

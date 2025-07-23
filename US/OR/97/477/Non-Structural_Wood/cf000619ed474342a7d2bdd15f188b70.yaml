@@ -34,22 +34,22 @@ category:
   openepd: Wood >> NonStructuralWood
   openepd_name: Wood >> NonStructuralWood
   parents: []
-  pct10_gwp: -1077.338958 kgCO2e
-  pct20_gwp: -801.8185111 kgCO2e
-  pct30_gwp: 92.6069632 kgCO2e
-  pct40_gwp: 119.2986158 kgCO2e
-  pct50_gwp: 141.8744339 kgCO2e
-  pct60_gwp: 171.2825896 kgCO2e
-  pct70_gwp: 222.1369396 kgCO2e
-  pct80_gwp: 463.45644 kgCO2e
-  pct90_gwp: 793.0634459 kgCO2e
+  pct10_gwp: 106.0301441 kgCO2e
+  pct20_gwp: 124.3954828 kgCO2e
+  pct30_gwp: 141.542121 kgCO2e
+  pct40_gwp: 161.6736295 kgCO2e
+  pct50_gwp: 187.8202135 kgCO2e
+  pct60_gwp: 222.1369396 kgCO2e
+  pct70_gwp: 287.3520144 kgCO2e
+  pct80_gwp: 512.3538948 kgCO2e
+  pct90_gwp: 803.0078151 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Non-Structural Wood
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '11122000'
-  updated_on: '2025-07-22T10:57:38.692255Z'
+  updated_on: '2025-07-23T10:49:40.595425Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -285,14 +285,14 @@ pcr:
   short_link: buildingtransparency.org/p/ec38861n82
   short_name: North American Structural and Architectural Wood Products
   status: Sunset
-  updated_on: '2025-07-22T22:14:29.581372Z'
+  updated_on: '2025-07-23T22:20:07.139136Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 608.4759943 kgCO2e
 plant_geography:
-- US-OR
-- US-LA
-- US-MS
 - US-MT
+- US-LA
+- US-OR
+- US-MS
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -302,10 +302,10 @@ plant_or_group:
   id: 950cc3cb94664243a628dd46b08e8f16
   is_failed: false
   jurisdiction:
-  - US-OR
-  - US-LA
   - US-MT
+  - US-LA
   - US-MS
+  - US-OR
   name: US Plants - Particleboard
   owned_by:
     address: 3660 Gateway Street, Springfield, OR 97477

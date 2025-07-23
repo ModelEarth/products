@@ -36,22 +36,22 @@ category:
   openepd: Wood >> NonStructuralWood
   openepd_name: Wood >> NonStructuralWood
   parents: []
-  pct10_gwp: -1077.338958 kgCO2e
-  pct20_gwp: -801.8185111 kgCO2e
-  pct30_gwp: 92.6069632 kgCO2e
-  pct40_gwp: 119.2986158 kgCO2e
-  pct50_gwp: 141.8744339 kgCO2e
-  pct60_gwp: 171.2825896 kgCO2e
-  pct70_gwp: 222.1369396 kgCO2e
-  pct80_gwp: 463.45644 kgCO2e
-  pct90_gwp: 793.0634459 kgCO2e
+  pct10_gwp: 106.0301441 kgCO2e
+  pct20_gwp: 124.3954828 kgCO2e
+  pct30_gwp: 141.542121 kgCO2e
+  pct40_gwp: 161.6736295 kgCO2e
+  pct50_gwp: 187.8202135 kgCO2e
+  pct60_gwp: 222.1369396 kgCO2e
+  pct70_gwp: 287.3520144 kgCO2e
+  pct80_gwp: 512.3538948 kgCO2e
+  pct90_gwp: 803.0078151 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Non-Structural Wood
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '11122000'
-  updated_on: '2025-07-22T10:57:38.692255Z'
+  updated_on: '2025-07-23T10:49:40.595425Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -167,8 +167,8 @@ is_downloadable: true
 is_duplicate: false
 is_failed: false
 jurisdiction:
-- US-OR
 - '021'
+- US-OR
 language: en
 lca_discussion: "## Product Component Notes\nTable 1 provides the average material\
   \ content for MDF produced by Roseburg. This product meets the EPA Formaldehyde\
@@ -560,8 +560,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
