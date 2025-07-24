@@ -34,22 +34,22 @@ category:
   openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
   openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
   parents: []
-  pct10_gwp: 2.149900288 kgCO2e
-  pct20_gwp: 2.815880669 kgCO2e
-  pct30_gwp: 3.394146824 kgCO2e
-  pct40_gwp: 4.2173495 kgCO2e
-  pct50_gwp: 5.357970372 kgCO2e
-  pct60_gwp: 6.973196294 kgCO2e
-  pct70_gwp: 8.914929053 kgCO2e
-  pct80_gwp: 11.76530424 kgCO2e
-  pct90_gwp: 16.1226719 kgCO2e
+  pct10_gwp: 2.152403361 kgCO2e
+  pct20_gwp: 2.817134307 kgCO2e
+  pct30_gwp: 3.377576326 kgCO2e
+  pct40_gwp: 4.216035401 kgCO2e
+  pct50_gwp: 5.352353001 kgCO2e
+  pct60_gwp: 6.968100791 kgCO2e
+  pct70_gwp: 8.887779997 kgCO2e
+  pct80_gwp: 11.75787391 kgCO2e
+  pct90_gwp: 16.11649955 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Board
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-07-23T10:49:42.003619Z'
+  updated_on: '2025-07-24T11:01:21.364457Z'
   use_stored_carbon: OPTIONAL
 compressive_strength: 40 psi
 confirmable_fields: []
@@ -319,16 +319,16 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-07-23T22:20:07.363938Z'
+  updated_on: '2025-07-24T22:10:07.101480Z'
   version: '2'
 pcr_notes: These results are for an unlaminated product, but two-sided lamination
   adds roughly 2% to the impact, and can safely be ignored.
 pct80_gwp_per_category_declared_unit: 12.75526949 kgCO2e
 plant_geography:
-- US-OR
-- '003'
 - US-OH
+- US-OR
 - CA-QC
+- '003'
 plant_or_group:
   categories: []
   confirmable_fields: []

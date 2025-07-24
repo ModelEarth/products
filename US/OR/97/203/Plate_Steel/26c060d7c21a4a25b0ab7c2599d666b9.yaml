@@ -37,13 +37,13 @@ category:
   openepd: Steel >> StructuralSteel >> PlateSteel
   openepd_name: Steel >> StructuralSteel >> PlateSteel
   parents: []
-  pct10_gwp: 1090.468431 kgCO2e
-  pct20_gwp: 1280.78201 kgCO2e
-  pct30_gwp: 1448.698977 kgCO2e
+  pct10_gwp: 1093.822415 kgCO2e
+  pct20_gwp: 1283.777992 kgCO2e
+  pct30_gwp: 1459.461797 kgCO2e
   pct40_gwp: 1607.925612 kgCO2e
   pct50_gwp: 1784.652861 kgCO2e
-  pct60_gwp: 1995.293071 kgCO2e
-  pct70_gwp: 2247.307057 kgCO2e
+  pct60_gwp: 2015.872128 kgCO2e
+  pct70_gwp: 2258.867499 kgCO2e
   pct80_gwp: 2563.295039 kgCO2e
   pct90_gwp: 3415.996438 kgCO2e
   requires_mass_per_declared_unit: false
@@ -52,7 +52,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30102204'
-  updated_on: '2025-07-23T10:49:34.859494Z'
+  updated_on: '2025-07-24T11:01:13.756701Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []

@@ -24,7 +24,7 @@ category:
   id: 0d1d4544c70f4a82938c79d88f86ec5d
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 1026.578592 kg
+  mass_per_declared_unit: 1032.033771 kg
   massless: false
   masterformat: 09 29 00 Gypsum Board
   may_contain_trusted_vendor_declarations: false
@@ -34,22 +34,22 @@ category:
   openepd: Finishes >> Gypsum
   openepd_name: Finishes >> Gypsum
   parents: []
-  pct10_gwp: 116.750746 kgCO2e
+  pct10_gwp: 116.7523409 kgCO2e
   pct20_gwp: 173.406409 kgCO2e
-  pct30_gwp: 216.4111984 kgCO2e
-  pct40_gwp: 262.6979541 kgCO2e
-  pct50_gwp: 296.0557948 kgCO2e
+  pct30_gwp: 216.7580112 kgCO2e
+  pct40_gwp: 263.5777416 kgCO2e
+  pct50_gwp: 296.4595004 kgCO2e
   pct60_gwp: 337.5644761 kgCO2e
-  pct70_gwp: 391.8984843 kgCO2e
-  pct80_gwp: 456.9128837 kgCO2e
-  pct90_gwp: 569.5355885 kgCO2e
+  pct70_gwp: 393.054527 kgCO2e
+  pct80_gwp: 457.7929197 kgCO2e
+  pct90_gwp: 569.4372196 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Gypsum Board
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161509'
-  updated_on: '2025-07-23T10:49:38.350869Z'
+  updated_on: '2025-07-24T11:01:17.514750Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -282,17 +282,17 @@ pcr:
   version: '1'
 pct80_gwp_per_category_declared_unit: 355.5111999 kgCO2e
 plant_geography:
-- US-TN
-- US
 - US-WA
-- US-TX
-- US-OK
+- US
 - US-CA
 - US-IA
 - US-NJ
-- US-IN
+- US-TX
 - US-GA
 - US-NV
+- US-IN
+- US-OK
+- US-TN
 - US-WY
 plant_or_group:
   categories: []

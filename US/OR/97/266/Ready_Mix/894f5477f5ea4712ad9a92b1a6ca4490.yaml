@@ -37,20 +37,20 @@ category:
   parents: []
   pct10_gwp: 247.0863983 kgCO2e
   pct20_gwp: 283.1051597 kgCO2e
-  pct30_gwp: 310.252828 kgCO2e
+  pct30_gwp: 310.2303477 kgCO2e
   pct40_gwp: 334.9397277 kgCO2e
   pct50_gwp: 359.2861844 kgCO2e
-  pct60_gwp: 386.6383503 kgCO2e
+  pct60_gwp: 386.5716914 kgCO2e
   pct70_gwp: 416.9762065 kgCO2e
-  pct80_gwp: 452.6152788 kgCO2e
-  pct90_gwp: 507.1461971 kgCO2e
+  pct80_gwp: 452.5487896 kgCO2e
+  pct90_gwp: 507.1341489 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Ready Mix
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30111505'
-  updated_on: '2025-07-23T10:49:29.644148Z'
+  updated_on: '2025-07-24T11:00:30.412379Z'
   use_stored_carbon: ABSENT
 concrete_air_entrain: false
 concrete_co2_entrain: false
@@ -263,7 +263,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3n3h3t5z
   short_name: Concrete
   status: Expired
-  updated_on: '2025-07-23T22:30:21.240472Z'
+  updated_on: '2025-07-24T22:10:06.512807Z'
   version: '2.1'
 pct80_gwp_per_category_declared_unit: 397.956651 kgCO2e
 plant_geography:
@@ -439,8 +439,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

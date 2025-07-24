@@ -51,7 +51,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-23T10:49:21.081454Z'
+  updated_on: '2025-07-24T11:00:21.982294Z'
   use_stored_carbon: ABSENT
 concrete_air_entrain: false
 concrete_co2_entrain: false
@@ -257,10 +257,15 @@ pcr:
   is_failed: false
   issuer_doc_id: NSF 1112-19
   lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
     TRACI 2.1:
       impacts: []
       jurisdiction:
-      - '001'
+      - '021'
       order: 1
   name: NSF PCR for Concrete
   open_xpd_uuid: ec3r08uc
@@ -271,7 +276,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3r08uctb
   short_name: Concrete
   status: Expired
-  updated_on: '2025-07-23T22:30:21.293197Z'
+  updated_on: '2025-07-24T22:10:06.562127Z'
   version: 2.3 extension
 pct80_gwp_per_category_declared_unit: 426.8839666 kgCO2e
 plant_geography:

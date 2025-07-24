@@ -35,20 +35,20 @@ category:
   parents: []
   pct10_gwp: 247.0863983 kgCO2e
   pct20_gwp: 283.1051597 kgCO2e
-  pct30_gwp: 310.252828 kgCO2e
+  pct30_gwp: 310.2303477 kgCO2e
   pct40_gwp: 334.9397277 kgCO2e
   pct50_gwp: 359.2861844 kgCO2e
-  pct60_gwp: 386.6383503 kgCO2e
+  pct60_gwp: 386.5716914 kgCO2e
   pct70_gwp: 416.9762065 kgCO2e
-  pct80_gwp: 452.6152788 kgCO2e
-  pct90_gwp: 507.1461971 kgCO2e
+  pct80_gwp: 452.5487896 kgCO2e
+  pct90_gwp: 507.1341489 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Ready Mix
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30111505'
-  updated_on: '2025-07-23T10:49:29.644148Z'
+  updated_on: '2025-07-24T11:00:30.412379Z'
   use_stored_carbon: ABSENT
 concrete_air_entrain: true
 concrete_co2_entrain: false
@@ -254,10 +254,15 @@ pcr:
   is_failed: false
   issuer_doc_id: NSF 1112-19
   lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
     TRACI 2.1:
       impacts: []
       jurisdiction:
-      - '001'
+      - '021'
       order: 1
   name: NSF PCR for Concrete
   open_xpd_uuid: ec3r08uc
@@ -268,7 +273,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3r08uctb
   short_name: Concrete
   status: Expired
-  updated_on: '2025-07-23T22:00:20.222683Z'
+  updated_on: '2025-07-24T22:10:06.562127Z'
   version: 2.3 extension
 pct80_gwp_per_category_declared_unit: 303.1970737 kgCO2e
 plant_geography:

@@ -26,7 +26,7 @@ category:
   id: d113c0063bcf41f0af23277b8b6362f0
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 562.5 kg
+  mass_per_declared_unit: 514.25 kg
   massless: false
   masterformat: 06 20 00 Finish Carpentry
   may_contain_trusted_vendor_declarations: false
@@ -36,14 +36,14 @@ category:
   openepd: Wood >> NonStructuralWood
   openepd_name: Wood >> NonStructuralWood
   parents: []
-  pct10_gwp: 106.0301441 kgCO2e
-  pct20_gwp: 124.3954828 kgCO2e
-  pct30_gwp: 141.542121 kgCO2e
-  pct40_gwp: 161.6736295 kgCO2e
-  pct50_gwp: 187.8202135 kgCO2e
-  pct60_gwp: 222.1369396 kgCO2e
-  pct70_gwp: 287.3520144 kgCO2e
-  pct80_gwp: 512.3538948 kgCO2e
+  pct10_gwp: 105.5963063 kgCO2e
+  pct20_gwp: 123.4625167 kgCO2e
+  pct30_gwp: 141.0341228 kgCO2e
+  pct40_gwp: 161.2359035 kgCO2e
+  pct50_gwp: 183.8948039 kgCO2e
+  pct60_gwp: 217.1549096 kgCO2e
+  pct70_gwp: 286.3057013 kgCO2e
+  pct80_gwp: 516.4638147 kgCO2e
   pct90_gwp: 803.0078151 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Non-Structural Wood
@@ -51,7 +51,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '11122000'
-  updated_on: '2025-07-23T10:49:40.595425Z'
+  updated_on: '2025-07-24T11:01:19.944784Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -167,8 +167,8 @@ is_downloadable: true
 is_duplicate: false
 is_failed: false
 jurisdiction:
-- '021'
 - US-OR
+- '021'
 language: en
 lca_discussion: "## Product Component Notes\nTable 1 provides the average material\
   \ content for MDF produced by Roseburg. This product meets the EPA Formaldehyde\
