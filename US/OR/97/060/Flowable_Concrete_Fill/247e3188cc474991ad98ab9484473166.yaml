@@ -57,7 +57,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30110000'
-  updated_on: '2025-07-24T11:00:31.415351Z'
+  updated_on: '2025-07-25T10:59:17.025822Z'
   use_stored_carbon: ABSENT
 cementitious:
   fly_ash: 0.0
@@ -315,7 +315,7 @@ original_data_format: pdf_manual
 original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3hprxj
 output_flows: {}
 owner:
-  name: Vaclav Admin
+  name: Vaclav Hasik (Admin)
   user_id: vaclav.admin@buildingtransparency.org
 pcr:
   alt_names:

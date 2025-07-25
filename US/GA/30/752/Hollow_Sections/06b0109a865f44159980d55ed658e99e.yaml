@@ -52,7 +52,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30104000'
-  updated_on: '2025-07-24T11:01:13.610373Z'
+  updated_on: '2025-07-25T10:59:21.807561Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
@@ -260,7 +260,7 @@ original_data_format: pdf_manual
 original_ec3_link: https://buildingtransparency.org/ec3/epds/ec35j8uy
 output_flows: {}
 owner:
-  name: Vaclav Admin
+  name: Vaclav Hasik (Admin)
   user_id: vaclav.admin@buildingtransparency.org
 pcr:
   alt_names:
