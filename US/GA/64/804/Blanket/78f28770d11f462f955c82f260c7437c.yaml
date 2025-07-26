@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-07-25T10:59:29.089235Z'
+  updated_on: '2025-07-26T12:18:13.149292Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -228,16 +228,16 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-07-25T22:05:09.106843Z'
+  updated_on: '2025-07-26T22:08:14.636897Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 1.581993791 kgCO2e
 plant_geography:
 - US-GA
 - US-CA
-- US-KS
 - US-NY
-- CA-ON
+- US-KS
 - CA-AB
+- CA-ON
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -249,10 +249,10 @@ plant_or_group:
   jurisdiction:
   - US-GA
   - US-CA
-  - US-KS
   - US-NY
-  - CA-ON
+  - US-KS
   - CA-AB
+  - CA-ON
   name: Kansas City, Edmonton, Santa Clara, Delmar, Fairburn, Toronto
   owned_by:
     address: Toledo, OH, USA
@@ -388,8 +388,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

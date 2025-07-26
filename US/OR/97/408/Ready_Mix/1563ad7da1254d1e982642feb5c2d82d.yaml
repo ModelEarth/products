@@ -35,20 +35,20 @@ category:
   parents: []
   pct10_gwp: 247.0863983 kgCO2e
   pct20_gwp: 283.1051597 kgCO2e
-  pct30_gwp: 310.2472348 kgCO2e
+  pct30_gwp: 310.2184634 kgCO2e
   pct40_gwp: 334.9397277 kgCO2e
   pct50_gwp: 359.2861844 kgCO2e
   pct60_gwp: 386.5716914 kgCO2e
   pct70_gwp: 416.9762065 kgCO2e
   pct80_gwp: 452.5487896 kgCO2e
-  pct90_gwp: 507.1241804 kgCO2e
+  pct90_gwp: 507.1154847 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Ready Mix
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30111505'
-  updated_on: '2025-07-25T10:59:16.767642Z'
+  updated_on: '2025-07-26T12:17:59.213396Z'
   use_stored_carbon: ABSENT
 concrete_aggregate_size_max: 0.5 in
 concrete_air_entrain: false
@@ -274,7 +274,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3r08uctb
   short_name: Concrete
   status: Expired
-  updated_on: '2025-07-25T22:05:08.477922Z'
+  updated_on: '2025-07-26T22:20:05.268709Z'
   version: 2.3 extension
 pct80_gwp_per_category_declared_unit: 237.5226173 kgCO2e
 plant_geography:

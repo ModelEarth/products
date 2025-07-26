@@ -41,7 +41,7 @@ also_shown_in:
   subcategories: []
   template_builders: []
   unspsc: '30103603'
-  updated_on: '2025-07-25T10:59:26.898747Z'
+  updated_on: '2025-07-26T12:18:10.873423Z'
   use_stored_carbon: REQUIRED
 - allows_any_declared_unit: false
   beta_only: false
@@ -86,7 +86,7 @@ also_shown_in:
   subcategories: []
   template_builders: []
   unspsc: '30103603'
-  updated_on: '2025-07-25T10:59:27.557042Z'
+  updated_on: '2025-07-26T12:18:11.560333Z'
   use_stored_carbon: ABSENT
 - allows_any_declared_unit: false
   beta_only: false
@@ -131,7 +131,7 @@ also_shown_in:
   subcategories: []
   template_builders: []
   unspsc: '30103602'
-  updated_on: '2025-07-25T10:59:27.244259Z'
+  updated_on: '2025-07-26T12:18:11.236223Z'
   use_stored_carbon: REQUIRED
 applicable_in:
 - '001'
@@ -186,7 +186,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30103602'
-  updated_on: '2025-07-25T10:59:27.521387Z'
+  updated_on: '2025-07-26T12:18:11.524911Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []

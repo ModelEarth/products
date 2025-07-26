@@ -49,7 +49,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-07-25T10:59:24.776118Z'
+  updated_on: '2025-07-26T12:18:08.680468Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -282,7 +282,7 @@ original_data_format: pdf_manual
 original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ydhjj
 output_flows: {}
 owner:
-  name: Vaclav Hasik (Admin)
+  name: Vaclav Admin
   user_id: vaclav.admin@buildingtransparency.org
 pcr:
   alt_names: []
@@ -411,9 +411,9 @@ plant_or_group:
     web_domain: milliken.com
     website: www.milliken.com
   plants_count: 3
-  total_epds: 63
+  total_epds: 65
   type: PlantGroup
-  updated_on: '2025-07-19T12:28:01.315300Z'
+  updated_on: '2025-07-26T11:40:58.927214Z'
 plant_specific: false
 private: false
 product_classes: {}
@@ -477,8 +477,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

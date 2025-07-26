@@ -26,7 +26,7 @@ category:
   id: 56f3c898f94b459eb18feadeb792ab88
   includes_b1_stage: true
   lcia_uncertainty: 0.15
-  mass_per_declared_unit: 2.04 kg
+  mass_per_declared_unit: 2.1375 kg
   massless: false
   masterformat: 07 21 13 Board Insulation
   may_contain_trusted_vendor_declarations: false
@@ -36,22 +36,22 @@ category:
   openepd: ThermalMoistureProtection >> Insulation >> BoardInsulation
   openepd_name: ThermalMoistureProtection >> Insulation >> BoardInsulation
   parents: []
-  pct10_gwp: 2.152403361 kgCO2e
-  pct20_gwp: 2.817134307 kgCO2e
-  pct30_gwp: 3.377576326 kgCO2e
-  pct40_gwp: 4.216035401 kgCO2e
-  pct50_gwp: 5.352353001 kgCO2e
-  pct60_gwp: 6.968100791 kgCO2e
-  pct70_gwp: 8.887779997 kgCO2e
-  pct80_gwp: 11.75787391 kgCO2e
-  pct90_gwp: 16.11649955 kgCO2e
+  pct10_gwp: 2.124627573 kgCO2e
+  pct20_gwp: 2.804591391 kgCO2e
+  pct30_gwp: 3.361150303 kgCO2e
+  pct40_gwp: 4.172437058 kgCO2e
+  pct50_gwp: 5.271344836 kgCO2e
+  pct60_gwp: 6.853399414 kgCO2e
+  pct70_gwp: 8.50907535 kgCO2e
+  pct80_gwp: 11.57188804 kgCO2e
+  pct90_gwp: 16.1350166 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Board
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-07-25T10:59:29.024009Z'
+  updated_on: '2025-07-26T12:18:13.080980Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -294,34 +294,34 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-07-25T22:05:09.106843Z'
+  updated_on: '2025-07-26T22:08:14.636897Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 2.840743101 kgCO2e
 plant_geography:
-- US-IA
-- US-WA
-- US-UT
-- US-MI
-- CA-BC
-- CA-MB
-- CA-AB
-- DE
-- US-OH
-- US-CO
-- US-VA
-- US-CA
-- US-KS
-- US-AK
-- US-WI
 - US-NV
-- US-MO
-- CA-ON
+- CA-MB
+- US-IA
 - US-FL
-- US-GA
-- MX
-- US-AZ
+- US-MO
+- CA-BC
+- US-WA
+- US-VA
+- US-UT
+- US-CA
+- US-MI
+- US-OH
 - US-NE
+- US-WI
+- US-GA
+- DE
 - CA-SK
+- US-AK
+- CA-AB
+- MX
+- US-CO
+- US-KS
+- US-AZ
+- CA-ON
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -331,30 +331,30 @@ plant_or_group:
   id: 98fa44ffe6214cc2aa8afe2a1daa61c7
   is_failed: false
   jurisdiction:
-  - US-IA
-  - US-WA
-  - US-UT
-  - US-MI
-  - CA-BC
-  - CA-MB
-  - CA-AB
-  - DE
-  - US-OH
-  - US-CO
-  - US-VA
-  - US-CA
-  - US-KS
-  - US-AK
-  - US-WI
   - US-NV
-  - US-MO
-  - CA-ON
+  - CA-MB
+  - US-IA
   - US-FL
-  - US-GA
-  - MX
-  - US-AZ
+  - US-MO
+  - CA-BC
+  - US-WA
+  - US-VA
+  - US-UT
+  - US-CA
+  - US-MI
+  - US-OH
   - US-NE
+  - US-WI
+  - US-GA
+  - DE
   - CA-SK
+  - US-AK
+  - CA-AB
+  - MX
+  - US-CO
+  - US-KS
+  - US-AZ
+  - CA-ON
   name: BASF Insulation Plants
   owned_by:
     address: 4011 Southeast International Way, Portland, OR 97222
