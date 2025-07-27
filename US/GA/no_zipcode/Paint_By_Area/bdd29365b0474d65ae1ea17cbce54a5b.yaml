@@ -47,7 +47,7 @@ category:
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-07-26T12:18:10.018645Z'
+  updated_on: '2025-07-27T12:46:46.251165Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -145,8 +145,8 @@ industry_standards: []
 is_downloadable: true
 is_failed: false
 jurisdiction:
-- US
 - US-GA
+- US
 language: en
 lowest_plausible_gwp: 0.1525643713 kgCO2e
 manufacturer:
