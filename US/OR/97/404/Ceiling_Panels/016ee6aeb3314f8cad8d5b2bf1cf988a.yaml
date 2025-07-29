@@ -41,7 +41,7 @@ also_shown_in:
   subcategories: []
   template_builders: []
   unspsc: '30161500'
-  updated_on: '2025-07-28T11:43:04.410340Z'
+  updated_on: '2025-07-29T10:44:11.511667Z'
   use_stored_carbon: OPTIONAL
 applicable_in:
 - '001'
@@ -92,7 +92,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30161600'
-  updated_on: '2025-07-28T11:43:03.893763Z'
+  updated_on: '2025-07-29T10:44:11.011158Z'
   use_stored_carbon: ABSENT
 ceiling_panel_core_material: Wood
 confirmable_fields: []

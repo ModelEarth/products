@@ -39,21 +39,21 @@ category:
   openepd: Concrete >> CementGrout
   openepd_name: Concrete >> CementGrout
   parents: []
-  pct10_gwp: 239.7382341 kgCO2e
+  pct10_gwp: 239.7294114 kgCO2e
   pct20_gwp: 270.3598455 kgCO2e
   pct30_gwp: 293.3459053 kgCO2e
   pct40_gwp: 314.1428165 kgCO2e
-  pct50_gwp: 336.0343019 kgCO2e
+  pct50_gwp: 336.1072303 kgCO2e
   pct60_gwp: 363.7683051 kgCO2e
   pct70_gwp: 399.5196098 kgCO2e
   pct80_gwp: 450.9646006 kgCO2e
-  pct90_gwp: 525.5179963 kgCO2e
+  pct90_gwp: 525.5791688 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Cement Grout
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-28T11:42:46.567757Z'
+  updated_on: '2025-07-29T10:43:53.293842Z'
   use_stored_carbon: ABSENT
 cementitious:
   fly_ash: 0.0
@@ -320,7 +320,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec39kz7yt5
   short_name: Concrete
   status: Expired
-  updated_on: '2025-07-28T22:20:05.120803Z'
+  updated_on: '2025-07-29T22:10:04.867665Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 399.5196098 kgCO2e
 plant_geography:
@@ -544,8 +544,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false
