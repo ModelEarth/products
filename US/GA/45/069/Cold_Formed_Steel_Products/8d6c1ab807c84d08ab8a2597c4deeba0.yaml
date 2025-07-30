@@ -37,22 +37,22 @@ category:
   openepd: Steel >> ColdFormedSteel
   openepd_name: Steel >> ColdFormedSteel
   parents: []
-  pct10_gwp: 1629.877983 kgCO2e
-  pct20_gwp: 1951.063814 kgCO2e
-  pct30_gwp: 2200.314314 kgCO2e
-  pct40_gwp: 2491.708656 kgCO2e
-  pct50_gwp: 2802.065435 kgCO2e
-  pct60_gwp: 3149.715003 kgCO2e
+  pct10_gwp: 1627.479928 kgCO2e
+  pct20_gwp: 1950.103329 kgCO2e
+  pct30_gwp: 2199.668167 kgCO2e
+  pct40_gwp: 2483.336101 kgCO2e
+  pct50_gwp: 2793.833558 kgCO2e
+  pct60_gwp: 3135.026493 kgCO2e
   pct70_gwp: 3438.526179 kgCO2e
-  pct80_gwp: 3741.661415 kgCO2e
-  pct90_gwp: 4249.261251 kgCO2e
+  pct80_gwp: 3737.596692 kgCO2e
+  pct90_gwp: 4252.415862 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Cold Formed
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103618'
-  updated_on: '2025-07-29T10:44:07.114301Z'
+  updated_on: '2025-07-30T10:53:10.482446Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []

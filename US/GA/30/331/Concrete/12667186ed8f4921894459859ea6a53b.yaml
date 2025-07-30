@@ -32,22 +32,22 @@ category:
   openepd: Concrete
   openepd_name: Concrete
   parents: []
-  pct10_gwp: 239.0226899 kgCO2e
+  pct10_gwp: 238.9838992 kgCO2e
   pct20_gwp: 278.0218654 kgCO2e
-  pct30_gwp: 306.7572312 kgCO2e
+  pct30_gwp: 306.7493022 kgCO2e
   pct40_gwp: 331.6560048 kgCO2e
-  pct50_gwp: 356.706437 kgCO2e
+  pct50_gwp: 356.6839347 kgCO2e
   pct60_gwp: 384.19557 kgCO2e
-  pct70_gwp: 414.9878894 kgCO2e
-  pct80_gwp: 451.7451358 kgCO2e
-  pct90_gwp: 507.1462941 kgCO2e
+  pct70_gwp: 414.8912848 kgCO2e
+  pct80_gwp: 451.7316088 kgCO2e
+  pct90_gwp: 507.1276586 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Concrete
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30110000'
-  updated_on: '2025-07-29T10:43:52.793457Z'
+  updated_on: '2025-07-30T10:52:55.430151Z'
   use_stored_carbon: ABSENT
 concrete_air_entrain: false
 concrete_co2_entrain: false
@@ -272,7 +272,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3r08uctb
   short_name: Concrete
   status: Expired
-  updated_on: '2025-07-29T22:10:04.939285Z'
+  updated_on: '2025-07-30T22:10:11.294968Z'
   version: 2.3 extension
 pct80_gwp_per_category_declared_unit: 330.6499521 kgCO2e
 plant_geography:
@@ -475,8 +475,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false
