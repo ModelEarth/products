@@ -31,21 +31,21 @@ category:
   openepd: Cladding >> Siding >> SolidWoodSiding
   openepd_name: Cladding >> Siding >> SolidWoodSiding
   parents: []
-  pct10_gwp: 0.3191768099 kgCO2e
-  pct20_gwp: 0.3820166886 kgCO2e
-  pct30_gwp: 0.4448565674 kgCO2e
-  pct40_gwp: 0.5076964461 kgCO2e
-  pct50_gwp: 0.5705363248 kgCO2e
-  pct60_gwp: 0.6333762036 kgCO2e
-  pct70_gwp: 0.6962160823 kgCO2e
-  pct80_gwp: 0.7590559611 kgCO2e
-  pct90_gwp: 0.8218958398 kgCO2e
+  pct10_gwp: 0.2563369311 kgCO2e
+  pct20_gwp: 0.2563369311 kgCO2e
+  pct30_gwp: 0.2563369311 kgCO2e
+  pct40_gwp: 0.2563369311 kgCO2e
+  pct50_gwp: 0.2563369311 kgCO2e
+  pct60_gwp: 0.2563369311 kgCO2e
+  pct70_gwp: 0.2563369311 kgCO2e
+  pct80_gwp: 0.2563369311 kgCO2e
+  pct90_gwp: 0.2563369311 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Solid Wood
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-30T10:53:20.132989Z'
+  updated_on: '2025-07-31T11:19:11.034235Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []

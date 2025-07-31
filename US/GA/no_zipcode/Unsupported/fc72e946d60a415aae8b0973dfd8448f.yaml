@@ -35,21 +35,21 @@ category:
   openepd: OtherMaterials >> Unsupported
   openepd_name: OtherMaterials >> Unsupported
   parents: []
-  pct10_gwp: 0.1231686179 kgCO2e
-  pct20_gwp: 0.4496099998 kgCO2e
-  pct30_gwp: 1.177303992 kgCO2e
-  pct40_gwp: 2.165673762 kgCO2e
-  pct50_gwp: 3.577517849 kgCO2e
-  pct60_gwp: 6.647625691 kgCO2e
-  pct70_gwp: 16.36325555 kgCO2e
-  pct80_gwp: 43.77332797 kgCO2e
-  pct90_gwp: 155.7191867 kgCO2e
+  pct10_gwp: 0.122934665 kgCO2e
+  pct20_gwp: 0.4492118065 kgCO2e
+  pct30_gwp: 1.173425855 kgCO2e
+  pct40_gwp: 2.16517602 kgCO2e
+  pct50_gwp: 3.58373962 kgCO2e
+  pct60_gwp: 6.674362869 kgCO2e
+  pct70_gwp: 16.54990866 kgCO2e
+  pct80_gwp: 44.29900363 kgCO2e
+  pct90_gwp: 156.0330212 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Unsupported
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-07-30T10:53:23.236533Z'
+  updated_on: '2025-07-31T11:19:14.061329Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -375,8 +375,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

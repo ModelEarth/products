@@ -27,7 +27,7 @@ category:
   id: ce2498926db44d0d9177c7bfdf3520c0
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 491.7 kg
+  mass_per_declared_unit: 466.7 kg
   massless: false
   masterformat: 06 11 00 Wood Framing
   may_contain_trusted_vendor_declarations: false
@@ -37,22 +37,22 @@ category:
   openepd: Wood >> DimensionLumber >> WoodFraming
   openepd_name: Wood >> DimensionLumber >> WoodFraming
   parents: []
-  pct10_gwp: 44.83515075 kgCO2e
-  pct20_gwp: 55.90424635 kgCO2e
-  pct30_gwp: 66.91708426 kgCO2e
-  pct40_gwp: 80.03421836 kgCO2e
+  pct10_gwp: 45.22503101 kgCO2e
+  pct20_gwp: 56.93818497 kgCO2e
+  pct30_gwp: 68.48283884 kgCO2e
+  pct40_gwp: 80.09542913 kgCO2e
   pct50_gwp: 90.9641968 kgCO2e
-  pct60_gwp: 101.7942441 kgCO2e
-  pct70_gwp: 114.8166516 kgCO2e
-  pct80_gwp: 134.6202071 kgCO2e
-  pct90_gwp: 157.089992 kgCO2e
+  pct60_gwp: 101.9749726 kgCO2e
+  pct70_gwp: 115.705244 kgCO2e
+  pct80_gwp: 135.3705298 kgCO2e
+  pct90_gwp: 158.099112 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Wood Framing
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103603'
-  updated_on: '2025-07-30T10:53:15.543457Z'
+  updated_on: '2025-07-31T11:19:06.506187Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -430,8 +430,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

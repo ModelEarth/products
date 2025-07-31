@@ -24,7 +24,7 @@ category:
   id: 47413201bd134c84a5d342c85d0a086b
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 12 kg
+  mass_per_declared_unit: 12.35 kg
   massless: false
   masterformat: 07 46 00 Siding
   may_contain_trusted_vendor_declarations: false
@@ -37,19 +37,19 @@ category:
   pct10_gwp: 3.883977757 kgCO2e
   pct20_gwp: 4.708368409 kgCO2e
   pct30_gwp: 5.463069246 kgCO2e
-  pct40_gwp: 6.261284801 kgCO2e
-  pct50_gwp: 7.304358183 kgCO2e
-  pct60_gwp: 8.603717145 kgCO2e
-  pct70_gwp: 10.52445512 kgCO2e
+  pct40_gwp: 6.278658547 kgCO2e
+  pct50_gwp: 7.366575885 kgCO2e
+  pct60_gwp: 8.635817 kgCO2e
+  pct70_gwp: 10.70508763 kgCO2e
   pct80_gwp: 13.07720602 kgCO2e
-  pct90_gwp: 22.28915208 kgCO2e
+  pct90_gwp: 22.39837262 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Siding
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30151802'
-  updated_on: '2025-07-30T10:53:20.005452Z'
+  updated_on: '2025-07-31T11:19:10.880013Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
