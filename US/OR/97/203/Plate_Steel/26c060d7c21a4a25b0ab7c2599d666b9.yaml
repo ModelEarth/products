@@ -41,18 +41,18 @@ category:
   pct20_gwp: 1283.777992 kgCO2e
   pct30_gwp: 1459.461797 kgCO2e
   pct40_gwp: 1607.925612 kgCO2e
-  pct50_gwp: 1821.457604 kgCO2e
-  pct60_gwp: 2046.592267 kgCO2e
-  pct70_gwp: 2270.660538 kgCO2e
-  pct80_gwp: 2644.029758 kgCO2e
-  pct90_gwp: 3427.866696 kgCO2e
+  pct50_gwp: 1784.652861 kgCO2e
+  pct60_gwp: 2015.872128 kgCO2e
+  pct70_gwp: 2258.867499 kgCO2e
+  pct80_gwp: 2563.295039 kgCO2e
+  pct90_gwp: 3415.996438 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Plate
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30102204'
-  updated_on: '2025-05-28T10:04:49.978683Z'
+  updated_on: '2025-07-31T11:19:01.364314Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []

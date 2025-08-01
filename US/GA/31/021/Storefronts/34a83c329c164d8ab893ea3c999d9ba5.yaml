@@ -26,7 +26,7 @@ category:
   id: ac1ff28e392a48cf9547cf83f1742787
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 36.1 kg
+  mass_per_declared_unit: 21.505 kg
   massless: false
   masterformat: 08 43 00 Storefronts
   may_contain_trusted_vendor_declarations: false
@@ -36,22 +36,22 @@ category:
   openepd: Openings >> Storefronts
   openepd_name: Openings >> Storefronts
   parents: []
-  pct10_gwp: 173.2691151 kgCO2e
-  pct20_gwp: 175.0351525 kgCO2e
-  pct30_gwp: 176.8011898 kgCO2e
-  pct40_gwp: 178.5672272 kgCO2e
-  pct50_gwp: 180.3332645 kgCO2e
-  pct60_gwp: 182.0993019 kgCO2e
-  pct70_gwp: 183.8653392 kgCO2e
-  pct80_gwp: 185.6313765 kgCO2e
-  pct90_gwp: 187.3974139 kgCO2e
+  pct10_gwp: 43.53893457 kgCO2e
+  pct20_gwp: 75.52997038 kgCO2e
+  pct30_gwp: 107.5210062 kgCO2e
+  pct40_gwp: 139.512042 kgCO2e
+  pct50_gwp: 171.5030778 kgCO2e
+  pct60_gwp: 175.0351525 kgCO2e
+  pct70_gwp: 178.5672272 kgCO2e
+  pct80_gwp: 182.0993019 kgCO2e
+  pct90_gwp: 185.6313765 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Storefronts
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30171613'
-  updated_on: '2025-05-28T10:05:01.726185Z'
+  updated_on: '2025-07-31T11:19:12.705763Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []

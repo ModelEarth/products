@@ -36,22 +36,22 @@ category:
   openepd: Steel >> RebarSteel
   openepd_name: Steel >> RebarSteel
   parents: []
-  pct10_gwp: 474.150121 kgCO2e
-  pct20_gwp: 579.7433936 kgCO2e
-  pct30_gwp: 724.1226825 kgCO2e
-  pct40_gwp: 786.181664 kgCO2e
-  pct50_gwp: 837.7862255 kgCO2e
-  pct60_gwp: 923.3045456 kgCO2e
-  pct70_gwp: 1032.596975 kgCO2e
-  pct80_gwp: 1479.747522 kgCO2e
-  pct90_gwp: 2747.909129 kgCO2e
+  pct10_gwp: 475.870824 kgCO2e
+  pct20_gwp: 655.1732634 kgCO2e
+  pct30_gwp: 751.1695251 kgCO2e
+  pct40_gwp: 816.7934738 kgCO2e
+  pct50_gwp: 885.3119463 kgCO2e
+  pct60_gwp: 943.9252258 kgCO2e
+  pct70_gwp: 1105.097639 kgCO2e
+  pct80_gwp: 1781.346959 kgCO2e
+  pct90_gwp: 2920.203055 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Rebar
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103623'
-  updated_on: '2025-05-28T10:04:49.295537Z'
+  updated_on: '2025-07-31T11:19:00.694233Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []

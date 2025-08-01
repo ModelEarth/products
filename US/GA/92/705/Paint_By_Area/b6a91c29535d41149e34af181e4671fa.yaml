@@ -24,7 +24,7 @@ category:
   id: 39f098d4c80648cbb524169224288ad5
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 0.115 kg
+  mass_per_declared_unit: 0.1141666667 kg
   massless: false
   masterformat: 09 90 00 Painting and Coating
   may_contain_trusted_vendor_declarations: false
@@ -34,20 +34,20 @@ category:
   openepd: Finishes >> PaintingAndCoating >> PaintByArea
   openepd_name: Finishes >> PaintingAndCoating >> PaintByArea
   parents: []
-  pct10_gwp: 0.1787545081 kgCO2e
-  pct20_gwp: 0.2411426112 kgCO2e
-  pct30_gwp: 0.2730091908 kgCO2e
-  pct40_gwp: 0.3061110925 kgCO2e
-  pct50_gwp: 0.3436867234 kgCO2e
-  pct60_gwp: 0.3928025845 kgCO2e
-  pct70_gwp: 0.526131744 kgCO2e
-  pct80_gwp: 0.7882982809 kgCO2e
-  pct90_gwp: 1.598451884 kgCO2e
+  pct10_gwp: 0.1786523817 kgCO2e
+  pct20_gwp: 0.2361166168 kgCO2e
+  pct30_gwp: 0.2692688767 kgCO2e
+  pct40_gwp: 0.3049426583 kgCO2e
+  pct50_gwp: 0.3409364837 kgCO2e
+  pct60_gwp: 0.3867191532 kgCO2e
+  pct70_gwp: 0.505207738 kgCO2e
+  pct80_gwp: 0.7625262679 kgCO2e
+  pct90_gwp: 1.576555436 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-05-28T10:04:54.206506Z'
+  updated_on: '2025-07-31T11:19:05.695315Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -60,13 +60,11 @@ date_validity_ends: '2029-08-12'
 declaration_type: Product EPD
 declared_unit: 6 m2
 density: 1200 kg / m3
-description: "BEHR\xAE Multi-Surface Stain-Blocking Primer & Sealer blocks medium\
-  \ to heavy stains and has excellent adhesion to multiple substrates. It offers corrosion\
-  \ and rust resistant properties to ferrous and non-ferrous metals. This product\
-  \ also provides a high-hide, mildew-resistant primer film with quick recoat time\
-  \ and can be applied to masonry surfaces with a pH level up to 13. BEHR\xAE Multi-Surface\
-  \ Primer is GREENGUARD\xAE GOLD certified and MPI approved offering a primer that\
-  \ meets or exceeds environmental and performance requirements."
+description: "BEHR\xAE Multi-Surface Interior/Exterior Stain-Blocking Primer & Sealer\
+  \ blocks medium to heavy stains and has excellent adhesion to multiple substrates.\
+  \ It offers corrosion and rust resistant properties to ferrous and non-ferrous metals.\
+  \ This product also provides a high-hide, mildew-resistant primer film with quick\
+  \ recoat time and can be applied to masonry surfaces with a pH level up to 13."
 developer:
   email: servicequality@sphera.com
   name: Sphera
@@ -150,7 +148,7 @@ gwp_per_category_declared_unit: 0.2616666667 kgCO2e
 gwp_per_kg: 1.967418546 kgCO2e
 gwp_z: 0.28879058156387305
 id: 8ff1183331cc4aa28519985ffce93afb
-image: https://static.buildingtransparency.org/images/7d27aa750e1941f78585f48e777075e6.png
+image: https://static.buildingtransparency.org/images/3ab14342291c49eaab9b2dddef918a3f.png
 impacts: {}
 industry_standards: []
 is_downloadable: true
@@ -252,7 +250,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2025-05-13T16:25:56.686361Z'
+  updated_on: '2025-07-22T02:01:26.877132Z'
   web_domain: behr.com
   website: https://www.behr.com/pro
 manufacturer_specific: true
@@ -261,7 +259,7 @@ matched_plants_count: 1
 material_id: b6a91c29535d41149e34af181e4671fa
 multiproduct: false
 my_capabilities: 1
-name: BEHR 436
+name: "BEHR\xAE Multi-Surface Interior/Exterior Stain-Blocking Primer & Sealer"
 not_an_epd: false
 open_xpd_uuid: ec3q8wg4
 original_data_format: pdf_mixed
@@ -304,12 +302,12 @@ pcr:
   version: '3'
 pct80_gwp_per_category_declared_unit: 0.3252637435 kgCO2e
 plant_geography:
-- US-IL
+- US-PA
 - US-CA
+- US-GA
+- US-IL
 - US-TX
 - US
-- US-GA
-- US-PA
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -414,13 +412,13 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2025-05-13T16:25:56.686361Z'
+    updated_on: '2025-07-22T02:01:26.877132Z'
     web_domain: behr.com
     website: https://www.behr.com/pro
   plants_count: 5
-  total_epds: 75
+  total_epds: 74
   type: PlantGroup
-  updated_on: '2025-05-07T17:50:17.959834Z'
+  updated_on: '2025-06-03T22:00:03.290529Z'
 plant_specific: false
 private: false
 product_classes: {}
@@ -484,8 +482,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -519,7 +517,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 1.951582461 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-05-01T22:55:06.429468Z'
+updated_on: '2025-06-03T21:16:06.613356Z'
 use_stored_carbon: false
 verifier:
   email: cooper.mccollum@ul.com
@@ -583,8 +581,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -608,6 +606,7 @@ verifier:
 warnings:
   impacts:
   - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   language:

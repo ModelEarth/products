@@ -1,0 +1,562 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: true
+best_practice: 3.818680765 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '1928056249476'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.911898445 kgCO2e
+  pct20_gwp: 6.875667177 kgCO2e
+  pct30_gwp: 7.955495382 kgCO2e
+  pct40_gwp: 9.481977743 kgCO2e
+  pct50_gwp: 10.93880615 kgCO2e
+  pct60_gwp: 12.71636215 kgCO2e
+  pct70_gwp: 14.90412338 kgCO2e
+  pct80_gwp: 17.34049384 kgCO2e
+  pct90_gwp: 20.2616523 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-07-31T11:19:04.347990Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 6.270919235 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-07-17T20:17:06.906487Z'
+date_of_issue: '2021-10-01'
+date_validity_ends: '2026-10-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "Modular carpet tiles manufactured in Troup County, Georgia, USA with\
+  \ GlasBac\xAE backing made from recycled nylon yarn. Products range in yarn weight\
+  \ from 407 to 1424 grams per square meter, with a medium yarn weight of 678 grams\
+  \ per square meter. The carpet is designed for commercial flooring applications\
+  \ with severe wear conditions."
+developer:
+  email: chip.degrace@interface.com
+  name: Chip DeGrace
+  org:
+    address: 1503 Orchard Hill Road, Lagrange, GA 30240
+    address_line: 1503 Orchard Hill Road
+    admin_district: GA
+    admin_district2: Troup
+    alt_names:
+    - Interface Americas
+    - Interface Inc.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/interface
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-11T21:06:09.445943Z'
+    email_extensions:
+    - interface.com
+    - inzide.co.nz
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/76a9c061c824499bbd43f4766602452b.png
+    id: 159e5adbf6fc40d5a10fdeced59115b8
+    image: https://static.buildingtransparency.org/images/e05e54fca91d46d08194b99135f887cc.png
+    is_failed: false
+    latitude: 33.002754
+    legal_name: Interface
+    locality: Lagrange
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.004377,-85.053995
+        southWest: 33.001974,-85.055784
+      buildingNumber: '1503'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Troup
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Lagrange
+      extendedPostalCode: '302405770'
+      freeformAddress: 1503 Orchard Hill Road, Lagrange, GA 30240
+      municipality: Lagrange
+      municipalitySubdivision: Lagrange
+      postalCode: '30240'
+      routeNumbers: []
+      street: Orchard Hill Road
+      streetName: Orchard Hill Road
+      streetNameAndNumber: 1503 Orchard Hill Road
+      streetNumber: '1503'
+    longitude: -85.054565
+    name: Interface, Inc.
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/159e5adbf6fc40d5a10fdeced59115b8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30240'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2025-07-22T01:49:35.297576Z'
+    web_domain: interface.com
+    website: www.interface.com
+doc: buildingtransparency.org/e/ec364fthx5
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: EPD Interface.pdf
+gwp: 5.0448 kgCO2e
+gwp_per_category_declared_unit: 5.0448 kgCO2e
+gwp_per_kg: 1.5765 kgCO2e
+gwp_z: 0.28879058156387305
+id: cf7c70a34e1c414f969642d6fd118813
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 3.818680765 kgCO2e
+manufacturer:
+  address: 1503 Orchard Hill Road, Lagrange, GA 30240
+  address_line: 1503 Orchard Hill Road
+  admin_district: GA
+  admin_district2: Troup
+  alt_names:
+  - Interface Americas
+  - Interface Inc.
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/interface
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-11T21:06:09.445943Z'
+  email_extensions:
+  - interface.com
+  - inzide.co.nz
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/76a9c061c824499bbd43f4766602452b.png
+  id: 159e5adbf6fc40d5a10fdeced59115b8
+  image: https://static.buildingtransparency.org/images/e05e54fca91d46d08194b99135f887cc.png
+  is_failed: false
+  latitude: 33.002754
+  legal_name: Interface
+  locality: Lagrange
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.004377,-85.053995
+      southWest: 33.001974,-85.055784
+    buildingNumber: '1503'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Troup
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Lagrange
+    extendedPostalCode: '302405770'
+    freeformAddress: 1503 Orchard Hill Road, Lagrange, GA 30240
+    municipality: Lagrange
+    municipalitySubdivision: Lagrange
+    postalCode: '30240'
+    routeNumbers: []
+    street: Orchard Hill Road
+    streetName: Orchard Hill Road
+    streetNameAndNumber: 1503 Orchard Hill Road
+    streetNumber: '1503'
+  longitude: -85.054565
+  name: Interface, Inc.
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/159e5adbf6fc40d5a10fdeced59115b8
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30240'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2025-07-22T01:49:35.297576Z'
+  web_domain: interface.com
+  website: www.interface.com
+manufacturer_specific: true
+mass_per_declared_unit: 3.2 kg
+matched_plants_count: 0
+material_id: db1d005aca234f139f9e36c5375587e6
+multiproduct: false
+my_capabilities: 1
+name: "GlasBac\xAE Modular Carpet on Nylon"
+not_an_epd: false
+open_xpd_uuid: ec364fth
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec364fth
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 6.270919235 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 1503 Orchard Hill Road, Lagrange, GA 30240
+  address_line: 1503 Orchard Hill Road
+  admin_district: GA
+  admin_district2: Troup
+  alt_names: []
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-04-23T00:26:30.455395Z'
+  id: 83c5c78eeb474688be4de3b2150576ee
+  is_failed: false
+  latitude: 33.002754
+  locality: Lagrange
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.004377,-85.053995
+      southWest: 33.001974,-85.055784
+    buildingNumber: '1503'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Troup
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Lagrange
+    extendedPostalCode: '302405770'
+    freeformAddress: 1503 Orchard Hill Road, Lagrange, GA 30240
+    municipality: Lagrange
+    municipalitySubdivision: Lagrange
+    postalCode: '30240'
+    routeNumbers: []
+    street: Orchard Hill Road
+    streetName: Orchard Hill Road
+    streetNameAndNumber: 1503 Orchard Hill Road
+    streetNumber: '1503'
+  longitude: -85.054565
+  name: Troup County
+  openepd_id: 865P2W3W+45.interface.com
+  owned_by:
+    address: 1503 Orchard Hill Road, Lagrange, GA 30240
+    address_line: 1503 Orchard Hill Road
+    admin_district: GA
+    admin_district2: Troup
+    alt_names:
+    - Interface Americas
+    - Interface Inc.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/interface
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-11T21:06:09.445943Z'
+    email_extensions:
+    - interface.com
+    - inzide.co.nz
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/76a9c061c824499bbd43f4766602452b.png
+    id: 159e5adbf6fc40d5a10fdeced59115b8
+    image: https://static.buildingtransparency.org/images/e05e54fca91d46d08194b99135f887cc.png
+    is_failed: false
+    latitude: 33.002754
+    legal_name: Interface
+    locality: Lagrange
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.004377,-85.053995
+        southWest: 33.001974,-85.055784
+      buildingNumber: '1503'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Troup
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Lagrange
+      extendedPostalCode: '302405770'
+      freeformAddress: 1503 Orchard Hill Road, Lagrange, GA 30240
+      municipality: Lagrange
+      municipalitySubdivision: Lagrange
+      postalCode: '30240'
+      routeNumbers: []
+      street: Orchard Hill Road
+      streetName: Orchard Hill Road
+      streetNameAndNumber: 1503 Orchard Hill Road
+      streetNumber: '1503'
+    longitude: -85.054565
+    name: Interface, Inc.
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/159e5adbf6fc40d5a10fdeced59115b8
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30240'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2025-07-22T01:49:35.297576Z'
+    web_domain: interface.com
+    website: www.interface.com
+  postal_code: '30240'
+  total_epds: 184
+  type: Plant
+  units: SI
+  updated_on: '2025-07-19T00:01:50.012225Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4789956802.105.1
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec364fthx5
+standard_deviation: 1.456890726 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 6.270919235 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-07-18T23:57:53.514988Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified

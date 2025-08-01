@@ -34,22 +34,22 @@ category:
   openepd: Steel >> RebarSteel
   openepd_name: Steel >> RebarSteel
   parents: []
-  pct10_gwp: 474.150121 kgCO2e
-  pct20_gwp: 579.7433936 kgCO2e
-  pct30_gwp: 724.1226825 kgCO2e
-  pct40_gwp: 786.181664 kgCO2e
-  pct50_gwp: 837.7862255 kgCO2e
-  pct60_gwp: 923.3045456 kgCO2e
-  pct70_gwp: 1032.596975 kgCO2e
-  pct80_gwp: 1479.747522 kgCO2e
-  pct90_gwp: 2747.909129 kgCO2e
+  pct10_gwp: 475.870824 kgCO2e
+  pct20_gwp: 655.1732634 kgCO2e
+  pct30_gwp: 751.1695251 kgCO2e
+  pct40_gwp: 816.7934738 kgCO2e
+  pct50_gwp: 885.3119463 kgCO2e
+  pct60_gwp: 943.9252258 kgCO2e
+  pct70_gwp: 1105.097639 kgCO2e
+  pct80_gwp: 1781.346959 kgCO2e
+  pct90_gwp: 2920.203055 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Rebar
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103623'
-  updated_on: '2025-05-28T10:04:49.295537Z'
+  updated_on: '2025-07-31T11:19:00.694233Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -136,8 +136,8 @@ developer:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -182,15 +182,16 @@ jurisdiction:
 language: en
 lowest_plausible_gwp: 1652.685926 kgCO2e
 manufacturer:
-  address: Woodstock Mead, Basingstoke, RG22 4YW
-  address_line: ' Woodstock Mead'
-  admin_district: ENG
-  admin_district2: Hampshire
+  address: 3200 Oregon 99W, McMinnville, OR 97128
+  address_line: 3200 Oregon 99W, Northeast Highway 99W, State Highway 99W, Oregon
+    State Highway 99W
+  admin_district: OR
+  admin_district2: Yamhill
   alt_names:
   - Cascade Steel Rolling Mills, Inc.
   confirmable_fields: []
   confirmed_fields: []
-  country: GB
+  country: US
   cqd_sync_unlocked: true
   created_on: '2019-07-18T15:02:30.213708Z'
   email_extensions:
@@ -199,27 +200,31 @@ manufacturer:
   enterprise: true
   id: 21357e3b2139409b958407a7ca5d845a
   is_failed: false
-  latitude: 51.23288
-  locality: Basingstoke
+  latitude: 45.23049
+  locality: McMinnville
   location:
-    country: United Kingdom
-    countryCode: GB
-    countryCodeISO3: GBR
-    countrySecondarySubdivision: Hampshire
-    countrySubdivision: ENG
-    countrySubdivisionName: England
-    extendedPostalCode: RG22 4YW
-    freeformAddress: Woodstock Mead, Basingstoke, RG22 4YW
-    municipality: Basingstoke
-    municipalitySubdivision: Basingstoke
-    postalCode: RG22
-    streetName: Woodstock Mead
-  longitude: -1.1325
+    country: United States Of America
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Yamhill
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    countryTertiarySubdivision: McMinnville
+    extendedPostalCode: 971289330,971289399
+    freeformAddress: 3200 Oregon 99W, McMinnville, OR 97128
+    municipality: McMinnville
+    municipalitySubdivision: McMinnville
+    postalCode: '97128'
+    streetName: Oregon 99W, Northeast Highway 99W, State Highway 99W, Oregon State
+      Highway 99W
+    streetNumber: '3200'
+  longitude: -123.16547
   name: Cascade Steel Rolling Mills, Inc.
+  org_type: Public
   original_ec3_link: https://buildingtransparency.org/ec3/organizations/21357e3b2139409b958407a7ca5d845a
   password_login_allowed: true
   pilot_all_employees: false
-  postal_code: RG22
+  postal_code: '97128'
   primary_activity_builder: false
   primary_activity_design: false
   primary_activity_digitization_qa: false
@@ -236,9 +241,9 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2024-04-16T20:53:49.640499Z'
+  updated_on: '2025-06-03T17:40:52.201109Z'
   web_domain: schn.com
-  website: schn.com
+  website: cascadesteel.com
 manufacturer_specific: true
 mass_per_declared_unit: 1000 kg
 matched_plants_count: 0
@@ -342,15 +347,16 @@ plant_or_group:
   name: McMinnville, OR
   openepd_id: 84QR6RJM+5R.schn.com
   owned_by:
-    address: Woodstock Mead, Basingstoke, RG22 4YW
-    address_line: ' Woodstock Mead'
-    admin_district: ENG
-    admin_district2: Hampshire
+    address: 3200 Oregon 99W, McMinnville, OR 97128
+    address_line: 3200 Oregon 99W, Northeast Highway 99W, State Highway 99W, Oregon
+      State Highway 99W
+    admin_district: OR
+    admin_district2: Yamhill
     alt_names:
     - Cascade Steel Rolling Mills, Inc.
     confirmable_fields: []
     confirmed_fields: []
-    country: GB
+    country: US
     cqd_sync_unlocked: true
     created_on: '2019-07-18T15:02:30.213708Z'
     email_extensions:
@@ -359,27 +365,31 @@ plant_or_group:
     enterprise: true
     id: 21357e3b2139409b958407a7ca5d845a
     is_failed: false
-    latitude: 51.23288
-    locality: Basingstoke
+    latitude: 45.23049
+    locality: McMinnville
     location:
-      country: United Kingdom
-      countryCode: GB
-      countryCodeISO3: GBR
-      countrySecondarySubdivision: Hampshire
-      countrySubdivision: ENG
-      countrySubdivisionName: England
-      extendedPostalCode: RG22 4YW
-      freeformAddress: Woodstock Mead, Basingstoke, RG22 4YW
-      municipality: Basingstoke
-      municipalitySubdivision: Basingstoke
-      postalCode: RG22
-      streetName: Woodstock Mead
-    longitude: -1.1325
+      country: United States Of America
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Yamhill
+      countrySubdivision: OR
+      countrySubdivisionName: Oregon
+      countryTertiarySubdivision: McMinnville
+      extendedPostalCode: 971289330,971289399
+      freeformAddress: 3200 Oregon 99W, McMinnville, OR 97128
+      municipality: McMinnville
+      municipalitySubdivision: McMinnville
+      postalCode: '97128'
+      streetName: Oregon 99W, Northeast Highway 99W, State Highway 99W, Oregon State
+        Highway 99W
+      streetNumber: '3200'
+    longitude: -123.16547
     name: Cascade Steel Rolling Mills, Inc.
+    org_type: Public
     original_ec3_link: https://buildingtransparency.org/ec3/organizations/21357e3b2139409b958407a7ca5d845a
     password_login_allowed: true
     pilot_all_employees: false
-    postal_code: RG22
+    postal_code: '97128'
     primary_activity_builder: false
     primary_activity_design: false
     primary_activity_digitization_qa: false
@@ -396,9 +406,9 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2024-04-16T20:53:49.640499Z'
+    updated_on: '2025-06-03T17:40:52.201109Z'
     web_domain: schn.com
-    website: schn.com
+    website: cascadesteel.com
   postal_code: '97128'
   total_epds: 5
   type: Plant
@@ -467,8 +477,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

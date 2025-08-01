@@ -38,20 +38,20 @@ category:
   openepd: Steel >> ColdFormedSteel >> ColdFormedFraming
   openepd_name: Steel >> ColdFormedSteel >> ColdFormedFraming
   parents: []
-  pct10_gwp: 1839.821171 kgCO2e
-  pct20_gwp: 2054.366395 kgCO2e
-  pct30_gwp: 2150.808395 kgCO2e
-  pct40_gwp: 2431.93498 kgCO2e
-  pct50_gwp: 2637.563679 kgCO2e
-  pct60_gwp: 2838.342297 kgCO2e
-  pct70_gwp: 2924.550601 kgCO2e
-  pct80_gwp: 3113.963388 kgCO2e
-  pct90_gwp: 3324.695784 kgCO2e
+  pct10_gwp: 1828.846361 kgCO2e
+  pct20_gwp: 1953.967781 kgCO2e
+  pct30_gwp: 2128.106227 kgCO2e
+  pct40_gwp: 2227.922182 kgCO2e
+  pct50_gwp: 2448.682402 kgCO2e
+  pct60_gwp: 2637.563679 kgCO2e
+  pct70_gwp: 2842.600875 kgCO2e
+  pct80_gwp: 2987.679768 kgCO2e
+  pct90_gwp: 3126.348449 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Framing
   short_service_life_disclaimer: false
   subcategories: []
-  updated_on: '2025-05-28T10:04:50.290438Z'
+  updated_on: '2025-07-31T11:19:01.649124Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
@@ -467,8 +467,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -567,8 +567,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false

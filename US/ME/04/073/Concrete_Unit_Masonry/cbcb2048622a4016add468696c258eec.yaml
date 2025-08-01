@@ -48,7 +48,7 @@ category:
   subcategories: []
   template_builders: []
   unspsc: '30131502'
-  updated_on: '2025-05-28T10:04:45.780935Z'
+  updated_on: '2025-07-31T11:18:57.283183Z'
   use_stored_carbon: ABSENT
 cmu_insulated: false
 cmu_weight_classification: Normal
@@ -85,6 +85,7 @@ developer:
     email_extensions:
     - climateearth.com
     enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/d2ab7c4a1a184c3d8f524a095e0fc6d1.png
     id: 5d43c53212c848d9861a81a4bbd626b2
     image: https://static.buildingtransparency.org/images/7ce922a6-8120-420c-9ca9-cd4ff793d90e
     is_failed: false
@@ -128,7 +129,7 @@ developer:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: true
     primary_activity_verifier: true
-    updated_on: '2023-10-06T13:31:13.719486Z'
+    updated_on: '2025-07-22T02:02:02.312901Z'
     web_domain: climateearth.com
     website: https://climateearth.com/
 doc: buildingtransparency.org/e/ec36sccr49
@@ -471,8 +472,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

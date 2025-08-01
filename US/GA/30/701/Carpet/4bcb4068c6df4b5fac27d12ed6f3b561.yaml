@@ -35,22 +35,22 @@ category:
   openepd: Finishes >> Flooring >> Carpet
   openepd_name: Finishes >> Flooring >> Carpet
   parents: []
-  pct10_gwp: 5.226286945 kgCO2e
-  pct20_gwp: 6.31150987 kgCO2e
-  pct30_gwp: 7.193005662 kgCO2e
-  pct40_gwp: 8.328409228 kgCO2e
-  pct50_gwp: 10.05624338 kgCO2e
-  pct60_gwp: 11.73431683 kgCO2e
-  pct70_gwp: 13.92024591 kgCO2e
-  pct80_gwp: 16.33810585 kgCO2e
-  pct90_gwp: 20.03417486 kgCO2e
+  pct10_gwp: 5.911898445 kgCO2e
+  pct20_gwp: 6.875667177 kgCO2e
+  pct30_gwp: 7.955495382 kgCO2e
+  pct40_gwp: 9.481977743 kgCO2e
+  pct50_gwp: 10.93880615 kgCO2e
+  pct60_gwp: 12.71636215 kgCO2e
+  pct70_gwp: 14.90412338 kgCO2e
+  pct80_gwp: 17.34049384 kgCO2e
+  pct90_gwp: 20.2616523 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Carpet
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-05-28T10:04:52.814347Z'
+  updated_on: '2025-07-31T11:19:04.347990Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -63,10 +63,10 @@ date_validity_ends: '2028-02-01'
 declaration_type: Product EPD
 declared_unit: 1 m2
 description: "OnGuard is a revolutionary moisture barriet that enhances Mohawk Group\u2019\
-  s Unibond Plus backing system with an integrated later that prevents moisture from\
-  \ getting beneath the carpet backing. This advanced moisture barrier passess both\
-  \ the British Spill Test and the 10,000 impact test. Unibond Plus OnGuard is the\
-  \ ideal solution for areas requiring high performance flooring prone to frequent\
+  s Unibond\xAE Plus backing system with an integrated later that prevents moisture\
+  \ from getting beneath the carpet backing. This advanced moisture barrier passess\
+  \ both the British Spill Test and the 10,000 impact test. Unibond Plus OnGuard is\
+  \ the ideal solution for areas requiring high performance flooring prone to frequent\
   \ spills and areas with existing high\nmoisture subfloor concerns. As of 2022, all\
   \ Mohawk Group flooring products will be carbon neutral plus an additional 5%. Unibond\
   \ Plus OnGuard meets Mohawk Group\u2019s commitment to Beyond Carbon Neutral. This\
@@ -259,7 +259,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2023-05-31T14:57:28.179179Z'
+  updated_on: '2025-07-01T18:12:05.045031Z'
   web_domain: mohawkind.com
   website: www.mohawkind.com
 manufacturer_specific: true
@@ -268,7 +268,7 @@ matched_plants_count: 0
 material_id: 4bcb4068c6df4b5fac27d12ed6f3b561
 multiproduct: false
 my_capabilities: 1
-name: Tufted Nylon Carpet on Unibond Plus OnGuard
+name: "Tufted Nylon on Unibond\xAE Plus OnGuard"
 not_an_epd: false
 open_xpd_uuid: ec3gf2nw
 original_data_format: pdf_mixed
@@ -457,17 +457,21 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2023-05-31T14:57:28.179179Z'
+    updated_on: '2025-07-01T18:12:05.045031Z'
     web_domain: mohawkind.com
     website: www.mohawkind.com
   postal_code: '30701'
-  total_epds: 44
+  total_epds: 32
   type: Plant
   units: SI
-  updated_on: '2024-12-04T18:47:00.682345Z'
+  updated_on: '2025-07-10T20:00:04.181197Z'
 plant_specific: false
 private: false
-product_classes: {}
+product_classes:
+  UNSPSC:
+  - '30161701'
+  masterformat:
+  - 09 68 00
 product_specific: true
 program_operator:
   address: 2211 New Market Parkway Southeast, Marietta, GA 30067
@@ -551,6 +555,7 @@ program_operator:
   web_domain: ul.com
   website: https://www.ul.com/
 program_operator_fkey: 4790644072.108.1
+reference_service_life: 15 years
 requires_ocr: false
 resource_uses: {}
 sanitizable: true
@@ -561,7 +566,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 21.75330769 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2024-08-29T16:14:43.168832Z'
+updated_on: '2025-07-11T18:54:17.069978Z'
 use_stored_carbon: false
 verifier:
   email: tgloria@industrial-ecology.com
@@ -648,5 +653,5 @@ warnings:
   - EP-TERRESTRIAL impact not specified
   - B2_years are empty
   - B4_years are empty
-yarn_type: Olefin
-yarn_weight: 28 oz / yd2
+yarn_type: Nylon 6
+yarn_weight: 950 g / m2

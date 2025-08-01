@@ -1,0 +1,390 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: true
+best_practice: 5.012548372 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '1927991618301'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2024-07-22T09:01:11Z'
+  declared_unit: 1 m
+  description: Tubing used to protect and route electrical wiring in a building or
+    structure
+  display_name: Electrical Conduit
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: d85e5bb386ba42f7bce0b32f61fbaed0
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 2.445 kg
+  massless: false
+  masterformat: 26 05 33.13 Electrical Conduit
+  may_contain_trusted_vendor_declarations: false
+  name: ElectricalConduit
+  no_statistics: false
+  obsolete: false
+  openepd: Electrical >> ElectricalConduit
+  openepd_name: Electrical >> ElectricalConduit
+  parents: []
+  pct10_gwp: 1.578668615 kgCO2e
+  pct20_gwp: 2.445351579 kgCO2e
+  pct30_gwp: 7.583105125 kgCO2e
+  pct40_gwp: 8.281173474 kgCO2e
+  pct50_gwp: 8.96394342 kgCO2e
+  pct60_gwp: 9.901633703 kgCO2e
+  pct70_gwp: 11.13259871 kgCO2e
+  pct80_gwp: 23.68757737 kgCO2e
+  pct90_gwp: 110.7554123 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Conduit
+  short_service_life_disclaimer: false
+  subcategories: []
+  updated_on: '2025-07-31T11:19:15.099164Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 8.231451628 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-07-17T18:56:23.512178Z'
+date_of_issue: '2024-05-14'
+date_validity_ends: '2029-05-14'
+declaration_type: Product EPD
+declared_unit: 1 m
+description: PVC Schedule 40 and Schedule 80 Rigid Conduit is non-corrosive, and non-conductive.
+  It conforms to UL 651, excluding 8", and NEMA TC 2, making it suitable for above-ground
+  and underground applications. This product is manufactured as conduit and elbows.
+developer:
+  email: matt.neiman@truenorthcollective.net
+  name: Matthew Neiman
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2023-05-25T22:03:37.529351Z'
+    enterprise: false
+    id: 4a04a7e4f49c4f4d9a222a2cbcca1671
+    is_failed: false
+    name: TrueNorth Collective
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4a04a7e4f49c4f4d9a222a2cbcca1671
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    updated_on: '2024-04-08T18:51:01.440454Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: truenorthcollective.net
+    website: https://www.truenorthcollective.net/
+doc: buildingtransparency.org/e/ec322j545q
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: Solid Wall PVC Conduit of Trade Sizes Greater Than or Equal to 2in EPD.pdf
+gwp: 6.622 kgCO2e
+gwp_per_category_declared_unit: 6.622 kgCO2e
+gwp_per_kg: 1.93625731 kgCO2e
+gwp_z: 0.28879058156387305
+id: 60eab6917d50427f805d838fe2a8b9de
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 5.012548372 kgCO2e
+manufacturer:
+  alt_names:
+  - Atkore
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-03-19T19:29:57.150363Z'
+  enterprise: false
+  id: 4eace29d70d84b30bde08d51c6424c88
+  is_failed: false
+  name: Atkore
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/4eace29d70d84b30bde08d51c6424c88
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-05-09T16:54:26.250965Z'
+  warnings:
+    address:
+    - Not specified
+  web_domain: atkore.com
+  website: atkore.com
+manufacturer_specific: true
+mass_per_declared_unit: 3.42 kg
+matched_plants_count: 0
+material_id: 7fa0d2c67a2b4386ac195c4051620952
+multiproduct: false
+my_capabilities: 1
+name: Solid Wall PVC Conduit of Trade Sizes Greater Than or Equal to 2"
+not_an_epd: false
+open_xpd_uuid: ec322j54
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec322j54
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Conduit and Conduit Accessories
+  - Electrical and Telecommunications Conduit
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-01-31T16:31:32.060978Z'
+  date_of_issue: '2024-01-31'
+  date_validity_ends: '2029-01-31'
+  declared_units:
+  - 1 meter
+  doc: '#broken-link cqd.io/p/ec3nrxfx7e'
+  id: c94b3a766d5e445c91b80160bf760cb4
+  is_failed: false
+  name: Part B PCR for Electrical and Telecommunications Conduit
+  open_xpd_uuid: ec3nrxfx
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3nrxfx
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3nrxfx7e
+  short_name: Conduit and Conduit Accessories
+  updated_on: '2025-07-09T14:59:51.633959Z'
+  version: '1'
+pct80_gwp_per_category_declared_unit: 8.231451628 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 1206 Sunset Dr, Thomasville, GA 31792, USA
+  address_line: 1206 Sunset Dr
+  admin_district: GA
+  admin_district2: Thomas County
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2024-05-03T16:14:49.111903Z'
+  id: 87a137a6e11d4482b557d59e86d538b1
+  is_failed: false
+  latitude: 30.8229896
+  locality: Thomasville
+  location:
+  - long_name: '1206'
+    short_name: '1206'
+    types:
+    - street_number
+  - long_name: Sunset Drive
+    short_name: Sunset Dr
+    types:
+    - route
+  - long_name: Thomasville
+    short_name: Thomasville
+    types:
+    - locality
+    - political
+  - long_name: Thomas County
+    short_name: Thomas County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '31792'
+    short_name: '31792'
+    types:
+    - postal_code
+  - long_name: '6355'
+    short_name: '6355'
+    types:
+    - postal_code_suffix
+  longitude: -83.9984806
+  name: Atkore, Thomasville
+  openepd_id: 862RR2F2+5J.atkore.com
+  owned_by:
+    alt_names:
+    - Atkore
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2024-03-19T19:29:57.150363Z'
+    enterprise: false
+    id: 4eace29d70d84b30bde08d51c6424c88
+    is_failed: false
+    name: Atkore
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/4eace29d70d84b30bde08d51c6424c88
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-05-09T16:54:26.250965Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: atkore.com
+    website: atkore.com
+  postal_code: '31792'
+  total_epds: 2
+  type: Plant
+  units: USA
+  updated_on: '2025-07-19T12:28:01.393840Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: Herndon, VA 20170, USA
+  admin_district: VA
+  admin_district2: Fairfax County
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-11-14T14:43:39.418085Z'
+  enterprise: false
+  horizontal_logo: https://static.buildingtransparency.org/images/dccbe440b77946aba8946288b12c5701.png
+  id: bf9d0aaa64de490bbd874ae435e9945e
+  image: https://static.buildingtransparency.org/images/2b6cf66bb7ea4c8d8e7dbd674b0f8d29.png
+  is_failed: false
+  latitude: 38.9695545
+  locality: Herndon
+  location:
+  - long_name: Herndon
+    short_name: Herndon
+    types:
+    - locality
+    - political
+  - long_name: Fairfax County
+    short_name: Fairfax County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Virginia
+    short_name: VA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '20170'
+    short_name: '20170'
+    types:
+    - postal_code
+  longitude: -77.3860976
+  name: Smart EPD LLC
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/bf9d0aaa64de490bbd874ae435e9945e
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20170'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2025-01-22T21:59:42.873726Z'
+  web_domain: smartepd.com
+  website: www.smartepd.com
+program_operator_fkey: SmartEPD-2024-021-0124-01.1
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec322j545q
+standard_deviation: 1.912371231 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 8.231451628 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-07-19T00:01:55.722077Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

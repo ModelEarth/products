@@ -24,7 +24,7 @@ category:
   id: 39f098d4c80648cbb524169224288ad5
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 0.115 kg
+  mass_per_declared_unit: 0.1141666667 kg
   massless: false
   masterformat: 09 90 00 Painting and Coating
   may_contain_trusted_vendor_declarations: false
@@ -34,20 +34,20 @@ category:
   openepd: Finishes >> PaintingAndCoating >> PaintByArea
   openepd_name: Finishes >> PaintingAndCoating >> PaintByArea
   parents: []
-  pct10_gwp: 0.1787545081 kgCO2e
-  pct20_gwp: 0.2411426112 kgCO2e
-  pct30_gwp: 0.2730091908 kgCO2e
-  pct40_gwp: 0.3061110925 kgCO2e
-  pct50_gwp: 0.3436867234 kgCO2e
-  pct60_gwp: 0.3928025845 kgCO2e
-  pct70_gwp: 0.526131744 kgCO2e
-  pct80_gwp: 0.7882982809 kgCO2e
-  pct90_gwp: 1.598451884 kgCO2e
+  pct10_gwp: 0.1786523817 kgCO2e
+  pct20_gwp: 0.2361166168 kgCO2e
+  pct30_gwp: 0.2692688767 kgCO2e
+  pct40_gwp: 0.3049426583 kgCO2e
+  pct50_gwp: 0.3409364837 kgCO2e
+  pct60_gwp: 0.3867191532 kgCO2e
+  pct70_gwp: 0.505207738 kgCO2e
+  pct80_gwp: 0.7625262679 kgCO2e
+  pct90_gwp: 1.576555436 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-05-28T10:04:54.206506Z'
+  updated_on: '2025-07-31T11:19:05.695315Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -59,10 +59,14 @@ date_of_issue: '2024-11-11'
 date_validity_ends: '2029-11-11'
 declaration_type: Product EPD
 declared_unit: 12 m2
-description: "BEHR PREMIUM DRYPLUS\xAE Basement & Masonry Waterproofer is a premium\
-  \ interior/exterior paint designed for waterproofing porous above or below grade\
-  \ concrete and masonry surfaces. It is designed to form a strong waterproof barrier\
-  \ to stop water infiltration while providing a smooth, decorative finish."
+description: "BEHR DRYPLUS MASONRY WATERPROOFER with NanoGuard\xAE technology, is\
+  \ a premium, interior/exterior waterproofing paint designed for porous concrete\
+  \ and masonry surfaces. This low odor paint is formulated for waterproofing above\
+  \ and below grade basement walls, masonry walls, retaining walls, cinder & concrete\
+  \ block, stucco and brick. This alkali resistant coating, uses NanoGuard\xAE technology\
+  \ to form an extremely strong waterproof barrier to stop water infiltration. Test\
+  \ results include Resistance to Hydrostatic Pressure ASTM D7088/ 12 Psi and Water\
+  \ Vapor Permeability ASTM E-96/D-1653 <1 US PERMS."
 developer:
   email: maggie@wapsustainability.com
   name: Maggie Wildnauer
@@ -167,7 +171,7 @@ gwp_per_category_declared_unit: 0.5825 kgCO2e
 gwp_per_kg: 1.25 kgCO2e
 gwp_z: 0.28879058156387305
 id: be199c69b4aa4a2cb6fcb0864135ed5b
-image: https://static.buildingtransparency.org/images/76087a15933c4f37acdabf12b3404dc5.png
+image: https://static.buildingtransparency.org/images/e7bdcc0ccb20405fa06788cdb703f011.png
 impacts: {}
 industry_standards: []
 is_downloadable: true
@@ -269,7 +273,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2025-05-13T16:25:56.686361Z'
+  updated_on: '2025-07-22T02:01:26.877132Z'
   web_domain: behr.com
   website: https://www.behr.com/pro
 manufacturer_specific: true
@@ -278,7 +282,7 @@ matched_plants_count: 1
 material_id: 5ade2fb5d3364142980ddd3bda8d3a56
 multiproduct: true
 my_capabilities: 1
-name: BEHR 875
+name: "BEHR PREMIUM DRYPLUS\xAE Basement & Masonry Waterproofer"
 not_an_epd: false
 open_xpd_uuid: ec31nwgs
 original_data_format: pdf_mixed
@@ -321,11 +325,11 @@ pcr:
   version: '3'
 pct80_gwp_per_category_declared_unit: 0.7240743844 kgCO2e
 plant_geography:
-- US-CA
 - US-GA
+- US-CA
 - US-IL
-- US-TX
 - US
+- US-TX
 - US-PA
 plant_or_group:
   categories: []
@@ -431,13 +435,13 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2025-05-13T16:25:56.686361Z'
+    updated_on: '2025-07-22T02:01:26.877132Z'
     web_domain: behr.com
     website: https://www.behr.com/pro
   plants_count: 5
-  total_epds: 75
+  total_epds: 74
   type: PlantGroup
-  updated_on: '2025-05-07T17:50:17.959834Z'
+  updated_on: '2025-06-03T22:00:03.290529Z'
 plant_specific: false
 private: false
 product_classes: {}
@@ -536,7 +540,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 8.688892613 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-05-01T22:55:55.574867Z'
+updated_on: '2025-06-03T21:18:44.839847Z'
 use_stored_carbon: false
 verifier:
   email: cooper.mccollum@ul.com
@@ -627,6 +631,7 @@ warnings:
   - Not specified
   impacts:
   - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   language:

@@ -34,22 +34,22 @@ category:
   openepd: CastDecksAndUnderlayment
   openepd_name: CastDecksAndUnderlayment
   parents: []
-  pct10_gwp: 107.9996288 kgCO2e
-  pct20_gwp: 164.2753368 kgCO2e
-  pct30_gwp: 186.3519088 kgCO2e
-  pct40_gwp: 236.9429759 kgCO2e
-  pct50_gwp: 328.690908 kgCO2e
-  pct60_gwp: 455.2927501 kgCO2e
-  pct70_gwp: 683.984536 kgCO2e
-  pct80_gwp: 1062.55274 kgCO2e
-  pct90_gwp: 1484.092363 kgCO2e
+  pct10_gwp: 126.0023889 kgCO2e
+  pct20_gwp: 169.6022821 kgCO2e
+  pct30_gwp: 200.4885056 kgCO2e
+  pct40_gwp: 292.7508666 kgCO2e
+  pct50_gwp: 382.7701541 kgCO2e
+  pct60_gwp: 493.067329 kgCO2e
+  pct70_gwp: 673.8748787 kgCO2e
+  pct80_gwp: 981.9973259 kgCO2e
+  pct90_gwp: 1424.197821 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Cast Decks and Underlayment
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30130000'
-  updated_on: '2025-05-28T10:04:46.722495Z'
+  updated_on: '2025-07-31T11:18:58.178360Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -275,7 +275,7 @@ pcr:
   product_classes: {}
   short_link: buildingtransparency.org/p/ec36f35rk0
   short_name: Portland, Blended, Masonry, Mortar, and Plastic (Stucco) Cements
-  updated_on: '2022-09-30T14:45:26.297915Z'
+  updated_on: '2025-05-30T23:36:15.971730Z'
   version: '3.2'
 pct80_gwp_per_category_declared_unit: 202.9584386 kgCO2e
 plant_geography:
@@ -440,8 +440,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false
@@ -546,8 +546,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '19428'
     primary_activity_builder: false
     primary_activity_design: false

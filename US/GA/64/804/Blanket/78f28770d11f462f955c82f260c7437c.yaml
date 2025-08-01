@@ -33,22 +33,22 @@ category:
   openepd: ThermalMoistureProtection >> Insulation >> BlanketInsulation
   openepd_name: ThermalMoistureProtection >> Insulation >> BlanketInsulation
   parents: []
-  pct10_gwp: 1.001082821 kgCO2e
-  pct20_gwp: 1.336528407 kgCO2e
-  pct30_gwp: 1.597270375 kgCO2e
+  pct10_gwp: 0.977085515 kgCO2e
+  pct20_gwp: 1.318047934 kgCO2e
+  pct30_gwp: 1.592773164 kgCO2e
   pct40_gwp: 1.986303851 kgCO2e
-  pct50_gwp: 2.504225973 kgCO2e
-  pct60_gwp: 3.129296385 kgCO2e
-  pct70_gwp: 3.79777691 kgCO2e
-  pct80_gwp: 4.765875952 kgCO2e
-  pct90_gwp: 6.094585031 kgCO2e
+  pct50_gwp: 2.501151609 kgCO2e
+  pct60_gwp: 3.141645532 kgCO2e
+  pct70_gwp: 3.762926601 kgCO2e
+  pct80_gwp: 4.745966288 kgCO2e
+  pct90_gwp: 6.097330806 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Blanket
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-05-28T10:04:57.430795Z'
+  updated_on: '2025-07-31T11:19:08.773271Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -228,16 +228,16 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-05-29T06:50:14.070703Z'
+  updated_on: '2025-07-31T21:50:07.196177Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 1.581993791 kgCO2e
 plant_geography:
-- US-NY
-- CA-ON
 - CA-AB
 - US-CA
-- US-GA
 - US-KS
+- US-NY
+- US-GA
+- CA-ON
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -247,12 +247,12 @@ plant_or_group:
   id: c4a5a05fa04247cf87231635e7eb022b
   is_failed: false
   jurisdiction:
-  - US-NY
-  - CA-ON
   - CA-AB
   - US-CA
   - US-GA
+  - US-NY
   - US-KS
+  - CA-ON
   name: Kansas City, Edmonton, Santa Clara, Delmar, Fairburn, Toronto
   owned_by:
     address: Toledo, OH, USA
@@ -388,8 +388,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

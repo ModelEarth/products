@@ -44,22 +44,22 @@ category:
   openepd: Asphalt
   openepd_name: Asphalt
   parents: []
-  pct10_gwp: 0.05501709069 kgCO2e
-  pct20_gwp: 0.06010155842 kgCO2e
-  pct30_gwp: 0.06424811463 kgCO2e
-  pct40_gwp: 0.06814550136 kgCO2e
-  pct50_gwp: 0.07178901729 kgCO2e
-  pct60_gwp: 0.07567935206 kgCO2e
-  pct70_gwp: 0.07964725845 kgCO2e
-  pct80_gwp: 0.08518070137 kgCO2e
-  pct90_gwp: 0.09583857315 kgCO2e
+  pct10_gwp: 0.05476909654 kgCO2e
+  pct20_gwp: 0.05982418108 kgCO2e
+  pct30_gwp: 0.06403185433 kgCO2e
+  pct40_gwp: 0.06791043581 kgCO2e
+  pct50_gwp: 0.07156570503 kgCO2e
+  pct60_gwp: 0.07547954634 kgCO2e
+  pct70_gwp: 0.07946390732 kgCO2e
+  pct80_gwp: 0.08493858386 kgCO2e
+  pct90_gwp: 0.0953273056 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Asphalt
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30121601'
-  updated_on: '2025-05-28T10:05:01.060290Z'
+  updated_on: '2025-07-31T11:19:12.105429Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -419,6 +419,9 @@ program_operator:
   admin_district2: Prince George's
   alt_names:
   - NAPA
+  - Asphalt EPD
+  - Emerald Ecolabel
+  - Emerald Eco-label
   confirmable_fields: []
   confirmed_fields: []
   country: US
@@ -426,6 +429,7 @@ program_operator:
   created_on: '2018-09-10T23:11:11.739481Z'
   email_extensions:
   - asphaltpavement.org
+  - asphaltepd.org
   enterprise: true
   id: 136904d07bd94f9f959bfae24e24c56a
   image: https://static.buildingtransparency.org/images/fbdd34b1-8146-4d80-8bc9-0e578a03f018.png
@@ -481,7 +485,7 @@ program_operator:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2024-07-24T16:59:03.222714Z'
+  updated_on: '2025-07-03T13:56:29.001838Z'
   web_domain: asphaltpavement.org
   website: asphaltpavement.org
 program_operator_fkey: 71.612.2107

@@ -17,7 +17,7 @@ also_shown_in:
   id: 6495a039f98f42bdbec921121d48dbc4
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 483.4 kg
+  mass_per_declared_unit: 514.7 kg
   massless: false
   masterformat: 06 10 00 Rough Carpentry
   may_contain_trusted_vendor_declarations: false
@@ -27,22 +27,22 @@ also_shown_in:
   openepd: Wood >> PrefabricatedWood
   openepd_name: Wood >> PrefabricatedWood
   parents: []
-  pct10_gwp: -1307.01645 kgCO2e
-  pct20_gwp: -1157.540758 kgCO2e
-  pct30_gwp: -988.5088755 kgCO2e
-  pct40_gwp: -781.7525667 kgCO2e
-  pct50_gwp: 70.715286 kgCO2e
-  pct60_gwp: 86.21233172 kgCO2e
-  pct70_gwp: 99.51727492 kgCO2e
-  pct80_gwp: 116.6080728 kgCO2e
-  pct90_gwp: 139.3556057 kgCO2e
+  pct10_gwp: -1208.973696 kgCO2e
+  pct20_gwp: -928.4473668 kgCO2e
+  pct30_gwp: 73.67601283 kgCO2e
+  pct40_gwp: 87.15568696 kgCO2e
+  pct50_gwp: 99.85762856 kgCO2e
+  pct60_gwp: 111.2001068 kgCO2e
+  pct70_gwp: 122.9615545 kgCO2e
+  pct80_gwp: 137.3747079 kgCO2e
+  pct90_gwp: 161.345335 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Prefabricated Wood Products
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103603'
-  updated_on: '2025-05-28T10:04:55.782830Z'
+  updated_on: '2025-07-31T11:19:07.206875Z'
   use_stored_carbon: ABSENT
 applicable_in:
 - '001'
@@ -72,7 +72,7 @@ category:
   id: ef49fef3f7c240e18d6f32dfd9583bfc
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 505 kg
+  mass_per_declared_unit: 506 kg
   massless: false
   masterformat: 06 18 00 Glued-Laminated Construction
   may_contain_trusted_vendor_declarations: false
@@ -82,22 +82,22 @@ category:
   openepd: Wood >> MassTimber
   openepd_name: Wood >> MassTimber
   parents: []
-  pct10_gwp: -781.3579162 kgCO2e
-  pct20_gwp: -1.42827866 kgCO2e
-  pct30_gwp: 46.56372797 kgCO2e
-  pct40_gwp: 82.93240829 kgCO2e
-  pct50_gwp: 97.9320677 kgCO2e
-  pct60_gwp: 112.6999915 kgCO2e
-  pct70_gwp: 133.6388477 kgCO2e
-  pct80_gwp: 159.4127924 kgCO2e
-  pct90_gwp: 222.6223712 kgCO2e
+  pct10_gwp: 77.57328273 kgCO2e
+  pct20_gwp: 86.63723231 kgCO2e
+  pct30_gwp: 97.9320677 kgCO2e
+  pct40_gwp: 109.4736767 kgCO2e
+  pct50_gwp: 117.3935908 kgCO2e
+  pct60_gwp: 141.2955217 kgCO2e
+  pct70_gwp: 159.8445703 kgCO2e
+  pct80_gwp: 203.6445814 kgCO2e
+  pct90_gwp: 314.8215707 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Mass Timber
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103602'
-  updated_on: '2025-05-28T10:04:55.447951Z'
+  updated_on: '2025-07-31T11:19:06.885445Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -485,8 +485,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

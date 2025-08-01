@@ -33,22 +33,22 @@ category:
   openepd: Concrete >> ReadyMix
   openepd_name: Concrete >> ReadyMix
   parents: []
-  pct10_gwp: 247.0938768 kgCO2e
+  pct10_gwp: 247.0757717 kgCO2e
   pct20_gwp: 283.1051597 kgCO2e
   pct30_gwp: 310.1602194 kgCO2e
   pct40_gwp: 334.9397277 kgCO2e
   pct50_gwp: 359.2861844 kgCO2e
-  pct60_gwp: 386.7038044 kgCO2e
-  pct70_gwp: 417.0105043 kgCO2e
-  pct80_gwp: 452.8101353 kgCO2e
-  pct90_gwp: 507.6548147 kgCO2e
+  pct60_gwp: 386.5269387 kgCO2e
+  pct70_gwp: 416.9366897 kgCO2e
+  pct80_gwp: 452.4514127 kgCO2e
+  pct90_gwp: 506.9446711 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Ready Mix
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30111505'
-  updated_on: '2025-05-28T10:04:44.646497Z'
+  updated_on: '2025-07-31T11:18:56.131585Z'
   use_stored_carbon: ABSENT
 concrete_aggregate_size_max: 0.375 in
 concrete_air_entrain: false
@@ -88,6 +88,7 @@ developer:
     email_extensions:
     - climateearth.com
     enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/d2ab7c4a1a184c3d8f524a095e0fc6d1.png
     id: 5d43c53212c848d9861a81a4bbd626b2
     image: https://static.buildingtransparency.org/images/7ce922a6-8120-420c-9ca9-cd4ff793d90e
     is_failed: false
@@ -131,7 +132,7 @@ developer:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: true
     primary_activity_verifier: true
-    updated_on: '2023-10-06T13:31:13.719486Z'
+    updated_on: '2025-07-22T02:02:02.312901Z'
     web_domain: climateearth.com
     website: https://climateearth.com/
 doc: buildingtransparency.org/e/ec34h5r179
@@ -254,10 +255,15 @@ pcr:
   is_failed: false
   issuer_doc_id: NSF 1112-19
   lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
     TRACI 2.1:
       impacts: []
       jurisdiction:
-      - '001'
+      - '021'
       order: 1
   name: NSF PCR for Concrete
   open_xpd_uuid: ec3r08uc
@@ -268,7 +274,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3r08uctb
   short_name: Concrete
   status: Expired
-  updated_on: '2025-05-29T06:50:13.540914Z'
+  updated_on: '2025-07-31T22:30:05.813996Z'
   version: 2.3 extension
 pct80_gwp_per_category_declared_unit: 311.9536679 kgCO2e
 plant_geography:

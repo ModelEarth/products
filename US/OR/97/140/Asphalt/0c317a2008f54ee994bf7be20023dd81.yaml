@@ -1,0 +1,692 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+asphalt_aggregate_size_max: 0.0005 m
+asphalt_gradation: Dense-graded
+asphalt_gtr: false
+asphalt_max_temperature: "64 \xB0C"
+asphalt_min_temperature: "22 \xB0C"
+asphalt_mix_type: HMA
+asphalt_pmb: false
+asphalt_ppa: false
+asphalt_rap: 0.3
+asphalt_sbr: false
+asphalt_sbs: false
+attachments:
+  EmeraldEcolabel: https://asphaltepd.org/epd/d/XZUGmX/
+best_practice: 54.33765636 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '1879595745052'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-09-06T13:53:31.880547Z'
+  declared_unit: 1 kg
+  default_distance: 51.49888 km
+  default_transport_mode: truck, single unit
+  description: General category for asphalt mixtures
+  display_name: Asphalt
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: aa61ba9aeb2a4566942554362bb496d3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1 kg
+  massless: false
+  masterformat: 32 12 16 Asphalt Paving
+  may_contain_trusted_vendor_declarations: false
+  name: Asphalt
+  no_statistics: false
+  obsolete: false
+  openepd: Asphalt
+  openepd_name: Asphalt
+  parents: []
+  pct10_gwp: 0.05476909654 kgCO2e
+  pct20_gwp: 0.05982418108 kgCO2e
+  pct30_gwp: 0.06403185433 kgCO2e
+  pct40_gwp: 0.06791043581 kgCO2e
+  pct50_gwp: 0.07156570503 kgCO2e
+  pct60_gwp: 0.07547954634 kgCO2e
+  pct70_gwp: 0.07946390732 kgCO2e
+  pct80_gwp: 0.08493858386 kgCO2e
+  pct90_gwp: 0.0953273056 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Asphalt
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30121601'
+  updated_on: '2025-07-31T11:19:12.105429Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 77.44234364 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-06-01T04:59:41.858910Z'
+date_of_issue: '2025-05-28'
+date_validity_ends: '2027-03-31'
+declaration_type: Product EPD
+declared_unit: 1 metric ton
+density: 2400 kg / m^3
+description: This EPD reports the potential environmental impacts and additional environmental
+  information for an asphalt mixture, which falls under the United Nations Standard
+  Products and Services Code 30111509. Asphalt mixtures are typically incorporated
+  as part of the structure of a roadway, parking lot, driveway, airfield, bike lane,
+  pedestrian path, railroad track bed, or recreational surface.
+developer:
+  email: info@metsims.com
+  name: Metsims Sustainability Consulting Contact
+  org:
+    address: 1701 Market St, Chattanooga, TN 37408, USA
+    address_line: 1701 Market St
+    admin_district: TN
+    admin_district2: Hamilton County
+    alt_names:
+    - WAP Sustainability
+    - WAP Sustainability Consulting
+    - WAP Sustainability Consulting, LLC
+    - WAP
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T23:21:23.959215Z'
+    email_extensions:
+    - wapsustainability.com
+    enterprise: true
+    id: 71cc546eb3344c14a234277a116000ef
+    image: https://static.buildingtransparency.org/images/b2e07d9f-a649-49fa-9078-aa10a579a9c3.png
+    is_failed: false
+    latitude: 35.0343565
+    legal_name: WAP Sustainability Consulting
+    locality: Chattanooga
+    location:
+    - long_name: '1701'
+      short_name: '1701'
+      types:
+      - street_number
+    - long_name: Market Street
+      short_name: Market St
+      types:
+      - route
+    - long_name: Southside Historic District
+      short_name: Southside Historic District
+      types:
+      - neighborhood
+      - political
+    - long_name: Chattanooga
+      short_name: Chattanooga
+      types:
+      - locality
+      - political
+    - long_name: Hamilton County
+      short_name: Hamilton County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Tennessee
+      short_name: TN
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '37408'
+      short_name: '37408'
+      types:
+      - postal_code
+    - long_name: '1813'
+      short_name: '1813'
+      types:
+      - postal_code_suffix
+    longitude: -85.3085122
+    name: WAP Sustainability
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/71cc546eb3344c14a234277a116000ef
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '37408'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2023-04-25T13:50:23.442342Z'
+    web_domain: wapsustainability.com
+    website: http://www.wapsustainability.com/
+doc: https://asphaltepd.org/epd/d/XZUGmX/
+document_version: '67'
+excluded: false
+externally_verified: true
+file_name: OR52D3000_948749a6e15e07569316d4a4f928c341699d99b2.html
+gwp: 65.89 kgCO2e
+gwp_per_category_declared_unit: 0.06589 kgCO2e
+gwp_per_kg: 0.06589 kgCO2e
+gwp_z: 0.2083266665599966
+id: 051a7be4119f4a46ac615b0384447635
+impacts: {}
+is_downloadable: false
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 54.33765636 kgCO2e
+manufacturer:
+  address: 12222 Northwest Marina Way, Portland, OR 97231
+  address_line: 12222 Northwest Marina Way
+  admin_district: OR
+  admin_district2: Multnomah
+  alt_names:
+  - Jefferson State Redi-Mix Inc.
+  - Knife River - Mountain Region
+  - Bracelin-Yeager, Inc
+  - Knife River
+  - D'Agostino Companies
+  - Quality Concrete & Materials Company
+  - Gesell Concrete Products Co.
+  - Medford Ready-Mix Concrete
+  - Bremix Concrete Co.
+  - Knife River Midwest LLC
+  - Knife River - Central Minnesota
+  - Knife River - Central Texas
+  - Knife River - Southern Oregon Region
+  - Knife River - North Central Region
+  - Knife River - Northwest Region
+  - Knife River Construction
+  - Umpqua  River Navigation Co.
+  - Knife River - Oregon
+  - Knife River - South Region
+  - Knife River Materials
+  - Knife River - East Texas Division
+  - Knife River - Northern California Region
+  - Knife River Spokane Division
+  - Knife River Billings Division
+  - Knife River an MDU Resources Company
+  - Central Oregon Redi-Mix
+  - Knife River - Midwest Division
+  - Knife River Western Oregon Division
+  - Knife River - Belgrade Division
+  - "Knife River Corporation \u2013 Northwest"
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/knife-river
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-11-14T01:30:54.236511Z'
+  email_extensions:
+  - kniferiver.com
+  enterprise: true
+  id: 6d1ca7fe26c04bfbaa179c47af5f4fc6
+  image: https://static.buildingtransparency.org/images/ca000004-0172-4e23-8019-ef94f8c3df7b.png
+  is_failed: false
+  latitude: 45.611126
+  legal_name: Knife River Corporation
+  locality: Portland
+  location:
+    boundingBox:
+      entity: position
+      northEast: 45.611246,-122.795576
+      southWest: 45.610437,-122.795813
+    buildingNumber: '12222'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Multnomah
+    countrySubdivision: OR
+    countrySubdivisionName: Oregon
+    countryTertiarySubdivision: Portland West
+    freeformAddress: 12222 Northwest Marina Way, Portland, OR 97231
+    municipality: Portland
+    municipalitySubdivision: Portland, Linnton
+    postalCode: '97231'
+    routeNumbers: []
+    street: Northwest Marina Way
+    streetName: Northwest Marina Way
+    streetNameAndNumber: 12222 Northwest Marina Way
+    streetNumber: '12222'
+  longitude: -122.795578
+  name: Knife River Corporation
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/6d1ca7fe26c04bfbaa179c47af5f4fc6
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '97231'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2025-02-21T15:50:27.118796Z'
+  web_domain: kniferiver.com
+  website: http://www.kniferiver.com/
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 0
+material_id: 0c317a2008f54ee994bf7be20023dd81
+multiproduct: false
+my_capabilities: 1
+name: OR52D3000
+not_an_epd: false
+open_xpd_uuid: ec3dq78c
+original_data_format: web
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3dq78c
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Product Category Rules for Asphalt Mixtures
+  - Product Category Rules (PCR) for Asphalt Mixtures, version 2.0
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-05-06T20:26:10.862766Z'
+  date_of_issue: '2022-04-01'
+  date_validity_ends: '2027-04-01'
+  declared_units:
+  - 1 tonne
+  doc: '#broken-link cqd.io/p/ec3paun0yg'
+  id: 03f6ce8b701a473fb6a9040098379ae5
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 1
+  name: NAPA PCR For Asphalt Mixtures
+  open_xpd_uuid: ec3paun0
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3paun0
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3paun0yg
+  short_name: Asphalt Mixtures
+  status: Published
+  updated_on: '2024-05-10T13:32:40.191558Z'
+  version: '2.0'
+pct80_gwp_per_category_declared_unit: 0.07744234364 kgCO2e
+plant_geography:
+- US-OR
+plant_or_group:
+  address: 12000 SW Tonquin Rd, Sherwood, OR 97140, USA
+  address_line: 12000 SW Tonquin Rd
+  admin_district: OR
+  admin_district2: Washington County
+  carbon_intensity: 643.363 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2025-06-01T04:59:12.550195Z'
+  id: 8ccd236bf3234ca093f96b35334a78d2
+  is_failed: false
+  latitude: 45.3469303
+  locality: Sherwood
+  location:
+  - long_name: '12000'
+    short_name: '12000'
+    types:
+    - street_number
+  - long_name: Southwest Tonquin Road
+    short_name: SW Tonquin Rd
+    types:
+    - route
+  - long_name: Sherwood - Tualatin South
+    short_name: Sherwood - Tualatin South
+    types:
+    - neighborhood
+    - political
+  - long_name: Sherwood
+    short_name: Sherwood
+    types:
+    - locality
+    - political
+  - long_name: Washington County
+    short_name: Washington County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Oregon
+    short_name: OR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '97140'
+    short_name: '97140'
+    types:
+    - postal_code
+  - long_name: '8341'
+    short_name: '8341'
+    types:
+    - postal_code_suffix
+  longitude: -122.7986107
+  name: Sherwood, OR
+  openepd_id: 84QV86W2+QH.kniferiver.com
+  owned_by:
+    address: 12222 Northwest Marina Way, Portland, OR 97231
+    address_line: 12222 Northwest Marina Way
+    admin_district: OR
+    admin_district2: Multnomah
+    alt_names:
+    - Jefferson State Redi-Mix Inc.
+    - Knife River - Mountain Region
+    - Bracelin-Yeager, Inc
+    - Knife River
+    - D'Agostino Companies
+    - Quality Concrete & Materials Company
+    - Gesell Concrete Products Co.
+    - Medford Ready-Mix Concrete
+    - Bremix Concrete Co.
+    - Knife River Midwest LLC
+    - Knife River - Central Minnesota
+    - Knife River - Central Texas
+    - Knife River - Southern Oregon Region
+    - Knife River - North Central Region
+    - Knife River - Northwest Region
+    - Knife River Construction
+    - Umpqua  River Navigation Co.
+    - Knife River - Oregon
+    - Knife River - South Region
+    - Knife River Materials
+    - Knife River - East Texas Division
+    - Knife River - Northern California Region
+    - Knife River Spokane Division
+    - Knife River Billings Division
+    - Knife River an MDU Resources Company
+    - Central Oregon Redi-Mix
+    - Knife River - Midwest Division
+    - Knife River Western Oregon Division
+    - Knife River - Belgrade Division
+    - "Knife River Corporation \u2013 Northwest"
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/knife-river
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-11-14T01:30:54.236511Z'
+    email_extensions:
+    - kniferiver.com
+    enterprise: true
+    id: 6d1ca7fe26c04bfbaa179c47af5f4fc6
+    image: https://static.buildingtransparency.org/images/ca000004-0172-4e23-8019-ef94f8c3df7b.png
+    is_failed: false
+    latitude: 45.611126
+    legal_name: Knife River Corporation
+    locality: Portland
+    location:
+      boundingBox:
+        entity: position
+        northEast: 45.611246,-122.795576
+        southWest: 45.610437,-122.795813
+      buildingNumber: '12222'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Multnomah
+      countrySubdivision: OR
+      countrySubdivisionName: Oregon
+      countryTertiarySubdivision: Portland West
+      freeformAddress: 12222 Northwest Marina Way, Portland, OR 97231
+      municipality: Portland
+      municipalitySubdivision: Portland, Linnton
+      postalCode: '97231'
+      routeNumbers: []
+      street: Northwest Marina Way
+      streetName: Northwest Marina Way
+      streetNameAndNumber: 12222 Northwest Marina Way
+      streetNumber: '12222'
+    longitude: -122.795578
+    name: Knife River Corporation
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/6d1ca7fe26c04bfbaa179c47af5f4fc6
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '97231'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2025-02-21T15:50:27.118796Z'
+    web_domain: kniferiver.com
+    website: http://www.kniferiver.com/
+  postal_code: '97140'
+  total_epds: 3
+  type: Plant
+  updated_on: '2025-06-01T10:04:02.262489Z'
+plant_specific: true
+private: false
+product_specific: true
+program_operator:
+  address: 5100 Forbes Boulevard, Lanham, MD 20706
+  address_line: 5100 Forbes Boulevard
+  admin_district: MD
+  admin_district2: Prince George's
+  alt_names:
+  - NAPA
+  - Asphalt EPD
+  - Emerald Ecolabel
+  - Emerald Eco-label
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-10T23:11:11.739481Z'
+  email_extensions:
+  - asphaltpavement.org
+  - asphaltepd.org
+  enterprise: true
+  id: 136904d07bd94f9f959bfae24e24c56a
+  image: https://static.buildingtransparency.org/images/fbdd34b1-8146-4d80-8bc9-0e578a03f018.png
+  is_failed: false
+  latitude: 38.960571
+  legal_name: National Asphalt Pavement Association
+  locality: Lanham
+  location:
+    boundingBox:
+      entity: position
+      northEast: 38.961196,-76.833920
+      southWest: 38.959630,-76.835144
+    buildingNumber: '5100'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Prince George's
+    countrySubdivision: MD
+    countrySubdivisionName: Maryland
+    countryTertiarySubdivision: District 20 Lanham
+    extendedPostalCode: '207064407'
+    freeformAddress: 5100 Forbes Boulevard, Lanham, MD 20706
+    municipality: Lanham
+    municipalitySubdivision: Lanham
+    postalCode: '20706'
+    routeNumbers: []
+    street: Forbes Boulevard
+    streetName: Forbes Boulevard
+    streetNameAndNumber: 5100 Forbes Boulevard
+    streetNumber: '5100'
+  longitude: -76.834511
+  name: National Asphalt Pavement Association
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/136904d07bd94f9f959bfae24e24c56a
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '20706'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: true
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2025-07-03T13:56:29.001838Z'
+  web_domain: asphaltpavement.org
+  website: asphaltpavement.org
+program_operator_fkey: 176.124.240
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3dq78cxz
+standard_deviation: 13.72664406 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 77.44234364 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-06-01T11:33:41Z'
+use_stored_carbon: false
+verifier:
+  email: user_b0d20728c03a469dbb212eb2d4d147fd@cqd.io
+  name: Trisha Montalbo
+  org:
+    address: 148 S Dowlen Rd, Beaumont, TX 77707, USA
+    address_line: 148 S Dowlen Rd
+    admin_district: TX
+    admin_district2: Jefferson County
+    alt_names:
+    - John Beath Environmental, LLC
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2022-04-10T22:35:50.139920Z'
+    enterprise: false
+    id: 07b66822fcc94816acfa5e8d91c44e83
+    image: https://static.buildingtransparency.org/images/38233aa183314a02a637d2c9eb9529bb.png
+    is_failed: false
+    latitude: 30.0730332
+    legal_name: John Beath Environmental, LLC
+    locality: Beaumont
+    location:
+    - long_name: '148'
+      short_name: '148'
+      types:
+      - street_number
+    - long_name: South Dowlen Road
+      short_name: S Dowlen Rd
+      types:
+      - route
+    - long_name: Beaumont
+      short_name: Beaumont
+      types:
+      - locality
+      - political
+    - long_name: Jefferson County
+      short_name: Jefferson County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Texas
+      short_name: TX
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '77707'
+      short_name: '77707'
+      types:
+      - postal_code
+    longitude: -94.1730943
+    name: JBE
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/07b66822fcc94816acfa5e8d91c44e83
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '77707'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2022-10-11T14:10:38.237725Z'
+    web_domain: beath.us
+    website: beath.us
+warnings:
+  developer:
+  - Developer is not employee of developer org
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified

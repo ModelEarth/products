@@ -36,22 +36,22 @@ category:
   openepd: ManufacturingInputs >> CementitiousMaterials >> Cement
   openepd_name: ManufacturingInputs >> CementitiousMaterials >> Cement
   parents: []
-  pct10_gwp: 417.631822 kgCO2e
-  pct20_gwp: 647.7940937 kgCO2e
-  pct30_gwp: 730.8806362 kgCO2e
-  pct40_gwp: 777.0644636 kgCO2e
-  pct50_gwp: 821.0856603 kgCO2e
-  pct60_gwp: 864.7122273 kgCO2e
-  pct70_gwp: 909.78098 kgCO2e
-  pct80_gwp: 966.3234433 kgCO2e
-  pct90_gwp: 1050.354014 kgCO2e
+  pct10_gwp: 415.6263077 kgCO2e
+  pct20_gwp: 643.6758265 kgCO2e
+  pct30_gwp: 728.4314321 kgCO2e
+  pct40_gwp: 775.8314948 kgCO2e
+  pct50_gwp: 821.1883217 kgCO2e
+  pct60_gwp: 863.9365173 kgCO2e
+  pct70_gwp: 910.1834126 kgCO2e
+  pct80_gwp: 964.8873549 kgCO2e
+  pct90_gwp: 1044.86804 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Cement
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30111601'
-  updated_on: '2025-05-28T10:04:46.590773Z'
+  updated_on: '2025-07-31T11:18:58.059916Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -97,6 +97,7 @@ developer:
     email_extensions:
     - climateearth.com
     enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/d2ab7c4a1a184c3d8f524a095e0fc6d1.png
     id: 5d43c53212c848d9861a81a4bbd626b2
     image: https://static.buildingtransparency.org/images/7ce922a6-8120-420c-9ca9-cd4ff793d90e
     is_failed: false
@@ -140,7 +141,7 @@ developer:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: true
     primary_activity_verifier: true
-    updated_on: '2023-10-06T13:31:13.719486Z'
+    updated_on: '2025-07-22T02:02:02.312901Z'
     web_domain: climateearth.com
     website: https://climateearth.com/
 doc: buildingtransparency.org/e/ec38hkp25w
@@ -270,7 +271,7 @@ pcr:
   product_classes: {}
   short_link: buildingtransparency.org/p/ec36f35rk0
   short_name: Portland, Blended, Masonry, Mortar, and Plastic (Stucco) Cements
-  updated_on: '2022-09-30T14:45:26.297915Z'
+  updated_on: '2025-05-30T23:36:15.971730Z'
   version: '3.2'
 pct80_gwp_per_category_declared_unit: 801.7853222 kgCO2e
 plant_geography:
@@ -469,8 +470,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

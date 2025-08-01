@@ -21,7 +21,7 @@ category:
   id: 39f098d4c80648cbb524169224288ad5
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 0.115 kg
+  mass_per_declared_unit: 0.1141666667 kg
   massless: false
   masterformat: 09 90 00 Painting and Coating
   may_contain_trusted_vendor_declarations: false
@@ -31,20 +31,20 @@ category:
   openepd: Finishes >> PaintingAndCoating >> PaintByArea
   openepd_name: Finishes >> PaintingAndCoating >> PaintByArea
   parents: []
-  pct10_gwp: 0.1787545081 kgCO2e
-  pct20_gwp: 0.2411426112 kgCO2e
-  pct30_gwp: 0.2730091908 kgCO2e
-  pct40_gwp: 0.3061110925 kgCO2e
-  pct50_gwp: 0.3436867234 kgCO2e
-  pct60_gwp: 0.3928025845 kgCO2e
-  pct70_gwp: 0.526131744 kgCO2e
-  pct80_gwp: 0.7882982809 kgCO2e
-  pct90_gwp: 1.598451884 kgCO2e
+  pct10_gwp: 0.1786523817 kgCO2e
+  pct20_gwp: 0.2361166168 kgCO2e
+  pct30_gwp: 0.2692688767 kgCO2e
+  pct40_gwp: 0.3049426583 kgCO2e
+  pct50_gwp: 0.3409364837 kgCO2e
+  pct60_gwp: 0.3867191532 kgCO2e
+  pct70_gwp: 0.505207738 kgCO2e
+  pct80_gwp: 0.7625262679 kgCO2e
+  pct90_gwp: 1.576555436 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-05-28T10:04:54.206506Z'
+  updated_on: '2025-07-31T11:19:05.695315Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -242,7 +242,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2025-05-13T16:25:56.686361Z'
+  updated_on: '2025-07-22T02:01:26.877132Z'
   web_domain: behr.com
   website: https://www.behr.com/pro
 mass_per_declared_unit: 0.39 kg
@@ -292,12 +292,12 @@ pcr:
   version: '3'
 pct80_gwp_per_category_declared_unit: 0.3873172213 kgCO2e
 plant_geography:
-- US-CA
-- US-GA
 - US
+- US-CA
+- US-PA
+- US-GA
 - US-IL
 - US-TX
-- US-PA
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -402,13 +402,13 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2025-05-13T16:25:56.686361Z'
+    updated_on: '2025-07-22T02:01:26.877132Z'
     web_domain: behr.com
     website: https://www.behr.com/pro
   plants_count: 5
-  total_epds: 75
+  total_epds: 74
   type: PlantGroup
-  updated_on: '2025-05-07T17:50:17.959834Z'
+  updated_on: '2025-06-03T22:00:03.290529Z'
 private: false
 program_operator:
   address: 2211 New Market Parkway Southeast, Marietta, GA 30067
@@ -469,8 +469,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -566,8 +566,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false

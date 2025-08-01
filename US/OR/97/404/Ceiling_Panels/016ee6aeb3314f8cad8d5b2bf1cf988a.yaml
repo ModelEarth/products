@@ -16,7 +16,7 @@ also_shown_in:
   id: e9b6d6cc96844271ba676733d13b3d53
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 6.055 kg
+  mass_per_declared_unit: 6.15 kg
   massless: false
   masterformat: 09 70 00 Wall Finishes
   may_contain_trusted_vendor_declarations: false
@@ -26,22 +26,22 @@ also_shown_in:
   openepd: Finishes >> WallFinishes
   openepd_name: Finishes >> WallFinishes
   parents: []
-  pct10_gwp: -9.348221642 kgCO2e
+  pct10_gwp: -9.356410074 kgCO2e
   pct20_gwp: 8.629531777E-05 kgCO2e
   pct30_gwp: 0.0001028465536 kgCO2e
   pct40_gwp: 0.0001215126642 kgCO2e
   pct50_gwp: 0.0001462532593 kgCO2e
-  pct60_gwp: 2.662917634 kgCO2e
-  pct70_gwp: 19.60694253 kgCO2e
-  pct80_gwp: 31.47108555 kgCO2e
-  pct90_gwp: 53.57792791 kgCO2e
+  pct60_gwp: 2.670873577 kgCO2e
+  pct70_gwp: 19.7414616 kgCO2e
+  pct80_gwp: 31.48493426 kgCO2e
+  pct90_gwp: 53.6139396 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Wall Finishes
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161500'
-  updated_on: '2025-05-28T10:04:54.262254Z'
+  updated_on: '2025-07-31T11:19:05.745681Z'
   use_stored_carbon: OPTIONAL
 applicable_in:
 - '001'
@@ -67,7 +67,7 @@ category:
   id: 237ca52c30ba4a1bbe214e10a2dee3fe
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 4.795 kg
+  mass_per_declared_unit: 4.869168656 kg
   massless: false
   masterformat: 09 50 00 Ceilings
   may_contain_trusted_vendor_declarations: false
@@ -77,22 +77,22 @@ category:
   openepd: Finishes >> CeilingPanel
   openepd_name: Finishes >> CeilingPanel
   parents: []
-  pct10_gwp: 2.462690114 kgCO2e
-  pct20_gwp: 3.178268033 kgCO2e
-  pct30_gwp: 4.343417758 kgCO2e
-  pct40_gwp: 5.176512784 kgCO2e
-  pct50_gwp: 6.013040125 kgCO2e
-  pct60_gwp: 7.839430418 kgCO2e
-  pct70_gwp: 11.40576726 kgCO2e
-  pct80_gwp: 31.5375166 kgCO2e
-  pct90_gwp: 59.70136921 kgCO2e
+  pct10_gwp: 2.4980774 kgCO2e
+  pct20_gwp: 3.197989869 kgCO2e
+  pct30_gwp: 4.409990698 kgCO2e
+  pct40_gwp: 5.196958966 kgCO2e
+  pct50_gwp: 6.028293803 kgCO2e
+  pct60_gwp: 7.524166828 kgCO2e
+  pct70_gwp: 10.88560909 kgCO2e
+  pct80_gwp: 30.23870695 kgCO2e
+  pct90_gwp: 59.1455241 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Ceiling Panels
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161600'
-  updated_on: '2025-05-28T10:04:53.777035Z'
+  updated_on: '2025-07-31T11:19:05.259564Z'
   use_stored_carbon: ABSENT
 ceiling_panel_core_material: Wood
 confirmable_fields: []
@@ -571,8 +571,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false
@@ -677,8 +677,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '19428'
     primary_activity_builder: false
     primary_activity_design: false

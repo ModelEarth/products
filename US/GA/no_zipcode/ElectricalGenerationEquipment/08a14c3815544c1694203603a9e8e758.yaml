@@ -31,21 +31,21 @@ category:
   openepd: Electrical >> ElectricalGenerationEquipment
   openepd_name: Electrical >> ElectricalGenerationEquipment
   parents: []
-  pct10_gwp: 45.45874159 kgCO2e
-  pct20_gwp: 60.92218867 kgCO2e
-  pct30_gwp: 77.95878027 kgCO2e
-  pct40_gwp: 84.99382468 kgCO2e
-  pct50_gwp: 172.2793975 kgCO2e
+  pct10_gwp: 45.226794 kgCO2e
+  pct20_gwp: 60.01753773 kgCO2e
+  pct30_gwp: 74.78567748 kgCO2e
+  pct40_gwp: 89.72916063 kgCO2e
+  pct50_gwp: 175.4539189 kgCO2e
   pct60_gwp: 175.7237446 kgCO2e
-  pct70_gwp: 315.6301598 kgCO2e
-  pct80_gwp: 859.4510826 kgCO2e
-  pct90_gwp: 1148.495369 kgCO2e
+  pct70_gwp: 316.4310191 kgCO2e
+  pct80_gwp: 864.5080098 kgCO2e
+  pct90_gwp: 1186.247243 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Generation
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-05-28T10:05:05.546478Z'
+  updated_on: '2025-07-31T11:19:15.847049Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -164,7 +164,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qpee337
   short_name: Electrical, Electronic and HVAC-R Products
   status: Published
-  updated_on: '2025-05-29T06:50:15.319298Z'
+  updated_on: '2025-07-31T21:50:08.274194Z'
   version: '4'
 plant_geography:
 - '001'
@@ -222,9 +222,9 @@ plant_or_group:
     web_domain: lghausys.com
     website: http://www.lghausys.com/main.jsp
   plants_count: 2
-  total_epds: 4
+  total_epds: 5
   type: PlantGroup
-  updated_on: '2025-03-02T11:28:11.592260Z'
+  updated_on: '2025-07-06T11:40:43.118447Z'
 plant_specific: false
 private: false
 product_classes:

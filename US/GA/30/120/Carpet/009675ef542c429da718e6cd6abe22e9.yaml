@@ -1,0 +1,573 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Spot: https://spot.ul.com/main-appproducts/detail/67239b86f541175b40bfaa3b
+best_practice: 1.941454196 kgCO2e
+biogenic_embodied_carbon_z: 0.2083266665599966
+box_id: '1689928719961'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.911898445 kgCO2e
+  pct20_gwp: 6.875667177 kgCO2e
+  pct30_gwp: 7.955495382 kgCO2e
+  pct40_gwp: 9.481977743 kgCO2e
+  pct50_gwp: 10.93880615 kgCO2e
+  pct60_gwp: 12.71636215 kgCO2e
+  pct70_gwp: 14.90412338 kgCO2e
+  pct80_gwp: 17.34049384 kgCO2e
+  pct90_gwp: 20.2616523 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-07-31T11:19:04.347990Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2.766971804 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2024-11-02T21:27:59.213860Z'
+date_of_issue: '2021-08-01'
+date_validity_ends: '2026-08-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "This Environmental Product Declaration (EPD) covers the EcoWorx\xAE\
+  \ BIO carpet tile with EcoSolution Q100\u2122 face fiber, ranging from 12 ounces/yd2\
+  \ to 60 ounces/yd2, with a weighted average face weight of 19.60 ounces/yd2. The\
+  \ carpet tiles are manufactured in Plant 15 (Cartersville, Georgia) and Plant T1\
+  \ (Adairsville, Georgia). EcoSolution Q100\u2122 face fiber is Nylon 6 with 100%\
+  \ post-industrial (pre-consumer) recycled content. The EcoWorx\xAE backing system\
+  \ is 100% PVC-free, consisting of a biobased polyolefin compound, recycled materials\
+  \ (100% post-industrial filler), and a fiberglass secondary reinforcement layer.\
+  \ The face fiber is tufted into a polyester primary backing and latex (high-performance\
+  \ precoat) is added to hold in the fiber. The properties of this product include\
+  \ (a) higher stability but 40% less weight than PVC, (b) lower VOCs and lower smoke\
+  \ density than PVC, and (c) superior delamination and edge ravel strength. The EcoWorx\xAE\
+  \ backing system with a secondary fiberglass backing is then applied followed by\
+  \ a topical layer. As part of the re[TURN]\xAE Reclamation Program, EcoWorx\xAE\
+  \ BIO carpet tile with EcoSolution Q100\u2122 face fiber can be recycled in its\
+  \ entirety and be made into more EcoWorx\xAE BIO carpet tile. All EcoWorx\xAE BIO\
+  \ carpet tile will be collected back for free at its end-of-life. The EcoWorx\xAE\
+  \ BIO carpet tile with EcoSolution Q100\u2122 face fiber is intended for indoor\
+  \ application in a commercial setting."
+developer:
+  email: eleazer.resurreccion@shawinc.com
+  name: Eleazer P. Resurreccion, PhD
+  org:
+    address: 616 East Walnut Avenue, Dalton, GA 30721
+    address_line: 616 East Walnut Avenue
+    admin_district: GA
+    admin_district2: Whitfield
+    alt_names:
+    - Shaw
+    - Shaw Industries
+    - Shaw Industries, Inc.
+    - Shaw Industry Groups Inc.
+    - Shaw Contract
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-04-22T20:14:22.728264Z'
+    email_extensions:
+    - shawcontractgroup.com
+    - shawinc.com
+    enterprise: true
+    id: 1beb3edcbb4c410cb54cc9a69d9d18e4
+    image: https://static.buildingtransparency.org/images/6a1f532f-d33f-4fb2-a3f4-d67839f84b28
+    is_failed: false
+    latitude: 34.76038
+    legal_name: Shaw Industries Group, Inc.
+    locality: Dalton
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Whitfield
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      extendedPostalCode: '307214407'
+      freeformAddress: 616 East Walnut Avenue, Dalton, GA 30721
+      localName: Dalton
+      municipality: Dalton
+      postalCode: '30721'
+      streetName: East Walnut Avenue
+      streetNumber: '616'
+    longitude: -84.95916
+    name: Shaw Industries Group, Inc.
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/1beb3edcbb4c410cb54cc9a69d9d18e4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30721'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2022-01-27T20:22:38.346158Z'
+    web_domain: shawinc.com
+    website: www.shawinc.com
+doc: https://spot.ul.com/main-appproducts/detail/67239b86f541175b40bfaa3b
+excluded: false
+externally_verified: true
+file_name: Patcraft%20-%20EcoWorx%C2%AE%20BIO%20Carpet%20Tile%20with%20EcoSoluti_5bc2db38fd047f927aef762088b658e62d79ef71.pdf
+form_factor: Tiles
+gwp: 2.354213 kgCO2e
+gwp_per_category_declared_unit: 2.354213 kgCO2e
+gwp_per_kg: 0.8078973919 kgCO2e
+gwp_z: 0.2083266665599966
+id: 925efebabf8f4fdbb157d8a62dbf2117
+impacts: {}
+includes: []
+industry_standards: []
+intended_application:
+- Com
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 1.941454196 kgCO2e
+manufacturer:
+  address: 230 Douthit Ferry Road, Cartersville, GA 30120
+  address_line: 230 Douthit Ferry Road
+  admin_district: GA
+  admin_district2: Bartow
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/patcraft
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-10-07T17:10:36.319185Z'
+  email_extensions: []
+  enterprise: true
+  id: dc1266290f3b43a690df38e70bd6df8b
+  image: https://static.buildingtransparency.org/images/1a2a0e29-1856-4fac-9f73-ce3f5066b7cb
+  is_failed: false
+  latitude: 34.14848
+  locality: Cartersville
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Bartow
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    extendedPostalCode: 30120-4010
+    freeformAddress: 230 Douthit Ferry Road, Cartersville, GA 30120
+    localName: Cartersville
+    municipality: Cartersville
+    postalCode: '30120'
+    streetName: Douthit Ferry Road
+    streetNumber: '230'
+  longitude: -84.82364
+  name: Patcraft
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/dc1266290f3b43a690df38e70bd6df8b
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30120'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T13:05:25.520341Z'
+  web_domain: patcraft.com
+  website: patcraft.com
+manufacturer_specific: true
+mass_per_declared_unit: 2914 g
+matched_plants_count: 0
+material_id: 009675ef542c429da718e6cd6abe22e9
+multiproduct: false
+my_capabilities: 1
+name: EcoWorx BIO Carpet Tile with EcoSolution Q100 Face Fiber
+not_an_epd: false
+open_xpd_uuid: ec3f1pq7
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3f1pq7
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:57:05.502294Z'
+  date_of_issue: '2018-09-28'
+  date_validity_ends: '2023-09-28'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34962
+  id: 574a7f64f1b8404aa268cef70a98e15c
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - 019
+      order: 1
+  name: 'Part B: Flooring'
+  open_xpd_uuid: ec35g1dj
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec35g1dj
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec35g1djuq
+  short_name: 'Part B: Flooring'
+  status: Expired
+  updated_on: '2023-09-29T00:02:28.126081Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 2.766971804 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: Bartow County, GA, USA
+  admin_district: GA
+  admin_district2: Bartow County
+  carbon_intensity: 952.9 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2022-02-04T13:33:06.934592Z'
+  id: e72d22917bc24a53ba8beefe852299b8
+  is_failed: false
+  latitude: 34.2660473
+  location:
+  - long_name: Bartow County
+    short_name: Bartow County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  longitude: -84.8150781
+  name: Bartow County, GA
+  openepd_id: 866Q758M+CX.patcraft.com
+  owned_by:
+    address: 230 Douthit Ferry Road, Cartersville, GA 30120
+    address_line: 230 Douthit Ferry Road
+    admin_district: GA
+    admin_district2: Bartow
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/patcraft
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-10-07T17:10:36.319185Z'
+    email_extensions: []
+    enterprise: true
+    id: dc1266290f3b43a690df38e70bd6df8b
+    image: https://static.buildingtransparency.org/images/1a2a0e29-1856-4fac-9f73-ce3f5066b7cb
+    is_failed: false
+    latitude: 34.14848
+    locality: Cartersville
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Bartow
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      extendedPostalCode: 30120-4010
+      freeformAddress: 230 Douthit Ferry Road, Cartersville, GA 30120
+      localName: Cartersville
+      municipality: Cartersville
+      postalCode: '30120'
+      streetName: Douthit Ferry Road
+      streetNumber: '230'
+    longitude: -84.82364
+    name: Patcraft
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/dc1266290f3b43a690df38e70bd6df8b
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30120'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T13:05:25.520341Z'
+    web_domain: patcraft.com
+    website: patcraft.com
+  total_epds: 54
+  type: Plant
+  units: SI
+  updated_on: '2025-03-21T09:24:32.400076Z'
+plant_specific: true
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 479114099.123.1
+reference_service_life: 15 years
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3f1pq7qb
+standard_deviation: 0.4904453467 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2.766971804 kgCO2e
+uncertainty_factor: 1.1753277225768932
+updated_on: '2025-07-14T20:46:17.994842Z'
+use_stored_carbon: false
+verifier:
+  email: epd@ul.com
+  name: UL Peer Review Panel
+  org:
+    address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    address_line: 2211 New Market Parkway Southeast
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - ULE EPM
+    - Underwriters Labs
+    - Underwriters Laboratories
+    - UL E
+    - UL Enviornment
+    - UL Environment
+    - UL Solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-19T16:12:16.017515Z'
+    email: epd@ul.com
+    email_extensions:
+    - ul.com
+    - ulenvironment.com
+    enterprise: true
+    id: 5b22feac0d67472191705631612b68fb
+    image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+    is_failed: false
+    latitude: 33.917988
+    legal_name: UL
+    locality: Marietta
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.918196,-84.495564
+        southWest: 33.917305,-84.497793
+      buildingNumber: '2211'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Marietta
+      extendedPostalCode: '300679393'
+      freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+      municipality: Marietta
+      municipalitySubdivision: Marietta
+      postalCode: '30067'
+      routeNumbers: []
+      street: New Market Parkway Southeast
+      streetName: New Market Parkway Southeast
+      streetNameAndNumber: 2211 New Market Parkway Southeast
+      streetNumber: '2211'
+    longitude: -84.49678
+    name: UL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - CA
+    - US
+    postal_code: '30067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2025-04-26T00:06:55.791242Z'
+    web_domain: ul.com
+    website: https://www.ul.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+yarn_type: Nylon 6

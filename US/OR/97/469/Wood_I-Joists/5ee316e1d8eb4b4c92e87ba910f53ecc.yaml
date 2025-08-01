@@ -37,22 +37,22 @@ category:
   openepd: WoodJoists
   openepd_name: WoodJoists
   parents: []
-  pct10_gwp: 1.418368761 kgCO2e
-  pct20_gwp: 1.531099233 kgCO2e
-  pct30_gwp: 1.688004771 kgCO2e
-  pct40_gwp: 1.814879978 kgCO2e
-  pct50_gwp: 1.971884628 kgCO2e
-  pct60_gwp: 2.145170967 kgCO2e
-  pct70_gwp: 2.323254289 kgCO2e
-  pct80_gwp: 2.586614782 kgCO2e
-  pct90_gwp: 3.417961531 kgCO2e
+  pct10_gwp: 1.484130008 kgCO2e
+  pct20_gwp: 1.638039344 kgCO2e
+  pct30_gwp: 1.794263052 kgCO2e
+  pct40_gwp: 1.960269176 kgCO2e
+  pct50_gwp: 2.142119968 kgCO2e
+  pct60_gwp: 2.355453017 kgCO2e
+  pct70_gwp: 2.615941849 kgCO2e
+  pct80_gwp: 3.284129289 kgCO2e
+  pct90_gwp: 4.536710898 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Wood I-Joists
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103607'
-  updated_on: '2025-05-28T10:04:55.946480Z'
+  updated_on: '2025-07-31T11:19:07.341310Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -277,7 +277,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3p5nqsw3
   short_name: North American Structural and Architectural Wood Products
   status: Sunset
-  updated_on: '2025-05-29T06:50:13.860838Z'
+  updated_on: '2025-07-31T22:20:05.834069Z'
   version: '1'
 pct80_gwp_per_category_declared_unit: 2.139096455 kgCO2e
 plant_geography:
@@ -450,8 +450,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

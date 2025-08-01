@@ -34,22 +34,22 @@ category:
   openepd: Wood >> CompositeLumber
   openepd_name: Wood >> CompositeLumber
   parents: []
-  pct10_gwp: 209.8047813 kgCO2e
-  pct20_gwp: 235.9543569 kgCO2e
-  pct30_gwp: 263.5100281 kgCO2e
-  pct40_gwp: 281.7865818 kgCO2e
-  pct50_gwp: 297.9854607 kgCO2e
-  pct60_gwp: 312.1738157 kgCO2e
-  pct70_gwp: 341.691987 kgCO2e
-  pct80_gwp: 368.7668391 kgCO2e
-  pct90_gwp: 439.1998434 kgCO2e
+  pct10_gwp: 94.2497296 kgCO2e
+  pct20_gwp: 107.3329846 kgCO2e
+  pct30_gwp: 120.041593 kgCO2e
+  pct40_gwp: 134.2450457 kgCO2e
+  pct50_gwp: 150.8285458 kgCO2e
+  pct60_gwp: 173.0066854 kgCO2e
+  pct70_gwp: 205.330803 kgCO2e
+  pct80_gwp: 259.0759598 kgCO2e
+  pct90_gwp: 298.3848739 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Composite Lumber
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103602'
-  updated_on: '2025-05-28T10:04:55.743688Z'
+  updated_on: '2025-07-31T11:19:07.169231Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -441,10 +441,10 @@ plant_or_group:
     web_domain: bc.com
     website: https://www.bc.com/
   postal_code: '97503'
-  total_epds: 5
+  total_epds: 6
   type: Plant
   units: SI
-  updated_on: '2023-03-08T17:08:49.710023Z'
+  updated_on: '2025-07-19T12:28:01.094714Z'
 plant_specific: false
 private: false
 product_specific: true

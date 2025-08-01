@@ -24,7 +24,7 @@ category:
   id: 39f098d4c80648cbb524169224288ad5
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 0.115 kg
+  mass_per_declared_unit: 0.1141666667 kg
   massless: false
   masterformat: 09 90 00 Painting and Coating
   may_contain_trusted_vendor_declarations: false
@@ -34,20 +34,20 @@ category:
   openepd: Finishes >> PaintingAndCoating >> PaintByArea
   openepd_name: Finishes >> PaintingAndCoating >> PaintByArea
   parents: []
-  pct10_gwp: 0.1787545081 kgCO2e
-  pct20_gwp: 0.2411426112 kgCO2e
-  pct30_gwp: 0.2730091908 kgCO2e
-  pct40_gwp: 0.3061110925 kgCO2e
-  pct50_gwp: 0.3436867234 kgCO2e
-  pct60_gwp: 0.3928025845 kgCO2e
-  pct70_gwp: 0.526131744 kgCO2e
-  pct80_gwp: 0.7882982809 kgCO2e
-  pct90_gwp: 1.598451884 kgCO2e
+  pct10_gwp: 0.1786523817 kgCO2e
+  pct20_gwp: 0.2361166168 kgCO2e
+  pct30_gwp: 0.2692688767 kgCO2e
+  pct40_gwp: 0.3049426583 kgCO2e
+  pct50_gwp: 0.3409364837 kgCO2e
+  pct60_gwp: 0.3867191532 kgCO2e
+  pct70_gwp: 0.505207738 kgCO2e
+  pct80_gwp: 0.7625262679 kgCO2e
+  pct90_gwp: 1.576555436 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-05-28T10:04:54.206506Z'
+  updated_on: '2025-07-31T11:19:05.695315Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -59,11 +59,9 @@ date_of_issue: '2024-10-04'
 date_validity_ends: '2029-10-04'
 declaration_type: Product EPD
 declared_unit: 6 m2
-description: "BEHR PRO\xAE e500 Exterior Paint is a professional-grade 100% acrylic\
+description: "BEHR PRO\xAE e500 Exterior Flat Paint is a professional-grade 100% acrylic\
   \ exterior paint that provides good hide and durability and can be applied down\
-  \ to surface and air temperatures of 35\xB0F. It is GREENGUARD\xAE GOLD certified,\
-  \ comes in flat and satin finishes, and is available in 5-gallon sized containers\
-  \ with white and deep tint bases."
+  \ to surface and air temperatures of 35\xB0F."
 developer:
   email: servicequality@sphera.com
   name: Sphera
@@ -148,7 +146,7 @@ gwp_per_category_declared_unit: 0.1436666667 kgCO2e
 gwp_per_kg: 1.11369509 kgCO2e
 gwp_z: 0.28879058156387305
 id: fc0ed70666474b65a6cb0c5795ba4a3e
-image: https://static.buildingtransparency.org/images/75aa8b4bb65d43f596b8805b056d07af.png
+image: https://static.buildingtransparency.org/images/a31551ebf9234b5e9c28b2d6c78782ff.png
 impacts: {}
 industry_standards: []
 is_downloadable: true
@@ -250,7 +248,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2025-05-13T16:25:56.686361Z'
+  updated_on: '2025-07-22T02:01:26.877132Z'
   web_domain: behr.com
   website: https://www.behr.com/pro
 manufacturer_specific: true
@@ -259,7 +257,7 @@ matched_plants_count: 1
 material_id: 30a4df0522f5473cb357e40589394481
 multiproduct: true
 my_capabilities: 1
-name: BEHR PR510
+name: "BEHR PRO\xAE e500 Exterior Flat Paint"
 not_an_epd: false
 open_xpd_uuid: ec31z3gf
 original_data_format: pdf_mixed
@@ -302,12 +300,12 @@ pcr:
   version: '3'
 pct80_gwp_per_category_declared_unit: 0.1785842974 kgCO2e
 plant_geography:
-- US-TX
-- US
-- US-GA
-- US-IL
-- US-PA
 - US-CA
+- US
+- US-PA
+- US-GA
+- US-TX
+- US-IL
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -412,13 +410,13 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2025-05-13T16:25:56.686361Z'
+    updated_on: '2025-07-22T02:01:26.877132Z'
     web_domain: behr.com
     website: https://www.behr.com/pro
   plants_count: 5
-  total_epds: 75
+  total_epds: 74
   type: PlantGroup
-  updated_on: '2025-05-07T17:50:17.959834Z'
+  updated_on: '2025-06-03T22:00:03.290529Z'
 plant_specific: false
 private: false
 product_classes: {}
@@ -517,7 +515,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 1.071505784 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-05-01T22:55:51.356245Z'
+updated_on: '2025-06-03T20:46:26.140384Z'
 use_stored_carbon: false
 verifier:
   email: cooper.mccollum@ul.com
@@ -608,6 +606,7 @@ warnings:
   - Not specified
   impacts:
   - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   language:

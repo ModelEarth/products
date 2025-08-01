@@ -1,0 +1,598 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: true
+best_practice: 0.1672868001 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '1918481625245'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2020-03-16T14:54:39Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Acoustical ceiling panels
+  display_name: Acoustical Ceilings
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 342ccbc46fc1418c8db86016753807d5
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 4.861 kg
+  massless: false
+  masterformat: 09 51 00 Acoustical Ceilings
+  may_contain_trusted_vendor_declarations: false
+  name: AcousticalCeilings
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> CeilingPanel >> AcousticalCeilings
+  openepd_name: Finishes >> CeilingPanel >> AcousticalCeilings
+  parents: []
+  pct10_gwp: 2.374710787 kgCO2e
+  pct20_gwp: 3.060554402 kgCO2e
+  pct30_gwp: 4.308297898 kgCO2e
+  pct40_gwp: 5.049588672 kgCO2e
+  pct50_gwp: 5.786246261 kgCO2e
+  pct60_gwp: 6.686149535 kgCO2e
+  pct70_gwp: 9.229733338 kgCO2e
+  pct80_gwp: 22.06113974 kgCO2e
+  pct90_gwp: 49.14977759 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Acoustical Ceilings
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161601'
+  updated_on: '2025-07-31T11:19:05.328203Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 0.2747131999 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-07-08T22:14:35.200048Z'
+date_of_issue: '2021-10-01'
+date_validity_ends: '2026-10-01'
+declaration_type: Product EPD
+declared_unit: 1 ft2
+description: "Armstrong\xAE FeltWorks\xAE Acoustical Panels are 1\" thick non-woven\
+  \ layered and formed polyester felt (PET) fiber panels with color throughout. Panels\
+  \ are Class A fire performance. Features include quick and easy retrofit acoustical\
+  \ solution, excellent sound absorption (NRC up to 0.90), mold- and mildew-resistant\
+  \ surface, no need to field-finish cut edges, custom sizes available from 18\" x\
+  \ 18\" up to 54\" x 120\", and no visible fasteners with adhesive or magnet installation\
+  \ options."
+developer:
+  email: mruss@sphera.com
+  name: Manfred Russ
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3ersgq7x
+excluded: false
+externally_verified: true
+file_name: Other_Acoustic Panel_Armstrong_Feltworks.pdf
+gwp: 0.221 kgCO2e
+gwp_per_category_declared_unit: 2.378824202 kgCO2e
+gwp_per_kg: 0.09057377049 kgCO2e
+gwp_z: 0.28879058156387305
+id: a8fdcd5859834f5eb9f69bbab3fb53cd
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 0.1672868001 kgCO2e
+manufacturer:
+  address: 2300 Columbia Ave, Lancaster, PA 17603, USA
+  address_line: 2300 Columbia Ave
+  admin_district: PA
+  admin_district2: Lancaster County
+  alt_names:
+  - Armstrong World Industries
+  - Armstrong World Industries, Inc.
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/armstrong-ceilings
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-08-08T13:15:28.906027Z'
+  email_extensions:
+  - armstrongceilings.com
+  - armstrongceiling.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/0ed164fb0bbf460c897a4da54c9201f0.png
+  id: 3625052d06964ba2accc90930766b552
+  image: https://static.buildingtransparency.org/images/5b2cb2ad215f4d5f9bf4e2500fc441e5.png
+  is_failed: false
+  latitude: 40.0396801
+  legal_name: Armstrong World Industries, Inc.
+  locality: Lancaster
+  location:
+  - long_name: '2300'
+    short_name: '2300'
+    types:
+    - street_number
+  - long_name: Columbia Avenue
+    short_name: Columbia Ave
+    types:
+    - route
+  - long_name: Lancaster
+    short_name: Lancaster
+    types:
+    - locality
+    - political
+  - long_name: Manor Township
+    short_name: Manor Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Lancaster County
+    short_name: Lancaster County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '17603'
+    short_name: '17603'
+    types:
+    - postal_code
+  - long_name: '4108'
+    short_name: '4108'
+    types:
+    - postal_code_suffix
+  longitude: -76.36606739999999
+  name: Armstrong World Industries, Inc.
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3625052d06964ba2accc90930766b552
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '17603'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-07-12T17:35:39.941724Z'
+  web_domain: armstrongceilings.com
+  website: www.armstrongceilings.com
+manufacturer_specific: true
+mass_per_declared_unit: 2.44 kg
+matched_plants_count: 1
+material_id: f45e36d6d57c4227ac9507ef4e3feccf
+multiproduct: false
+my_capabilities: 1
+name: "FeltWorks\xAE Acoustical Panels"
+not_an_epd: false
+open_xpd_uuid: ec3ersgq
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ersgq
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-04-26T21:23:56.208035Z'
+  date_of_issue: '2021-04-13'
+  date_validity_ends: '2026-04-13'
+  declared_units:
+  - 1 sf
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?productId=ULE10010-26_2_S_20210413
+  id: 321a280ef027427aad2d58e272534f9c
+  is_failed: false
+  lcia_requirements:
+    CML 2012:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 2
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '001'
+      order: 3
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - '021'
+      order: 1
+  name: 'Part B: Non-Metal Ceiling and Interior Wall Panel EPD Requirements'
+  open_xpd_uuid: ec30ntds
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec30ntds
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec30ntds1j
+  short_name: Non-Metal Ceiling and Interior Wall Panel
+  updated_on: '2022-10-04T22:42:02.506861Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 2.956988274 kgCO2e
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-09T18:21:48.562380Z'
+  id: c1033eadeae44406bb1fc5defefa3cbf
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Marietta, Macon
+  owned_by:
+    address: 2300 Columbia Ave, Lancaster, PA 17603, USA
+    address_line: 2300 Columbia Ave
+    admin_district: PA
+    admin_district2: Lancaster County
+    alt_names:
+    - Armstrong World Industries
+    - Armstrong World Industries, Inc.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/armstrong-ceilings
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-08T13:15:28.906027Z'
+    email_extensions:
+    - armstrongceilings.com
+    - armstrongceiling.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/0ed164fb0bbf460c897a4da54c9201f0.png
+    id: 3625052d06964ba2accc90930766b552
+    image: https://static.buildingtransparency.org/images/5b2cb2ad215f4d5f9bf4e2500fc441e5.png
+    is_failed: false
+    latitude: 40.0396801
+    legal_name: Armstrong World Industries, Inc.
+    locality: Lancaster
+    location:
+    - long_name: '2300'
+      short_name: '2300'
+      types:
+      - street_number
+    - long_name: Columbia Avenue
+      short_name: Columbia Ave
+      types:
+      - route
+    - long_name: Lancaster
+      short_name: Lancaster
+      types:
+      - locality
+      - political
+    - long_name: Manor Township
+      short_name: Manor Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Lancaster County
+      short_name: Lancaster County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '17603'
+      short_name: '17603'
+      types:
+      - postal_code
+    - long_name: '4108'
+      short_name: '4108'
+      types:
+      - postal_code_suffix
+    longitude: -76.36606739999999
+    name: Armstrong World Industries, Inc.
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3625052d06964ba2accc90930766b552
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '17603'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-07-12T17:35:39.941724Z'
+    web_domain: armstrongceilings.com
+    website: www.armstrongceilings.com
+  plants_count: 2
+  total_epds: 9
+  type: PlantGroup
+  updated_on: '2025-07-19T12:28:00.749946Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4789756873.101.1
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ersgq7x
+standard_deviation: 0.06382271853 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 0.2747131999 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-07-19T00:51:18.517982Z'
+use_stored_carbon: false
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified

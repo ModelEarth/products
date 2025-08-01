@@ -78,10 +78,10 @@ Finishes >> Flooring >> Carpet,"FLOR® modular carpet on GlasBac, PET styles (Fe
 Finishes >> Flooring >> Carpet,"CushionBac RenewTM, Nylon 66 styles of modular carpet",ec3pst06,30240,Troup,"1503 Orchard Hill Road, Lagrange, GA 30240",33.002754,-85.054565
 Finishes >> Flooring >> Carpet,"NexStep , Nylon 6 styles of modular carpet 407 g/m2",ec3uqdqw,30240,Troup County,"1503 Orchard Hill Rd, LaGrange, GA 30240, USA",33.0028938,-85.0559806
 Finishes >> Flooring >> Carpet,EPBL with Solution Q or Solution Q Extreme,ec3tu246,30120,Bartow,"5225 Highway 411 Northwest, Cartersville, GA 30120",34.2201,-84.86562
-Finishes >> Flooring >> Carpet,Tufted nylon broadloom carpet on Weldlok Backing,ec34xd2r,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
+Finishes >> Flooring >> Carpet,Tufted nylon broadloom carpet on Weldlok® Backing,ec34xd2r,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
 Finishes >> Flooring >> Carpet,EcoWorx Carpet Tile with Solution Q® or Solution Q Extreme® Face Fiber,ec3rw33e,,,,,
 Finishes >> Flooring >> Carpet,EcoWorx Carpet Tile with EcoSolution Q Face Fiber,ec3f8mqc,,,,,
-Finishes >> Flooring >> Carpet,Tufted nylon broadloom carpet on Unibond Plus Backing,ec31s403,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
+Finishes >> Flooring >> Carpet,Tufted nylon broadloom carpet on Unibond® Plus Backing,ec31s403,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
 Openings >> DoorsAndFrames,Aluminum Entrance Systems,ec3c60rw,31021,Laurens,"1229 Highway 441 Bypass, Dublin, GA 31021",32.50905,-82.94872
 ThermalMoistureProtection >> Insulation >> BlownInsulation,"Blowing Wool Fiberglass Insulation- InsulSafe® SP, TrueComfort®, UltraComfort®, OPTIMA®, InsulSafe®",ec3f5umt,,,,,
 Openings >> Storefronts,Aluminum Window Wall Systems (framing only),ec3jts2s,31021,Laurens,"1229 Highway 441 Bypass, Dublin, GA 31021",32.50905,-82.94872
@@ -303,11 +303,11 @@ Concrete >> ReadyMix,Mix 30K3D44NAF,ec3ptf3g,30324,Fulton,"Armour Drive Northeas
 Concrete >> ReadyMix,Mix 30JNC610,ec3mu7md,30324,Fulton,"Armour Drive Northeast, Atlanta, GA 30324",33.81058,-84.38147
 Concrete >> ReadyMix,Mix 70JNV0463,ec392e7p,30324,Fulton,"Armour Drive Northeast, Atlanta, GA 30324",33.81058,-84.38147
 Concrete >> ReadyMix,Mix 30K1D43NAX,ec3e40ph,30324,Fulton,"Armour Drive Northeast, Atlanta, GA 30324",33.81058,-84.38147
-Finishes >> Flooring >> Carpet,Tufted nylon broadloom carpet on Unibond Plus OnGuard,ec31bktr,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
-Finishes >> Flooring >> Carpet,Tufted nylon broadloom carpet on Unibond Plus Air Backing,ec3hwaaq,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
-Finishes >> Flooring >> Carpet,Tufted nylon broadloom carpet on Wedlok unitary backing,ec335y7s,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
-Finishes >> Flooring >> Carpet,Tufted Nylon Carpet on Weldlok OnGuard,ec3zj6dy,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
-Finishes >> Flooring >> Carpet,Tufted nylon broadloom carpet on Weldlok Air,ec3y58sp,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
+Finishes >> Flooring >> Carpet,Tufted nylon broadloom carpet on Unibond® Plus OnGuard,ec31bktr,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
+Finishes >> Flooring >> Carpet,Tufted nylon broadloom carpet on Unibond® Plus Air Backing,ec3hwaaq,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
+Finishes >> Flooring >> Carpet,Tufted nylon broadloom carpet on Wedlok® unitary backing,ec335y7s,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
+Finishes >> Flooring >> Carpet,Tufted Nylon Carpet on Weldlok® OnGuard,ec3zj6dy,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
+Finishes >> Flooring >> Carpet,Tufted nylon broadloom carpet on Weldlok® Air,ec3y58sp,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
 Concrete >> ReadyMix,Mix 40cnc577,ec3zbxfk,30324,Fulton,"Armour Drive Northeast, Atlanta, GA 30324",33.81058,-84.38147
 Concrete >> ReadyMix,Mix 30K2D44NAF,ec3drqph,30324,Fulton,"Armour Drive Northeast, Atlanta, GA 30324",33.81058,-84.38147
 Concrete >> ReadyMix,Mix X0JNV966,ec3jfgzy,30324,Fulton,"Armour Drive Northeast, Atlanta, GA 30324",33.81058,-84.38147
@@ -361,7 +361,7 @@ Finishes >> Gypsum,"1/2"" ToughRock® Fireguard C® Gypsum Panel 1/2” Type C (
 Finishes >> Gypsum,"5/8"" ToughRock Max-Abuse. discontinued",ec33a3y1,,,,,
 Finishes >> Gypsum,"1/2"" ToughRock® Lite-Weight",ec3jm7cp,,,,,
 Finishes >> Gypsum,"5/8"" ToughRock® Fireguard C® Gypsum Panel 5/8” Type C (Generic name)",ec3mhds4,,,,,
-Finishes >> Flooring >> Carpet,Tarkett Powerbond® Cushion,ec3jnut6,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,Powerbond Cushion,ec3jnut6,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
 Sheathing >> GypsumSheathingBoard,"5/8"" DensElement® Sheathing Gypsum Panel",ec34kkgc,,,,,
 NetworkInfrastructure >> DataCabling,Riser Panduit Category 6A U/FTP (STP),ec3t5ea7,30040,Forsyth,"1819 Atlanta Highway, Cumming, GA 30040",34.16606,-84.1653
 NetworkInfrastructure >> DataCabling,Panduit TX5500™ Category 5e F/UTP,ec3eu365,30040,Forsyth,"1819 Atlanta Highway, Cumming, GA 30040",34.16606,-84.1653
@@ -863,8 +863,8 @@ Concrete >> ReadyMix,Mix 35CNC0452,ec3rrkqx,30316,Fulton County,"885 Glenwood Av
 Finishes >> PaintingAndCoating >> PaintByArea,Stolit® R1.5,ec3bfpxt,,Fulton County,"Atlanta, GA, USA",33.7489954,-84.3879824
 Concrete >> ReadyMix,40CN3MR,ec3njn96,30122,Douglas County,"7699 N County Line Rd, Lithia Springs, GA 30122, USA",33.7646096,-84.6770952
 Concrete >> ReadyMix,40CN4MR,ec3cm5ch,30122,Douglas County,"7699 N County Line Rd, Lithia Springs, GA 30122, USA",33.7646096,-84.6770952
-Finishes >> Flooring >> Carpet,EcoFlex ONE Modular Carpet Tile,ec3k8kh7,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,EcoFlex ONE Modular Carpet Tile,ec3kr1g3,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE Modular Carpet Tile,ec3k8kh7,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE Modular Carpet Tile,ec3kr1g3,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
 Openings >> Storefronts,Aluminum Storefront Systems,ec33p7ge,31021,Laurens,"1229 Highway 441 Bypass, Dublin, GA 31021",32.50905,-82.94872
 Finishes >> Flooring >> Carpet,Nexus Modular Carpet Tile,ec3tm8xk,30721,Whitfield,"818 J & J Drive, Dalton, GA 30721",34.78665,-84.94676
 Finishes >> Flooring >> Carpet,PremierBac Plus Broadloom Carpet,ec3ybkpt,30721,Whitfield,"818 J & J Drive, Dalton, GA 30721",34.78665,-84.94676
@@ -1084,7 +1084,7 @@ Concrete >> ConcretePaving,1620772,ec3tg8ag,30324,Fulton County,"340 Armour Dr N
 Concrete >> ReadyMix,1623681,ec3mhs9b,30324,Fulton County,"340 Armour Dr NE, Atlanta, GA 30324, USA",33.8129345,-84.377423
 Concrete >> ConcretePaving,1596684,ec3qhx7a,30518,Hall County,"6741 McEver Rd, Buford, GA 30518, USA",34.1542841,-83.9670261
 Concrete >> ReadyMix,1539154,ec3f23rd,30337,Fulton County,"2194 W Point Ave, Atlanta, GA 30337, USA",33.6365151,-84.45956729999999
-Finishes >> Flooring >> Carpet,EcoFlex ONE 16 oz,ec3fqsm9,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE 16 oz,ec3fqsm9,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
 Concrete >> ReadyMix,1402738,ec3nemk0,30324,Fulton County,"340 Armour Dr NE, Atlanta, GA 30324, USA",33.8129345,-84.377423
 Concrete >> ReadyMix,1332842,ec3t4j2a,30324,Fulton County,"340 Armour Dr NE, Atlanta, GA 30324, USA",33.8129345,-84.377423
 Concrete >> ReadyMix,1603532,ec3p3538,30324,Fulton County,"340 Armour Dr NE, Atlanta, GA 30324, USA",33.8129345,-84.377423
@@ -1092,31 +1092,23 @@ Concrete >> ReadyMix,1536195,ec3d6f1w,30324,Fulton County,"340 Armour Dr NE, Atl
 Concrete >> ReadyMix,1535430,ec389me3,30324,Fulton County,"340 Armour Dr NE, Atlanta, GA 30324, USA",33.8129345,-84.377423
 Concrete >> ReadyMix,1585399,ec331ckf,30324,Fulton County,"340 Armour Dr NE, Atlanta, GA 30324, USA",33.8129345,-84.377423
 Concrete >> ReadyMix,1617311,ec3f303z,30324,Fulton County,"340 Armour Dr NE, Atlanta, GA 30324, USA",33.8129345,-84.377423
-Finishes >> Flooring >> Carpet,EcoFlex ONE 17 oz,ec32fg89,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,EcoFlex ONE Pattern Perfect 17 oz,ec3aqjy9,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,EcoFlex ONE 18 oz,ec3ca35u,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,EcoFlex ONE 19 oz,ec3chjd4,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,EcoFlex ONE 20 oz,ec3t4gkn,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,EcoFlex ONE Pattern Perfect 20 oz,ec37crbz,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,EcoFlex ONE 21 oz,ec3k7dcz,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,EcoFlex ONE 22 oz,ec30qaqn,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,EcoFlex ONE Pattern Perfect 22 oz,ec33zk6p,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,EcoFlex ONE 23 oz,ec3bae8q,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,EcoFlex ONE Pattern Perfect 23 oz,ec3duhbt,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,EcoFlex ONE 24 oz,ec36bj7y,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,EcoFlex ONE Pattern Perfect 24 oz,ec3yyzb3,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,EcoFlex ONE 25 oz,ec3ybmc7,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,EcoFlex ONE 26 oz,ec3yjhfm,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,EcoFlex ONE Pattern Perfect 26 oz,ec33kaaq,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,EcoFlex ONE 28 oz,ec3shrm1,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,Nylon on EcoFlex Matrix 12 oz,ec304gqj,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,Nylon on EcoFlex Matrix 13 oz,ec3gcgrr,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,Nylon on EcoFlex Matrix 14 oz,ec3uub5e,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,Nylon on EcoFlex Matrix 16 oz,ec3t99tr,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,Nylon on EcoFlex Matrix 17 oz,ec3qm2gy,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,Nylon on EcoFlex Matrix 18 oz,ec3etxqq,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,Nylon on EcoFlex Matrix 19 oz,ec3aam6m,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,Nylon on EcoFlex Matrix 20 oz,ec34xyg9,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE 17 oz,ec32fg89,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE Pattern Perfect 17 oz,ec3aqjy9,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE 18 oz,ec3ca35u,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE 19 oz,ec3chjd4,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE 20 oz,ec3t4gkn,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE Pattern Perfect 20 oz,ec37crbz,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE 21 oz,ec3k7dcz,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE 22 oz,ec30qaqn,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE Pattern Perfect 22 oz,ec33zk6p,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE 23 oz,ec3bae8q,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE Pattern Perfect 23 oz,ec3duhbt,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE 24 oz,ec36bj7y,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE Pattern Perfect 24 oz,ec3yyzb3,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE 25 oz,ec3ybmc7,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE 26 oz,ec3yjhfm,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE Pattern Perfect 26 oz,ec33kaaq,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE 28 oz,ec3shrm1,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
 Concrete >> ReadyMix,45JAC0089,ec3wwa7b,30025,Newton County,"240 Shire Pkwy, Social Circle, GA 30025, USA",33.5995914,-83.6957051
 Concrete >> ReadyMix,1332806,ec3h08t0,30134,Douglas County,"13241 Veterans Memorial Hwy, Douglasville, GA 30134, USA",33.7379411,-84.79203249999999
 Concrete >> ReadyMix,1399836,ec3dyetj,30134,Douglas County,"13241 Veterans Memorial Hwy, Douglasville, GA 30134, USA",33.7379411,-84.79203249999999
@@ -1163,10 +1155,10 @@ Asphalt,The Scruggs Co. 28-R12.5SP-227-8,ec3x22fp,31632,Lowndes County,"4679 Old
 Concrete >> ReadyMix,30JNC602,ec3hbcjt,30337,Fulton County,"2625 Sullivan Rd, Atlanta, GA 30337, USA",33.6255313,-84.4748087
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR MARQUEE® Interior Satin Enamel,ec3ennqp,,,,,
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR 4450,ec3mtxep,,,,,
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR 7120 Interior,ec3t1mwk,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,"BEHR PREMIUM® Cabinet, Door & Trim Interior/Exterior Semi-Gloss Enamel",ec3t1mwk,,,,,
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR G150,ec36mbrn,,,,,
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR G260,ec3sgxcs,,,,,
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR 2000,ec323nx4,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,"KILZ 2® ALL-PURPOSE Interior/Exterior Primer, Sealer & Blocker",ec323nx4,,,,,
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR G210,ec35wm9m,,,,,
 Concrete >> ReadyMix,Mix 1539130,ec3je5za,30534,Dawson County,"171 Easy St, Dawsonville, GA 30534, USA",34.367902,-84.04794
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR 3900 Interior,ec35wn3f,,,,,
@@ -1174,14 +1166,16 @@ CMU,BEHR PRO® e600 Exterior Satin,ec3uy8x2,,,,,
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR 1720,ec3wr55z,,,,,
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR 4050,ec385m9d,,,,,
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR PR105,ec3488z0,,,,,
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR PR040,ec3ahpr9,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,BEHR PRO® High Build Interior Primer,ec3ahpr9,,,,,
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR 4850,ec3hfzjq,,,,,
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR HP140 Interior,ec3d6sa1,,,,,
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR 432,ec3y91d1,,,,,
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR PR050,ec3x6jgc,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,BEHR PRO® Pre-Catalyzed Waterborne Epoxy Eggshell,ec3d6sa1,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,BEHR® Interior/Exterior Bonding Primer,ec3y91d1,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,BEHR PRO® Block Filler Primer,ec3x6jgc,,,,,
 Finishes >> Flooring >> ResilientFlooring,"Homogeneous Vinyl Flooring, Heterogeneous Vinyl Floor, Eco Flooring",ec3qs47t,,,,,
 Concrete >> ReadyMix,Mix 1557122,ec3zgma2,30534,Dawson County,"171 Easy St, Dawsonville, GA 30534, USA",34.367902,-84.04794
 Concrete >> ReadyMix,45CAF0618,ec3wt5ke,30316,Fulton,"885 Glenwood Avenue Southeast, Atlanta, GA 30316",33.73867,-84.35887
+Finishes >> Flooring >> Carpet,EcoWorx BIO Carpet Tile with EcoSolution Q100 Face Fiber,ec3f1pq7,,Bartow County,"Bartow County, GA, USA",34.2660473,-84.8150781
+Finishes >> Flooring >> Carpet,EcoWorx BIO Carpet Tile with EcoSolution Q100 Face Fiber,ec3nrehz,,Bartow County,"Bartow County, GA, USA",34.2660473,-84.8150781
 Finishes >> Gypsum,"5/8"" ToughRock® Fireguard X® Mold-Guard™ 5/8"" Type X (Generic name)",ec30emgn,,,,,
 Finishes >> Gypsum,5/8” ToughRock® Fireguard X® 5/8” Type X (Generic name),ec39rn5d,,,,,
 Finishes >> Flooring >> Carpet,"Interface Americas modular carpet on GlasBac, Nylon 66 styles",ec3syjgj,30240,Troup,"1503 Orchard Hill Road, Lagrange, GA 30240",33.002754,-85.054565
@@ -1528,10 +1522,10 @@ Finishes >> Flooring >> Carpet,Modular Carpet on CQuestBioX (average),ec3qxams,3
 Finishes >> Flooring >> Carpet,Modular Carpet on GlasBac (average),ec3ygkr9,30240,Troup,"1503 Orchard Hill Road, Lagrange, GA 30240",33.002754,-85.054565
 Concrete >> ReadyMix,45CA4PA,ec3khja5,30058,Dekalb County,"7535 Rock Mountain Rd, Lithonia, GA 30058, USA",33.7483542,-84.0797163
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR PR310,ec3w7570,,,,,
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR 73 Flat White,ec33tehj,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,BEHR® Drywall Plus Primer & Sealer,ec33tehj,,,,,
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR 3200 Interior,ec3586tt,,,,,
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR 435,ec3zb1sw,,,,,
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR 436,ec3q8wg4,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,BEHR® Interior/Exterior Metal Primer,ec3zb1sw,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,BEHR® Multi-Surface Interior/Exterior Stain-Blocking Primer & Sealer,ec3q8wg4,,,,,
 Concrete >> ReadyMix,1332702,ec3u6pft,30188,Cherokee County,"314 Bell Park Dr, Woodstock, GA 30188, USA",34.1237365,-84.5080245
 Concrete >> ReadyMix,1536957,ec3aa7y7,30188,Cherokee County,"314 Bell Park Dr, Woodstock, GA 30188, USA",34.1237365,-84.5080245
 Concrete >> ReadyMix,1632395,ec3g8z8y,30318,Fulton County,"1360 Marietta Blvd NW, Atlanta, GA 30318, USA",33.7911081,-84.4318112
@@ -1847,7 +1841,6 @@ Finishes >> Flooring >> Carpet,Interface low weight,ec3qs2jh,30240,Troup,"1503 O
 Finishes >> Flooring >> Carpet,Interface heavy weight,ec3ru4sc,30240,Troup,"1503 Orchard Hill Road, Lagrange, GA 30240",33.002754,-85.054565
 Steel,Steel Electrical Conduit,ec3unaak,39832,Early County,"Cedar Springs, GA 39832, USA",31.184211,-85.037149
 Steel >> ColdFormedSteel >> SteelSuspensionAssembly,Silhouette XL® Suspension Systems,ec3hxdtg,,,,,
-Finishes >> Flooring >> Carpet,Nylon on EcoFlex Matrix 15 oz,ec3dm9hx,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
 Steel >> StructuralSteel >> HotRolledSections,Fabricated Structural Steel,ec3h8eb2,30121,Bartow,"384 Old Grassdale Road Northeast, Cartersville, GA 30121",34.23647,-84.80172
 Concrete >> ReadyMix,707FS,ec3rsd6w,30318,Fulton,"1430 Marietta Boulevard Northwest, Atlanta, GA 30318",33.79411,-84.43239
 Concrete >> ReadyMix,607-1FS,ec3qdc4w,30318,Fulton,"1430 Marietta Boulevard Northwest, Atlanta, GA 30318",33.79411,-84.43239
@@ -1938,9 +1931,9 @@ PrecastConcrete,H-800L-8 National,ec36c93r,30141,Paulding County,"200 Metromont 
 PrecastConcrete,H-725L-7,ec32n7tz,30141,Paulding County,"200 Metromont Rd, Hiram, GA 30141, USA",33.8838204,-84.74080289999999
 PrecastConcrete,H-750L-7,ec3xqppu,30141,Paulding County,"200 Metromont Rd, Hiram, GA 30141, USA",33.8838204,-84.74080289999999
 PrecastConcrete,H-800L-8,ec3txfta,30141,Paulding County,"200 Metromont Rd, Hiram, GA 30141, USA",33.8838204,-84.74080289999999
-Finishes >> Flooring >> ResilientFlooring,Commercial Rigid Core Flooring,ec3jrejz,30721,Whitfield County,"101 IVC Dr, Dalton, GA 30721, USA",34.7169534,-84.94068639999999
-Finishes >> Flooring >> ResilientFlooring,Commercial Flex 4.5 LVT,ec3jbjbd,30721,Whitfield County,"101 IVC Dr, Dalton, GA 30721, USA",34.7169534,-84.94068639999999
-Finishes >> Flooring >> ResilientFlooring,Commercial Flex 2.5 LVT,ec3h7yfm,30721,Whitfield County,"101 IVC Dr, Dalton, GA 30721, USA",34.7169534,-84.94068639999999
+Finishes >> Flooring >> ResilientFlooring,Rigid Core Flooring,ec3jrejz,30721,Whitfield County,"101 IVC Dr, Dalton, GA 30721, USA",34.7169534,-84.94068639999999
+Finishes >> Flooring >> ResilientFlooring,Flex 4.5 LVT,ec3jbjbd,30721,Whitfield County,"101 IVC Dr, Dalton, GA 30721, USA",34.7169534,-84.94068639999999
+Finishes >> Flooring >> ResilientFlooring,Flex 2.5 LVT,ec3h7yfm,30721,Whitfield County,"101 IVC Dr, Dalton, GA 30721, USA",34.7169534,-84.94068639999999
 Concrete >> ReadyMix,407-2FS,ec3mtf9a,30318,Fulton,"1430 Marietta Boulevard Northwest, Atlanta, GA 30318",33.79411,-84.43239
 Steel >> ColdFormedSteel >> SteelSuspensionAssembly,USG Donn® Brand DX®/DXL™ Acoustical Suspension System,ec3ptha0,,Bartow County,"Cartersville, GA, United States",34.163936614990234,-84.80003356933594
 Concrete >> ReadyMix,607-1FS,ec3suxgr,30324,Fulton,"740 Lambert Drive Northeast, Atlanta, GA 30324",33.81352,-84.36403
@@ -2909,14 +2902,14 @@ Finishes >> Flooring >> Carpet,EF Contract PremierBac Plus - Encore SD Ultima (4
 Finishes >> Flooring >> Carpet,EF Contract PremierBac Plus - Encore SD Ultima (41 oz face weight),ec3c05u4,30720,Whitfield County,"1502 Coronet Dr, Dalton, GA 30720, USA",34.7991546,-84.9654175
 Finishes >> Flooring >> Carpet,EF Contract PremierBac Plus - Encore SD Ultima (42 oz face weight),ec3zys2g,30720,Whitfield County,"1502 Coronet Dr, Dalton, GA 30720, USA",34.7991546,-84.9654175
 Concrete >> ReadyMix,40CNC166,ec3rd6rt,30324,Fulton,"Armour Drive Northeast, Atlanta, GA 30324",33.81058,-84.38147
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR PX010,ec3x8gwy,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,KILZ® PVA Interior Drywall Primer & Sealer,ec3x8gwy,,,,,
 Aluminium,MetalWorks Mesh,ec3a444p,,,,,
 Cladding >> Siding >> SolidWoodSiding,WOODWORKS™ ACGI Linear System,ec39hnq5,,,,,
 Finishes >> Flooring >> Carpet,CQUEST BioX Modular Flooring Tile; Functional Unit of 1 square meter of floor covering,ec3hrmyg,,Troup County,"Troup County, GA, USA",33.0698575,-85.02334599999999
 Finishes >> Flooring >> ResilientFlooring,Medella Fleck & Hues,ec3dtuns,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
 Finishes >> Flooring >> Carpet,CQUESTTMBioX,ec30mr24,,Troup County,"Troup County, GA, USA",33.0698575,-85.02334599999999
 Finishes >> Flooring >> Carpet,CQUEST BioX Modular Flooring Tile; Functional Unit of 1 square meter of floor covering,ec3kerzc,,Troup County,"Troup County, GA, USA",33.0698575,-85.02334599999999
-Finishes >> Flooring >> ResilientFlooring,FUNCTIONAL Luxury Vinyl Tile Terrain,ec366te5,30736,Catoosa,"1015 Industrial Boulevard, Ringgold, GA 30736",34.9063,-85.11449
+Finishes >> Flooring >> ResilientFlooring,Luxury Vinyl Tile Terrain,ec366te5,30736,Catoosa County,"Ringgold, GA 30736, USA",34.9159099,-85.1091173
 Concrete >> ReadyMix,1559807,ec3cu12f,30066,Cobb County,"1398 Owenby Dr, Marietta, GA 30066, USA",33.9848603,-84.5312704
 Concrete >> ReadyMix,Argos Mix 30CAC0564 • Atlanta Div Portable Plant (2) 358 Plant 3000COMAIR20%ASH,ec35m19t,30025,Newton County,"240 Shire Pkwy, Social Circle, GA 30025, USA",33.5995914,-83.6957051
 Concrete >> ReadyMix,40CA4,ec3qy89b,30058,Dekalb County,"7535 Rock Mountain Rd, Lithonia, GA 30058, USA",33.7483542,-84.0797163
@@ -3106,13 +3099,13 @@ Concrete >> ReadyMix,Mix 1616743,ec33ny2j,30324,Fulton County,"340 Armour Dr NE,
 Concrete >> ReadyMix,Mix 1559807,ec3wfgdq,30324,Fulton County,"340 Armour Dr NE, Atlanta, GA 30324, USA",33.8129345,-84.377423
 Concrete >> ReadyMix,Mix 1616904,ec3hdddj,30324,Fulton County,"340 Armour Dr NE, Atlanta, GA 30324, USA",33.8129345,-84.377423
 Concrete >> ReadyMix,Mix 1560238,ec317m6f,30324,Fulton County,"340 Armour Dr NE, Atlanta, GA 30324, USA",33.8129345,-84.377423
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR 68 Flat White,ec330dbq,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,"BEHR PREMIUM® Elastomeric Masonry, Stucco & Brick Paint",ec330dbq,,,,,
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR PR610,ec3a9cdz,,,,,
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR PR510,ec31z3gf,,,,,
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR 437,ec3nwtmw,,,,,
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR PR060,ec34gajr,,,,,
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR HP210,ec3nzehh,,,,,
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR 1300,ec3hb37k,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,BEHR PRO® e500 Exterior Flat Paint,ec31z3gf,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,BEHR® Acrylic-Alkyd Enamel Undercoater,ec3nwtmw,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,BEHR PRO® Concrete & Masonry Primer,ec34gajr,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,BEHR PRO® Waterborne Acrylic Dryfall Flat,ec3nzehh,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,"KILZ® 3 PREMIUM Interior/Exterior Heavy-Duty Primer, Sealer & Stain Blocker",ec3hb37k,,,,,
 Concrete >> ReadyMix,30CN6#67,ec3kp7x0,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
 Concrete >> ReadyMix,40CN4,ec39fgyt,30058,Dekalb County,"7535 Rock Mountain Rd, Lithonia, GA 30058, USA",33.7483542,-84.0797163
 Concrete >> ReadyMix,1632503,ec3gt05d,30318,Fulton County,"1360 Marietta Blvd NW, Atlanta, GA 30318, USA",33.7911081,-84.4318112
@@ -3154,7 +3147,16 @@ Concrete >> ReadyMix,45CAC124,ec328dn9,30337,Fulton County,"2625 Sullivan Rd, At
 OtherMaterials >> Unsupported,Flex MSE Vegetated Wall System,ec35zepq,,,,,
 Concrete >> ReadyMix,10004543,ec3a28jw,30290,Fayette County,"195 Peggy Ln, Tyrone, GA 30290, USA",33.496351,-84.584093
 Concrete >> ReadyMix,50CNF979,ec3td5f7,30324,Fulton,"Armour Drive Northeast, Atlanta, GA 30324",33.81058,-84.38147
+Finishes >> Flooring >> Carpet,ethos® Modular with Dynex,ec3s8eek,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,ethos® Modular Carpet Tile with ECONYL®,ec3nya8d,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,ethos® Modular with Omnicoat Technology® w/ nylon 6'6 face fiber,ec3d2ktk,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
 Concrete >> ReadyMix,EVOBRPRO3,ec32m80j,30290,Fayette County,"1015 Tyrone Rd Ste 720, Tyrone, GA 30290, USA",33.478586,-84.585183
+Finishes >> Flooring >> Carpet,Flex-Aire Modular® Cushion with Dynex,ec3td1tr,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,Flex-Aire Modular® Cushion w/ ECONYL® nylon face fiber,ec3z1e1y,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,Powerbond® w/ Dynex nylon face fiber,ec3zqdmq,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,Powerbond® w/ ECONYL® nylon face fiber,ec3nybn7,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,Powerbond® Hybrid Carpet with Nylon 6'6,ec3ummbz,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,Flex-Aire Modular® Cushion with Nylon 6'6,ec3aa0t7,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
 Concrete >> ReadyMix,40CA6.5PA,ec3xeap0,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
 Finishes >> Flooring >> Carpet,"NA-WellBAC® Comfort R/EN Printworks™ Nylon 6 & 6,6",ec3qgjj5,,,,,
 Concrete >> ReadyMix,Mix 30MASS01,ec3b0rde,30324,Fulton,"Armour Drive Northeast, Atlanta, GA 30324",33.81058,-84.38147
@@ -3226,8 +3228,8 @@ Concrete >> ReadyMix,30CN6V,ec32u1y3,30655,Walton County,"2006 Leroy Anderson Rd
 Finishes >> Flooring >> Carpet,NA-WellBAC® Comfort Solution Dyed Recycled Nylon 6,ec32xj1c,,,,,
 Concrete >> ReadyMix,30CA6V,ec3hncrc,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
 Concrete >> ReadyMix,1632285,ec33b7n2,30337,Fulton County,"2194 W Point Ave, Atlanta, GA 30337, USA",33.6365151,-84.45956729999999
-Finishes >> Flooring >> Carpet,EcoFlex ONE 15 oz,ec3st4q3,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR 875,ec31nwgs,,,,,
+Finishes >> Flooring >> Carpet,EcoFlex™ ONE 15 oz,ec3st4q3,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> PaintingAndCoating >> PaintByArea,BEHR PREMIUM DRYPLUS® Basement & Masonry Waterproofer,ec31nwgs,,,,,
 Finishes >> Flooring >> Carpet,NA-WellBAC® Comfort PrintWorks™ Recycled Nylon 6,ec3c4tfp,,,,,
 Electrical >> ElectricalGenerationEquipment,THERMA V : HM163HF UB60 & HN1639HC NK0,ec3t7gsb,,,,,
 Concrete >> ReadyMix,30CN6V,ec3cyfpb,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
@@ -3468,11 +3470,11 @@ Concrete >> ReadyMix,Mix 40CAF128,ec3bwfa3,30324,Fulton,"Armour Drive Northeast,
 Concrete >> ReadyMix,Mix 40CAF128,ec3tk6r7,30324,Fulton,"Armour Drive Northeast, Atlanta, GA 30324",33.81058,-84.38147
 Concrete >> ReadyMix,K507-1SG,ec3yrgy5,30318,Fulton,"1430 Marietta Boulevard Northwest, Atlanta, GA 30318",33.79411,-84.43239
 Concrete >> ReadyMix,Mix 40CNX51SP,ec3pfy5m,30324,Fulton,"Armour Drive Northeast, Atlanta, GA 30324",33.81058,-84.38147
-Finishes >> Flooring >> Carpet,Tufted Nylon Broadloom Carpet on Weldlok® Backing 30 oz,ec3x4ss7,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,Tufted Nylon Broadloom Carpet on Weldlok®,ec3x4ss7,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
 Concrete >> ReadyMix,Mix 30K3D40NAF,ec3kszbw,30324,Fulton,"Armour Drive Northeast, Atlanta, GA 30324",33.81058,-84.38147
 Concrete >> ReadyMix,Mix 40AAP0016,ec3k86pm,30316,Fulton,"885 Glenwood Avenue Southeast, Atlanta, GA 30316",33.73867,-84.35887
 Concrete >> ReadyMix,Mix 35SAX137,ec3t7unt,30316,Fulton,"885 Glenwood Avenue Southeast, Atlanta, GA 30316",33.73867,-84.35887
-Finishes >> Flooring >> Carpet,Tufted Nylon Broadloom Carpet on Unibond® Plus OnGuard EPD​ 28 oz,ec3872rm,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,Tufted Nylon Carpet on Unibond® Plus OnGuard,ec3872rm,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
 Concrete >> ReadyMix,Mix 40CNF166,ec331019,30316,Fulton,"885 Glenwood Avenue Southeast, Atlanta, GA 30316",33.73867,-84.35887
 Concrete >> ReadyMix,Mix 00dax662,ec3rtdq2,30324,Fulton,"Armour Drive Northeast, Atlanta, GA 30324",33.81058,-84.38147
 Concrete >> ReadyMix,Mix 50CAX139,ec3yu9dk,30324,Fulton,"Armour Drive Northeast, Atlanta, GA 30324",33.81058,-84.38147
@@ -3487,12 +3489,12 @@ Concrete >> ReadyMix,Mix 50CAX139,ec3z1u2q,30316,Fulton,"885 Glenwood Avenue Sou
 Concrete >> ReadyMix,Mix 45CNC0459,ec3ebp30,30316,Fulton,"885 Glenwood Avenue Southeast, Atlanta, GA 30316",33.73867,-84.35887
 Concrete >> ReadyMix,Mix 50JNC04,ec37dxhy,30316,Fulton,"885 Glenwood Avenue Southeast, Atlanta, GA 30316",33.73867,-84.35887
 Concrete >> ReadyMix,Mix X0JNV966,ec323u27,30316,Fulton,"885 Glenwood Avenue Southeast, Atlanta, GA 30316",33.73867,-84.35887
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR 880,ec3sp1b4,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,BEHR PREMIUM® Concrete & Masonry Bonding Primer,ec3sp1b4,,,,,
 Concrete >> ReadyMix,40CAF113,ec3krpr4,30316,Fulton,"885 Glenwood Avenue Southeast, Atlanta, GA 30316",33.73867,-84.35887
 Concrete >> ReadyMix,60JAC0510,ec33bf12,30316,Fulton,"885 Glenwood Avenue Southeast, Atlanta, GA 30316",33.73867,-84.35887
 Concrete >> ReadyMix,40CAF113,ec3mc821,30324,Fulton,"Armour Drive Northeast, Atlanta, GA 30324",33.81058,-84.38147
 Finishes >> Flooring >> Carpet,"NA-WellBAC® Comfort R/EN SDN Nylon 6,6",ec3775qy,,,,,
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR 980,ec34xbgh,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,BEHR PREMIUM® Protector & Waterproofer,ec34xbgh,,,,,
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR 4700,ec31kgbn,,,,,
 Concrete >> ReadyMix,407-1FS,ec3zj091,30331,Fulton County,"2454 Daniel Rd SW, Atlanta, GA 30331, USA",33.6867093,-84.5138829
 Concrete >> ConcretePaving,Mix 006PERV,ec3qat02,30318,Fulton,"1430 Marietta Boulevard Northwest, Atlanta, GA 30318",33.79411,-84.43239
@@ -3660,13 +3662,15 @@ Finishes >> Flooring >> Carpet,"Solution Dyed Nylon 6, WellBAC™ Comfort",ec3qy
 Finishes >> Flooring >> Carpet,"Solution Dyed Nylon 6,6 WellBAC™ Comfort",ec32n0dm,,,,,
 Finishes >> Flooring >> Carpet,WellBAC® Comfort Plus PrintWorks™ Technology Nylon 6: 16oz Face Weight,ec3r6ba4,,,,,
 Finishes >> Flooring >> Carpet,EF Contract PremierBac Plus - Encore SD Ultima Nylon (24 oz face weight),ec359zw2,30720,Whitfield County,"1502 Coronet Dr, Dalton, GA 30720, USA",34.7991546,-84.9654175
-Finishes >> Flooring >> Carpet,Tufted Nylon Broadloom Carpet on Unibond Plus Air Backing,ec3bme3n,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,Tufted Nylon Carpet on Unibond® Plus Air,ec3bme3n,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
 Finishes >> Flooring >> ResilientFlooring,Rigid Core LVT,ec3c6fha,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,Tufted Nylon Carpet on Weldlok OnGuard,ec3fk5uf,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,Tufted Nylon Carpet on Weldlok® OnGuard,ec3fk5uf,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
 Finishes >> Flooring >> ResilientFlooring,Flex 2.5mm LVT,ec3d8cd2,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,Tufted Nylon Carpet on Unibond Plus OnGuard,ec3gf2nw,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,Tufted Nylon on Unibond® Plus OnGuard,ec3gf2nw,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,Tufted Nylon Broadloom Carpet on Weldlok® (Durkan),ec353k23,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
+Finishes >> Flooring >> Carpet,Tufted Nylon Broadloom Carpet on Unibond® Plus OnGuard (Durkan),ec3m8gc9,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
 Finishes >> Flooring >> Carpet,Tufted Nylon Broadloom Carpet on Weldlok® Backing,ec302fr7,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
-Finishes >> Flooring >> Carpet,Tufted Nylon Carpet on Weldlok Air,ec3bmysb,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
+Finishes >> Flooring >> Carpet,Tufted Nylon Carpet on Weldlok® Air,ec3bmysb,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
 Concrete >> ReadyMix,Mix 40SAC0268,ec3q114c,30316,Fulton,"885 Glenwood Avenue Southeast, Atlanta, GA 30316",33.73867,-84.35887
 Concrete >> ReadyMix,Mix 30SAF194,ec3mp7u8,30316,Fulton,"885 Glenwood Avenue Southeast, Atlanta, GA 30316",33.73867,-84.35887
 Concrete >> ReadyMix,Mix 40267-6FS,ec333c0d,30318,Fulton,"1430 Marietta Boulevard Northwest, Atlanta, GA 30318",33.79411,-84.43239
@@ -4003,7 +4007,7 @@ Concrete >> ReadyMix,Mix 1556637,ec37m5t9,30290,Fayette County,"511 Senoia Rd, T
 Concrete >> ReadyMix,Mix 1557878,ec3df42u,30290,Fayette County,"511 Senoia Rd, Tyrone, GA 30290, USA",33.4502555,-84.5989141
 Finishes >> CeilingPanel >> AcousticalCeilings,Armstrong Cleanroom FL & VL Ceiling Systems,ec36cj3x,31206,Macon-Bibb County,"4520 Broadway, Macon, GA 31206",32.77903,-83.65564
 Finishes >> GlassFiberReinforcedGypsumFabrications,CastWorks GRG/GFRG Ceilings & Walls,ec3t21ab,,,,,
-Finishes >> Flooring >> Carpet,Tufted Nylon Broadloom Carpet on Unibond® Plus Backing (Durkan),ec3c7wsc,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
+Finishes >> Flooring >> Carpet,Tufted Nylon Broadloom Carpet on Unibond® Plus (Durkan),ec3c7wsc,30705,Murray,"1149 Duvall Road, Chatsworth, GA 30705",34.79256249999999,-84.7804375
 Finishes >> Flooring >> Carpet,Tufted Nylon Broadloom Carpet on Unibond® Plus Backing,ec3yk43u,30701,Gordon County,"160 S Industrial Blvd, Calhoun, GA 30701, USA",34.4724813,-84.9434654
 Concrete >> ReadyMix,Mix 45CNX0673,ec3wns0q,30080,Cobb County,"2820 Plant Atkinson Rd, Smyrna, GA 30080, USA",33.8329472,-84.4711279
 Concrete >> ReadyMix,Mix 1539097,ec36chju,30534,Dawson County,"171 Easy St, Dawsonville, GA 30534, USA",34.367902,-84.04794
@@ -4239,7 +4243,7 @@ Finishes >> PaintingAndCoating >> PaintByArea,BEHR PR640,ec3au0n1,,,,,
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR PR670,ec3rkrwg,,,,,
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR 9050,ec386uwm,,,,,
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR PR130,ec3k1b8j,,,,,
-Finishes >> PaintingAndCoating >> PaintByArea,BEHR HP150 Interior,ec399p59,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,BEHR PRO® Pre-Catalyzed Waterborne Epoxy Semi-Gloss,ec399p59,,,,,
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR 7900 Interior,ec37tzdm,,,,,
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR 2450,ec38h07y,,,,,
 Finishes >> PaintingAndCoating >> PaintByArea,BEHR 2750,ec32rjwg,,,,,
@@ -4257,4 +4261,55 @@ Finishes >> Flooring >> Carpet,CN-WellBAC® Function Solution Dyed rN6,ec3wmmp7,
 Concrete >> ReadyMix,40CA2.5PA,ec3qcpb7,30046,Gwinnett County,"500 Seaboard Industrial Dr, Lawrenceville, GA 30046, USA",33.9699617,-83.96688759999999
 Concrete >> ReadyMix,30CN3,ec3yzj4g,30046,Gwinnett County,"500 Seaboard Industrial Dr, Lawrenceville, GA 30046, USA",33.9699617,-83.96688759999999
 Concrete >> ReadyMix,30CN3,ec3jd9d7,30046,Gwinnett County,"500 Seaboard Industrial Dr, Lawrenceville, GA 30046, USA",33.9699617,-83.96688759999999
+Concrete >> ReadyMix,15CN2LF#89,ec3rncb2,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
 Concrete >> ReadyMix,10005124,ec3qrk0k,31086,Monroe County,"2803 US-41, Smarr, GA 31086, USA",32.9820195,-83.8788794
+Concrete >> ReadyMix,15CN2LF#89,ec33kz3f,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
+Concrete >> ReadyMix,25CN3#89,ec31t7j8,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
+Finishes >> Flooring >> Carpet,NA-WellBAC® Comfort PrintWorks™ Recycled Nylon 6,ec35ag9q,,,,,
+Finishes >> Gypsum,XP Gypsum Board 1/2 inch,ec3thfe3,,,,,
+Finishes >> Flooring >> Carpet,GlasBac® Modular Carpet on Nylon,ec364fth,30240,Troup,"1503 Orchard Hill Road, Lagrange, GA 30240",33.002754,-85.054565
+Concrete >> ReadyMix,25CN3#89,ec3qf3tk,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
+Finishes >> CeilingPanel >> AcousticalCeilings,FeltWorks® Acoustical Panels,ec3ersgq,,,,,
+Concrete >> ReadyMix,15CN2LF#89,ec30rb08,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
+Concrete >> ReadyMix,40CA3.5#67,ec35c2xy,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
+Finishes >> Gypsum,XP Fire-Shield Gypsum Board 5/8 inch,ec3xnmag,,,,,
+Concrete >> ReadyMix,50CA4.5#67,ec39phr8,30046,Gwinnett County,"500 Seaboard Industrial Dr, Lawrenceville, GA 30046, USA",33.9699617,-83.96688759999999
+Concrete >> ReadyMix,50CA4.5#67,ec3dnrrt,30046,Gwinnett County,"500 Seaboard Industrial Dr, Lawrenceville, GA 30046, USA",33.9699617,-83.96688759999999
+Finishes >> Flooring >> Carpet,Powerbond® w/ Dynex nylon face fiber,ec3qwqeh,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,Powerbond® w/ Dynex nylon face fiber,ec3e4u79,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Finishes >> Flooring >> Carpet,Powerbond® w/ Dynex nylon face fiber,ec3dxx6f,30721,Whitfield,"311 Smith Industrial Boulevard, Dalton, GA 30721",34.7972,-84.95996
+Concrete >> ReadyMix,50CA2.5#67,ec31cbdr,30046,Gwinnett County,"500 Seaboard Industrial Dr, Lawrenceville, GA 30046, USA",33.9699617,-83.96688759999999
+Concrete >> ReadyMix,10005307,ec389jnm,30290,Fayette County,"195 Peggy Ln, Tyrone, GA 30290, USA",33.496351,-84.584093
+OtherElectricalEquipment,PULSE 400,ec3k1zwu,,,,,
+Concrete >> ReadyMix,30CN2,ec301s5k,30046,Gwinnett County,"500 Seaboard Industrial Dr, Lawrenceville, GA 30046, USA",33.9699617,-83.96688759999999
+Concrete >> ReadyMix,Mix 30K1D40AEX,ec3cw1s9,30080,Cobb County,"2820 Plant Atkinson Rd, Smyrna, GA 30080, USA",33.8329472,-84.4711279
+Concrete >> ReadyMix,Mix 30K3D42AEX,ec3ejess,30080,Cobb County,"2820 Plant Atkinson Rd, Smyrna, GA 30080, USA",33.8329472,-84.4711279
+Concrete >> ReadyMix,40CA3.5PA,ec366pkx,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
+Concrete >> ReadyMix,Mix 45CAC124,ec3e94fp,30080,Cobb County,"2820 Plant Atkinson Rd, Smyrna, GA 30080, USA",33.8329472,-84.4711279
+Concrete >> ReadyMix,35CA3,ec3rn0sf,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
+Concrete >> ReadyMix,40CN3.5#67,ec3crq5f,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
+Concrete >> ReadyMix,Mix 45JNX0986,ec33y5sj,30080,Cobb County,"2820 Plant Atkinson Rd, Smyrna, GA 30080, USA",33.8329472,-84.4711279
+Concrete >> ReadyMix,25CA3,ec3b6e6m,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
+Concrete >> ReadyMix,Mix 45JNC0436,ec3msntk,30080,Cobb County,"2820 Plant Atkinson Rd, Smyrna, GA 30080, USA",33.8329472,-84.4711279
+Concrete >> ReadyMix,30CA3.9#67,ec3jqkeg,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
+Electrical >> ElectricalGenerationEquipment,KCHH067LDGC,ec3863af,,,,,
+Concrete >> ReadyMix,40CA3.5HC,ec3kq3z9,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
+Concrete >> ReadyMix,30CN3#89,ec3j4sxx,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
+Finishes >> Flooring >> Carpet,CN-WellBAC® Function Solution Dyed rN6,ec3apdu1,,,,,
+Finishes >> Flooring >> OtherFlooring,CN-WellBAC® Comfort and Comfort Plus PrintWorks™ rN6,ec3u68ta,,,,,
+Steel >> ColdFormedSteel,#corrected_at_ec34b3zw Cold-Formed Steel Framing Systems,ec3hw1q8,,,,,
+Finishes >> PaintingAndCoating >> PaintByArea,VOCOMP-20,ec3pbh81,,Bartow County,"Cartersville, GA, USA",34.1650972,-84.7999382
+Concrete >> ReadyMix,10004983,ec3fuf03,30234,Butts County,"2420 GA-42, Jenkinsburg, GA 30234, USA",33.32119640000001,-84.0493122
+Electrical >> ElectricalConduit,"Solid Wall PVC Conduit of Trade Sizes Greater Than or Equal to 2""",ec322j54,31792,Thomas County,"1206 Sunset Dr, Thomasville, GA 31792, USA",30.8229896,-83.9984806
+Finishes >> PaintingAndCoating >> PaintByArea,VOCOMP-25,ec31q3a4,,Bartow County,"Cartersville, GA, USA",34.1650972,-84.7999382
+Finishes >> PaintingAndCoating >> PaintByArea,VOCOMP-30,ec35mdwc,,Bartow County,"Cartersville, GA, USA",34.1650972,-84.7999382
+Finishes >> Flooring >> Carpet,CN-WellBAC® Function PrintWorks™ N6,ec3trggk,,,,,
+Finishes >> Flooring >> OtherFlooring,CN-WellBAC® Comfort and Comfort Plus Solution Dyed rN6,ec3pwmns,,,,,
+ThermalMoistureProtection >> AirBarriers,AIR-SHIELD TMP,ec3h5efn,,Bartow County,"Cartersville, GA, USA",34.1650972,-84.7999382
+Finishes >> Flooring >> OtherFlooring,CN-WellBAC® Comfort and Comfort Plus PrintWorks™ N6,ec3b1646,,,,,
+Finishes >> Flooring >> Carpet,Nylon Carpet Tile,ec3ssfm7,,,,,
+Finishes >> Flooring >> Carpet,CN-WellBAC® Function Solution Dyed N6,ec3qq4y1,,,,,
+ThermalMoistureProtection >> AirBarriers,AIR-SHIELD LMP,ec36hmq4,,Bartow County,"Cartersville, GA, USA",34.1650972,-84.7999382
+Concrete >> ReadyMix,30CN2,ec36x41d,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
+Concrete >> ReadyMix,30CN3#89,ec3czzcm,30655,Walton County,"2006 Leroy Anderson Rd, Monroe, GA 30655, USA",33.759935,-83.70338699999999
+ThermalMoistureProtection >> AirBarriers,AIR-SHIELD LSR,ec3wqja9,,Bartow County,"Cartersville, GA, USA",34.1650972,-84.7999382

@@ -27,7 +27,7 @@ category:
   id: ce2498926db44d0d9177c7bfdf3520c0
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 491.7 kg
+  mass_per_declared_unit: 466.7 kg
   massless: false
   masterformat: 06 11 00 Wood Framing
   may_contain_trusted_vendor_declarations: false
@@ -37,22 +37,22 @@ category:
   openepd: Wood >> DimensionLumber >> WoodFraming
   openepd_name: Wood >> DimensionLumber >> WoodFraming
   parents: []
-  pct10_gwp: 37.32613213 kgCO2e
-  pct20_gwp: 44.65710077 kgCO2e
-  pct30_gwp: 50.60753914 kgCO2e
-  pct40_gwp: 58.83690297 kgCO2e
-  pct50_gwp: 68.30908154 kgCO2e
-  pct60_gwp: 78.19421155 kgCO2e
-  pct70_gwp: 90.31815529 kgCO2e
-  pct80_gwp: 107.4784818 kgCO2e
-  pct90_gwp: 136.2919512 kgCO2e
+  pct10_gwp: 45.22503101 kgCO2e
+  pct20_gwp: 56.93818497 kgCO2e
+  pct30_gwp: 68.48283884 kgCO2e
+  pct40_gwp: 80.09542913 kgCO2e
+  pct50_gwp: 90.9641968 kgCO2e
+  pct60_gwp: 101.9749726 kgCO2e
+  pct70_gwp: 115.705244 kgCO2e
+  pct80_gwp: 135.3705298 kgCO2e
+  pct90_gwp: 158.099112 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Wood Framing
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103603'
-  updated_on: '2025-05-28T10:04:55.038252Z'
+  updated_on: '2025-07-31T11:19:06.506187Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []

@@ -37,22 +37,22 @@ category:
   openepd: Steel >> StructuralSteel >> HollowSections
   openepd_name: Steel >> StructuralSteel >> HollowSections
   parents: []
-  pct10_gwp: 1362.11014 kgCO2e
-  pct20_gwp: 1565.934733 kgCO2e
-  pct30_gwp: 1719.458024 kgCO2e
-  pct40_gwp: 1837.028111 kgCO2e
-  pct50_gwp: 1943.832071 kgCO2e
-  pct60_gwp: 2123.457245 kgCO2e
-  pct70_gwp: 2239.17907 kgCO2e
-  pct80_gwp: 2457.581402 kgCO2e
-  pct90_gwp: 3099.456227 kgCO2e
+  pct10_gwp: 1310.653339 kgCO2e
+  pct20_gwp: 1507.526178 kgCO2e
+  pct30_gwp: 1664.823798 kgCO2e
+  pct40_gwp: 1796.442606 kgCO2e
+  pct50_gwp: 1917.928797 kgCO2e
+  pct60_gwp: 2104.260473 kgCO2e
+  pct70_gwp: 2232.900394 kgCO2e
+  pct80_gwp: 2442.963977 kgCO2e
+  pct90_gwp: 3157.012012 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Hollow Sections
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30104000'
-  updated_on: '2025-05-28T10:04:49.847219Z'
+  updated_on: '2025-07-31T11:19:01.221834Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []

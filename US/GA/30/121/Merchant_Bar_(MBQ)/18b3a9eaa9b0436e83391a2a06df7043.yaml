@@ -40,8 +40,8 @@ category:
   pct10_gwp: 629.5305334 kgCO2e
   pct20_gwp: 681.7251123 kgCO2e
   pct30_gwp: 751.1695251 kgCO2e
-  pct40_gwp: 798.9133508 kgCO2e
-  pct50_gwp: 853.0094741 kgCO2e
+  pct40_gwp: 815.8889333 kgCO2e
+  pct50_gwp: 859.9071248 kgCO2e
   pct60_gwp: 900.0901873 kgCO2e
   pct70_gwp: 918.1985106 kgCO2e
   pct80_gwp: 1001.681512 kgCO2e
@@ -51,7 +51,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-05-28T10:04:50.561336Z'
+  updated_on: '2025-07-31T11:19:01.921985Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
@@ -476,8 +476,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

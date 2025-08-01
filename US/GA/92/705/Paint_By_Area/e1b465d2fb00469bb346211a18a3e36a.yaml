@@ -24,7 +24,7 @@ category:
   id: 39f098d4c80648cbb524169224288ad5
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 0.115 kg
+  mass_per_declared_unit: 0.1141666667 kg
   massless: false
   masterformat: 09 90 00 Painting and Coating
   may_contain_trusted_vendor_declarations: false
@@ -34,20 +34,20 @@ category:
   openepd: Finishes >> PaintingAndCoating >> PaintByArea
   openepd_name: Finishes >> PaintingAndCoating >> PaintByArea
   parents: []
-  pct10_gwp: 0.1787545081 kgCO2e
-  pct20_gwp: 0.2411426112 kgCO2e
-  pct30_gwp: 0.2730091908 kgCO2e
-  pct40_gwp: 0.3061110925 kgCO2e
-  pct50_gwp: 0.3436867234 kgCO2e
-  pct60_gwp: 0.3928025845 kgCO2e
-  pct70_gwp: 0.526131744 kgCO2e
-  pct80_gwp: 0.7882982809 kgCO2e
-  pct90_gwp: 1.598451884 kgCO2e
+  pct10_gwp: 0.1786523817 kgCO2e
+  pct20_gwp: 0.2361166168 kgCO2e
+  pct30_gwp: 0.2692688767 kgCO2e
+  pct40_gwp: 0.3049426583 kgCO2e
+  pct50_gwp: 0.3409364837 kgCO2e
+  pct60_gwp: 0.3867191532 kgCO2e
+  pct70_gwp: 0.505207738 kgCO2e
+  pct80_gwp: 0.7625262679 kgCO2e
+  pct90_gwp: 1.576555436 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-05-28T10:04:54.206506Z'
+  updated_on: '2025-07-31T11:19:05.695315Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -59,12 +59,12 @@ date_of_issue: '2024-08-26'
 date_validity_ends: '2029-08-26'
 declaration_type: Product EPD
 declared_unit: 12 m2
-density: 640 kg / m^3
-description: A water-based interior primer recommended for new and previously coated
-  drywall and plasterboard walls and ceilings. Spray application can save time by
-  combining the skim coat operation with the prime application. It helps hide minor
-  surface defects, minimizes joint banding & photographing and equalizes the porosity
-  of the surface. GREENGUARD GOLD certified.
+density: 640 kg / m3
+description: "BEHR PRO\xAE High Build Interior Primer is recommended for new and previously\
+  \ coated drywall and plasterboard walls and ceilings. Spray application can save\
+  \ time by combining the skim coat operation with the prime application. It helps\
+  \ hide minor surface defects, minimizes joint banding & photographing and equalizes\
+  \ the porosity of the surface."
 developer:
   email: maggie@wapsustainability.com
   name: Maggie Wildnauer
@@ -169,8 +169,9 @@ gwp_per_category_declared_unit: 0.5458333333 kgCO2e
 gwp_per_kg: 0.8889793702 kgCO2e
 gwp_z: 0.28879058156387305
 id: 788ad5056fa7404ea9e51cf90fbbc662
-image: https://static.buildingtransparency.org/images/c00e85d685a24eeca47a045844bf5140.png
+image: https://static.buildingtransparency.org/images/c0f85984313043239101e79c6befbe62.png
 impacts: {}
+industry_standards: []
 is_downloadable: true
 is_duplicate: false
 is_failed: false
@@ -270,7 +271,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2025-05-13T16:25:56.686361Z'
+  updated_on: '2025-07-22T02:01:26.877132Z'
   web_domain: behr.com
   website: https://www.behr.com/pro
 manufacturer_specific: true
@@ -279,7 +280,7 @@ matched_plants_count: 1
 material_id: e1b465d2fb00469bb346211a18a3e36a
 multiproduct: false
 my_capabilities: 1
-name: BEHR PR040
+name: "BEHR PRO\xAE High Build Interior Primer"
 not_an_epd: false
 open_xpd_uuid: ec3ahpr9
 original_data_format: pdf_mixed
@@ -322,10 +323,10 @@ pcr:
   version: '3'
 pct80_gwp_per_category_declared_unit: 0.6784960254 kgCO2e
 plant_geography:
-- US-IL
-- US
-- US-CA
 - US-TX
+- US
+- US-IL
+- US-CA
 - US-PA
 - US-GA
 plant_or_group:
@@ -432,15 +433,16 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2025-05-13T16:25:56.686361Z'
+    updated_on: '2025-07-22T02:01:26.877132Z'
     web_domain: behr.com
     website: https://www.behr.com/pro
   plants_count: 5
-  total_epds: 75
+  total_epds: 74
   type: PlantGroup
-  updated_on: '2025-05-07T17:50:17.959834Z'
+  updated_on: '2025-06-03T22:00:03.290529Z'
 plant_specific: false
 private: false
+product_classes: {}
 product_specific: true
 program_operator:
   address: 2211 New Market Parkway Southeast, Marietta, GA 30067
@@ -501,8 +503,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -529,13 +531,14 @@ requires_ocr: false
 resource_uses: {}
 sanitizable: true
 short_link: buildingtransparency.org/e/ec3ahpr988
+sku: PR040
 standard_deviation: 1.891578309 kgCO2e
 stored_carbon_z: 0.2
 supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 8.141952305 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-05-01T22:55:21.423328Z'
+updated_on: '2025-06-03T21:20:29.647542Z'
 use_stored_carbon: false
 verifier:
   email: cooper.mccollum@ul.com
@@ -599,8 +602,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - US
     - CA
+    - US
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -624,6 +627,7 @@ verifier:
 warnings:
   impacts:
   - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   language:

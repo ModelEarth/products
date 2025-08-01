@@ -1,0 +1,329 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '1915785858556'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2022-06-27T14:51:27Z'
+  declared_unit: 1 kW
+  default_distance: 212.43288 km
+  default_transport_mode: truck, unspecified
+  description: Equipment for generating electrical power. This category is primarily
+    for smaller-scale (e.g. on premises) generation, rather than utility-scale equipment.
+  display_name: ElectricalGenerationEquipment
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: a3c7f70668264f5ba750ae1a03362d95
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  massless: true
+  masterformat: 26 00 00 Electrical
+  may_contain_trusted_vendor_declarations: false
+  name: ElectricalGenerationEquipment
+  no_statistics: false
+  obsolete: false
+  openepd: Electrical >> ElectricalGenerationEquipment
+  openepd_name: Electrical >> ElectricalGenerationEquipment
+  parents: []
+  pct10_gwp: 45.226794 kgCO2e
+  pct20_gwp: 60.01753773 kgCO2e
+  pct30_gwp: 74.78567748 kgCO2e
+  pct40_gwp: 89.72916063 kgCO2e
+  pct50_gwp: 175.4539189 kgCO2e
+  pct60_gwp: 175.7237446 kgCO2e
+  pct70_gwp: 316.4310191 kgCO2e
+  pct80_gwp: 864.5080098 kgCO2e
+  pct90_gwp: 1186.247243 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Generation
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-07-31T11:19:15.847049Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-07-06T05:33:31.295536Z'
+date_of_issue: '2025-06-01'
+date_validity_ends: '2030-06-01'
+declaration_type: Product EPD
+declared_unit: 1 kW
+description: "Assurer le chauffage ou le refroidissement \xE0 l\u2019aide de Pompe\
+  \ \xE0 chaleur de 240.6kW (puissance calorifique) pour une dur\xE9e de vie de r\xE9\
+  f\xE9rence de 22 ans du produit"
+doc: buildingtransparency.org/e/ec3863afes
+document_version: '01.01'
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP impact not specified
+file_name: KCHH067LDGC_cf556bf728733dbb3aaaa274ee0197a0a8fb072e.pdf
+id: 3c817911c4524a6f87a4b7c8acb777f8
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: fr
+manufacturer:
+  address: South Korea
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/lg-hausys
+  confirmable_fields: []
+  confirmed_fields: []
+  country: KR
+  cqd_sync_unlocked: true
+  created_on: '2020-07-22T17:59:31.563340Z'
+  enterprise: true
+  id: 9050b939ff5c481d951e5fccb97efc12
+  is_failed: false
+  latitude: 37.56829
+  location:
+    country: South Korea
+    countryCode: KR
+    countryCodeISO3: KOR
+    freeformAddress: South Korea
+  longitude: 126.99778
+  name: LG Hausys
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/9050b939ff5c481d951e5fccb97efc12
+  password_login_allowed: true
+  pilot_all_employees: false
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T12:54:45.462524Z'
+  web_domain: lghausys.com
+  website: http://www.lghausys.com/main.jsp
+manufacturer_specific: true
+matched_plants_count: 1
+material_id: d50374229f8e40e38be06f5421d03c2a
+multiproduct: false
+my_capabilities: 1
+name: KCHH067LDGC
+not_an_epd: false
+open_xpd_uuid: ec3863af
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3863af
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Product Category Rules for Electrical, Electronic and HVAC-R Products
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-26T23:17:55.975094Z'
+  date_of_issue: '2021-09-06'
+  date_validity_ends: '2026-09-06'
+  declared_units:
+  - 1 m
+  - 1 unit
+  - 1 kW
+  doc: https://register.pep-ecopassport.org/documents/public/PCR-4-EN
+  id: 5302782c7af74fa88bf8a5b4f552d205
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 1
+  name: Product Category Rules for Electrical, Electronic and HVAC-R Products
+  open_xpd_uuid: ec3qpee3
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qpee3
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3qpee337
+  short_name: Electrical, Electronic and HVAC-R Products
+  status: Published
+  updated_on: '2025-07-31T21:50:08.274194Z'
+  version: '4'
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-06-01T12:32:32.234789Z'
+  id: 67a441a554764412bf184c42fc7667a8
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: USA, South Korea
+  owned_by:
+    address: South Korea
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/lg-hausys
+    confirmable_fields: []
+    confirmed_fields: []
+    country: KR
+    cqd_sync_unlocked: true
+    created_on: '2020-07-22T17:59:31.563340Z'
+    enterprise: true
+    id: 9050b939ff5c481d951e5fccb97efc12
+    is_failed: false
+    latitude: 37.56829
+    location:
+      country: South Korea
+      countryCode: KR
+      countryCodeISO3: KOR
+      freeformAddress: South Korea
+    longitude: 126.99778
+    name: LG Hausys
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/9050b939ff5c481d951e5fccb97efc12
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T12:54:45.462524Z'
+    web_domain: lghausys.com
+    website: http://www.lghausys.com/main.jsp
+  plants_count: 2
+  total_epds: 5
+  type: PlantGroup
+  updated_on: '2025-07-06T11:40:43.118447Z'
+plant_specific: false
+private: false
+product_classes:
+  PEP Ecopassport: Heating, ventilation and air conditioning equipement -> Heating
+    and/or air conditioning and/or hot water heating -> Domestic heat pumps -> Air/Water
+product_specific: true
+program_operator:
+  address: 17 Rue de l'Amiral Hamelin, Paris, 75116
+  address_line: 17 Rue de l'Amiral Hamelin
+  admin_district: "\xCEle-de-France"
+  admin_district2: Paris
+  alt_names:
+  - 'P.E.P. '
+  - P.E.P. Association
+  - PEP Ecopassport
+  - PEP ECOPASSPORT
+  confirmable_fields: []
+  confirmed_fields: []
+  country: FR
+  cqd_sync_unlocked: true
+  created_on: '2020-03-20T16:26:04.700448Z'
+  email_extensions:
+  - pep-ecopassport.org
+  enterprise: true
+  id: deed9ea7ead94df4b981dc9983a0fd67
+  is_failed: false
+  latitude: 48.86705
+  locality: Paris
+  location:
+    country: France
+    countryCode: FR
+    countryCodeISO3: FRA
+    countrySecondarySubdivision: Paris
+    countrySubdivision: "\xCEle-de-France"
+    freeformAddress: 17 Rue de l'Amiral Hamelin, Paris, 75116
+    localName: Paris
+    municipality: Paris
+    municipalitySubdivision: "16\xE8me Arrondissement"
+    postalCode: '75116'
+    streetName: Rue de l'Amiral Hamelin
+    streetNumber: '17'
+  longitude: 2.29208
+  name: Association P.E.P
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/deed9ea7ead94df4b981dc9983a0fd67
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - FR
+  postal_code: '75116'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2025-05-16T14:29:39.996215Z'
+  web_domain: pep-ecopassport.org
+  website: http://www.pep-ecopassport.org/
+program_operator_fkey: LLGC-00001
+reference_service_life: 22 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3863afes
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2025-07-06T05:33:54.082424Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  verifier:
+  - Missing link

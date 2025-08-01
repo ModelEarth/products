@@ -30,21 +30,21 @@ category:
   openepd_name: Cladding
   parents: []
   pct10_gwp: 5.139751552 kgCO2e
-  pct20_gwp: 10.65159095 kgCO2e
-  pct30_gwp: 15.42999003 kgCO2e
-  pct40_gwp: 21.15401859 kgCO2e
-  pct50_gwp: 27.10826852 kgCO2e
-  pct60_gwp: 32.60207571 kgCO2e
-  pct70_gwp: 39.90492086 kgCO2e
-  pct80_gwp: 50.64520921 kgCO2e
-  pct90_gwp: 73.45330565 kgCO2e
+  pct20_gwp: 10.62175829 kgCO2e
+  pct30_gwp: 15.47629544 kgCO2e
+  pct40_gwp: 21.32551163 kgCO2e
+  pct50_gwp: 27.25135336 kgCO2e
+  pct60_gwp: 33.13640942 kgCO2e
+  pct70_gwp: 40.1799673 kgCO2e
+  pct80_gwp: 50.64977546 kgCO2e
+  pct90_gwp: 74.66885389 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Cladding
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30151800'
-  updated_on: '2025-05-28T10:04:59.244039Z'
+  updated_on: '2025-07-31T11:19:10.128448Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -159,7 +159,7 @@ developer:
     primary_activity_design: false
     primary_activity_digitization_qa: false
     primary_activity_education: false
-    primary_activity_epd_developer: false
+    primary_activity_epd_developer: true
     primary_activity_forest_practices_certification: false
     primary_activity_general_contractor: false
     primary_activity_industry_association: false
@@ -171,7 +171,7 @@ developer:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2024-08-30T23:41:13.973616Z'
+    updated_on: '2025-06-10T22:47:30.631306Z'
     web_domain: certainteed.com
     website: www.certainteed.com
 doc: smartepd.com/epd-library/65fae166751fe0a53dcc612e
@@ -281,7 +281,7 @@ manufacturer:
   primary_activity_design: false
   primary_activity_digitization_qa: false
   primary_activity_education: false
-  primary_activity_epd_developer: false
+  primary_activity_epd_developer: true
   primary_activity_forest_practices_certification: false
   primary_activity_general_contractor: false
   primary_activity_industry_association: false
@@ -293,7 +293,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2024-08-30T23:41:13.973616Z'
+  updated_on: '2025-06-10T22:47:30.631306Z'
   web_domain: certainteed.com
   website: www.certainteed.com
 manufacturer_specific: true
@@ -475,7 +475,7 @@ plant_or_group:
     primary_activity_design: false
     primary_activity_digitization_qa: false
     primary_activity_education: false
-    primary_activity_epd_developer: false
+    primary_activity_epd_developer: true
     primary_activity_forest_practices_certification: false
     primary_activity_general_contractor: false
     primary_activity_industry_association: false
@@ -487,7 +487,7 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2024-08-30T23:41:13.973616Z'
+    updated_on: '2025-06-10T22:47:30.631306Z'
     web_domain: certainteed.com
     website: www.certainteed.com
   postal_code: '30025'

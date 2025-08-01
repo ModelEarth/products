@@ -1,0 +1,562 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: true
+best_practice: 181.2677376 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '1918488184389'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2019-06-06T12:54:53.453826Z'
+  declared_unit: 1 m3
+  default_distance: 939.85456 km
+  default_transport_mode: truck, unspecified
+  description: Engineered heavy timber products including glue laminated (glulam),
+    cross-laminated timber (CLT), dowel laminated timber (DLT), and nail laminated
+    timber (NLT)
+  display_name: Mass Timber
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: ef49fef3f7c240e18d6f32dfd9583bfc
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 506 kg
+  massless: false
+  masterformat: 06 18 00 Glued-Laminated Construction
+  may_contain_trusted_vendor_declarations: false
+  name: MassTimber
+  no_statistics: false
+  obsolete: false
+  openepd: Wood >> MassTimber
+  openepd_name: Wood >> MassTimber
+  parents: []
+  pct10_gwp: 77.57328273 kgCO2e
+  pct20_gwp: 86.63723231 kgCO2e
+  pct30_gwp: 97.9320677 kgCO2e
+  pct40_gwp: 109.4736767 kgCO2e
+  pct50_gwp: 117.3935908 kgCO2e
+  pct60_gwp: 141.2955217 kgCO2e
+  pct70_gwp: 159.8445703 kgCO2e
+  pct80_gwp: 203.6445814 kgCO2e
+  pct90_gwp: 314.8215707 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Mass Timber
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103602'
+  updated_on: '2025-07-31T11:19:06.885445Z'
+  use_stored_carbon: REQUIRED
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 297.6722624 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-07-08T22:13:59.516554Z'
+date_of_issue: '2021-03-31'
+date_validity_ends: '2026-03-31'
+declaration_type: Product EPD
+declared_unit: 1 m3
+description: "VersaWorks\u2122 Veneer Laminated Timber (VLT) and Versa-Lam\xAE Laminated\
+  \ Veneer Lumber (LVL) is an engineered wood product comprised of thin layers of\
+  \ wood called veneers that are laid up, glued, and pressed to produce structural\
+  \ sized members. Mass timber VersaWorks\u2122 VLT products are based on Versa-Lam\xAE\
+  \ LVL product component, produced using the same machinery and with the same composition,\
+  \ but assembled in larger product dimensions so that it may be used in mass timber\
+  \ design."
+developer:
+  email: james.salazar@athenasmi.org
+  name: James Salazar
+  org:
+    address: 119 Ross Avenue, Ottawa, ON K1Y0N6
+    address_line: 119 Ross Avenue
+    admin_district: 'ON'
+    admin_district2: Ottawa
+    alt_names:
+    - Athena
+    - Athena Sustainable Materials
+    - ASMI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T22:28:52.429990Z'
+    email_extensions:
+    - athenasmi.org
+    enterprise: true
+    id: 147e1a4c1dd1410fa996fcd07477e3e4
+    image: https://static.buildingtransparency.org/images/2c8c6248-00b5-4d92-b61e-f2f0cbbd0820.png
+    is_failed: false
+    latitude: 45.398754
+    legal_name: Athena Sustainable Materials Institute
+    locality: Ottawa
+    location:
+      boundingBox:
+        entity: position
+        northEast: 45.398761,-75.737346
+        southWest: 45.398554,-75.737470
+      buildingNumber: '119'
+      country: Canada
+      countryCode: CA
+      countryCodeISO3: CAN
+      countrySecondarySubdivision: Ottawa
+      countrySubdivision: 'ON'
+      countrySubdivisionName: Ontario
+      extendedPostalCode: K1Y0N6
+      freeformAddress: 119 Ross Avenue, Ottawa, ON K1Y0N6
+      municipality: Ottawa
+      municipalitySubdivision: Ottawa
+      postalCode: K1Y
+      routeNumbers: []
+      street: Ross Avenue
+      streetName: Ross Avenue
+      streetNameAndNumber: 119 Ross Avenue
+      streetNumber: '119'
+    longitude: -75.737465
+    name: Athena Sustainable Materials Institute
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/147e1a4c1dd1410fa996fcd07477e3e4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: K1Y
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-06-03T19:19:00.256226Z'
+    web_domain: athenasmi.org
+    website: athenasmi.org
+doc: buildingtransparency.org/e/ec3fj8tfb5
+errors:
+  pcr:
+  - Missing link
+excluded: false
+externally_verified: true
+failures: {}
+file_name: EC3_Veneer_BoiseCascade_VLT and LVL.pdf
+forest_practices_certifiers: []
+gwp: 239.47 kgCO2e
+gwp_per_category_declared_unit: 239.47 kgCO2e
+gwp_per_kg: 0.4953868432 kgCO2e
+gwp_z: 0.28879058156387305
+id: cc8963ceaadc48c1be27db1a16053646
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 181.2677376 kgCO2e
+manufacturer:
+  address: 1111 West Jefferson Street, Boise, ID 83702
+  address_line: 1111 West Jefferson Street
+  admin_district: ID
+  admin_district2: Ada
+  alt_names:
+  - Boise Cascade LLC
+  - Boise Cascade Wood Products
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/boise-cascade
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-07-20T17:46:10.652892Z'
+  email_extensions:
+  - bc.com
+  enterprise: true
+  id: 3edf23a5992b48b5beb538137b366709
+  image: https://static.buildingtransparency.org/images/ee35f39d672b46af87848d56c214f7bc.png
+  is_failed: false
+  latitude: 43.61957
+  locality: Boise
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ada
+    countrySubdivision: ID
+    countrySubdivisionName: Idaho
+    extendedPostalCode: '837025383'
+    freeformAddress: 1111 West Jefferson Street, Boise, ID 83702
+    localName: Boise
+    municipality: Boise
+    municipalitySubdivision: Downtown Boise
+    postalCode: '83702'
+    streetName: West Jefferson Street
+    streetNumber: '1111'
+  longitude: -116.20546
+  name: Boise Cascade
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3edf23a5992b48b5beb538137b366709
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '83702'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T12:25:14.171383Z'
+  web_domain: bc.com
+  website: https://www.bc.com/
+manufacturer_specific: true
+mass_per_declared_unit: 483.4 kg
+matched_plants_count: 0
+material_id: 4a7a0976ebe246bb9f23dbc333eeb689
+multiproduct: true
+my_capabilities: 1
+name: VersaWorks Veneer Laminated Timber (VLT)
+not_an_epd: false
+open_xpd_uuid: ec3fj8tf
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3fj8tf
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pct80_gwp_per_category_declared_unit: 297.6722624 kgCO2e
+plant_geography:
+- US-OR
+plant_or_group:
+  address: 1155 Antelope Rd, White City, OR 97503, USA
+  address_line: 1155 Antelope Rd
+  admin_district: OR
+  admin_district2: Jackson County
+  carbon_intensity: 643.363 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2023-03-08T17:02:41.658918Z'
+  id: d59aa6f28bce4bf2af56fd7b74fed369
+  is_failed: false
+  latitude: 42.4284503
+  locality: White City
+  location:
+  - long_name: '1155'
+    short_name: '1155'
+    types:
+    - street_number
+  - long_name: Antelope Road
+    short_name: Antelope Rd
+    types:
+    - route
+  - long_name: White City
+    short_name: White City
+    types:
+    - locality
+    - political
+  - long_name: Jackson County
+    short_name: Jackson County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Oregon
+    short_name: OR
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '97503'
+    short_name: '97503'
+    types:
+    - postal_code
+  - long_name: '1639'
+    short_name: '1639'
+    types:
+    - postal_code_suffix
+  longitude: -122.8709913
+  name: White City, OR
+  openepd_id: 84JVC4HH+9J.bc.com
+  owned_by:
+    address: 1111 West Jefferson Street, Boise, ID 83702
+    address_line: 1111 West Jefferson Street
+    admin_district: ID
+    admin_district2: Ada
+    alt_names:
+    - Boise Cascade LLC
+    - Boise Cascade Wood Products
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/boise-cascade
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-07-20T17:46:10.652892Z'
+    email_extensions:
+    - bc.com
+    enterprise: true
+    id: 3edf23a5992b48b5beb538137b366709
+    image: https://static.buildingtransparency.org/images/ee35f39d672b46af87848d56c214f7bc.png
+    is_failed: false
+    latitude: 43.61957
+    locality: Boise
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ada
+      countrySubdivision: ID
+      countrySubdivisionName: Idaho
+      extendedPostalCode: '837025383'
+      freeformAddress: 1111 West Jefferson Street, Boise, ID 83702
+      localName: Boise
+      municipality: Boise
+      municipalitySubdivision: Downtown Boise
+      postalCode: '83702'
+      streetName: West Jefferson Street
+      streetNumber: '1111'
+    longitude: -116.20546
+    name: Boise Cascade
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3edf23a5992b48b5beb538137b366709
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '83702'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T12:25:14.171383Z'
+    web_domain: bc.com
+    website: https://www.bc.com/
+  postal_code: '97503'
+  total_epds: 6
+  type: Plant
+  units: SI
+  updated_on: '2025-07-19T12:28:01.094714Z'
+plant_specific: false
+private: false
+product_specific: true
+program_operator:
+  address: 100 Barr Harbor Dr, Conshohocken, PA 19428, USA
+  address_line: 100 Barr Harbor Dr
+  admin_district: PA
+  admin_district2: Montgomery County
+  alt_names:
+  - astm
+  - ASTMInternational
+  attachments:
+    Programme Instructions: https://www.astm.org/CERTIFICATION/DOCS/162.ASTM_General_Program_Instructions_6.0_110414.pdf
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-10-01T05:13:50.328641Z'
+  email_extensions:
+  - astm.org
+  enterprise: true
+  id: 2657c6a84bfa4675a5e4ee785c253a48
+  image: https://static.buildingtransparency.org/images/d2e41902-21b7-486d-b303-d84c4b95ecfc.png
+  is_failed: false
+  latitude: 40.0689574
+  legal_name: ASTM International
+  locality: Conshohocken
+  location:
+  - long_name: '100'
+    short_name: '100'
+    types:
+    - street_number
+  - long_name: Barr Harbor Drive
+    short_name: Barr Harbor Dr
+    types:
+    - route
+  - long_name: Conshohocken
+    short_name: Conshohocken
+    types:
+    - locality
+    - political
+  - long_name: Montgomery County
+    short_name: Montgomery County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '19428'
+    short_name: '19428'
+    types:
+    - postal_code
+  - long_name: '2951'
+    short_name: '2951'
+    types:
+    - postal_code_suffix
+  longitude: -75.3083283
+  name: ASTM International
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/2657c6a84bfa4675a5e4ee785c253a48
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '19428'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: true
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2024-07-22T20:35:58.976247Z'
+  web_domain: astm.org
+  website: https://www.astm.org/CERTIFICATION/EpdAndPCRs.html
+program_operator_fkey: EPD 169
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3fj8tfb5
+standard_deviation: 69.15668057 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 297.6722624 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-07-19T00:57:46.310022Z'
+use_stored_carbon: true
+verifier:
+  email: t.gloria@industrial-ecology.com
+  name: Thomas Gloria
+  org:
+    address: 35 Bracebridge Road, Newton Center, MA 02459
+    address_line: 35 Bracebridge Road
+    admin_district: MA
+    admin_district2: Middlesex
+    alt_names:
+    - IEC
+    - Industrial Ecology Consultsnts
+    - Ecology Consultants
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-08T20:01:22.263919Z'
+    email: t.gloria@industrial-ecology.com
+    email_extensions:
+    - industrial-ecology.com
+    enterprise: true
+    id: e4b1aa444bc74715a09d083b8b926d95
+    image: https://static.buildingtransparency.org/images/68511d2b-bb6f-4e53-8874-7c105f297dfb.png
+    is_failed: false
+    latitude: 42.331692
+    legal_name: Industrial Ecology Consultants
+    locality: Newton Center, Newton
+    location:
+      boundingBox:
+        entity: position
+        northEast: 42.331930,-71.201386
+        southWest: 42.331325,-71.201433
+      buildingNumber: '35'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Middlesex
+      countrySubdivision: MA
+      countrySubdivisionName: Massachusetts
+      countryTertiarySubdivision: Newton
+      extendedPostalCode: 024591728
+      freeformAddress: 35 Bracebridge Road, Newton Center, MA 02459
+      municipality: Newton Center, Newton
+      municipalitySubdivision: Newton Center, Newton
+      postalCode: 02459
+      routeNumbers: []
+      street: Bracebridge Road
+      streetName: Bracebridge Road
+      streetNameAndNumber: 35 Bracebridge Road
+      streetNumber: '35'
+    longitude: -71.201431
+    name: Industrial Ecology Consultants
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/e4b1aa444bc74715a09d083b8b926d95
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: 02459
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: true
+    updated_on: '2021-04-20T03:01:07.510551Z'
+    web_domain: industrial-ecology.com
+    website: http://industrial-ecology.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified
+weather_exposed: false

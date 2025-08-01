@@ -24,7 +24,7 @@ category:
   id: 39f098d4c80648cbb524169224288ad5
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 0.115 kg
+  mass_per_declared_unit: 0.1141666667 kg
   massless: false
   masterformat: 09 90 00 Painting and Coating
   may_contain_trusted_vendor_declarations: false
@@ -34,20 +34,20 @@ category:
   openepd: Finishes >> PaintingAndCoating >> PaintByArea
   openepd_name: Finishes >> PaintingAndCoating >> PaintByArea
   parents: []
-  pct10_gwp: 0.1787545081 kgCO2e
-  pct20_gwp: 0.2411426112 kgCO2e
-  pct30_gwp: 0.2730091908 kgCO2e
-  pct40_gwp: 0.3061110925 kgCO2e
-  pct50_gwp: 0.3436867234 kgCO2e
-  pct60_gwp: 0.3928025845 kgCO2e
-  pct70_gwp: 0.526131744 kgCO2e
-  pct80_gwp: 0.7882982809 kgCO2e
-  pct90_gwp: 1.598451884 kgCO2e
+  pct10_gwp: 0.1786523817 kgCO2e
+  pct20_gwp: 0.2361166168 kgCO2e
+  pct30_gwp: 0.2692688767 kgCO2e
+  pct40_gwp: 0.3049426583 kgCO2e
+  pct50_gwp: 0.3409364837 kgCO2e
+  pct60_gwp: 0.3867191532 kgCO2e
+  pct70_gwp: 0.505207738 kgCO2e
+  pct80_gwp: 0.7625262679 kgCO2e
+  pct90_gwp: 1.576555436 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-05-28T10:04:54.206506Z'
+  updated_on: '2025-07-31T11:19:05.695315Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -60,12 +60,14 @@ date_validity_ends: '2029-11-11'
 declaration_type: Product EPD
 declared_unit: 12 m2
 density: 2400 kg / m3
-description: "A premium, interior/exterior, waterproofing formula that uses a water-based,\
-  \ silicone technology designed to penetrate surfaces up to \xBD\". This waterproofer\
-  \ creates a barrier inside the surface that keeps water out, but lets trapped water\
-  \ vapors escape; reducing corrosion, spalling, efflorescence and freeze-thaw damage.\
-  \ It reduces staining due to mold and mildew and ensures greater durability of the\
-  \ surface."
+description: "BEHR PREMIUM\xAE Concrete & Masonry Protector & Waterproofer is a premium,\
+  \ interior/exterior, waterproofing formula thatuses a water-based, silicone technology\
+  \ designed to penetrate surfaces up to 1/2\". This waterproofer creates a barrier\
+  \ inside the surface that keeps water out, but lets trapped water vapors escape;\
+  \ reducing corrosion, spalling, efflorescence and freeze-thaw damage. It reduces\
+  \ staining due to mold and mildew, and ensures greater durability of the surface.\
+  \ The protection is not worn away with normal use and continues long after the water\
+  \ beading is gone."
 developer:
   email: servicequality@sphera.com
   name: Sphera
@@ -149,7 +151,7 @@ gwp_per_category_declared_unit: 0.2091666667 kgCO2e
 gwp_per_kg: 1.291152263 kgCO2e
 gwp_z: 0.28879058156387305
 id: bdef264e19114362a1b6f74c4ab9308b
-image: https://static.buildingtransparency.org/images/46a99d68e6704741b7b1c8cdc3a31558.png
+image: https://static.buildingtransparency.org/images/700db533244c49afafde9294acc4b0da.png
 impacts: {}
 industry_standards: []
 is_downloadable: true
@@ -251,7 +253,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2025-05-13T16:25:56.686361Z'
+  updated_on: '2025-07-22T02:01:26.877132Z'
   web_domain: behr.com
   website: https://www.behr.com/pro
 manufacturer_specific: true
@@ -260,7 +262,7 @@ matched_plants_count: 1
 material_id: 314e856656eb4f2ca06461f8236ab8d1
 multiproduct: false
 my_capabilities: 1
-name: BEHR 980
+name: "BEHR PREMIUM\xAE Protector & Waterproofer"
 not_an_epd: false
 open_xpd_uuid: ec34xbgh
 original_data_format: pdf_mixed
@@ -303,12 +305,12 @@ pcr:
   version: '3'
 pct80_gwp_per_category_declared_unit: 0.2600038204 kgCO2e
 plant_geography:
-- US-TX
-- US
-- US-PA
+- US-IL
 - US-GA
 - US-CA
-- US-IL
+- US-PA
+- US
+- US-TX
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -413,13 +415,13 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2025-05-13T16:25:56.686361Z'
+    updated_on: '2025-07-22T02:01:26.877132Z'
     web_domain: behr.com
     website: https://www.behr.com/pro
   plants_count: 5
-  total_epds: 75
+  total_epds: 74
   type: PlantGroup
-  updated_on: '2025-05-07T17:50:17.959834Z'
+  updated_on: '2025-06-03T22:00:03.290529Z'
 plant_specific: false
 private: false
 product_classes: {}
@@ -483,8 +485,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -518,7 +520,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 3.120045845 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-05-01T22:55:58.609966Z'
+updated_on: '2025-06-03T21:13:12.104737Z'
 use_stored_carbon: false
 verifier:
   email: cooper.mccollum@ul.com
@@ -582,8 +584,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -607,6 +609,7 @@ verifier:
 warnings:
   impacts:
   - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   language:

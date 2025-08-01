@@ -31,22 +31,22 @@ category:
   openepd: ThermalMoistureProtection >> Insulation >> BlanketInsulation
   openepd_name: ThermalMoistureProtection >> Insulation >> BlanketInsulation
   parents: []
-  pct10_gwp: 1.001082821 kgCO2e
-  pct20_gwp: 1.336528407 kgCO2e
-  pct30_gwp: 1.597270375 kgCO2e
+  pct10_gwp: 0.977085515 kgCO2e
+  pct20_gwp: 1.318047934 kgCO2e
+  pct30_gwp: 1.592773164 kgCO2e
   pct40_gwp: 1.986303851 kgCO2e
-  pct50_gwp: 2.504225973 kgCO2e
-  pct60_gwp: 3.129296385 kgCO2e
-  pct70_gwp: 3.79777691 kgCO2e
-  pct80_gwp: 4.765875952 kgCO2e
-  pct90_gwp: 6.094585031 kgCO2e
+  pct50_gwp: 2.501151609 kgCO2e
+  pct60_gwp: 3.141645532 kgCO2e
+  pct70_gwp: 3.762926601 kgCO2e
+  pct80_gwp: 4.745966288 kgCO2e
+  pct90_gwp: 6.097330806 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Blanket
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-05-28T10:04:57.430795Z'
+  updated_on: '2025-07-31T11:19:08.773271Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -165,7 +165,7 @@ developer:
     primary_activity_design: false
     primary_activity_digitization_qa: false
     primary_activity_education: false
-    primary_activity_epd_developer: false
+    primary_activity_epd_developer: true
     primary_activity_forest_practices_certification: false
     primary_activity_general_contractor: false
     primary_activity_industry_association: false
@@ -177,7 +177,7 @@ developer:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2024-08-30T23:41:13.973616Z'
+    updated_on: '2025-06-10T22:47:30.631306Z'
     web_domain: certainteed.com
     website: www.certainteed.com
 doc: smartepd.com/epd-library/660304df82be456744beb271
@@ -289,7 +289,7 @@ manufacturer:
   primary_activity_design: false
   primary_activity_digitization_qa: false
   primary_activity_education: false
-  primary_activity_epd_developer: false
+  primary_activity_epd_developer: true
   primary_activity_forest_practices_certification: false
   primary_activity_general_contractor: false
   primary_activity_industry_association: false
@@ -301,7 +301,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2024-08-30T23:41:13.973616Z'
+  updated_on: '2025-06-10T22:47:30.631306Z'
   web_domain: certainteed.com
   website: www.certainteed.com
 manufacturer_specific: true
@@ -368,7 +368,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-05-29T06:50:14.070703Z'
+  updated_on: '2025-07-31T21:50:07.196177Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 1.365478118 kgCO2e
 plant_geography:
@@ -496,7 +496,7 @@ plant_or_group:
     primary_activity_design: false
     primary_activity_digitization_qa: false
     primary_activity_education: false
-    primary_activity_epd_developer: false
+    primary_activity_epd_developer: true
     primary_activity_forest_practices_certification: false
     primary_activity_general_contractor: false
     primary_activity_industry_association: false
@@ -508,7 +508,7 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2024-08-30T23:41:13.973616Z'
+    updated_on: '2025-06-10T22:47:30.631306Z'
     web_domain: certainteed.com
     website: www.certainteed.com
   postal_code: '30601'

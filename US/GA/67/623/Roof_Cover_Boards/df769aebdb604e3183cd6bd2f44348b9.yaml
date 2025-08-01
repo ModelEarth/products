@@ -35,22 +35,22 @@ category:
   openepd: ThermalMoistureProtection >> RoofCoverBoards
   openepd_name: ThermalMoistureProtection >> RoofCoverBoards
   parents: []
-  pct10_gwp: 5.335169393 kgCO2e
-  pct20_gwp: 6.955119331 kgCO2e
-  pct30_gwp: 7.519362219 kgCO2e
-  pct40_gwp: 8.346785423 kgCO2e
-  pct50_gwp: 8.894120915 kgCO2e
-  pct60_gwp: 9.770624563 kgCO2e
-  pct70_gwp: 10.64654222 kgCO2e
-  pct80_gwp: 11.77010733 kgCO2e
-  pct90_gwp: 13.08761989 kgCO2e
+  pct10_gwp: 1.496584955 kgCO2e
+  pct20_gwp: 1.685530899 kgCO2e
+  pct30_gwp: 1.883644892 kgCO2e
+  pct40_gwp: 2.105044815 kgCO2e
+  pct50_gwp: 2.370809669 kgCO2e
+  pct60_gwp: 2.724751182 kgCO2e
+  pct70_gwp: 4.412180271 kgCO2e
+  pct80_gwp: 4.809441041 kgCO2e
+  pct90_gwp: 7.044914369 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Roof Cover Boards
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30151500'
-  updated_on: '2025-05-28T10:04:58.277888Z'
+  updated_on: '2025-07-31T11:19:09.636044Z'
   use_stored_carbon: ABSENT
 confirmable_fields:
 - impacts__gwp
@@ -140,8 +140,8 @@ developer:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '19428'
     primary_activity_builder: false
     primary_activity_design: false
@@ -466,8 +466,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '19428'
   primary_activity_builder: false
   primary_activity_design: false

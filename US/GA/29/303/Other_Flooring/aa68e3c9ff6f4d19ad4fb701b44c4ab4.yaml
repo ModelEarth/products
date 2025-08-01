@@ -23,7 +23,7 @@ category:
   id: 2c2f27b4aab140a898822424e94ec3ad
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 3.99 kg
+  mass_per_declared_unit: 3.98 kg
   massless: false
   masterformat: 09 60 00 Flooring
   may_contain_trusted_vendor_declarations: false
@@ -33,21 +33,21 @@ category:
   openepd: Finishes >> Flooring >> OtherFlooring
   openepd_name: Finishes >> Flooring >> OtherFlooring
   parents: []
-  pct10_gwp: 1.146290369 kgCO2e
-  pct20_gwp: 1.745633546 kgCO2e
-  pct30_gwp: 3.930295904 kgCO2e
-  pct40_gwp: 7.193469284 kgCO2e
-  pct50_gwp: 11.18279493 kgCO2e
-  pct60_gwp: 14.82317509 kgCO2e
-  pct70_gwp: 18.01435573 kgCO2e
-  pct80_gwp: 22.1901874 kgCO2e
-  pct90_gwp: 26.66401825 kgCO2e
+  pct10_gwp: 1.071594501 kgCO2e
+  pct20_gwp: 1.695099704 kgCO2e
+  pct30_gwp: 3.393001348 kgCO2e
+  pct40_gwp: 7.01618715 kgCO2e
+  pct50_gwp: 10.8284769 kgCO2e
+  pct60_gwp: 14.97367519 kgCO2e
+  pct70_gwp: 17.9590076 kgCO2e
+  pct80_gwp: 22.33122673 kgCO2e
+  pct90_gwp: 27.02985834 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Other Flooring
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
-  updated_on: '2025-05-28T10:04:51.994652Z'
+  updated_on: '2025-07-31T11:19:03.477010Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -262,9 +262,9 @@ plant_or_group:
     web_domain: milliken.com
     website: www.milliken.com
   plants_count: 3
-  total_epds: 58
+  total_epds: 65
   type: PlantGroup
-  updated_on: '2025-05-07T00:01:06.864329Z'
+  updated_on: '2025-07-26T11:40:58.927214Z'
 plant_specific: false
 private: false
 product_specific: true

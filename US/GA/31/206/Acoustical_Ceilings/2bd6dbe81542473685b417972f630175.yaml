@@ -25,7 +25,7 @@ category:
   id: 342ccbc46fc1418c8db86016753807d5
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 4.781 kg
+  mass_per_declared_unit: 4.861 kg
   massless: false
   masterformat: 09 51 00 Acoustical Ceilings
   may_contain_trusted_vendor_declarations: false
@@ -35,22 +35,22 @@ category:
   openepd: Finishes >> CeilingPanel >> AcousticalCeilings
   openepd_name: Finishes >> CeilingPanel >> AcousticalCeilings
   parents: []
-  pct10_gwp: 2.370959659 kgCO2e
+  pct10_gwp: 2.374710787 kgCO2e
   pct20_gwp: 3.060554402 kgCO2e
-  pct30_gwp: 4.296518054 kgCO2e
-  pct40_gwp: 5.014746759 kgCO2e
+  pct30_gwp: 4.308297898 kgCO2e
+  pct40_gwp: 5.049588672 kgCO2e
   pct50_gwp: 5.786246261 kgCO2e
-  pct60_gwp: 6.720407722 kgCO2e
-  pct70_gwp: 9.982394718 kgCO2e
-  pct80_gwp: 27.085353 kgCO2e
-  pct90_gwp: 50.65747227 kgCO2e
+  pct60_gwp: 6.686149535 kgCO2e
+  pct70_gwp: 9.229733338 kgCO2e
+  pct80_gwp: 22.06113974 kgCO2e
+  pct90_gwp: 49.14977759 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Acoustical Ceilings
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161601'
-  updated_on: '2025-05-28T10:04:53.861729Z'
+  updated_on: '2025-07-31T11:19:05.328203Z'
   use_stored_carbon: OPTIONAL
 ceiling_panel_cac: 35
 ceiling_panel_core_material: Mineral Fiber
@@ -518,8 +518,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -615,8 +615,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - US
     - CA
+    - US
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false

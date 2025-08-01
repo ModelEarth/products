@@ -24,7 +24,7 @@ category:
   id: 39f098d4c80648cbb524169224288ad5
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 0.115 kg
+  mass_per_declared_unit: 0.1141666667 kg
   massless: false
   masterformat: 09 90 00 Painting and Coating
   may_contain_trusted_vendor_declarations: false
@@ -34,20 +34,20 @@ category:
   openepd: Finishes >> PaintingAndCoating >> PaintByArea
   openepd_name: Finishes >> PaintingAndCoating >> PaintByArea
   parents: []
-  pct10_gwp: 0.1787545081 kgCO2e
-  pct20_gwp: 0.2411426112 kgCO2e
-  pct30_gwp: 0.2730091908 kgCO2e
-  pct40_gwp: 0.3061110925 kgCO2e
-  pct50_gwp: 0.3436867234 kgCO2e
-  pct60_gwp: 0.3928025845 kgCO2e
-  pct70_gwp: 0.526131744 kgCO2e
-  pct80_gwp: 0.7882982809 kgCO2e
-  pct90_gwp: 1.598451884 kgCO2e
+  pct10_gwp: 0.1786523817 kgCO2e
+  pct20_gwp: 0.2361166168 kgCO2e
+  pct30_gwp: 0.2692688767 kgCO2e
+  pct40_gwp: 0.3049426583 kgCO2e
+  pct50_gwp: 0.3409364837 kgCO2e
+  pct60_gwp: 0.3867191532 kgCO2e
+  pct70_gwp: 0.505207738 kgCO2e
+  pct80_gwp: 0.7625262679 kgCO2e
+  pct90_gwp: 1.576555436 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-05-28T10:04:54.206506Z'
+  updated_on: '2025-07-31T11:19:05.695315Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -60,11 +60,14 @@ date_validity_ends: '2029-10-04'
 declaration_type: Product EPD
 declared_unit: 3 m2
 density: 1900 kg / m3
-description: "BEHR PREMIUM\xAE Elastomeric Masonry, Stucco & Brick Paint is a high-build,\
-  \ 100% acrylic flat coating for vertical masonry surfaces. This waterproofing coating\
-  \ is extremely durable and mildew resistant and can withstand 98 mph wind-driven\
+description: "BEHR PREMIUM\xAE Elastomeric Masonry, Stucco & Brick Paint is a high-build\
+  \ 100% acrylic flat coating designed to expand and contract, bridging hairline cracks\
+  \ in exterior, vertical masonry surfaces that has a pH of 12 or lower. This waterproofing\
+  \ coating is extremely durable and is mildew resistant. It withstands 98 mph wind-driven\
   \ rain. It has superior elasticity and elongation properties, stretching up to 600%,\
-  \ while providing excellent color retention and a breathable film."
+  \ while providing excellent color retention and a breathable film. It is recommended\
+  \ for use on stucco, masonry, concrete, concrete block or brick as well as adjacent\
+  \ wood and metal surfaces."
 developer:
   email: mwildnauer@sphera.com
   name: Maggie Wildnauer
@@ -148,7 +151,7 @@ gwp_per_category_declared_unit: 0.77 kgCO2e
 gwp_per_kg: 1.75 kgCO2e
 gwp_z: 0.28879058156387305
 id: 8925af5ad6a24868b89ba09899db6a94
-image: https://static.buildingtransparency.org/images/2ee3f4720889419eba8079d36ac3aeb9.png
+image: https://static.buildingtransparency.org/images/910a2ff9c26c44398178804c15311c2c.png
 impacts: {}
 industry_standards: []
 is_downloadable: true
@@ -250,7 +253,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2025-05-13T16:25:56.686361Z'
+  updated_on: '2025-07-22T02:01:26.877132Z'
   web_domain: behr.com
   website: https://www.behr.com/pro
 manufacturer_specific: true
@@ -259,7 +262,7 @@ matched_plants_count: 1
 material_id: 200f9f46ce004a10871c302b3a624d93
 multiproduct: false
 my_capabilities: 1
-name: BEHR 68 Flat White
+name: "BEHR PREMIUM\xAE Elastomeric Masonry, Stucco & Brick Paint"
 not_an_epd: false
 open_xpd_uuid: ec330dbq
 original_data_format: pdf_mixed
@@ -302,23 +305,20 @@ pcr:
   version: '3'
 pct80_gwp_per_category_declared_unit: 0.9571455382 kgCO2e
 plant_geography:
-- US-TX
-- US
 - US-GA
-- US-IL
-- US-PA
 - US-CA
+- US
 plant_or_group:
   categories: []
   confirmable_fields: []
   confirmed_fields: []
   cqd_sync_unlocked: true
-  created_on: '2025-04-30T23:58:38.740015Z'
-  id: fbfedc05ac8148438e53f508c0ac524e
+  created_on: '2025-06-03T21:46:49.796577Z'
+  id: d346d546c84a4be9947009a63f9bd808
   is_failed: false
   jurisdiction:
   - US
-  name: Allentown, Atlanta, Chicago Heights, Roanoke, Santa Ana
+  name: Atlanta, Santa Ana
   owned_by:
     address: 1801 E St Andrew Pl, Santa Ana, CA 92705, USA
     address_line: 1801 E St Andrew Pl
@@ -412,13 +412,13 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2025-05-13T16:25:56.686361Z'
+    updated_on: '2025-07-22T02:01:26.877132Z'
     web_domain: behr.com
     website: https://www.behr.com/pro
-  plants_count: 5
-  total_epds: 75
+  plants_count: 4
+  total_epds: 1
   type: PlantGroup
-  updated_on: '2025-05-07T17:50:17.959834Z'
+  updated_on: '2025-06-03T22:00:05.566290Z'
 plant_specific: false
 private: false
 product_classes: {}
@@ -510,14 +510,14 @@ requires_ocr: false
 resource_uses: {}
 sanitizable: true
 short_link: buildingtransparency.org/e/ec330dbqa6
-sku: 67, 68
+sku: 68, 67
 standard_deviation: 0.6671062434 kgCO2e
 stored_carbon_z: 0.2
 supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 2.871436614 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-05-01T22:55:47.704176Z'
+updated_on: '2025-06-03T21:46:54.784642Z'
 use_stored_carbon: false
 verifier:
   email: cooper.mccollum@ul.com
@@ -606,6 +606,7 @@ verifier:
 warnings:
   impacts:
   - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   language:

@@ -1,3 +1,4 @@
+aci_exposure_classes: []
 also_shown_in: []
 applicable_in:
 - '001'
@@ -35,22 +36,22 @@ category:
   openepd: Concrete >> ReadyMix
   openepd_name: Concrete >> ReadyMix
   parents: []
-  pct10_gwp: 247.0938768 kgCO2e
+  pct10_gwp: 247.0757717 kgCO2e
   pct20_gwp: 283.1051597 kgCO2e
   pct30_gwp: 310.1602194 kgCO2e
   pct40_gwp: 334.9397277 kgCO2e
   pct50_gwp: 359.2861844 kgCO2e
-  pct60_gwp: 386.7038044 kgCO2e
-  pct70_gwp: 417.0105043 kgCO2e
-  pct80_gwp: 452.8101353 kgCO2e
-  pct90_gwp: 507.6548147 kgCO2e
+  pct60_gwp: 386.5269387 kgCO2e
+  pct70_gwp: 416.9366897 kgCO2e
+  pct80_gwp: 452.4514127 kgCO2e
+  pct90_gwp: 506.9446711 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Ready Mix
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30111505'
-  updated_on: '2025-05-28T10:04:44.646497Z'
+  updated_on: '2025-07-31T11:18:56.131585Z'
   use_stored_carbon: ABSENT
 cementitious: {}
 concrete_air_entrain: false
@@ -63,6 +64,7 @@ conservative_estimate: 523.1189367 kgCO2e
 corrections_count: 0
 cqd_sync_unlocked: true
 created_on: '2021-06-30T17:23:40.189630Z'
+csa_exposure_classes: []
 date_of_issue: '2018-05-03'
 date_validity_ends: '2023-05-03'
 declaration_type: Product EPD
@@ -152,18 +154,26 @@ developer:
     web_domain: calportland.com
     website: https://www.calportland.com/
 doc: buildingtransparency.org/e/ec3q316980
+en_exposure_classes: []
+errors: {}
 excluded: false
 externally_verified: true
+failures:
+  impacts:
+  - GWP values from multiple LCIA methods are more different than expected.
 file_name: EPD-CalPortland-NRMCA5-4-2018.pdf
 gwp: 477.92 kgCO2e
 gwp_per_category_declared_unit: 625.09576 kgCO2e
-gwp_per_kg: 0.2611584699 kgCO2e
+gwp_per_kg: 0.1862677596 kgCO2e
 gwp_z: 0.11237437430304116
 id: 46c56cb89b2d491fbd2e631e947b791e
+image: https://static.buildingtransparency.org/images/0db6d619c79d45b38d4a1d8b1120c8a6.png
 impacts: {}
+includes: []
+industry_standards: []
 is_downloadable: true
 is_duplicate: false
-is_failed: false
+is_failed: true
 jurisdiction:
 - '001'
 language: en
@@ -500,6 +510,7 @@ plant_or_group:
 plant_specific: true
 plc: false
 private: false
+product_classes: {}
 product_specific: true
 program_operator:
   address: 900 Spring Street, Silver Spring, MD 20910
@@ -570,8 +581,8 @@ program_operator:
   primary_activity_performance_standards_issuer: false
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
-  primary_activity_verifier: false
-  updated_on: '2024-07-24T16:59:40.245033Z'
+  primary_activity_verifier: true
+  updated_on: '2025-06-06T00:35:46.621058Z'
   web_domain: nrmca.org
   website: http://www.nrmca.org/sustainability/
 program_operator_fkey: NRMCAEPD:10019
@@ -585,7 +596,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 523.1189367 kgCO2e
 uncertainty_factor: 1.0945742734134394
-updated_on: '2025-01-14T20:34:18.804291Z'
+updated_on: '2025-06-24T01:00:39.114018Z'
 use_stored_carbon: false
 verifier:
   email: info@athenasmi.org
@@ -679,6 +690,8 @@ warnings:
   developer:
   - Missing link
   impacts:
+  - Impact set is suspicious by comparing its magnitudes
+  - Impact set is suspicious by having equal magnitudes
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
 white_cement: false

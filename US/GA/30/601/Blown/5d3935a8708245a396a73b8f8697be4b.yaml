@@ -25,7 +25,7 @@ category:
   id: 6fd418c8ff92415c833e6327638d8482
   includes_b1_stage: true
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 0.62 kg
+  mass_per_declared_unit: 0.60065 kg
   massless: false
   masterformat: 07 21 26 Blown Insulation
   may_contain_trusted_vendor_declarations: false
@@ -35,22 +35,22 @@ category:
   openepd: ThermalMoistureProtection >> Insulation >> BlownInsulation
   openepd_name: ThermalMoistureProtection >> Insulation >> BlownInsulation
   parents: []
-  pct10_gwp: 0.3415267296 kgCO2e
-  pct20_gwp: 0.4808030648 kgCO2e
-  pct30_gwp: 0.7483002453 kgCO2e
-  pct40_gwp: 0.9951754004 kgCO2e
-  pct50_gwp: 1.146296948 kgCO2e
-  pct60_gwp: 1.252276409 kgCO2e
-  pct70_gwp: 1.629287118 kgCO2e
-  pct80_gwp: 1.969536931 kgCO2e
-  pct90_gwp: 2.449796243 kgCO2e
+  pct10_gwp: 0.3406217273 kgCO2e
+  pct20_gwp: 0.50156921 kgCO2e
+  pct30_gwp: 0.7187782546 kgCO2e
+  pct40_gwp: 0.9204285024 kgCO2e
+  pct50_gwp: 1.098194376 kgCO2e
+  pct60_gwp: 1.200716946 kgCO2e
+  pct70_gwp: 1.478207828 kgCO2e
+  pct80_gwp: 1.780534628 kgCO2e
+  pct90_gwp: 2.46767378 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Blown
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30141500'
-  updated_on: '2025-05-28T10:04:57.205555Z'
+  updated_on: '2025-07-31T11:19:08.569490Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -220,7 +220,7 @@ manufacturer:
   primary_activity_design: false
   primary_activity_digitization_qa: false
   primary_activity_education: false
-  primary_activity_epd_developer: false
+  primary_activity_epd_developer: true
   primary_activity_forest_practices_certification: false
   primary_activity_general_contractor: false
   primary_activity_industry_association: false
@@ -232,7 +232,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2024-08-30T23:41:13.973616Z'
+  updated_on: '2025-06-10T22:47:30.631306Z'
   web_domain: certainteed.com
   website: www.certainteed.com
 manufacturer_specific: true
@@ -300,7 +300,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3qgwttac
   short_name: 'Part B: Building Envelope Thermal Insulation'
   status: Expired
-  updated_on: '2025-05-29T06:50:14.070703Z'
+  updated_on: '2025-07-31T21:50:07.196177Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 1.518505838 kgCO2e
 plant_geography:
@@ -451,7 +451,7 @@ plant_or_group:
     primary_activity_design: false
     primary_activity_digitization_qa: false
     primary_activity_education: false
-    primary_activity_epd_developer: false
+    primary_activity_epd_developer: true
     primary_activity_forest_practices_certification: false
     primary_activity_general_contractor: false
     primary_activity_industry_association: false
@@ -463,7 +463,7 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2024-08-30T23:41:13.973616Z'
+    updated_on: '2025-06-10T22:47:30.631306Z'
     web_domain: certainteed.com
     website: www.certainteed.com
   postal_code: '30601'
@@ -533,8 +533,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

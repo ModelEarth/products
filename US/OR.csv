@@ -891,6 +891,7 @@ Concrete >> ReadyMix,1308108,ec3wxemf,97217,Multnomah County,"5225 N Channel Ave
 Concrete >> ReadyMix,1308192,ec3em2tn,97217,Multnomah County,"5225 N Channel Ave, Portland, OR 97217, USA",45.5610747,-122.7155495
 Concrete >> FlowableFill,1308139,ec3s2jdz,97217,Multnomah County,"5225 N Channel Ave, Portland, OR 97217, USA",45.5610747,-122.7155495
 Concrete >> ReadyMix,1308166,ec3xef8s,97217,Multnomah County,"5225 N Channel Ave, Portland, OR 97217, USA",45.5610747,-122.7155495
+Concrete >> ReadyMix,40n17000,ec3xz2rs,97123,Washington County,"699 SW Wood St, Hillsboro, OR 97123, USA",45.5130497,-122.9981662
 Concrete >> ReadyMix,6500DS02,ec3hs54r,97702,Deschutes,"95 Southwest Scale House Loop, Bend, OR 97702",44.04831,-121.30775
 Concrete >> ReadyMix,Mix 25SC420A,ec30yt8j,97702,Deschutes,"95 Southwest Scale House Loop, Bend, OR 97702",44.04831,-121.30775
 Concrete >> ReadyMix,Mix 40LP421N,ec3hb3sy,97702,Deschutes,"95 Southwest Scale House Loop, Bend, OR 97702",44.04831,-121.30775
@@ -2384,6 +2385,7 @@ Concrete >> ReadyMix,35GM422A,ec3ya51h,97702,Deschutes,"95 Southwest Scale House
 Concrete >> ReadyMix,1028166S,ec3ggh0a,97217,Multnomah,"5225 North Channel Avenue, Portland, OR 97217",45.55959,-122.71416
 Steel >> RebarSteel,Reinforcing Bar - A615/706,ec36n7fu,97128,Yamhill,"3200 Oregon 99W, McMinnville, OR 97128",45.23049,-123.16547
 Concrete >> ReadyMix,1316318,ec3jbhw5,97217,Multnomah County,"5225 N Channel Ave, Portland, OR 97217, USA",45.5610747,-122.7155495
+Concrete >> ReadyMix,6HPG7000,ec35c2k4,97140,Washington County,"12000 SW Tonquin Rd, Sherwood, OR 97140, USA",45.3469248,-122.7986266
 Concrete >> ReadyMix,"4000 PSI 1"" RD",ec3pcnqh,97124,Washington Co.,"103 S 1st Ave, Hillsboro, OR 97124, United States",45.52253,-122.99018
 Asphalt,15164359,ec3p1r21,97317,Marion County,"4105 Lancaster Dr SE, Salem, OR 97317, USA",44.9010608,-122.9712008
 Concrete >> ReadyMix,5HZAWL00,ec32a8n5,97060,Multnomah County,"5700 NE Sundial Rd, Troutdale, OR 97060, USA",45.563661,-122.410523
@@ -2774,6 +2776,7 @@ Finishes >> Gypsum,5/8 in. (15.9 mm) Sheetrock® Brand Mold Tough® Panels Firec
 Finishes >> Gypsum,1/2 in. (12.7 mm) Sheetrock® Brand Ultralight Panels,ec3krdcc,,,,,
 Concrete >> ReadyMix,1336952,ec308ynh,97217,Multnomah,"5225 North Channel Avenue, Portland, OR 97217",45.55959,-122.71416
 Concrete >> ReadyMix,1336952S,ec3n5tzx,97217,Multnomah County,"5225 N Channel Ave, Portland, OR 97217, USA",45.5610747,-122.7155495
+Concrete >> ReadyMix,0989P,ec3p8nkf,97210,Multnomah County,"5034N NW Front Ave, Portland, OR 97210, USA",45.5616136,-122.7321259
 Concrete >> ReadyMix,Mix 1104808,ec355s1a,97217,Multnomah County,"5225 N Channel Ave, Portland, OR 97217, USA",45.5610747,-122.7155495
 Concrete >> ReadyMix,Mix 1028166.,ec3wbrjz,97217,Multnomah County,"5225 N Channel Ave, Portland, OR 97217, USA",45.5610747,-122.7155495
 Concrete >> ReadyMix,Mix 1138166,ec3wj40f,97217,Multnomah County,"5225 N Channel Ave, Portland, OR 97217, USA",45.5610747,-122.7155495
@@ -10618,6 +10621,7 @@ Cladding >> Siding,Vista,ec30ddsn,,,,,
 Cladding >> Siding,Highlander NEX,ec392wp2,,,,,
 Cladding >> Siding,Highlander NEX,ec3kk42w,,,,,
 Cladding >> Siding,Highlander NEX,ec3ex4xy,,,,,
+Concrete >> ReadyMix,35NGLFS0,ec3sntqj,97844,Morrow County,"77000 Gun Club Rd, Irrigon, OR 97844, USA",45.8066667,-119.444967
 Cladding >> Siding,Ecoasis™ NEX®,ec3th75c,,,,,
 Concrete >> ReadyMix,5344FS,ec3c3xka,97210,Multnomah County,"5034N NW Front Ave, Portland, OR 97210, USA",45.5616136,-122.7321259
 Concrete >> ReadyMix,0622CRLC,ec3jxp4h,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
@@ -10661,11 +10665,16 @@ Concrete >> ReadyMix,0741AL,ec3sszdb,97132,Yamhill,"Northeast Wynooski Road, New
 Concrete >> ReadyMix,0570,ec3k1cem,97132,Yamhill,"Northeast Wynooski Road, Newberg, OR 97132",45.28585,-122.94998
 Concrete >> ReadyMix,0726,ec3qw1qf,97132,Yamhill,"Northeast Wynooski Road, Newberg, OR 97132",45.28585,-122.94998
 Concrete >> ReadyMix,5597C,ec38wpr3,97132,Yamhill,"Northeast Wynooski Road, Newberg, OR 97132",45.28585,-122.94998
+Asphalt,OR53D30000,ec3u3cen,97060,Multnomah County,"5700 NE Sundial Rd, Troutdale, OR 97060, USA",45.563661,-122.410523
 Concrete >> ReadyMix,0327FS,ec3y7wb2,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
 Concrete >> ReadyMix,5468FS,ec3d5me1,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
 Asphalt,B2013.03(2022),ec3r2y4w,97760,Crook County,"8500 Lone Pine Rd, Terrebonne, OR 97760, USA",44.381808,-121.034648
 Concrete >> ReadyMix,7730FSLC,ec3dck7h,97210,Multnomah County,"5034N NW Front Ave, Portland, OR 97210, USA",45.5616136,-122.7321259
+Asphalt,OR54D20000,ec3pfzy2,97140,Washington County,"12000 SW Tonquin Rd, Sherwood, OR 97140, USA",45.3469303,-122.7986107
+Asphalt,OR53D3000,ec3zp1cd,97140,Washington County,"12000 SW Tonquin Rd, Sherwood, OR 97140, USA",45.3469303,-122.7986107
 Concrete >> ReadyMix,16LCGC30,ec37w2uz,97502,Jackson County,"3959 Hamrick Rd, Central Point, OR 97502, USA",42.3750131,-122.8940946
+Concrete >> ReadyMix,5859FSE2,ec3uu5gc,97210,Multnomah County,"5034N NW Front Ave, Portland, OR 97210, USA",45.5616136,-122.7321259
+Asphalt,OR52D3000,ec3dq78c,97140,Washington County,"12000 SW Tonquin Rd, Sherwood, OR 97140, USA",45.3469303,-122.7986107
 Concrete >> ReadyMix,16L45GEP6KM,ec37eg0c,97502,Jackson County,"3959 Hamrick Rd, Central Point, OR 97502, USA",42.3750131,-122.8940946
 Concrete >> ReadyMix,16LCGC30MC,ec3pfmd5,97502,Jackson County,"3959 Hamrick Rd, Central Point, OR 97502, USA",42.3750131,-122.8940946
 Concrete >> ReadyMix,16L35MNA6KM,ec39w0az,97502,Jackson County,"3959 Hamrick Rd, Central Point, OR 97502, USA",42.3750131,-122.8940946
@@ -10674,6 +10683,70 @@ Concrete >> ReadyMix,5597FS,ec3pxtp4,97015,Clackamas County,"11210 SE Jennifer S
 Concrete >> ReadyMix,2867PFS,ec3t15tw,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
 Concrete >> ReadyMix,0208FS,ec3s6cny,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
 Concrete >> ReadyMix,0333FS,ec31bkj6,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
+Asphalt,OR54D20000,ec31htn9,97060,Multnomah County,"5700 NE Sundial Rd, Troutdale, OR 97060, USA",45.563661,-122.410523
+Asphalt,OR53D30000,ec3m9cb2,97060,Multnomah County,"5700 NE Sundial Rd, Troutdale, OR 97060, USA",45.563661,-122.410523
 Concrete >> ReadyMix,0327FS,ec3b59gg,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
 Concrete >> ReadyMix,2875PFS,ec3gjr2b,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
 Concrete >> ReadyMix,5241FS,ec3k1892,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
+Concrete >> ReadyMix,6KPG7000,ec32jncf,97060,Multnomah County,"5700 NE Sundial Rd, Troutdale, OR 97060, USA",45.563661,-122.410523
+Concrete >> ReadyMix,25Z3RJ00,ec3gjyh9,97844,Morrow County,"77000 Gun Club Rd, Irrigon, OR 97844, USA",45.8066667,-119.444967
+Concrete >> ReadyMix,0444FS,ec39zzue,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
+Concrete >> ReadyMix,F5ZMLA00,ec3zxd4j,97844,Morrow County,"77000 Gun Club Rd, Irrigon, OR 97844, USA",45.8066667,-119.444967
+Concrete >> ReadyMix,35NGLFS0,ec33ujgd,97844,Morrow County,"77000 Gun Club Rd, Irrigon, OR 97844, USA",45.8066667,-119.444967
+Concrete >> ReadyMix,40NGHFS0,ec3mnm60,97844,Morrow County,"77000 Gun Club Rd, Irrigon, OR 97844, USA",45.8066667,-119.444967
+Concrete >> ReadyMix,40NGHFS0,ec37knps,97844,Morrow County,"77000 Gun Club Rd, Irrigon, OR 97844, USA",45.8066667,-119.444967
+Concrete >> ReadyMix,2640Z1A302,ec3xquz4,97756,Deschutes County,"194 SE 8th St, Redmond, OR 97756, USA",44.275745,-121.159513
+Concrete >> ReadyMix,6KCG3000,ec322ctt,97123,Washington County,"699 SW Wood St, Hillsboro, OR 97123, USA",45.5130497,-122.9981662
+Concrete >> ReadyMix,40n17000,ec3f4tu9,97140,Washington County,"12000 SW Tonquin Rd, Sherwood, OR 97140, USA",45.3469248,-122.7986266
+Concrete >> ReadyMix,5597FS,ec3b68nx,97210,Multnomah County,"5034N NW Front Ave, Portland, OR 97210, USA",45.5616136,-122.7321259
+Concrete >> ReadyMix,266KP1FEM0,ec31p4hp,97756,Deschutes County,"194 SE 8th St, Redmond, OR 97756, USA",44.275745,-121.159513
+Concrete >> ReadyMix,26506K121,ec3bcdhk,97756,Deschutes County,"194 SE 8th St, Redmond, OR 97756, USA",44.275745,-121.159513
+Concrete >> ReadyMix,EWE5445FS,ec3ek9n3,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
+Concrete >> ReadyMix,0225FS,ec3hpe71,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
+Concrete >> ReadyMix,5867FS,ec371s9t,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
+Concrete >> ReadyMix,5327FS,ec3hzk1w,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
+Concrete >> ReadyMix,WE5444FS,ec3c7w93,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
+Concrete >> ReadyMix,40NGLFS0,ec3p669k,97844,Morrow County,"77000 Gun Club Rd, Irrigon, OR 97844, USA",45.8066667,-119.444967
+Concrete >> ReadyMix,40NGHAS0,ec3h5x5p,97844,Morrow County,"77000 Gun Club Rd, Irrigon, OR 97844, USA",45.8066667,-119.444967
+Concrete >> ReadyMix,40NGLFS0,ec3p473x,97844,Morrow County,"77000 Gun Club Rd, Irrigon, OR 97844, USA",45.8066667,-119.444967
+Concrete >> ReadyMix,40NGLFS0,ec34sy32,97844,Morrow County,"77000 Gun Club Rd, Irrigon, OR 97844, USA",45.8066667,-119.444967
+Concrete >> ReadyMix,40NGLFS0,ec3bnau0,97844,Morrow County,"77000 Gun Club Rd, Irrigon, OR 97844, USA",45.8066667,-119.444967
+Concrete >> ReadyMix,F5ZMLA00,ec3921t5,97844,Morrow County,"77000 Gun Club Rd, Irrigon, OR 97844, USA",45.8066667,-119.444967
+Concrete >> ReadyMix,5343FSE,ec3j3zhu,97060,Multnomah County,"2172 NW Marine Dr, Troutdale, OR 97060, USA",45.5472562,-122.4099289
+Concrete >> ReadyMix,5333FS,ec3ccmnp,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
+Concrete >> ReadyMix,2440N1A0M0,ec3ygj0w,97383,Linn County,"41816 Stayton Scio Rd SE, Stayton, OR 97383, USA",44.791615,-122.7895311
+Concrete >> ReadyMix,2440N15000,ec3hnzmr,97383,Linn County,"41816 Stayton Scio Rd SE, Stayton, OR 97383, USA",44.791615,-122.7895311
+Concrete >> ReadyMix,5467FS,ec3du2mj,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
+Concrete >> ReadyMix,0330FS,ec34nkw4,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
+Concrete >> ReadyMix,5864FS,ec342mfp,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
+Concrete >> ReadyMix,5330FS,ec32t26y,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
+Concrete >> ReadyMix,2859PFS,ec32f45h,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
+Concrete >> ReadyMix,5476FS,ec30d8tm,97124,Washington County,"7950 NE Walker Rd, Hillsboro, OR 97124, USA",45.5362963,-122.89837
+Concrete >> ReadyMix,6kpg7000,ec3ej6zz,97123,Washington County,"699 SW Wood St, Hillsboro, OR 97123, USA",45.5130497,-122.9981662
+Concrete >> ReadyMix,266KP1AEM0,ec33ch1p,97756,Deschutes County,"194 SE 8th St, Redmond, OR 97756, USA",44.275745,-121.159513
+Concrete >> ReadyMix,26S45N180M,ec3cwd36,97756,Deschutes County,"194 SE 8th St, Redmond, OR 97756, USA",44.275745,-121.159513
+Concrete >> ReadyMix,3001A2050,ec3f1853,97070,Clackamas County,"30625 SW Industrial Way, Wilsonville, OR 97070, USA",45.298688,-122.7793153
+Concrete >> ReadyMix,3301A2057,ec3yrpck,97070,Clackamas County,"30625 SW Industrial Way, Wilsonville, OR 97070, USA",45.298688,-122.7793153
+Concrete >> ReadyMix,45N1800M,ec30jkdm,97140,Washington County,"12000 SW Tonquin Rd, Sherwood, OR 97140, USA",45.3469248,-122.7986266
+Concrete >> ReadyMix,2640Z1A302,ec37wmjz,97756,Deschutes County,"194 SE 8th St, Redmond, OR 97756, USA",44.275745,-121.159513
+Concrete >> ReadyMix,2645N180M,ec3e0tzr,97756,Deschutes County,"194 SE 8th St, Redmond, OR 97756, USA",44.275745,-121.159513
+Concrete >> ReadyMix,26666X,ec3sp3yk,97756,Deschutes County,"194 SE 8th St, Redmond, OR 97756, USA",44.275745,-121.159513
+Concrete >> ReadyMix,26565X,ec301n3m,97756,Deschutes County,"194 SE 8th St, Redmond, OR 97756, USA",44.275745,-121.159513
+Concrete >> ReadyMix,2640NGL0V0,ec3x9zq3,97756,Deschutes County,"194 SE 8th St, Redmond, OR 97756, USA",44.275745,-121.159513
+Concrete >> ReadyMix,26S6KNG80M,ec3xpngp,97756,Deschutes County,"194 SE 8th St, Redmond, OR 97756, USA",44.275745,-121.159513
+Concrete >> ReadyMix,2640C330V0,ec39mh7y,97756,Deschutes County,"194 SE 8th St, Redmond, OR 97756, USA",44.275745,-121.159513
+Wood >> MassTimber,VersaWorks Veneer Laminated Timber (VLT),ec3fj8tf,97503,Jackson County,"1155 Antelope Rd, White City, OR 97503, USA",42.4284503,-122.8709913
+Concrete >> ReadyMix,0242FS,ec3tc8kq,97060,Multnomah County,"2172 NW Marine Dr, Troutdale, OR 97060, USA",45.5472562,-122.4099289
+Concrete >> ReadyMix,45N1800M,ec3rkz4f,97140,Washington County,"12000 SW Tonquin Rd, Sherwood, OR 97140, USA",45.3469248,-122.7986266
+Concrete >> ReadyMix,2640Z1A301,ec33ugds,97756,Deschutes County,"194 SE 8th St, Redmond, OR 97756, USA",44.275745,-121.159513
+Asphalt,B14-022/2024 WACO,ec3a0n7u,97007,Washington County,"21880 SW Farmington Rd, Beaverton, OR 97007, USA",45.4567689,-122.8992102
+Concrete >> ReadyMix,0323FS,ec3bdkg2,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
+Concrete >> ReadyMix,269KZ3A0LS,ec3mhh6n,97756,Deschutes County,"194 SE 8th St, Redmond, OR 97756, USA",44.275745,-121.159513
+Concrete >> ReadyMix,2640PGFEM0,ec33927n,97756,Deschutes County,"194 SE 8th St, Redmond, OR 97756, USA",44.275745,-121.159513
+Concrete >> ReadyMix,5225FSE,ec3h3x0u,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
+Concrete >> ReadyMix,0234FSLC,ec3175n6,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
+Concrete >> ReadyMix,5327FS,ec3jesx8,97015,Clackamas County,"11210 SE Jennifer St, Clackamas, OR 97015, USA",45.402493,-122.546859
+Concrete >> ReadyMix,0446FS,ec3qagat,97210,Multnomah County,"5034N NW Front Ave, Portland, OR 97210, USA",45.5616136,-122.7321259
+Concrete >> ReadyMix,5446FS,ec3hshpb,97210,Multnomah County,"5034N NW Front Ave, Portland, OR 97210, USA",45.5616136,-122.7321259
+Concrete >> ReadyMix,0598FS,ec3sk72d,97210,Multnomah County,"5034N NW Front Ave, Portland, OR 97210, USA",45.5616136,-122.7321259
+Concrete >> ReadyMix,5598FS,ec30d58j,97210,Multnomah County,"5034N NW Front Ave, Portland, OR 97210, USA",45.5616136,-122.7321259

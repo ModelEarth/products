@@ -34,22 +34,22 @@ category:
   openepd: Wood >> SheathingPanels
   openepd_name: Wood >> SheathingPanels
   parents: []
-  pct10_gwp: -15.34788202 kgCO2e
-  pct20_gwp: -0.7125937349 kgCO2e
-  pct30_gwp: 128.5501269 kgCO2e
-  pct40_gwp: 154.9305655 kgCO2e
-  pct50_gwp: 181.0563905 kgCO2e
-  pct60_gwp: 217.761956 kgCO2e
-  pct70_gwp: 243.485435 kgCO2e
-  pct80_gwp: 282.4683658 kgCO2e
-  pct90_gwp: 472.3575383 kgCO2e
+  pct10_gwp: -30.06682388 kgCO2e
+  pct20_gwp: 120.1932132 kgCO2e
+  pct30_gwp: 143.8405932 kgCO2e
+  pct40_gwp: 162.3820087 kgCO2e
+  pct50_gwp: 179.5261312 kgCO2e
+  pct60_gwp: 205.2160213 kgCO2e
+  pct70_gwp: 231.3436132 kgCO2e
+  pct80_gwp: 261.7030767 kgCO2e
+  pct90_gwp: 310.1384961 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Plywood and OSB Sheathing Panels
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103604'
-  updated_on: '2025-05-28T10:04:55.265368Z'
+  updated_on: '2025-07-31T11:19:06.735439Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -276,7 +276,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3p5nqsw3
   short_name: North American Structural and Architectural Wood Products
   status: Sunset
-  updated_on: '2025-05-29T06:50:13.860838Z'
+  updated_on: '2025-07-31T22:20:05.834069Z'
   version: '1'
 pct80_gwp_per_category_declared_unit: 55.56416306 kgCO2e
 plant_geography:

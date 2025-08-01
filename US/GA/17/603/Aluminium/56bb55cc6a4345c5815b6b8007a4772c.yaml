@@ -33,21 +33,21 @@ category:
   openepd: Aluminium
   openepd_name: Aluminium
   parents: []
-  pct10_gwp: 1.371822801 kgCO2e
-  pct20_gwp: 2.351104363 kgCO2e
-  pct30_gwp: 3.149956411 kgCO2e
-  pct40_gwp: 4.013503958 kgCO2e
-  pct50_gwp: 4.894579369 kgCO2e
-  pct60_gwp: 5.974397803 kgCO2e
-  pct70_gwp: 7.623678608 kgCO2e
-  pct80_gwp: 9.915608625 kgCO2e
+  pct10_gwp: 1.186035945 kgCO2e
+  pct20_gwp: 2.099489124 kgCO2e
+  pct30_gwp: 3.068784007 kgCO2e
+  pct40_gwp: 3.681623014 kgCO2e
+  pct50_gwp: 4.777070945 kgCO2e
+  pct60_gwp: 5.762592465 kgCO2e
+  pct70_gwp: 7.494906735 kgCO2e
+  pct80_gwp: 9.880156333 kgCO2e
   pct90_gwp: 13.18254733 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Aluminium
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-05-28T10:04:54.329683Z'
+  updated_on: '2025-07-31T11:19:05.818000Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -402,9 +402,9 @@ plant_or_group:
     web_domain: armstrongceilings.com
     website: www.armstrongceilings.com
   plants_count: 2
-  total_epds: 6
+  total_epds: 9
   type: PlantGroup
-  updated_on: '2025-05-13T18:01:04.680280Z'
+  updated_on: '2025-07-19T12:28:00.749946Z'
 plant_specific: false
 private: false
 product_specific: true

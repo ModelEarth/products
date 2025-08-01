@@ -1,0 +1,297 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Spot: https://spot.ul.com/main-appproducts/detail/670fff467a2700c7d9bb140e
+box_id: '1936414619026'
+category:
+  allows_any_declared_unit: false
+  beta_only: true
+  category_statistics_warning: false
+  created_on: '2020-10-12T14:52:08Z'
+  declared_unit: 1 m2
+  default_distance: 1647.968 km
+  default_transport_mode: truck, unspecified
+  description: Other not yet classified kinds of flooring
+  display_name: Other Flooring
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: 2c2f27b4aab140a898822424e94ec3ad
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.98 kg
+  massless: false
+  masterformat: 09 60 00 Flooring
+  may_contain_trusted_vendor_declarations: false
+  name: OtherFlooring
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> OtherFlooring
+  openepd_name: Finishes >> Flooring >> OtherFlooring
+  parents: []
+  pct10_gwp: 1.071594501 kgCO2e
+  pct20_gwp: 1.695099704 kgCO2e
+  pct30_gwp: 3.393001348 kgCO2e
+  pct40_gwp: 7.01618715 kgCO2e
+  pct50_gwp: 10.8284769 kgCO2e
+  pct60_gwp: 14.97367519 kgCO2e
+  pct70_gwp: 17.9590076 kgCO2e
+  pct80_gwp: 22.33122673 kgCO2e
+  pct90_gwp: 27.02985834 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Other Flooring
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-07-31T11:19:03.477010Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-07-26T08:25:45.298497Z'
+date_validity_ends: '2030-03-04'
+declaration_type: Product EPD
+description: cushion back modular tile
+doc: https://spot.ul.com/main-appproducts/detail/670fff467a2700c7d9bb140e
+errors:
+  date_of_issue:
+  - Not specified
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+  impacts:
+  - GWP impact not specified
+  program_operator:
+  - Missing link
+file_name: CN-WellBAC%C2%AE%20Comfort%20and%20Comfort%20Plus%20PrintWorks%E2%84%A2%20r_20eec41f35b698a011e2b9fb8f7090b4931a666d.pdf
+id: e7409807840340a9b6e50ec3f31ee470
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+manufacturer:
+  address: Milliken Rd, Spartanburg, SC 29303, USA
+  address_line: Milliken Rd
+  admin_district: SC
+  admin_district2: Spartanburg County
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/milliken
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:51:49.674817Z'
+  email_extensions:
+  - milliken.com
+  enterprise: true
+  id: 840ce2c9a4e94841a54d1ad9f319d371
+  image: https://static.buildingtransparency.org/images/64105ad4d0b44812b9a193341865cd62.png
+  is_failed: false
+  latitude: 34.9814258
+  legal_name: Milliken & Company
+  locality: Spartanburg
+  location:
+  - long_name: Milliken Road
+    short_name: Milliken Rd
+    types:
+    - route
+  - long_name: Spartanburg
+    short_name: Spartanburg
+    types:
+    - locality
+    - political
+  - long_name: Spartanburg County
+    short_name: Spartanburg County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: South Carolina
+    short_name: SC
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '29303'
+    short_name: '29303'
+    types:
+    - postal_code
+  longitude: -81.9537964
+  name: Milliken
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/840ce2c9a4e94841a54d1ad9f319d371
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '29303'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2024-02-28T18:15:43.873428Z'
+  web_domain: milliken.com
+  website: www.milliken.com
+manufacturer_specific: true
+matched_plants_count: 3
+material_id: 3bffd738e04541c394a020b83f95e00f
+multiproduct: false
+my_capabilities: 1
+name: "CN-WellBAC\xAE Comfort and Comfort Plus PrintWorks\u2122 rN6"
+not_an_epd: false
+open_xpd_uuid: ec3u68ta
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3u68ta
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2024-02-28T18:52:37.533230Z'
+  id: a1d3dff6da414e7db387223b373b7801
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Duncan Stewart, Alma, Live Oak
+  owned_by:
+    address: Milliken Rd, Spartanburg, SC 29303, USA
+    address_line: Milliken Rd
+    admin_district: SC
+    admin_district2: Spartanburg County
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/milliken
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:51:49.674817Z'
+    email_extensions:
+    - milliken.com
+    enterprise: true
+    id: 840ce2c9a4e94841a54d1ad9f319d371
+    image: https://static.buildingtransparency.org/images/64105ad4d0b44812b9a193341865cd62.png
+    is_failed: false
+    latitude: 34.9814258
+    legal_name: Milliken & Company
+    locality: Spartanburg
+    location:
+    - long_name: Milliken Road
+      short_name: Milliken Rd
+      types:
+      - route
+    - long_name: Spartanburg
+      short_name: Spartanburg
+      types:
+      - locality
+      - political
+    - long_name: Spartanburg County
+      short_name: Spartanburg County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: South Carolina
+      short_name: SC
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '29303'
+      short_name: '29303'
+      types:
+      - postal_code
+    longitude: -81.9537964
+    name: Milliken
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/840ce2c9a4e94841a54d1ad9f319d371
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '29303'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2024-02-28T18:15:43.873428Z'
+    web_domain: milliken.com
+    website: www.milliken.com
+  plants_count: 3
+  total_epds: 65
+  type: PlantGroup
+  updated_on: '2025-07-26T11:40:58.927214Z'
+plant_specific: false
+private: false
+product_specific: true
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3u68tazc
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2025-07-26T08:26:01.332674Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

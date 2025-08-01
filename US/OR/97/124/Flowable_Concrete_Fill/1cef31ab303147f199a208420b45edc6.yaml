@@ -42,22 +42,22 @@ category:
   openepd: Concrete >> FlowableFill
   openepd_name: Concrete >> FlowableFill
   parents: []
-  pct10_gwp: 60.20732992 kgCO2e
-  pct20_gwp: 75.30671001 kgCO2e
-  pct30_gwp: 91.19112722 kgCO2e
-  pct40_gwp: 104.750758 kgCO2e
-  pct50_gwp: 120.8931501 kgCO2e
-  pct60_gwp: 143.5043274 kgCO2e
-  pct70_gwp: 180.6492929 kgCO2e
-  pct80_gwp: 237.8083341 kgCO2e
-  pct90_gwp: 333.6972526 kgCO2e
+  pct10_gwp: 60.13393504 kgCO2e
+  pct20_gwp: 75.2446466 kgCO2e
+  pct30_gwp: 91.18850917 kgCO2e
+  pct40_gwp: 104.7726495 kgCO2e
+  pct50_gwp: 121.4789707 kgCO2e
+  pct60_gwp: 144.7677512 kgCO2e
+  pct70_gwp: 180.8733329 kgCO2e
+  pct80_gwp: 237.9402991 kgCO2e
+  pct90_gwp: 333.8451534 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Flowable Fill (CDF)
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30110000'
-  updated_on: '2025-05-28T10:04:44.907109Z'
+  updated_on: '2025-07-31T11:18:56.373348Z'
   use_stored_carbon: ABSENT
 cementitious: {}
 concrete_air_entrain: false
@@ -574,8 +574,8 @@ program_operator:
   primary_activity_performance_standards_issuer: false
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
-  primary_activity_verifier: false
-  updated_on: '2024-07-24T16:59:40.245033Z'
+  primary_activity_verifier: true
+  updated_on: '2025-06-06T00:35:46.621058Z'
   web_domain: nrmca.org
   website: http://www.nrmca.org/sustainability/
 program_operator_fkey: NRMCAEPD:10019

@@ -26,7 +26,7 @@ category:
   id: 8ab304f186094beda76ff15fb15d0081
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 4.27 kg
+  mass_per_declared_unit: 5.02 kg
   massless: false
   masterformat: 09 65 00 Resilient Flooring
   may_contain_trusted_vendor_declarations: false
@@ -36,22 +36,22 @@ category:
   openepd: Finishes >> Flooring >> ResilientFlooring
   openepd_name: Finishes >> Flooring >> ResilientFlooring
   parents: []
-  pct10_gwp: 4.594795531 kgCO2e
-  pct20_gwp: 5.838224664 kgCO2e
-  pct30_gwp: 6.91005339 kgCO2e
-  pct40_gwp: 7.881044596 kgCO2e
-  pct50_gwp: 8.641524095 kgCO2e
-  pct60_gwp: 10.19236651 kgCO2e
-  pct70_gwp: 11.58934835 kgCO2e
-  pct80_gwp: 13.6242712 kgCO2e
-  pct90_gwp: 17.07508676 kgCO2e
+  pct10_gwp: 5.833329769 kgCO2e
+  pct20_gwp: 7.417852333 kgCO2e
+  pct30_gwp: 8.238996886 kgCO2e
+  pct40_gwp: 9.162139425 kgCO2e
+  pct50_gwp: 10.67138016 kgCO2e
+  pct60_gwp: 11.93917394 kgCO2e
+  pct70_gwp: 13.67240297 kgCO2e
+  pct80_gwp: 15.97713817 kgCO2e
+  pct90_gwp: 21.42330355 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Resilient Flooring
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161700'
-  updated_on: '2025-05-28T10:04:52.636547Z'
+  updated_on: '2025-07-31T11:19:04.154669Z'
   use_stored_carbon: OPTIONAL
 conductive_flooring: false
 confirmable_fields: []
@@ -133,8 +133,8 @@ developer:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -164,7 +164,6 @@ gwp: 6.68 kgCO2e
 gwp_per_category_declared_unit: 6.68 kgCO2e
 gwp_per_kg: 0.7091295117 kgCO2e
 gwp_z: 0.17521415467935234
-gypsum_specific_density: 9.42 kg / m^2
 id: 3246435aa3a04c508d1eab13a1ad66cb
 image: https://static.buildingtransparency.org/images/7b2f766ef62744968df4d9e1a343ec4a.png
 impacts: {}
@@ -262,7 +261,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2023-05-31T14:57:28.179179Z'
+  updated_on: '2025-07-01T18:12:05.045031Z'
   web_domain: mohawkind.com
   website: www.mohawkind.com
 manufacturer_specific: true
@@ -271,7 +270,7 @@ matched_plants_count: 0
 material_id: 4285117b1f4b4668bbc8d23e84924b3d
 multiproduct: false
 my_capabilities: 1
-name: Commercial Rigid Core Flooring
+name: Rigid Core Flooring
 not_an_epd: false
 open_xpd_uuid: ec3jrejz
 original_data_format: pdf_mixed
@@ -456,7 +455,7 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2023-05-31T14:57:28.179179Z'
+    updated_on: '2025-07-01T18:12:05.045031Z'
     web_domain: mohawkind.com
     website: www.mohawkind.com
   postal_code: '30721'
@@ -469,7 +468,8 @@ private: false
 product_classes:
   UNSPSC:
   - '30161707'
-  masterformat: 09 65 00 Resilient Flooring
+  masterformat:
+  - 09 65 00 Resilient Flooring
 product_specific: true
 program_operator:
   address: 2211 New Market Parkway Southeast, Marietta, GA 30067
@@ -530,8 +530,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -553,14 +553,15 @@ program_operator:
   web_domain: ul.com
   website: https://www.ul.com/
 program_operator_fkey: 4790261584.103.
-reference_service_life: 30 year
+reference_service_life: 30 years
 requires_ocr: false
-resilient_flooring_form_factor: Underlayment
+resilient_flooring_form_factor: Interlocking
 resilient_flooring_material: Rigid
+resilient_flooring_thickness: ~ 5mm
+resilient_flooring_wear_layer: 0.5 mil
 resource_uses: {}
 sanitizable: true
 short_link: buildingtransparency.org/e/ec3jrejz9y
-specific_density: 9.42 kg / m^2
 sport_flooring: false
 standard_deviation: 1.170430553 kgCO2e
 stored_carbon_z: 0.2
@@ -568,7 +569,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 7.665034354 kgCO2e
 uncertainty_factor: 1.147460232578143
-updated_on: '2025-01-14T20:09:58.983586Z'
+updated_on: '2025-07-10T17:22:26.588669Z'
 use_stored_carbon: false
 verifier:
   email: cooper.mccollum@ul.com
@@ -632,8 +633,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false

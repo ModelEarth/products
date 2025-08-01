@@ -27,7 +27,7 @@ category:
   id: d1505e841ff6428a9a2d9f91c0813a63
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 0.0635 kg
+  mass_per_declared_unit: 0.06 kg
   massless: false
   masterformat: 27 10 00 Structured Cabling
   may_contain_trusted_vendor_declarations: false
@@ -37,22 +37,22 @@ category:
   openepd: NetworkInfrastructure >> DataCabling
   openepd_name: NetworkInfrastructure >> DataCabling
   parents: []
-  pct10_gwp: 0.1453405512 kgCO2e
-  pct20_gwp: 0.2289611424 kgCO2e
-  pct30_gwp: 0.2966540018 kgCO2e
-  pct40_gwp: 0.4773342077 kgCO2e
-  pct50_gwp: 0.7690107934 kgCO2e
-  pct60_gwp: 2.339385585 kgCO2e
-  pct70_gwp: 5.300948187 kgCO2e
-  pct80_gwp: 10.97022517 kgCO2e
-  pct90_gwp: 29.36675522 kgCO2e
+  pct10_gwp: 0.1377375481 kgCO2e
+  pct20_gwp: 0.2127845399 kgCO2e
+  pct30_gwp: 0.2715180503 kgCO2e
+  pct40_gwp: 0.3337696072 kgCO2e
+  pct50_gwp: 0.5381831199 kgCO2e
+  pct60_gwp: 1.637569909 kgCO2e
+  pct70_gwp: 5.139182163 kgCO2e
+  pct80_gwp: 8.810026565 kgCO2e
+  pct90_gwp: 32.82605943 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Data Cabling
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '26121616'
-  updated_on: '2025-05-28T10:04:51.106324Z'
+  updated_on: '2025-07-31T11:19:02.469679Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -412,8 +412,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

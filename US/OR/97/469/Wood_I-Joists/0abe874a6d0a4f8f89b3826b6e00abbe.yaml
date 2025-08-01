@@ -37,22 +37,22 @@ category:
   openepd: WoodJoists
   openepd_name: WoodJoists
   parents: []
-  pct10_gwp: 1.418368761 kgCO2e
-  pct20_gwp: 1.531099233 kgCO2e
-  pct30_gwp: 1.688004771 kgCO2e
-  pct40_gwp: 1.814879978 kgCO2e
-  pct50_gwp: 1.971884628 kgCO2e
-  pct60_gwp: 2.145170967 kgCO2e
-  pct70_gwp: 2.323254289 kgCO2e
-  pct80_gwp: 2.586614782 kgCO2e
-  pct90_gwp: 3.417961531 kgCO2e
+  pct10_gwp: 1.484130008 kgCO2e
+  pct20_gwp: 1.638039344 kgCO2e
+  pct30_gwp: 1.794263052 kgCO2e
+  pct40_gwp: 1.960269176 kgCO2e
+  pct50_gwp: 2.142119968 kgCO2e
+  pct60_gwp: 2.355453017 kgCO2e
+  pct70_gwp: 2.615941849 kgCO2e
+  pct80_gwp: 3.284129289 kgCO2e
+  pct90_gwp: 4.536710898 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Wood I-Joists
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30103607'
-  updated_on: '2025-05-28T10:04:55.946480Z'
+  updated_on: '2025-07-31T11:19:07.341310Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -159,6 +159,7 @@ digitization_qa:
   - waldmanlca.com
   - carbonleadershipforum.org
   enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/5482cda008cc4d31a16ed44fc6f6a3a1.png
   id: 14961b8cc7d4440f9456f7210fdfe76a
   image: https://static.buildingtransparency.org/images/c2c300af-096b-4770-adde-bea7fb5bd8be.png
   is_failed: false
@@ -202,7 +203,7 @@ digitization_qa:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2020-05-21T22:02:04.366702Z'
+  updated_on: '2025-07-22T02:04:00.457127Z'
   web_domain: carbonleadershipforum.org
   website: www.carbonleadershipforum.org
 doc: buildingtransparency.org/e/ec3j8jdemh
@@ -346,8 +347,8 @@ pcr:
   requires_uncertainty: false
   short_link: buildingtransparency.org/p/ec38861n82
   short_name: North American Structural and Architectural Wood Products
-  status: Expired
-  updated_on: '2025-05-29T06:50:13.884033Z'
+  status: Sunset
+  updated_on: '2025-07-31T22:20:05.860832Z'
   version: '2'
 pct80_gwp_per_category_declared_unit: 2.139096455 kgCO2e
 plant_geography:
@@ -520,8 +521,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false

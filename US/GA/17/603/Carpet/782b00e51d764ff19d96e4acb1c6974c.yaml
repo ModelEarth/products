@@ -1,0 +1,334 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Spot: https://spot.ul.com/main-appproducts/detail/67bfd54f6f455c59d79c5d74
+box_id: '1929738356540'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.911898445 kgCO2e
+  pct20_gwp: 6.875667177 kgCO2e
+  pct30_gwp: 7.955495382 kgCO2e
+  pct40_gwp: 9.481977743 kgCO2e
+  pct50_gwp: 10.93880615 kgCO2e
+  pct60_gwp: 12.71636215 kgCO2e
+  pct70_gwp: 14.90412338 kgCO2e
+  pct80_gwp: 17.34049384 kgCO2e
+  pct90_gwp: 20.2616523 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-07-31T11:19:04.347990Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-07-19T08:23:35.903956Z'
+date_validity_ends: '2030-02-25'
+declaration_type: Product EPD
+description: Nylon Carpet Tile
+doc: https://spot.ul.com/main-appproducts/detail/67bfd54f6f455c59d79c5d74
+errors:
+  date_of_issue:
+  - Not specified
+  pcr:
+  - Missing link
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  declared_unit:
+  - Not specified
+  impacts:
+  - GWP impact not specified
+  program_operator:
+  - Missing link
+file_name: Nylon%20Carpet%20Tile_3471e6f33181da7572585a51541d4f8cbde239ca.pdf
+id: df0bdf8932f54d2a80e66087d17e87d5
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+manufacturer:
+  address: 2300 Columbia Ave, Lancaster, PA 17603, USA
+  address_line: 2300 Columbia Ave
+  admin_district: PA
+  admin_district2: Lancaster County
+  alt_names:
+  - Armstrong World Industries
+  - Armstrong World Industries, Inc.
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/armstrong-ceilings
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-08-08T13:15:28.906027Z'
+  email_extensions:
+  - armstrongceilings.com
+  - armstrongceiling.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/0ed164fb0bbf460c897a4da54c9201f0.png
+  id: 3625052d06964ba2accc90930766b552
+  image: https://static.buildingtransparency.org/images/5b2cb2ad215f4d5f9bf4e2500fc441e5.png
+  is_failed: false
+  latitude: 40.0396801
+  legal_name: Armstrong World Industries, Inc.
+  locality: Lancaster
+  location:
+  - long_name: '2300'
+    short_name: '2300'
+    types:
+    - street_number
+  - long_name: Columbia Avenue
+    short_name: Columbia Ave
+    types:
+    - route
+  - long_name: Lancaster
+    short_name: Lancaster
+    types:
+    - locality
+    - political
+  - long_name: Manor Township
+    short_name: Manor Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Lancaster County
+    short_name: Lancaster County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '17603'
+    short_name: '17603'
+    types:
+    - postal_code
+  - long_name: '4108'
+    short_name: '4108'
+    types:
+    - postal_code_suffix
+  longitude: -76.36606739999999
+  name: Armstrong World Industries, Inc.
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3625052d06964ba2accc90930766b552
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '17603'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-07-12T17:35:39.941724Z'
+  web_domain: armstrongceilings.com
+  website: www.armstrongceilings.com
+manufacturer_specific: true
+matched_plants_count: 1
+material_id: 782b00e51d764ff19d96e4acb1c6974c
+multiproduct: false
+my_capabilities: 1
+name: Nylon Carpet Tile
+not_an_epd: false
+open_xpd_uuid: ec3ssfm7
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3ssfm7
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-09T18:21:48.562380Z'
+  id: c1033eadeae44406bb1fc5defefa3cbf
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Marietta, Macon
+  owned_by:
+    address: 2300 Columbia Ave, Lancaster, PA 17603, USA
+    address_line: 2300 Columbia Ave
+    admin_district: PA
+    admin_district2: Lancaster County
+    alt_names:
+    - Armstrong World Industries
+    - Armstrong World Industries, Inc.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/armstrong-ceilings
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-08T13:15:28.906027Z'
+    email_extensions:
+    - armstrongceilings.com
+    - armstrongceiling.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/0ed164fb0bbf460c897a4da54c9201f0.png
+    id: 3625052d06964ba2accc90930766b552
+    image: https://static.buildingtransparency.org/images/5b2cb2ad215f4d5f9bf4e2500fc441e5.png
+    is_failed: false
+    latitude: 40.0396801
+    legal_name: Armstrong World Industries, Inc.
+    locality: Lancaster
+    location:
+    - long_name: '2300'
+      short_name: '2300'
+      types:
+      - street_number
+    - long_name: Columbia Avenue
+      short_name: Columbia Ave
+      types:
+      - route
+    - long_name: Lancaster
+      short_name: Lancaster
+      types:
+      - locality
+      - political
+    - long_name: Manor Township
+      short_name: Manor Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Lancaster County
+      short_name: Lancaster County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '17603'
+      short_name: '17603'
+      types:
+      - postal_code
+    - long_name: '4108'
+      short_name: '4108'
+      types:
+      - postal_code_suffix
+    longitude: -76.36606739999999
+    name: Armstrong World Industries, Inc.
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3625052d06964ba2accc90930766b552
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '17603'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-07-12T17:35:39.941724Z'
+    web_domain: armstrongceilings.com
+    website: www.armstrongceilings.com
+  plants_count: 2
+  total_epds: 9
+  type: PlantGroup
+  updated_on: '2025-07-19T12:28:00.749946Z'
+plant_specific: false
+private: false
+product_specific: true
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3ssfm7ce
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2025-07-19T08:23:58.652232Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  verifier:
+  - Missing link

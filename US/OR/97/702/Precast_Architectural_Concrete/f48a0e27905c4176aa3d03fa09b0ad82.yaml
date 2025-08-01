@@ -31,20 +31,20 @@ category:
   openepd: PrecastConcrete >> ArchitecturalPrecast
   openepd_name: PrecastConcrete >> ArchitecturalPrecast
   parents: []
-  pct10_gwp: 172.5164861 kgCO2e
-  pct20_gwp: 189.8643753 kgCO2e
-  pct30_gwp: 203.2030997 kgCO2e
-  pct40_gwp: 218.3694795 kgCO2e
-  pct50_gwp: 229.4875446 kgCO2e
-  pct60_gwp: 243.2571775 kgCO2e
-  pct70_gwp: 260.2641252 kgCO2e
-  pct80_gwp: 276.4585397 kgCO2e
-  pct90_gwp: 304.199452 kgCO2e
+  pct10_gwp: 195.9930775 kgCO2e
+  pct20_gwp: 218.4769594 kgCO2e
+  pct30_gwp: 233.6864842 kgCO2e
+  pct40_gwp: 248.8319573 kgCO2e
+  pct50_gwp: 260.9631661 kgCO2e
+  pct60_gwp: 275.7091058 kgCO2e
+  pct70_gwp: 291.2847589 kgCO2e
+  pct80_gwp: 308.9544082 kgCO2e
+  pct90_gwp: 333.2422294 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Architectural
   short_service_life_disclaimer: false
   subcategories: []
-  updated_on: '2025-05-28T10:04:45.073120Z'
+  updated_on: '2025-07-31T11:18:56.532101Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -78,6 +78,7 @@ developer:
     email_extensions:
     - climateearth.com
     enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/d2ab7c4a1a184c3d8f524a095e0fc6d1.png
     id: 5d43c53212c848d9861a81a4bbd626b2
     image: https://static.buildingtransparency.org/images/7ce922a6-8120-420c-9ca9-cd4ff793d90e
     is_failed: false
@@ -121,7 +122,7 @@ developer:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: true
     primary_activity_verifier: true
-    updated_on: '2023-10-06T13:31:13.719486Z'
+    updated_on: '2025-07-22T02:02:02.312901Z'
     web_domain: climateearth.com
     website: https://climateearth.com/
 doc: buildingtransparency.org/e/ec35ktzbh9
@@ -243,10 +244,15 @@ pcr:
   is_failed: false
   issuer_doc_id: NSF 1112-19
   lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
     TRACI 2.1:
       impacts: []
       jurisdiction:
-      - '001'
+      - '021'
       order: 1
   name: NSF PCR for Concrete
   open_xpd_uuid: ec3r08uc
@@ -257,7 +263,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3r08uctb
   short_name: Concrete
   status: Expired
-  updated_on: '2025-05-29T06:50:13.540914Z'
+  updated_on: '2025-07-31T22:30:05.813996Z'
   version: 2.3 extension
 plant_geography:
 - US-OR

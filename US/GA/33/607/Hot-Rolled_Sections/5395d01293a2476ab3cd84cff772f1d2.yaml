@@ -35,22 +35,22 @@ category:
   openepd: Steel >> StructuralSteel >> HotRolledSections
   openepd_name: Steel >> StructuralSteel >> HotRolledSections
   parents: []
-  pct10_gwp: 525.8016531 kgCO2e
-  pct20_gwp: 609.8507589 kgCO2e
-  pct30_gwp: 718.1384731 kgCO2e
-  pct40_gwp: 958.0736478 kgCO2e
-  pct50_gwp: 1055.908573 kgCO2e
-  pct60_gwp: 1140.745982 kgCO2e
-  pct70_gwp: 1225.465537 kgCO2e
-  pct80_gwp: 1325.81285 kgCO2e
-  pct90_gwp: 1935.229798 kgCO2e
+  pct10_gwp: 524.3957387 kgCO2e
+  pct20_gwp: 757.8033775 kgCO2e
+  pct30_gwp: 967.2086887 kgCO2e
+  pct40_gwp: 1046.186491 kgCO2e
+  pct50_gwp: 1112.41972 kgCO2e
+  pct60_gwp: 1185.393372 kgCO2e
+  pct70_gwp: 1258.61507 kgCO2e
+  pct80_gwp: 1337.809937 kgCO2e
+  pct90_gwp: 1961.687276 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Hot-Rolled Sections
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
   unspsc: '30102304'
-  updated_on: '2025-05-28T10:04:49.708678Z'
+  updated_on: '2025-07-31T11:19:01.088923Z'
   use_stored_carbon: ABSENT
 cold_finished: false
 confirmable_fields: []
@@ -383,7 +383,7 @@ plant_or_group:
   plants_count: 4
   total_epds: 1
   type: PlantGroup
-  updated_on: '2024-12-09T20:00:19.694923Z'
+  updated_on: '2025-06-26T09:53:59.610620Z'
 plant_specific: false
 private: false
 product_classes: {}
@@ -466,7 +466,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 926.5844152 kgCO2e
 uncertainty_factor: 1.149608455598472
-updated_on: '2025-01-14T21:30:27.767068Z'
+updated_on: '2025-06-26T01:01:44.969985Z'
 use_stored_carbon: false
 verifier:
   email: t.gloria@industrial-ecology.com
@@ -546,8 +546,8 @@ verifier:
     website: http://industrial-ecology.com/
 warnings:
   impacts:
+  - Impact set is suspicious by having equal magnitudes
   - GWP with the PCR's required LCIA Method not found in the document
-  - EP-MARINE impact not specified
   - EP-TERRESTRIAL impact not specified
   steel_post_consumer_recycled_content:
   - Not specified

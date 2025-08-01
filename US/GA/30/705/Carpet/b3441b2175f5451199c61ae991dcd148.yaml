@@ -1,0 +1,652 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+attachments:
+  Spot: https://spot.ul.com/main-appproducts/detail/5d1bc5fc55b0e87a60f205ed
+best_practice: 13.24669231 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+box_id: '1200016351281'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.911898445 kgCO2e
+  pct20_gwp: 6.875667177 kgCO2e
+  pct30_gwp: 7.955495382 kgCO2e
+  pct40_gwp: 9.481977743 kgCO2e
+  pct50_gwp: 10.93880615 kgCO2e
+  pct60_gwp: 12.71636215 kgCO2e
+  pct70_gwp: 14.90412338 kgCO2e
+  pct80_gwp: 17.34049384 kgCO2e
+  pct90_gwp: 20.2616523 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-07-31T11:19:04.347990Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 21.75330769 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2023-04-26T13:40:20.077465Z'
+date_of_issue: '2023-02-01'
+date_validity_ends: '2028-02-01'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "OnGuard is a revolutionary moisture barriet that enhances Durkan\u2019\
+  s Unibond\xAE Plus backing system with an integrated later that prevents moisture\
+  \ from getting beneath the carpet backing. This advanced moisture barrier passess\
+  \ both the British Spill Test and the 10,000 impact test. Unibond Plus OnGuard is\
+  \ the ideal solution for areas requiring high performance flooring prone to frequent\
+  \ spills and areas with existing high moisture subfloor concerns.\n\nAs of 2022,\
+  \ all Durkan flooring products will be carbon neutral plus an additional 5%. Unibond\
+  \ Plus OnGuard meets Durkan\u2019s commitment to Beyond Carbon Neutral.\n\nThis\
+  \ study covers all products and styles with tufted nylon face fiber on Unibond Plus\
+  \ OnGuard backing, including\nstandard tufted solution dyed yarns, precision-dye\
+  \ injection (PDI), and Definity/CYP. Due to a range of face weights\noffered with\
+  \ this product, an average face weight of 28 oz/yd2 (950 g/m2) was used, which is\
+  \ the average of the annual\nsales. Unless noted in the report, the average face\
+  \ weight is presented for the impacts."
+developer:
+  email: epd@ul.com
+  name: UL Peer Review Panel
+  org:
+    address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    address_line: 2211 New Market Parkway Southeast
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - ULE EPM
+    - Underwriters Labs
+    - Underwriters Laboratories
+    - UL E
+    - UL Enviornment
+    - UL Environment
+    - UL Solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-19T16:12:16.017515Z'
+    email: epd@ul.com
+    email_extensions:
+    - ul.com
+    - ulenvironment.com
+    enterprise: true
+    id: 5b22feac0d67472191705631612b68fb
+    image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+    is_failed: false
+    latitude: 33.917988
+    legal_name: UL
+    locality: Marietta
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.918196,-84.495564
+        southWest: 33.917305,-84.497793
+      buildingNumber: '2211'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Marietta
+      extendedPostalCode: '300679393'
+      freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+      municipality: Marietta
+      municipalitySubdivision: Marietta
+      postalCode: '30067'
+      routeNumbers: []
+      street: New Market Parkway Southeast
+      streetName: New Market Parkway Southeast
+      streetNameAndNumber: 2211 New Market Parkway Southeast
+      streetNumber: '2211'
+    longitude: -84.49678
+    name: UL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - CA
+    - US
+    postal_code: '30067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2025-04-26T00:06:55.791242Z'
+    web_domain: ul.com
+    website: https://www.ul.com/
+doc: https://spot.ul.com/main-appproducts/detail/5d1bc5fc55b0e87a60f205ed
+epd_degraded: false
+excluded: false
+externally_verified: false
+file_name: UnibondPlusOnGuard_4d20182794d30db3e9373d4903689c53ac329479.pdf
+form_factor: Broadloom
+gwp: 17.5 kgCO2e
+gwp_per_category_declared_unit: 17.5 kgCO2e
+gwp_per_kg: 7.172131148 kgCO2e
+gwp_z: 0.28879058156387305
+id: 7712b7af82d54d7e96b5ad47ee3d1fd5
+image: https://static.buildingtransparency.org/images/c3a631d15e5147bea1cbe10bf62258d9.png
+impacts: {}
+includes: []
+industry_standards: []
+intended_application:
+- Com
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+language: en
+lowest_plausible_gwp: 13.24669231 kgCO2e
+manufacturer:
+  address: 160 S Industrial Blvd, Calhoun, GA 30701, USA
+  address_line: 160 S Industrial Blvd
+  admin_district: GA
+  admin_district2: Gordon County
+  alt_names:
+  - Mohawk Industries, LLC
+  - Mohawk Group
+  - Mohawk Hard Surfaces
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/mohawk-industries
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-01-19T03:34:08.215688Z'
+  email_extensions:
+  - mohawkind.com
+  - godfreyhirst.com
+  enterprise: true
+  id: d33849451e134246a27989284c7848ca
+  image: https://static.buildingtransparency.org/images/73eeea9c-42ce-4d52-844b-7737dcce8b42.png
+  is_failed: false
+  latitude: 34.4724813
+  locality: Calhoun
+  location:
+  - long_name: '160'
+    short_name: '160'
+    types:
+    - street_number
+  - long_name: South Industrial Boulevard
+    short_name: S Industrial Blvd
+    types:
+    - route
+  - long_name: Calhoun
+    short_name: Calhoun
+    types:
+    - locality
+    - political
+  - long_name: Gordon County
+    short_name: Gordon County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Georgia
+    short_name: GA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '30701'
+    short_name: '30701'
+    types:
+    - postal_code
+  - long_name: '3030'
+    short_name: '3030'
+    types:
+    - postal_code_suffix
+  longitude: -84.9434654
+  name: Mohawk Industries
+  org_type: Public
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/d33849451e134246a27989284c7848ca
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '30701'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2025-07-01T18:12:05.045031Z'
+  web_domain: mohawkind.com
+  website: www.mohawkind.com
+manufacturer_specific: true
+mass_per_declared_unit: 2.44 kg
+matched_plants_count: 0
+material_id: b3441b2175f5451199c61ae991dcd148
+multiproduct: false
+my_capabilities: 1
+name: "Tufted Nylon Broadloom Carpet on Unibond\xAE Plus OnGuard (Durkan)"
+not_an_epd: false
+open_xpd_uuid: ec3m8gc9
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3m8gc9
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:57:05.502294Z'
+  date_of_issue: '2018-09-28'
+  date_validity_ends: '2023-09-28'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34962
+  id: 574a7f64f1b8404aa268cef70a98e15c
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - 019
+      order: 1
+  name: 'Part B: Flooring'
+  open_xpd_uuid: ec35g1dj
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec35g1dj
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec35g1djuq
+  short_name: 'Part B: Flooring'
+  status: Expired
+  updated_on: '2023-09-29T00:02:28.126081Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 21.75330769 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 1149 Duvall Road, Chatsworth, GA 30705
+  address_line: 1149 Duvall Road
+  admin_district: GA
+  admin_district2: Murray
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-11-07T15:09:05.103398Z'
+  id: 0a1592e6d6ec437fae3cfcea4ae623b8
+  is_failed: false
+  latitude: 34.79256249999999
+  locality: Chatsworth
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Murray
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Chatsworth
+    extendedPostalCode: 307052096, 307053201, 307053202
+    freeformAddress: 1149 Duvall Road, Chatsworth, GA 30705
+    municipality: Chatsworth
+    municipalitySubdivision: Chatsworth
+    postalCode: '30705'
+    streetName: Duvall Road
+    streetNumber: '1149'
+  longitude: -84.7804375
+  name: Chatsworth, GA
+  openepd_id: 866QQ6V9+2R.mohawkind.com
+  owned_by:
+    address: 160 S Industrial Blvd, Calhoun, GA 30701, USA
+    address_line: 160 S Industrial Blvd
+    admin_district: GA
+    admin_district2: Gordon County
+    alt_names:
+    - Mohawk Industries, LLC
+    - Mohawk Group
+    - Mohawk Hard Surfaces
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/mohawk-industries
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-01-19T03:34:08.215688Z'
+    email_extensions:
+    - mohawkind.com
+    - godfreyhirst.com
+    enterprise: true
+    id: d33849451e134246a27989284c7848ca
+    image: https://static.buildingtransparency.org/images/73eeea9c-42ce-4d52-844b-7737dcce8b42.png
+    is_failed: false
+    latitude: 34.4724813
+    locality: Calhoun
+    location:
+    - long_name: '160'
+      short_name: '160'
+      types:
+      - street_number
+    - long_name: South Industrial Boulevard
+      short_name: S Industrial Blvd
+      types:
+      - route
+    - long_name: Calhoun
+      short_name: Calhoun
+      types:
+      - locality
+      - political
+    - long_name: Gordon County
+      short_name: Gordon County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Georgia
+      short_name: GA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '30701'
+      short_name: '30701'
+      types:
+      - postal_code
+    - long_name: '3030'
+      short_name: '3030'
+      types:
+      - postal_code_suffix
+    longitude: -84.9434654
+    name: Mohawk Industries
+    org_type: Public
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/d33849451e134246a27989284c7848ca
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '30701'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2025-07-01T18:12:05.045031Z'
+    web_domain: mohawkind.com
+    website: www.mohawkind.com
+  postal_code: '30705'
+  total_epds: 14
+  type: Plant
+  units: SI
+  updated_on: '2025-07-10T20:00:04.101376Z'
+plant_specific: false
+private: false
+product_classes:
+  UNSPSC:
+  - '30161701'
+  masterformat:
+  - 09 68 00
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - CA
+  - US
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4790644072.103.1
+reference_service_life: 15 years
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3m8gc9kc
+standard_deviation: 5.053835177 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 21.75330769 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-07-11T18:52:48.962623Z'
+use_stored_carbon: false
+verifier:
+  email: cooper.mccollum@ul.com
+  name: Cooper McCollum
+  org:
+    address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    address_line: 2211 New Market Parkway Southeast
+    admin_district: GA
+    admin_district2: Cobb
+    alt_names:
+    - ULE EPM
+    - Underwriters Labs
+    - Underwriters Laboratories
+    - UL E
+    - UL Enviornment
+    - UL Environment
+    - UL Solutions
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-19T16:12:16.017515Z'
+    email: epd@ul.com
+    email_extensions:
+    - ul.com
+    - ulenvironment.com
+    enterprise: true
+    id: 5b22feac0d67472191705631612b68fb
+    image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+    is_failed: false
+    latitude: 33.917988
+    legal_name: UL
+    locality: Marietta
+    location:
+      boundingBox:
+        entity: position
+        northEast: 33.918196,-84.495564
+        southWest: 33.917305,-84.497793
+      buildingNumber: '2211'
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cobb
+      countrySubdivision: GA
+      countrySubdivisionName: Georgia
+      countryTertiarySubdivision: Marietta
+      extendedPostalCode: '300679393'
+      freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+      municipality: Marietta
+      municipalitySubdivision: Marietta
+      postalCode: '30067'
+      routeNumbers: []
+      street: New Market Parkway Southeast
+      streetName: New Market Parkway Southeast
+      streetNameAndNumber: 2211 New Market Parkway Southeast
+      streetNumber: '2211'
+    longitude: -84.49678
+    name: UL
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - CA
+    - US
+    postal_code: '30067'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2025-04-26T00:06:55.791242Z'
+    web_domain: ul.com
+    website: https://www.ul.com/
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - B2_years are empty
+  - B4_years are empty
+yarn_type: Nylon 6
+yarn_weight: 950 g / m2

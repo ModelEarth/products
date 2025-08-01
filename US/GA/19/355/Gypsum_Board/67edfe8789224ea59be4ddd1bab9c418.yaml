@@ -24,7 +24,7 @@ category:
   id: 0d1d4544c70f4a82938c79d88f86ec5d
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 1022.983474 kg
+  mass_per_declared_unit: 1032.033771 kg
   massless: false
   masterformat: 09 29 00 Gypsum Board
   may_contain_trusted_vendor_declarations: false
@@ -34,22 +34,22 @@ category:
   openepd: Finishes >> Gypsum
   openepd_name: Finishes >> Gypsum
   parents: []
-  pct10_gwp: 122.4249247 kgCO2e
-  pct20_gwp: 179.1490273 kgCO2e
-  pct30_gwp: 217.4107305 kgCO2e
-  pct40_gwp: 255.411927 kgCO2e
-  pct50_gwp: 290.1039577 kgCO2e
-  pct60_gwp: 326.0429218 kgCO2e
-  pct70_gwp: 381.4761214 kgCO2e
-  pct80_gwp: 448.2658629 kgCO2e
-  pct90_gwp: 550.9776326 kgCO2e
+  pct10_gwp: 116.7523409 kgCO2e
+  pct20_gwp: 173.406409 kgCO2e
+  pct30_gwp: 216.7580112 kgCO2e
+  pct40_gwp: 263.5777416 kgCO2e
+  pct50_gwp: 296.4595004 kgCO2e
+  pct60_gwp: 337.5644761 kgCO2e
+  pct70_gwp: 393.054527 kgCO2e
+  pct80_gwp: 457.7929197 kgCO2e
+  pct90_gwp: 569.4372196 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Gypsum Board
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161509'
-  updated_on: '2025-05-28T10:04:53.614889Z'
+  updated_on: '2025-07-31T11:19:05.117811Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -177,7 +177,7 @@ manufacturer:
   primary_activity_design: false
   primary_activity_digitization_qa: false
   primary_activity_education: false
-  primary_activity_epd_developer: false
+  primary_activity_epd_developer: true
   primary_activity_forest_practices_certification: false
   primary_activity_general_contractor: false
   primary_activity_industry_association: false
@@ -189,7 +189,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2024-08-30T23:41:13.973616Z'
+  updated_on: '2025-06-10T22:47:30.631306Z'
   web_domain: certainteed.com
   website: www.certainteed.com
 manufacturer_specific: true
@@ -314,7 +314,7 @@ plant_or_group:
     primary_activity_design: false
     primary_activity_digitization_qa: false
     primary_activity_education: false
-    primary_activity_epd_developer: false
+    primary_activity_epd_developer: true
     primary_activity_forest_practices_certification: false
     primary_activity_general_contractor: false
     primary_activity_industry_association: false
@@ -326,7 +326,7 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2024-08-30T23:41:13.973616Z'
+    updated_on: '2025-06-10T22:47:30.631306Z'
     web_domain: certainteed.com
     website: www.certainteed.com
   plants_count: 3

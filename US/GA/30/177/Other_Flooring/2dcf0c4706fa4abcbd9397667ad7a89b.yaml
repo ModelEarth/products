@@ -60,7 +60,7 @@ also_shown_in:
   id: 322f5fe92dc14206868213d0f800fe80
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 20.16 kg
+  mass_per_declared_unit: 20.145 kg
   massless: false
   masterformat: 09 30 00 Tiling
   may_contain_trusted_vendor_declarations: false
@@ -70,14 +70,14 @@ also_shown_in:
   openepd: Finishes >> Tiling
   openepd_name: Finishes >> Tiling
   parents: []
-  pct10_gwp: 8.04875892 kgCO2e
-  pct20_gwp: 9.337870324 kgCO2e
-  pct30_gwp: 10.7981564 kgCO2e
-  pct40_gwp: 11.5351619 kgCO2e
-  pct50_gwp: 12.19466954 kgCO2e
-  pct60_gwp: 12.65359009 kgCO2e
-  pct70_gwp: 13.93676519 kgCO2e
-  pct80_gwp: 15.75467339 kgCO2e
+  pct10_gwp: 8.28337344 kgCO2e
+  pct20_gwp: 9.528846346 kgCO2e
+  pct30_gwp: 10.96569705 kgCO2e
+  pct40_gwp: 11.67452955 kgCO2e
+  pct50_gwp: 12.38132264 kgCO2e
+  pct60_gwp: 12.72375605 kgCO2e
+  pct70_gwp: 14.04316568 kgCO2e
+  pct80_gwp: 16.00239288 kgCO2e
   pct90_gwp: 18.5657622 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Tiling
@@ -85,7 +85,7 @@ also_shown_in:
   subcategories: []
   template_builders: []
   unspsc: '30131704'
-  updated_on: '2025-05-28T10:04:53.143468Z'
+  updated_on: '2025-07-31T11:19:04.683711Z'
   use_stored_carbon: ABSENT
 applicable_in:
 - '021'
@@ -110,7 +110,7 @@ category:
   id: 2c2f27b4aab140a898822424e94ec3ad
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 3.99 kg
+  mass_per_declared_unit: 3.98 kg
   massless: false
   masterformat: 09 60 00 Flooring
   may_contain_trusted_vendor_declarations: false
@@ -120,21 +120,21 @@ category:
   openepd: Finishes >> Flooring >> OtherFlooring
   openepd_name: Finishes >> Flooring >> OtherFlooring
   parents: []
-  pct10_gwp: 1.146290369 kgCO2e
-  pct20_gwp: 1.745633546 kgCO2e
-  pct30_gwp: 3.930295904 kgCO2e
-  pct40_gwp: 7.193469284 kgCO2e
-  pct50_gwp: 11.18279493 kgCO2e
-  pct60_gwp: 14.82317509 kgCO2e
-  pct70_gwp: 18.01435573 kgCO2e
-  pct80_gwp: 22.1901874 kgCO2e
-  pct90_gwp: 26.66401825 kgCO2e
+  pct10_gwp: 1.071594501 kgCO2e
+  pct20_gwp: 1.695099704 kgCO2e
+  pct30_gwp: 3.393001348 kgCO2e
+  pct40_gwp: 7.01618715 kgCO2e
+  pct50_gwp: 10.8284769 kgCO2e
+  pct60_gwp: 14.97367519 kgCO2e
+  pct70_gwp: 17.9590076 kgCO2e
+  pct80_gwp: 22.33122673 kgCO2e
+  pct90_gwp: 27.02985834 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Other Flooring
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
-  updated_on: '2025-05-28T10:04:51.994652Z'
+  updated_on: '2025-07-31T11:19:03.477010Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -168,6 +168,7 @@ developer:
     - sustainableminds.com
     - ebsqart.com
     enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/7090690533a6458bb4f249811ae7367f.png
     id: 321e5dc991904465af04913936fd75c8
     image: https://static.buildingtransparency.org/images/f1493547-5dc1-4c14-967b-c05695c96708.png
     is_failed: false
@@ -211,7 +212,7 @@ developer:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: true
     primary_activity_verifier: true
-    updated_on: '2024-07-24T17:03:30.186451Z'
+    updated_on: '2025-07-22T02:03:03.572846Z'
     web_domain: sustainableminds.com
     website: https://www.sustainableminds.com
 doc: https://transparencycatalog.com/company/polycor/showroom/marble-flooring-products
@@ -544,6 +545,7 @@ program_operator:
   - sustainableminds.com
   - ebsqart.com
   enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/7090690533a6458bb4f249811ae7367f.png
   id: 321e5dc991904465af04913936fd75c8
   image: https://static.buildingtransparency.org/images/f1493547-5dc1-4c14-967b-c05695c96708.png
   is_failed: false
@@ -587,7 +589,7 @@ program_operator:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: true
   primary_activity_verifier: true
-  updated_on: '2024-07-24T17:03:30.186451Z'
+  updated_on: '2025-07-22T02:03:03.572846Z'
   web_domain: sustainableminds.com
   website: https://www.sustainableminds.com
 program_operator_fkey: "POL \u2013 20230213 \u2013 003"

@@ -1,0 +1,577 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: true
+astm_standards: []
+best_practice: 1264.332319 kgCO2e
+biogenic_embodied_carbon_z: 0.30967725134404045
+box_id: '1918476560917'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-12-18T09:09:00.068012Z'
+  declared_unit: 1 t
+  default_distance: 424.86576 km
+  default_transport_mode: truck, unspecified
+  description: 'All types of cold formed steel products. These products are made from
+    hot-rolled steel coils and sheets and
+
+    are cold formed into products such as studs, decking, panels, and other accessories.'
+  display_name: Cold Formed Steel Products
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: true
+  id: df6ecf896ab5433b8d180099b3c43940
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 1000 kg
+  massless: false
+  masterformat: 05 00 00 METALS
+  may_contain_trusted_vendor_declarations: false
+  name: ColdFormedSteel
+  no_statistics: false
+  obsolete: false
+  openepd: Steel >> ColdFormedSteel
+  openepd_name: Steel >> ColdFormedSteel
+  parents: []
+  pct10_gwp: 1627.479928 kgCO2e
+  pct20_gwp: 1950.103329 kgCO2e
+  pct30_gwp: 2199.668167 kgCO2e
+  pct40_gwp: 2483.336101 kgCO2e
+  pct50_gwp: 2793.833558 kgCO2e
+  pct60_gwp: 3135.026493 kgCO2e
+  pct70_gwp: 3438.526179 kgCO2e
+  pct80_gwp: 3737.596692 kgCO2e
+  pct90_gwp: 4252.415862 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Cold Formed
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  unspsc: '30103618'
+  updated_on: '2025-07-31T11:19:01.466906Z'
+  use_stored_carbon: ABSENT
+cold_finished: false
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 2155.667681 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-07-08T22:13:48.882270Z'
+date_of_issue: '2021-01-01'
+date_validity_ends: '2026-01-01'
+declaration_type: Product EPD
+declared_unit: 1 metric ton
+density: 7870 kg / m3
+description: Cold-formed steel framing products with bare steel thicknesses ranging
+  from 0.0120 to 0.1180 inches, used for interior framing, interior finishing, exterior
+  framing, floor framing, clips/connectors, expanded metal lath, plaster trim and
+  accessories, most commonly used in compliance with International Building Code and
+  International Residential Code
+developer:
+  email: james.levis@sphera.com
+  name: James Levis
+  org:
+    address: 130 East Randolph Street, Chicago, IL 60601
+    address_line: 130 East Randolph Street
+    admin_district: IL
+    admin_district2: Cook
+    alt_names:
+    - PE International
+    - thinkstep, Inc.
+    - thinkstep AG
+    - thinkstep
+    - PE INTERNATIONAL AG
+    - Thinkstep AG
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-28T21:38:04.012143Z'
+    email: info@thinkstep.com
+    email_extensions:
+    - thinkstep.com
+    - pe-international.com
+    - sphera.com
+    enterprise: true
+    id: 72d41d92d6d741f68ce626557efcc1c0
+    image: https://static.buildingtransparency.org/images/a82275ae-15d5-4a2f-a24f-5a33d97cdcf2
+    is_failed: false
+    latitude: 41.88507
+    legal_name: Sphera
+    locality: Chicago
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cook
+      countrySubdivision: IL
+      countrySubdivisionName: Illinois
+      countryTertiarySubdivision: Chicago
+      extendedPostalCode: '606016208'
+      freeformAddress: 130 East Randolph Street, Chicago, IL 60601
+      localName: Chicago
+      municipality: Chicago
+      municipalitySubdivision: Downtown Chicago
+      postalCode: '60601'
+      streetName: East Randolph Street
+      streetNumber: '130'
+    longitude: -87.62311
+    name: Sphera
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/72d41d92d6d741f68ce626557efcc1c0
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '60601'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-02-02T15:47:47.511452Z'
+    web_domain: sphera.com
+    website: sphera.com
+doc: buildingtransparency.org/e/ec3hw1q8hs
+en_standards: []
+errors:
+  excluded:
+  - EPD is excluded from search. Please, review PDF document data
+  name:
+  - Tagged for manual fixing
+excluded: true
+externally_verified: true
+failures: {}
+file_name: EC3_Steel Studs_ClarkDietrich_Cold-Formed Steel Framing.pdf
+galvanized: false
+gwp: 1710 kgCO2e
+gwp_per_category_declared_unit: 1710 kgCO2e
+gwp_per_kg: 1.71 kgCO2e
+gwp_z: 0.30967725134404045
+id: ce2a9803d2d44bf5aec47180b3adbbca
+impacts: {}
+includes: []
+industry_standards: []
+is_downloadable: true
+is_duplicate: false
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 1264.332319 kgCO2e
+manufacturer:
+  address: 9050 Centre Pointe Dr, West Chester Township, OH 45069, USA
+  address_line: 9050 Centre Pointe Dr
+  admin_district: OH
+  admin_district2: Butler County
+  alt_names:
+  - Clark Dietrich
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/clarkdietrich
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-07-18T15:38:02.971335Z'
+  currency: USD
+  email_extensions:
+  - clarkdietrich.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/5213eaf1287d46309d3edcf913a08438.png
+  id: c2cefa7735164e2a9b17f441f0f0d062
+  is_failed: false
+  latitude: 39.3266081
+  legal_name: Clarkwestern Dietrich Building Systems LLC
+  locality: West Chester
+  location:
+  - long_name: '9050'
+    short_name: '9050'
+    types:
+    - street_number
+  - long_name: Centre Pointe Drive
+    short_name: Centre Pointe Dr
+    types:
+    - route
+  - long_name: West Chester Township
+    short_name: West Chester Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Butler County
+    short_name: Butler County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Ohio
+    short_name: OH
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '45069'
+    short_name: '45069'
+    types:
+    - postal_code
+  - long_name: '4874'
+    short_name: '4874'
+    types:
+    - postal_code_suffix
+  longitude: -84.4217894
+  name: ClarkDietrich
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2cefa7735164e2a9b17f441f0f0d062
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '45069'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-05-16T12:29:38.805273Z'
+  web_domain: clarkdietrich.com
+  website: www.clarkdietrich.com
+manufacturer_specific: true
+mass_per_declared_unit: 1000 kg
+matched_plants_count: 1
+material_id: 8d6c1ab807c84d08ab8a2597c4deeba0
+multiproduct: false
+my_capabilities: 1
+name: '#corrected_at_ec34b3zw Cold-Formed Steel Framing Systems'
+not_an_epd: false
+open_xpd_uuid: ec3hw1q8
+original_data_format: pdf
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3hw1q8
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - 'Part B: Designated Steel Construction Product EPD Requirements'
+  - 'Product Category Rule (PCR) Guidance for Building-Related Products and Services
+    Part B: Designated Steel Construction Product EPD Requirements'
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2020-06-08T21:43:47.495368Z'
+  date_of_issue: '2020-12-31'
+  date_validity_ends: '2025-12-31'
+  declared_units:
+  - 1 tonne
+  - 1 m
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?productId=ULE10010-34_2_S_20200826
+  id: 191899c123a64689a0051239c7ec8eb0
+  is_failed: false
+  lcia_requirements:
+    IPCC AR5:
+      impacts:
+      - gwp-luluc
+      - gwp
+      - gwp-fossil
+      - gwp-biogenic
+      jurisdiction:
+      - '001'
+      order: 2
+    TRACI 2.1:
+      impacts:
+      - odp
+      - ep-terrestrial
+      - ep-fresh
+      - ap
+      - ep
+      - pocp
+      - ep-marine
+      jurisdiction:
+      - '001'
+      order: 1
+  name: 'Part B: Designated Steel Construction Products'
+  open_xpd_uuid: ec3y4rsh
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3y4rsh
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3y4rshx6
+  short_name: 'Part B: Designated Steel Construction Products'
+  updated_on: '2024-07-18T15:18:59.717737Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 2155.667681 kgCO2e
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-09T19:23:44.945121Z'
+  id: 41fb0a51614a4c518d44266a9c74b0ca
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: US Plants
+  owned_by:
+    address: 9050 Centre Pointe Dr, West Chester Township, OH 45069, USA
+    address_line: 9050 Centre Pointe Dr
+    admin_district: OH
+    admin_district2: Butler County
+    alt_names:
+    - Clark Dietrich
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/clarkdietrich
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-07-18T15:38:02.971335Z'
+    currency: USD
+    email_extensions:
+    - clarkdietrich.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/5213eaf1287d46309d3edcf913a08438.png
+    id: c2cefa7735164e2a9b17f441f0f0d062
+    is_failed: false
+    latitude: 39.3266081
+    legal_name: Clarkwestern Dietrich Building Systems LLC
+    locality: West Chester
+    location:
+    - long_name: '9050'
+      short_name: '9050'
+      types:
+      - street_number
+    - long_name: Centre Pointe Drive
+      short_name: Centre Pointe Dr
+      types:
+      - route
+    - long_name: West Chester Township
+      short_name: West Chester Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Butler County
+      short_name: Butler County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Ohio
+      short_name: OH
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '45069'
+      short_name: '45069'
+      types:
+      - postal_code
+    - long_name: '4874'
+      short_name: '4874'
+      types:
+      - postal_code_suffix
+    longitude: -84.4217894
+    name: ClarkDietrich
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/c2cefa7735164e2a9b17f441f0f0d062
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '45069'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-05-16T12:29:38.805273Z'
+    web_domain: clarkdietrich.com
+    website: www.clarkdietrich.com
+  plants_count: 9
+  total_epds: 1
+  type: PlantGroup
+  updated_on: '2025-07-19T12:28:00.782556Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: 2211 New Market Parkway Southeast, Marietta, GA 30067
+  address_line: 2211 New Market Parkway Southeast
+  admin_district: GA
+  admin_district2: Cobb
+  alt_names:
+  - ULE EPM
+  - Underwriters Labs
+  - Underwriters Laboratories
+  - UL E
+  - UL Enviornment
+  - UL Environment
+  - UL Solutions
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-19T16:12:16.017515Z'
+  email: epd@ul.com
+  email_extensions:
+  - ul.com
+  - ulenvironment.com
+  enterprise: true
+  id: 5b22feac0d67472191705631612b68fb
+  image: https://static.buildingtransparency.org/images/4c0e7d91-457c-4dc6-b750-25f8b49d0434.png
+  is_failed: false
+  latitude: 33.917988
+  legal_name: UL
+  locality: Marietta
+  location:
+    boundingBox:
+      entity: position
+      northEast: 33.918196,-84.495564
+      southWest: 33.917305,-84.497793
+    buildingNumber: '2211'
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cobb
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Marietta
+    extendedPostalCode: '300679393'
+    freeformAddress: 2211 New Market Parkway Southeast, Marietta, GA 30067
+    municipality: Marietta
+    municipalitySubdivision: Marietta
+    postalCode: '30067'
+    routeNumbers: []
+    street: New Market Parkway Southeast
+    streetName: New Market Parkway Southeast
+    streetNameAndNumber: 2211 New Market Parkway Southeast
+    streetNumber: '2211'
+  longitude: -84.49678
+  name: UL
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/5b22feac0d67472191705631612b68fb
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  - CA
+  postal_code: '30067'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: true
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2025-04-26T00:06:55.791242Z'
+  web_domain: ul.com
+  website: https://www.ul.com/
+program_operator_fkey: 4789752901.101.1
+requires_ocr: false
+resource_uses: {}
+sae_standards: []
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3hw1q8hs
+stainless: false
+standard_deviation: 529.5480998 kgCO2e
+steel_recycled_content: 0.0
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 2155.667681 kgCO2e
+uncertainty_factor: 1.2606243747311445
+updated_on: '2025-07-19T01:43:12.486719Z'
+use_stored_carbon: false
+verifier:
+  email: research@3keel.com
+  name: 3KEEL LCA Consultants
+  org:
+    confirmable_fields: []
+    confirmed_fields: []
+    cqd_sync_unlocked: true
+    created_on: '2022-06-28T17:47:23.745743Z'
+    enterprise: false
+    id: 3f16f701db2b4e5fb01a8d23e55f1f67
+    is_failed: false
+    name: 3KEEL, LLP
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3f16f701db2b4e5fb01a8d23e55f1f67
+    password_login_allowed: true
+    pilot_all_employees: false
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: false
+    updated_on: '2024-06-20T21:35:51.525726Z'
+    warnings:
+      address:
+      - Not specified
+    web_domain: 3keel.com
+    website: https://www.3keel.com/
+warnings:
+  impacts:
+  - GWP with the PCR's required LCIA Method not found in the document
+  - EP-FRESH impact not specified
+  - EP-TERRESTRIAL impact not specified
+  language:
+  - Not specified
+  steel_post_consumer_recycled_content:
+  - Not specified
+  steel_yield_tensile_str:
+  - Not specified

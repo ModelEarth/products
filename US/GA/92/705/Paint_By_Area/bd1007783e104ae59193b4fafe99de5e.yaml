@@ -24,7 +24,7 @@ category:
   id: 39f098d4c80648cbb524169224288ad5
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 0.115 kg
+  mass_per_declared_unit: 0.1141666667 kg
   massless: false
   masterformat: 09 90 00 Painting and Coating
   may_contain_trusted_vendor_declarations: false
@@ -34,20 +34,20 @@ category:
   openepd: Finishes >> PaintingAndCoating >> PaintByArea
   openepd_name: Finishes >> PaintingAndCoating >> PaintByArea
   parents: []
-  pct10_gwp: 0.1787545081 kgCO2e
-  pct20_gwp: 0.2411426112 kgCO2e
-  pct30_gwp: 0.2730091908 kgCO2e
-  pct40_gwp: 0.3061110925 kgCO2e
-  pct50_gwp: 0.3436867234 kgCO2e
-  pct60_gwp: 0.3928025845 kgCO2e
-  pct70_gwp: 0.526131744 kgCO2e
-  pct80_gwp: 0.7882982809 kgCO2e
-  pct90_gwp: 1.598451884 kgCO2e
+  pct10_gwp: 0.1786523817 kgCO2e
+  pct20_gwp: 0.2361166168 kgCO2e
+  pct30_gwp: 0.2692688767 kgCO2e
+  pct40_gwp: 0.3049426583 kgCO2e
+  pct50_gwp: 0.3409364837 kgCO2e
+  pct60_gwp: 0.3867191532 kgCO2e
+  pct70_gwp: 0.505207738 kgCO2e
+  pct80_gwp: 0.7625262679 kgCO2e
+  pct90_gwp: 1.576555436 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-05-28T10:04:54.206506Z'
+  updated_on: '2025-07-31T11:19:05.695315Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -60,10 +60,11 @@ date_validity_ends: '2029-08-26'
 declaration_type: Product EPD
 declared_unit: 6 m2
 density: 2400 kg / m3
-description: "An economical interior/exterior latex primer formulated to fill and\
-  \ seal porous masonry surfaces, reduce pinholing and help produce a smooth and even\
-  \ topcoat for a uniform, professional quality finish. GREENGUARD\xAE GOLD certified\
-  \ and MPI approved, available in 5-gallon sized containers."
+description: "BEHR PRO\xAE Block Filler Primer is an economical interior / exterior\
+  \ latex primer formulated to fill and seal porous masonry surfaces, reduce pinholing\
+  \ and help produce a smooth and even topcoat for a uniform, professional quality\
+  \ finish. Use on concrete, cement board siding, concrete block/CMU, stucco, brick\
+  \ and plaster."
 developer:
   email: servicequality@sphera.com
   name: Sphera
@@ -147,7 +148,7 @@ gwp_per_category_declared_unit: 0.3583333333 kgCO2e
 gwp_per_kg: 0.8125472411 kgCO2e
 gwp_z: 0.28879058156387305
 id: 8da64a49fd454ffaab9b550863f504e3
-image: https://static.buildingtransparency.org/images/b2c8052c1ec14006b2861c7c54653d85.png
+image: https://static.buildingtransparency.org/images/656420afca094fab8ec04e56f7d9b178.png
 impacts: {}
 industry_standards: []
 is_downloadable: true
@@ -249,7 +250,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2025-05-13T16:25:56.686361Z'
+  updated_on: '2025-07-22T02:01:26.877132Z'
   web_domain: behr.com
   website: https://www.behr.com/pro
 manufacturer_specific: true
@@ -258,7 +259,7 @@ matched_plants_count: 1
 material_id: bd1007783e104ae59193b4fafe99de5e
 multiproduct: false
 my_capabilities: 1
-name: BEHR PR050
+name: "BEHR PRO\xAE Block Filler Primer"
 not_an_epd: false
 open_xpd_uuid: ec3x6jgc
 original_data_format: pdf_mixed
@@ -301,10 +302,10 @@ pcr:
   version: '3'
 pct80_gwp_per_category_declared_unit: 0.4454248717 kgCO2e
 plant_geography:
-- US-IL
-- US
-- US-CA
 - US-TX
+- US
+- US-IL
+- US-CA
 - US-PA
 - US-GA
 plant_or_group:
@@ -411,13 +412,13 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2025-05-13T16:25:56.686361Z'
+    updated_on: '2025-07-22T02:01:26.877132Z'
     web_domain: behr.com
     website: https://www.behr.com/pro
   plants_count: 5
-  total_epds: 75
+  total_epds: 74
   type: PlantGroup
-  updated_on: '2025-05-07T17:50:17.959834Z'
+  updated_on: '2025-06-03T22:00:03.290529Z'
 plant_specific: false
 private: false
 product_classes: {}
@@ -481,8 +482,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -516,7 +517,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 2.67254923 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-05-01T22:55:07.237267Z'
+updated_on: '2025-06-03T21:29:24.483857Z'
 use_stored_carbon: false
 verifier:
   email: cooper.mccollum@ul.com
@@ -580,8 +581,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - US
     - CA
+    - US
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -605,6 +606,7 @@ verifier:
 warnings:
   impacts:
   - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   language:

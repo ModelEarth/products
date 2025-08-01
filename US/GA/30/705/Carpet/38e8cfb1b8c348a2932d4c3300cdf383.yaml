@@ -33,22 +33,22 @@ category:
   openepd: Finishes >> Flooring >> Carpet
   openepd_name: Finishes >> Flooring >> Carpet
   parents: []
-  pct10_gwp: 5.226286945 kgCO2e
-  pct20_gwp: 6.31150987 kgCO2e
-  pct30_gwp: 7.193005662 kgCO2e
-  pct40_gwp: 8.328409228 kgCO2e
-  pct50_gwp: 10.05624338 kgCO2e
-  pct60_gwp: 11.73431683 kgCO2e
-  pct70_gwp: 13.92024591 kgCO2e
-  pct80_gwp: 16.33810585 kgCO2e
-  pct90_gwp: 20.03417486 kgCO2e
+  pct10_gwp: 5.911898445 kgCO2e
+  pct20_gwp: 6.875667177 kgCO2e
+  pct30_gwp: 7.955495382 kgCO2e
+  pct40_gwp: 9.481977743 kgCO2e
+  pct50_gwp: 10.93880615 kgCO2e
+  pct60_gwp: 12.71636215 kgCO2e
+  pct70_gwp: 14.90412338 kgCO2e
+  pct80_gwp: 17.34049384 kgCO2e
+  pct90_gwp: 20.2616523 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Carpet
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-05-28T10:04:52.814347Z'
+  updated_on: '2025-07-31T11:19:04.347990Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields:
 - impacts__gwp
@@ -63,7 +63,7 @@ declaration_type: Product EPD
 declared_unit: 1 m2
 description: "One of Mohawk\u2019s successes in creating sustainable products which\
   \ perform to the needs and expectations of the commercial user is the product group\
-  \ \u201CTufted Nylon Broadloom Carpet on Unibond Plus Backing\u201D, the construction\
+  \ \u201CTufted Nylon Broadloom Carpet on Unibond\xAE Plus Backing\u201D, the construction\
   \ was specifically designed for commercial high performance environments. The high\
   \ performance \u201CThermoset Adhesive Coating\u201D is designed to encapsulate\
   \ and penetrate the carpet back stitch while securing the secondary backing for\
@@ -85,6 +85,7 @@ digitization_qa:
   - waldmanlca.com
   - carbonleadershipforum.org
   enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/5482cda008cc4d31a16ed44fc6f6a3a1.png
   id: 14961b8cc7d4440f9456f7210fdfe76a
   image: https://static.buildingtransparency.org/images/c2c300af-096b-4770-adde-bea7fb5bd8be.png
   is_failed: false
@@ -128,7 +129,7 @@ digitization_qa:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2020-05-21T22:02:04.366702Z'
+  updated_on: '2025-07-22T02:04:00.457127Z'
   web_domain: carbonleadershipforum.org
   website: www.carbonleadershipforum.org
 doc: buildingtransparency.org/e/ec31s403q7
@@ -141,7 +142,6 @@ gwp: 106 kgCO2e
 gwp_per_category_declared_unit: 106 kgCO2e
 gwp_per_kg: 47.74774775 kgCO2e
 gwp_z: 0.3525620512760839
-gypsum_specific_density: 2.216 kg / m^2
 id: d657d43849af4886a739802740481f31
 image: https://static.buildingtransparency.org/images/33f984e8c2fc4b4fbd994087adf1d907.png
 impacts: {}
@@ -286,7 +286,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2023-05-31T14:57:28.179179Z'
+  updated_on: '2025-07-01T18:12:05.045031Z'
   web_domain: mohawkind.com
   website: www.mohawkind.com
 manufacturer_specific: true
@@ -295,7 +295,7 @@ matched_plants_count: 0
 material_id: 38e8cfb1b8c348a2932d4c3300cdf383
 multiproduct: false
 my_capabilities: 1
-name: Tufted nylon broadloom carpet on Unibond Plus Backing
+name: "Tufted nylon broadloom carpet on Unibond\xAE Plus Backing"
 not_an_epd: false
 open_xpd_uuid: ec31s403
 original_data_format: pdf
@@ -344,7 +344,7 @@ pcr:
   short_link: buildingtransparency.org/p/ec3e6jsgyf
   short_name: 'Flooring: Carpet, Resilient, Laminate, Ceramic, Wood'
   status: Sunset
-  updated_on: '2025-05-29T06:50:13.994285Z'
+  updated_on: '2025-07-31T21:50:07.121245Z'
   version: '1'
 pct80_gwp_per_category_declared_unit: 137.4519196 kgCO2e
 plant_geography:
@@ -468,18 +468,19 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2023-05-31T14:57:28.179179Z'
+    updated_on: '2025-07-01T18:12:05.045031Z'
     web_domain: mohawkind.com
     website: www.mohawkind.com
   postal_code: '30705'
-  total_epds: 9
+  total_epds: 14
   type: Plant
   units: SI
-  updated_on: '2021-12-15T16:05:45.772746Z'
+  updated_on: '2025-07-10T20:00:04.101376Z'
 plant_specific: false
 private: false
 product_classes:
-  masterformat: 09 68 16 Sheet Carpeting
+  masterformat:
+  - 09 68 16 Sheet Carpeting
 product_specific: false
 program_operator:
   address: 2211 New Market Parkway Southeast, Marietta, GA 30067
@@ -540,8 +541,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -563,7 +564,6 @@ program_operator:
   web_domain: ul.com
   website: https://www.ul.com/
 program_operator_fkey: 12CA57885.104.1
-recycled_content: 0.0
 reference_service_life: 15 years
 requires_ocr: false
 resource_uses: {}
@@ -638,14 +638,13 @@ reviewer:
     website: https://www.nsf.org/
 sanitizable: true
 short_link: buildingtransparency.org/e/ec31s403q7
-specific_density: 2.216 kg / m^2
 standard_deviation: 37.37157744 kgCO2e
 stored_carbon_z: 0.2
 supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 137.4519196 kgCO2e
 uncertainty_factor: 1.2967162223539521
-updated_on: '2024-03-14T03:02:51.632863Z'
+updated_on: '2025-07-11T15:16:33Z'
 use_stored_carbon: false
 verifier:
   email: brad@wapsustainability.com
@@ -744,23 +743,15 @@ verifier:
     website: http://www.wapsustainability.com/
 warnings:
   density:
-  - Value described using more than one measurement unit. The first unit listed has
-    been used.
   - Not specified
   developer:
   - Missing link
   developer_org:
   - Missing link
-  gypsum_specific_density:
-  - Value described using more than one measurement unit. The first unit listed has
-    been used.
   impacts:
   - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   - GWP is suspiciously greater than category's typical values
-  specific_density:
-  - Value described using more than one measurement unit. The first unit listed has
-    been used.
 yarn_type: Nylon 6
 yarn_weight: 28 oz / sy

@@ -31,21 +31,21 @@ category:
   openepd: Cladding >> Siding >> SolidWoodSiding
   openepd_name: Cladding >> Siding >> SolidWoodSiding
   parents: []
-  pct10_gwp: 0.3191768099 kgCO2e
-  pct20_gwp: 0.3820166886 kgCO2e
-  pct30_gwp: 0.4448565674 kgCO2e
-  pct40_gwp: 0.5076964461 kgCO2e
-  pct50_gwp: 0.5705363248 kgCO2e
-  pct60_gwp: 0.6333762036 kgCO2e
-  pct70_gwp: 0.6962160823 kgCO2e
-  pct80_gwp: 0.7590559611 kgCO2e
-  pct90_gwp: 0.8218958398 kgCO2e
+  pct10_gwp: 0.2563369311 kgCO2e
+  pct20_gwp: 0.2563369311 kgCO2e
+  pct30_gwp: 0.2563369311 kgCO2e
+  pct40_gwp: 0.2563369311 kgCO2e
+  pct50_gwp: 0.2563369311 kgCO2e
+  pct60_gwp: 0.2563369311 kgCO2e
+  pct70_gwp: 0.2563369311 kgCO2e
+  pct80_gwp: 0.2563369311 kgCO2e
+  pct90_gwp: 0.2563369311 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Solid Wood
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-05-28T10:05:00.222079Z'
+  updated_on: '2025-07-31T11:19:11.034235Z'
   use_stored_carbon: REQUIRED
 confirmable_fields: []
 confirmed_fields: []
@@ -394,9 +394,9 @@ plant_or_group:
     web_domain: armstrongceilings.com
     website: www.armstrongceilings.com
   plants_count: 2
-  total_epds: 6
+  total_epds: 9
   type: PlantGroup
-  updated_on: '2025-05-13T18:01:04.680280Z'
+  updated_on: '2025-07-19T12:28:00.749946Z'
 plant_specific: false
 private: false
 product_specific: true
@@ -438,7 +438,7 @@ program_operator:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2025-05-24T05:21:07.053913Z'
+  updated_on: '2025-07-26T05:12:54.197359Z'
   warnings:
     address:
     - Not specified
@@ -494,7 +494,7 @@ verifier:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2025-05-24T05:21:07.053913Z'
+    updated_on: '2025-07-26T05:12:54.197359Z'
     warnings:
       address:
       - Not specified

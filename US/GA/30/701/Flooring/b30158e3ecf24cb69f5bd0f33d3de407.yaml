@@ -129,8 +129,8 @@ impacts: {}
 is_downloadable: false
 is_failed: false
 jurisdiction:
-- '021'
 - US-GA
+- '021'
 language: en
 lowest_plausible_gwp: 10.61494162 kgCO2e
 manufacturer:
@@ -199,7 +199,7 @@ pcr:
   date_of_issue: '2023-09-26'
   date_validity_ends: '2024-01-14'
   declared_units: []
-  doc: '#broken-link cqd.io/p/ec3kngxche'
+  doc: buildingtransparency.org/p/ec3kngxche
   id: a62983986a084ceca106ebf032a94a48
   is_failed: false
   name: Smart EPD Part A Product Category Rules for Building and Construction Products
@@ -208,10 +208,10 @@ pcr:
   original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3kngxc
   product_classes: {}
   short_link: buildingtransparency.org/p/ec3kngxche
-  short_name: Smart EPD Part A
+  short_name: Building and Construction Products and Services
   status: Expired
-  updated_on: '2024-07-20T17:33:04.120621Z'
-  version: '1'
+  updated_on: '2025-07-09T15:01:28.907238Z'
+  version: '1.0'
 pct80_gwp_per_category_declared_unit: 15.18505838 kgCO2e
 plant_geography:
 - US-GA

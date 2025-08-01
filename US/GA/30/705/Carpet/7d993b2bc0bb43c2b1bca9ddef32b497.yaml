@@ -35,22 +35,22 @@ category:
   openepd: Finishes >> Flooring >> Carpet
   openepd_name: Finishes >> Flooring >> Carpet
   parents: []
-  pct10_gwp: 5.226286945 kgCO2e
-  pct20_gwp: 6.31150987 kgCO2e
-  pct30_gwp: 7.193005662 kgCO2e
-  pct40_gwp: 8.328409228 kgCO2e
-  pct50_gwp: 10.05624338 kgCO2e
-  pct60_gwp: 11.73431683 kgCO2e
-  pct70_gwp: 13.92024591 kgCO2e
-  pct80_gwp: 16.33810585 kgCO2e
-  pct90_gwp: 20.03417486 kgCO2e
+  pct10_gwp: 5.911898445 kgCO2e
+  pct20_gwp: 6.875667177 kgCO2e
+  pct30_gwp: 7.955495382 kgCO2e
+  pct40_gwp: 9.481977743 kgCO2e
+  pct50_gwp: 10.93880615 kgCO2e
+  pct60_gwp: 12.71636215 kgCO2e
+  pct70_gwp: 14.90412338 kgCO2e
+  pct80_gwp: 17.34049384 kgCO2e
+  pct90_gwp: 20.2616523 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Carpet
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161701'
-  updated_on: '2025-05-28T10:04:52.814347Z'
+  updated_on: '2025-07-31T11:19:04.347990Z'
   use_stored_carbon: OPTIONAL
 confirmable_fields: []
 confirmed_fields: []
@@ -137,8 +137,8 @@ developer:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -268,7 +268,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2023-05-31T14:57:28.179179Z'
+  updated_on: '2025-07-01T18:12:05.045031Z'
   web_domain: mohawkind.com
   website: www.mohawkind.com
 manufacturer_specific: true
@@ -277,7 +277,7 @@ matched_plants_count: 0
 material_id: 7d993b2bc0bb43c2b1bca9ddef32b497
 multiproduct: false
 my_capabilities: 1
-name: "Tufted Nylon Broadloom Carpet on Unibond\xAE Plus Backing (Durkan)"
+name: "Tufted Nylon Broadloom Carpet on Unibond\xAE Plus (Durkan)"
 not_an_epd: false
 open_xpd_uuid: ec3c7wsc
 original_data_format: pdf_mixed
@@ -444,17 +444,21 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2023-05-31T14:57:28.179179Z'
+    updated_on: '2025-07-01T18:12:05.045031Z'
     web_domain: mohawkind.com
     website: www.mohawkind.com
   postal_code: '30705'
-  total_epds: 9
+  total_epds: 14
   type: Plant
   units: SI
-  updated_on: '2021-12-15T16:05:45.772746Z'
+  updated_on: '2025-07-10T20:00:04.101376Z'
 plant_specific: true
 private: false
-product_classes: {}
+product_classes:
+  UNSPSC:
+  - '30161701'
+  masterformat:
+  - 09 68 00
 product_specific: true
 program_operator:
   address: 2211 New Market Parkway Southeast, Marietta, GA 30067
@@ -515,8 +519,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -538,6 +542,7 @@ program_operator:
   web_domain: ul.com
   website: https://www.ul.com/
 program_operator_fkey: 4790644072.104.1
+reference_service_life: 15 years
 requires_ocr: false
 resource_uses: {}
 sanitizable: true
@@ -548,7 +553,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 36.67022494 kgCO2e
 uncertainty_factor: 1.1753277225768932
-updated_on: '2024-08-29T16:32:29.002459Z'
+updated_on: '2025-07-11T18:53:38.908389Z'
 use_stored_carbon: false
 verifier:
   email: t.gloria@industrial-ecology.com
@@ -636,5 +641,5 @@ warnings:
   - EP-TERRESTRIAL impact not specified
   - B2_years are empty
   - B4_years are empty
-yarn_type: Olefin
-yarn_weight: 24 oz / yd2
+yarn_type: Nylon 6
+yarn_weight: 813 g / m2

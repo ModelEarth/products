@@ -36,7 +36,7 @@ category:
   id: 6daae3d967104f5c8c85199b259f58c8
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 28.1 kg
+  mass_per_declared_unit: 24.5 kg
   massless: false
   masterformat: 08 81 00 Glass Glazing
   may_contain_trusted_vendor_declarations: false
@@ -47,7 +47,7 @@ category:
   openepd_name: Openings >> Glazing >> GlassPanes >> ProcessedNonInsulatingGlassPanes
   parents: []
   pct10_gwp: 6.175052724 kgCO2e
-  pct20_gwp: 18.21698207 kgCO2e
+  pct20_gwp: 20.15853536 kgCO2e
   pct30_gwp: 33.79665558 kgCO2e
   pct40_gwp: 60.35134068 kgCO2e
   pct50_gwp: 83.37172032 kgCO2e
@@ -60,7 +60,7 @@ category:
   short_service_life_disclaimer: false
   subcategories: []
   template_builders: []
-  updated_on: '2025-05-28T10:05:02.283881Z'
+  updated_on: '2025-07-31T11:19:13.169265Z'
   use_stored_carbon: ABSENT
 confirmable_fields:
 - impacts__gwp
@@ -294,9 +294,9 @@ pcr:
   version: '1'
 pct80_gwp_per_category_declared_unit: 20.2616523 kgCO2e
 plant_geography:
+- US-TX
 - US-OR
 - US-PA
-- US-TX
 plant_or_group:
   categories: []
   confirmable_fields: []
@@ -306,9 +306,9 @@ plant_or_group:
   id: cf1682e449dc4422b4c5981676cd79ee
   is_failed: false
   jurisdiction:
+  - US-TX
   - US-OR
   - US-PA
-  - US-TX
   name: Carlisle, Wichita Falls and Salem
   owned_by:
     address: 400 Guys Run Road, Cheswick, PA

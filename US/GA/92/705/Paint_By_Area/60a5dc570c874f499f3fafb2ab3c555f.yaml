@@ -24,7 +24,7 @@ category:
   id: 39f098d4c80648cbb524169224288ad5
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 0.115 kg
+  mass_per_declared_unit: 0.1141666667 kg
   massless: false
   masterformat: 09 90 00 Painting and Coating
   may_contain_trusted_vendor_declarations: false
@@ -34,20 +34,20 @@ category:
   openepd: Finishes >> PaintingAndCoating >> PaintByArea
   openepd_name: Finishes >> PaintingAndCoating >> PaintByArea
   parents: []
-  pct10_gwp: 0.1787545081 kgCO2e
-  pct20_gwp: 0.2411426112 kgCO2e
-  pct30_gwp: 0.2730091908 kgCO2e
-  pct40_gwp: 0.3061110925 kgCO2e
-  pct50_gwp: 0.3436867234 kgCO2e
-  pct60_gwp: 0.3928025845 kgCO2e
-  pct70_gwp: 0.526131744 kgCO2e
-  pct80_gwp: 0.7882982809 kgCO2e
-  pct90_gwp: 1.598451884 kgCO2e
+  pct10_gwp: 0.1786523817 kgCO2e
+  pct20_gwp: 0.2361166168 kgCO2e
+  pct30_gwp: 0.2692688767 kgCO2e
+  pct40_gwp: 0.3049426583 kgCO2e
+  pct50_gwp: 0.3409364837 kgCO2e
+  pct60_gwp: 0.3867191532 kgCO2e
+  pct70_gwp: 0.505207738 kgCO2e
+  pct80_gwp: 0.7625262679 kgCO2e
+  pct90_gwp: 1.576555436 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: By Area
   short_service_life_disclaimer: true
   subcategories: []
-  updated_on: '2025-05-28T10:04:54.206506Z'
+  updated_on: '2025-07-31T11:19:05.695315Z'
   use_stored_carbon: ABSENT
 confirmable_fields: []
 confirmed_fields: []
@@ -61,9 +61,12 @@ declaration_type: Product EPD
 declared_unit: 12 m2
 density: 1200 kg / m3
 description: "BEHR PREMIUM\xAE Cabinet, Door & Trim Interior/Exterior Semi-Gloss Enamel\
-  \ in White, a water-based coating that offers excellent flow & leveling and dries\
-  \ to a hard, durable finish. GREENGUARD Gold certified and ideal for use on cabinets,\
-  \ doors, trim, windows, shutters and woodwork."
+  \ offers excellent flow & leveling and dries to a hard, durable finish. The paint\
+  \ provides all-weather protection which is great for exterior projects. Its outstanding\
+  \ block resistance allows for quick return to service, making it ideal for use on\
+  \ cabinets, doors, trim, windows, shutters, and woodwork. This product can also\
+  \ be used on other properly prepared and primed substrates, such as drywall, masonry,\
+  \ vinyl, and metal."
 developer:
   email: servicequality@sphera.com
   name: Sphera
@@ -148,7 +151,7 @@ gwp_per_category_declared_unit: 0.1916666667 kgCO2e
 gwp_per_kg: 1.441102757 kgCO2e
 gwp_z: 0.28879058156387305
 id: 6de4813212a34cab9f1cf67b091a084c
-image: https://static.buildingtransparency.org/images/ed5292b8fcba43ffaac7ddc183899d1c.png
+image: https://static.buildingtransparency.org/images/d05442ac168c413c9b141d437f8c149c.png
 impacts: {}
 industry_standards: []
 is_downloadable: true
@@ -250,7 +253,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2025-05-13T16:25:56.686361Z'
+  updated_on: '2025-07-22T02:01:26.877132Z'
   web_domain: behr.com
   website: https://www.behr.com/pro
 manufacturer_specific: true
@@ -259,7 +262,7 @@ matched_plants_count: 1
 material_id: 60a5dc570c874f499f3fafb2ab3c555f
 multiproduct: true
 my_capabilities: 1
-name: BEHR 7120 Interior
+name: "BEHR PREMIUM\xAE Cabinet, Door & Trim Interior/Exterior Semi-Gloss Enamel"
 not_an_epd: false
 open_xpd_uuid: ec3t1mwk
 original_data_format: pdf_mixed
@@ -302,10 +305,10 @@ pcr:
   version: '3'
 pct80_gwp_per_category_declared_unit: 0.2382505127 kgCO2e
 plant_geography:
-- US-IL
-- US
-- US-CA
 - US-TX
+- US
+- US-IL
+- US-CA
 - US-PA
 - US-GA
 plant_or_group:
@@ -412,13 +415,13 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2025-05-13T16:25:56.686361Z'
+    updated_on: '2025-07-22T02:01:26.877132Z'
     web_domain: behr.com
     website: https://www.behr.com/pro
   plants_count: 5
-  total_epds: 75
+  total_epds: 74
   type: PlantGroup
-  updated_on: '2025-05-07T17:50:17.959834Z'
+  updated_on: '2025-06-03T22:00:03.290529Z'
 plant_specific: false
 private: false
 product_classes: {}
@@ -482,8 +485,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - US
   - CA
+  - US
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -510,14 +513,14 @@ requires_ocr: false
 resource_uses: {}
 sanitizable: true
 short_link: buildingtransparency.org/e/ec3t1mwkx0
-sku: 7123, 7120
+sku: 7120, 7123
 standard_deviation: 0.6642183376 kgCO2e
 stored_carbon_z: 0.2
 supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 2.859006153 kgCO2e
 uncertainty_factor: 1.2430461534441555
-updated_on: '2025-05-01T22:55:38.676467Z'
+updated_on: '2025-06-03T20:26:31.447731Z'
 use_stored_carbon: false
 verifier:
   email: research@3keel.com
@@ -559,6 +562,7 @@ verifier:
 warnings:
   impacts:
   - Impact set is suspicious by having equal magnitudes
+  - PCR's required LCIA Method not found in the document
   - EP-FRESH impact not specified
   - EP-TERRESTRIAL impact not specified
   language:

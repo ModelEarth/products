@@ -24,7 +24,7 @@ category:
   id: 8ab304f186094beda76ff15fb15d0081
   includes_b1_stage: false
   lcia_uncertainty: 0.03
-  mass_per_declared_unit: 4.27 kg
+  mass_per_declared_unit: 5.02 kg
   massless: false
   masterformat: 09 65 00 Resilient Flooring
   may_contain_trusted_vendor_declarations: false
@@ -34,22 +34,22 @@ category:
   openepd: Finishes >> Flooring >> ResilientFlooring
   openepd_name: Finishes >> Flooring >> ResilientFlooring
   parents: []
-  pct10_gwp: 4.594795531 kgCO2e
-  pct20_gwp: 5.838224664 kgCO2e
-  pct30_gwp: 6.91005339 kgCO2e
-  pct40_gwp: 7.881044596 kgCO2e
-  pct50_gwp: 8.641524095 kgCO2e
-  pct60_gwp: 10.19236651 kgCO2e
-  pct70_gwp: 11.58934835 kgCO2e
-  pct80_gwp: 13.6242712 kgCO2e
-  pct90_gwp: 17.07508676 kgCO2e
+  pct10_gwp: 5.833329769 kgCO2e
+  pct20_gwp: 7.417852333 kgCO2e
+  pct30_gwp: 8.238996886 kgCO2e
+  pct40_gwp: 9.162139425 kgCO2e
+  pct50_gwp: 10.67138016 kgCO2e
+  pct60_gwp: 11.93917394 kgCO2e
+  pct70_gwp: 13.67240297 kgCO2e
+  pct80_gwp: 15.97713817 kgCO2e
+  pct90_gwp: 21.42330355 kgCO2e
   requires_mass_per_declared_unit: false
   short_name: Resilient Flooring
   short_service_life_disclaimer: true
   subcategories: []
   template_builders: []
   unspsc: '30161700'
-  updated_on: '2025-05-28T10:04:52.636547Z'
+  updated_on: '2025-07-31T11:19:04.154669Z'
   use_stored_carbon: OPTIONAL
 conductive_flooring: false
 confirmable_fields: []
@@ -130,8 +130,8 @@ developer:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false
@@ -258,7 +258,7 @@ manufacturer:
   primary_activity_subcontractor: false
   primary_activity_sustainability_consulting: false
   primary_activity_verifier: false
-  updated_on: '2023-05-31T14:57:28.179179Z'
+  updated_on: '2025-07-01T18:12:05.045031Z'
   web_domain: mohawkind.com
   website: www.mohawkind.com
 manufacturer_specific: true
@@ -267,7 +267,7 @@ matched_plants_count: 0
 material_id: df14b95d60d644bf8b3c84b68c57f078
 multiproduct: false
 my_capabilities: 1
-name: Commercial Flex 2.5 LVT
+name: Flex 2.5 LVT
 not_an_epd: false
 open_xpd_uuid: ec3h7yfm
 original_data_format: pdf
@@ -452,7 +452,7 @@ plant_or_group:
     primary_activity_subcontractor: false
     primary_activity_sustainability_consulting: false
     primary_activity_verifier: false
-    updated_on: '2023-05-31T14:57:28.179179Z'
+    updated_on: '2025-07-01T18:12:05.045031Z'
     web_domain: mohawkind.com
     website: www.mohawkind.com
   postal_code: '30721'
@@ -527,8 +527,8 @@ program_operator:
   password_login_allowed: true
   pilot_all_employees: false
   po_geography:
-  - CA
   - US
+  - CA
   postal_code: '30067'
   primary_activity_builder: false
   primary_activity_design: false
@@ -567,7 +567,7 @@ supply_chain_specific: 0.0
 third_party_verified: true
 uncertainty_adjusted_gwp: 7.355220091 kgCO2e
 uncertainty_factor: 1.147460232578143
-updated_on: '2025-01-14T20:10:00.830868Z'
+updated_on: '2025-07-10T17:19:44.940377Z'
 use_stored_carbon: false
 verifier:
   email: cooper.mccollum@ul.com
@@ -631,8 +631,8 @@ verifier:
     password_login_allowed: true
     pilot_all_employees: false
     po_geography:
-    - CA
     - US
+    - CA
     postal_code: '30067'
     primary_activity_builder: false
     primary_activity_design: false

@@ -1,0 +1,562 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+best_practice: 11.86903631 kgCO2e
+biogenic_embodied_carbon_z: 0.28879058156387305
+bleachable: false
+box_id: '1729893855809'
+category:
+  allows_any_declared_unit: false
+  beta_only: false
+  category_statistics_warning: false
+  created_on: '2018-10-17T10:47:21.743954Z'
+  declared_unit: 1 m2
+  default_distance: 234.96364 km
+  default_transport_mode: truck, unspecified
+  description: Textile Floor Coverings
+  display_name: Carpet
+  draft: false
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b43b707159f044bc90352dcb2b2778e3
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 3.37 kg
+  massless: false
+  masterformat: 09 68 00 Carpeting
+  may_contain_trusted_vendor_declarations: false
+  name: Carpet
+  no_statistics: false
+  obsolete: false
+  openepd: Finishes >> Flooring >> Carpet
+  openepd_name: Finishes >> Flooring >> Carpet
+  parents: []
+  pct10_gwp: 5.911898445 kgCO2e
+  pct20_gwp: 6.875667177 kgCO2e
+  pct30_gwp: 7.955495382 kgCO2e
+  pct40_gwp: 9.481977743 kgCO2e
+  pct50_gwp: 10.93880615 kgCO2e
+  pct60_gwp: 12.71636215 kgCO2e
+  pct70_gwp: 14.90412338 kgCO2e
+  pct80_gwp: 17.34049384 kgCO2e
+  pct90_gwp: 20.2616523 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Carpet
+  short_service_life_disclaimer: true
+  subcategories: []
+  template_builders: []
+  unspsc: '30161701'
+  updated_on: '2025-07-31T11:19:04.347990Z'
+  use_stored_carbon: OPTIONAL
+confirmable_fields: []
+confirmed_fields: []
+conservative_estimate: 19.49096369 kgCO2e
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-06-25T17:13:19.332888Z'
+cushioned: false
+date_of_issue: '2024-09-18'
+date_validity_ends: '2029-09-17'
+declaration_type: Product EPD
+declared_unit: 1 m2
+description: "Powerbond\xAE is a hybrid carpet with Dynex nylon face fiber, originally\
+  \ developed in 1967. It combines the benefits of both carpet and resilient sheet,\
+  \ featuring a unique heterogeneous construction that fuses nylon and closed-cell\
+  \ vinyl cushion. The product offers impermeable moisture protection, unlimited design\
+  \ potential, and greater durability. Dynex SD nylon is negatively charged to provide\
+  \ permanent stain resistance and is treated with Eco-Ensure\u2122 for additional\
+  \ soil protection."
+developer:
+  email: gmansell@scsglobalservices.com
+  name: Gerard Mansell
+  org:
+    address: Global Logistics Drive, Lansing, MI 48906
+    address_line: ' Global Logistics Drive, Airport Perimeter Road'
+    admin_district: MI
+    admin_district2: Ingham, Eaton
+    alt_names:
+    - SCS
+    - SCS Global
+    - scsGlobalServices
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2018-09-25T13:59:24.810293Z'
+    email_extensions:
+    - scsglobalservices.com
+    enterprise: true
+    id: 58769e2d26d84d8f99bd07fda78bf79b
+    image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+    is_failed: false
+    latitude: 42.76946
+    legal_name: SCS Global Services
+    locality: Lansing
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Ingham, Eaton
+      countrySubdivision: MI
+      countrySubdivisionName: Michigan
+      countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+      freeformAddress: Global Logistics Drive, Lansing, MI 48906
+      municipality: Lansing
+      municipalitySubdivision: Lansing
+      postalCode: '48906'
+      streetName: Global Logistics Drive, Airport Perimeter Road
+    longitude: -84.5792
+    name: SCS Global Services
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+    password_login_allowed: true
+    pilot_all_employees: false
+    po_geography:
+    - US
+    postal_code: '48906'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: true
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2024-07-24T17:01:16.978616Z'
+    web_domain: scsglobalservices.com
+    website: https://www.scsglobalservices.com/
+doc: buildingtransparency.org/e/ec3zqdmqb2
+epd_degraded: false
+excluded: false
+externally_verified: true
+form_factor: Tiles
+gwp: 15.68 kgCO2e
+gwp_per_category_declared_unit: 15.68 kgCO2e
+gwp_per_kg: 5.244147157 kgCO2e
+gwp_z: 0.28879058156387305
+id: 6c291ef0238a4667b5ceed9e67b36ea8
+impacts: {}
+includes: []
+industry_standards: []
+intended_application:
+- Com
+is_downloadable: true
+is_failed: false
+jurisdiction:
+- '001'
+lowest_plausible_gwp: 11.86903631 kgCO2e
+manufacturer:
+  address: 30000 Aurora Road, Solon, OH 44139
+  address_line: 30000 Aurora Road
+  admin_district: OH
+  admin_district2: Cuyahoga
+  alt_names:
+  - Tandus
+  - Tandus Centiva
+  - Tarkett
+  - Tarkett France
+  - Tarkett SpA
+  - Tarkett S.P.A.
+  attachments:
+    TransparencyCatalogURL: https://www.transparencycatalog.com/company/tarkett
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-02-13T12:06:28.128107Z'
+  email_extensions:
+  - tarkett.com
+  - tarkettna.com
+  - tarkett.fr
+  enterprise: true
+  id: 91a2a12664d148cd90dcf7f2627cc681
+  image: https://static.buildingtransparency.org/images/1a3b205b-1ef4-4049-b778-cd6e521e8aac.png
+  is_failed: false
+  latitude: 41.39718
+  legal_name: Tarkett Group
+  locality: Solon
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Cuyahoga
+    countrySubdivision: OH
+    countrySubdivisionName: Ohio
+    extendedPostalCode: '441392728'
+    freeformAddress: 30000 Aurora Road, Solon, OH 44139
+    localName: Solon
+    municipality: Solon
+    municipalitySubdivision: Solon
+    postalCode: '44139'
+    streetName: Aurora Road
+    streetNumber: '30000'
+  longitude: -81.4681
+  name: Tarkett
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/91a2a12664d148cd90dcf7f2627cc681
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '44139'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2025-07-07T18:26:33.247507Z'
+  web_domain: tarkett.com
+  website: www.tarkett.com
+manufacturer_specific: true
+mass_per_declared_unit: 2.99 kg
+matched_plants_count: 0
+material_id: 7ba4e1ff56b043488209617ba96836cc
+my_capabilities: 1
+name: "Powerbond\xAE w/ Dynex nylon face fiber"
+not_an_epd: false
+open_xpd_uuid: ec3dxx6f
+original_data_format: pdf_manual
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3dxx6f
+output_flows: {}
+owner:
+  name: Parser
+  user_id: epd.parser@buildingtransparency.org
+pcr:
+  alt_names: []
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2019-10-09T11:57:05.502294Z'
+  date_of_issue: '2018-09-28'
+  date_validity_ends: '2023-09-28'
+  declared_units:
+  - 1 m2
+  doc: https://www.shopulstandards.com/ProductDetail.aspx?UniqueKey=34962
+  id: 574a7f64f1b8404aa268cef70a98e15c
+  is_failed: false
+  lcia_requirements:
+    CML 2016:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 2
+    TRACI 2.1:
+      impacts: []
+      jurisdiction:
+      - 019
+      order: 1
+  name: 'Part B: Flooring'
+  open_xpd_uuid: ec35g1dj
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec35g1dj
+  product_classes: {}
+  requires_mass: true
+  requires_uncertainty: false
+  short_link: buildingtransparency.org/p/ec35g1djuq
+  short_name: 'Part B: Flooring'
+  status: Expired
+  updated_on: '2023-09-29T00:02:28.126081Z'
+  version: '2'
+pct80_gwp_per_category_declared_unit: 19.49096369 kgCO2e
+plant_geography:
+- US-GA
+plant_or_group:
+  address: 311 Smith Industrial Boulevard, Dalton, GA 30721
+  address_line: 311 Smith Industrial Boulevard
+  admin_district: GA
+  admin_district2: Whitfield
+  carbon_intensity: 1033.471 lbCO2e / MWh
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2020-01-23T15:52:21.955395Z'
+  id: 755e1d05b1e44c13b9ce7100ad8ec219
+  is_failed: false
+  latitude: 34.7972
+  locality: Dalton
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Whitfield
+    countrySubdivision: GA
+    countrySubdivisionName: Georgia
+    countryTertiarySubdivision: Dalton
+    extendedPostalCode: '307210900'
+    freeformAddress: 311 Smith Industrial Boulevard, Dalton, GA 30721
+    localName: Dalton
+    municipality: Dalton
+    municipalitySubdivision: Dalton
+    postalCode: '30721'
+    streetName: Smith Industrial Boulevard
+    streetNumber: '311'
+  longitude: -84.95996
+  name: Dalton, GA
+  openepd_id: 866QQ2WR+V2.tarkett.com
+  owned_by:
+    address: 30000 Aurora Road, Solon, OH 44139
+    address_line: 30000 Aurora Road
+    admin_district: OH
+    admin_district2: Cuyahoga
+    alt_names:
+    - Tandus
+    - Tandus Centiva
+    - Tarkett
+    - Tarkett France
+    - Tarkett SpA
+    - Tarkett S.P.A.
+    attachments:
+      TransparencyCatalogURL: https://www.transparencycatalog.com/company/tarkett
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2020-02-13T12:06:28.128107Z'
+    email_extensions:
+    - tarkett.com
+    - tarkettna.com
+    - tarkett.fr
+    enterprise: true
+    id: 91a2a12664d148cd90dcf7f2627cc681
+    image: https://static.buildingtransparency.org/images/1a3b205b-1ef4-4049-b778-cd6e521e8aac.png
+    is_failed: false
+    latitude: 41.39718
+    legal_name: Tarkett Group
+    locality: Solon
+    location:
+      country: United States
+      countryCode: US
+      countryCodeISO3: USA
+      countrySecondarySubdivision: Cuyahoga
+      countrySubdivision: OH
+      countrySubdivisionName: Ohio
+      extendedPostalCode: '441392728'
+      freeformAddress: 30000 Aurora Road, Solon, OH 44139
+      localName: Solon
+      municipality: Solon
+      municipalitySubdivision: Solon
+      postalCode: '44139'
+      streetName: Aurora Road
+      streetNumber: '30000'
+    longitude: -81.4681
+    name: Tarkett
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/91a2a12664d148cd90dcf7f2627cc681
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '44139'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2025-07-07T18:26:33.247507Z'
+    web_domain: tarkett.com
+    website: www.tarkett.com
+  postal_code: '30721'
+  total_epds: 22
+  type: Plant
+  units: SI
+  updated_on: '2025-07-08T14:01:07.556534Z'
+plant_specific: false
+private: false
+product_classes: {}
+product_specific: true
+program_operator:
+  address: Global Logistics Drive, Lansing, MI 48906
+  address_line: ' Global Logistics Drive, Airport Perimeter Road'
+  admin_district: MI
+  admin_district2: Ingham, Eaton
+  alt_names:
+  - SCS
+  - SCS Global
+  - scsGlobalServices
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2018-09-25T13:59:24.810293Z'
+  email_extensions:
+  - scsglobalservices.com
+  enterprise: true
+  id: 58769e2d26d84d8f99bd07fda78bf79b
+  image: https://static.buildingtransparency.org/images/69ed4de4-d302-4106-9113-af48107ab3d7.png
+  is_failed: false
+  latitude: 42.76946
+  legal_name: SCS Global Services
+  locality: Lansing
+  location:
+    country: United States
+    countryCode: US
+    countryCodeISO3: USA
+    countrySecondarySubdivision: Ingham, Eaton
+    countrySubdivision: MI
+    countrySubdivisionName: Michigan
+    countryTertiarySubdivision: Lansing, Lansing City, Lansing Charter Township
+    freeformAddress: Global Logistics Drive, Lansing, MI 48906
+    municipality: Lansing
+    municipalitySubdivision: Lansing
+    postalCode: '48906'
+    streetName: Global Logistics Drive, Airport Perimeter Road
+  longitude: -84.5792
+  name: SCS Global Services
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/58769e2d26d84d8f99bd07fda78bf79b
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - US
+  postal_code: '48906'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: true
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: true
+  primary_activity_verifier: true
+  updated_on: '2024-07-24T17:01:16.978616Z'
+  web_domain: scsglobalservices.com
+  website: https://www.scsglobalservices.com/
+program_operator_fkey: SCS-EPD-10252
+resource_uses: {}
+sanitizable: false
+short_link: buildingtransparency.org/e/ec3dxx6f2r
+standard_deviation: 4.528236319 kgCO2e
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+uncertainty_adjusted_gwp: 19.49096369 kgCO2e
+uncertainty_factor: 1.2430461534441555
+updated_on: '2025-07-08T12:49:15.812379Z'
+use_stored_carbon: false
+verifier:
+  email: lindita.bushi@athenasmi.org
+  name: Lindita Bushi
+  org:
+    address: 119 Ross Avenue, Ottawa, ON K1Y0N6
+    address_line: 119 Ross Avenue
+    admin_district: 'ON'
+    admin_district2: Ottawa
+    alt_names:
+    - Athena
+    - Athena Sustainable Materials
+    - ASMI
+    confirmable_fields: []
+    confirmed_fields: []
+    country: CA
+    cqd_sync_unlocked: true
+    created_on: '2018-09-10T22:28:52.429990Z'
+    email_extensions:
+    - athenasmi.org
+    enterprise: true
+    id: 147e1a4c1dd1410fa996fcd07477e3e4
+    image: https://static.buildingtransparency.org/images/2c8c6248-00b5-4d92-b61e-f2f0cbbd0820.png
+    is_failed: false
+    latitude: 45.398754
+    legal_name: Athena Sustainable Materials Institute
+    locality: Ottawa
+    location:
+      boundingBox:
+        entity: position
+        northEast: 45.398761,-75.737346
+        southWest: 45.398554,-75.737470
+      buildingNumber: '119'
+      country: Canada
+      countryCode: CA
+      countryCodeISO3: CAN
+      countrySecondarySubdivision: Ottawa
+      countrySubdivision: 'ON'
+      countrySubdivisionName: Ontario
+      extendedPostalCode: K1Y0N6
+      freeformAddress: 119 Ross Avenue, Ottawa, ON K1Y0N6
+      municipality: Ottawa
+      municipalitySubdivision: Ottawa
+      postalCode: K1Y
+      routeNumbers: []
+      street: Ross Avenue
+      streetName: Ross Avenue
+      streetNameAndNumber: 119 Ross Avenue
+      streetNumber: '119'
+    longitude: -75.737465
+    name: Athena Sustainable Materials Institute
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/147e1a4c1dd1410fa996fcd07477e3e4
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: K1Y
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: true
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: false
+    primary_activity_operator: false
+    primary_activity_other: true
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: true
+    primary_activity_verifier: true
+    updated_on: '2022-06-03T19:19:00.256226Z'
+    web_domain: athenasmi.org
+    website: athenasmi.org
+warnings:
+  density:
+  - Not specified
+  impacts:
+  - ODP impact not specified
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  language:
+  - Not specified
+  pcr:
+  - EPD issued after PCR expiry date. Check version or expiry of PCR.
+yarn_type: Nylon 6
+yarn_weight: 30 oz / yd2

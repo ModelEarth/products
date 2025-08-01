@@ -1,0 +1,432 @@
+also_shown_in: []
+applicable_in:
+- '001'
+approved_fields: {}
+are_impacts_locked: false
+box_id: '1901232208191'
+category:
+  allows_any_declared_unit: true
+  beta_only: false
+  category_statistics_warning: true
+  created_on: '2022-07-26T10:43:02Z'
+  declared_unit: 1 kg
+  default_distance: 1189.30226 km
+  default_transport_mode: truck, unspecified
+  description: Other Electrical Equipment.
+  display_name: OtherElectricalEquipment
+  draft: true
+  facility_type: PLANT
+  generic_material: false
+  hide_service_life: false
+  id: b048f841e2a64100ba77896c66ade6f5
+  includes_b1_stage: false
+  lcia_uncertainty: 0.03
+  mass_per_declared_unit: 0.5182 kg
+  massless: false
+  masterformat: 00 00 00 No Masterformat Code
+  may_contain_trusted_vendor_declarations: false
+  name: OtherElectricalEquipment
+  no_statistics: true
+  obsolete: false
+  openepd: OtherElectricalEquipment
+  openepd_name: OtherElectricalEquipment
+  parents: []
+  pct10_gwp: 0.2754999833 kgCO2e
+  pct20_gwp: 0.6159552471 kgCO2e
+  pct30_gwp: 1.023605629 kgCO2e
+  pct40_gwp: 2.227393722 kgCO2e
+  pct50_gwp: 4.940085517 kgCO2e
+  pct60_gwp: 9.857772662 kgCO2e
+  pct70_gwp: 20.40740617 kgCO2e
+  pct80_gwp: 60.10229987 kgCO2e
+  pct90_gwp: 361.8581533 kgCO2e
+  requires_mass_per_declared_unit: false
+  short_name: Other
+  short_service_life_disclaimer: false
+  subcategories: []
+  template_builders: []
+  updated_on: '2025-07-31T11:19:14.972582Z'
+  use_stored_carbon: ABSENT
+confirmable_fields: []
+confirmed_fields: []
+corrections_count: 0
+cqd_sync_unlocked: true
+created_on: '2025-06-22T05:48:55.658575Z'
+date_of_issue: '2025-05-22'
+date_validity_ends: '2030-05-22'
+declaration_type: Product EPD
+declared_unit: 1 item
+description: "Assurer la recharge de v\xE9hicules \xE9lectriques ou hybrides rechargeables,\
+  \ \xE0 travers 2 points de charge, pendant une dur\xE9e de vie de 10 ans."
+doc: buildingtransparency.org/e/ec3k1zwuxc
+document_version: '01.01'
+errors:
+  verifier_org:
+  - Missing link
+excluded: false
+externally_verified: true
+failures:
+  impacts:
+  - GWP impact not specified
+file_name: PULSE%20400_0c8319dbc15771ae2f3cef025dd1ca2168fb814a.pdf
+id: c385a9989d3f4cd6b624e2945dba79c2
+impacts: {}
+is_downloadable: true
+is_duplicate: false
+is_failed: true
+jurisdiction:
+- '001'
+language: fr
+manufacturer:
+  address: 2300 Columbia Ave, Lancaster, PA 17603, USA
+  address_line: 2300 Columbia Ave
+  admin_district: PA
+  admin_district2: Lancaster County
+  alt_names:
+  - Armstrong World Industries
+  - Armstrong World Industries, Inc.
+  attachments:
+    TransparencyCatalogURL: https://transparencycatalog.com/company/armstrong-ceilings
+  confirmable_fields: []
+  confirmed_fields: []
+  country: US
+  cqd_sync_unlocked: true
+  created_on: '2019-08-08T13:15:28.906027Z'
+  email_extensions:
+  - armstrongceilings.com
+  - armstrongceiling.com
+  enterprise: true
+  horizontal_logo: https://static.buildingtransparency.org/images/0ed164fb0bbf460c897a4da54c9201f0.png
+  id: 3625052d06964ba2accc90930766b552
+  image: https://static.buildingtransparency.org/images/5b2cb2ad215f4d5f9bf4e2500fc441e5.png
+  is_failed: false
+  latitude: 40.0396801
+  legal_name: Armstrong World Industries, Inc.
+  locality: Lancaster
+  location:
+  - long_name: '2300'
+    short_name: '2300'
+    types:
+    - street_number
+  - long_name: Columbia Avenue
+    short_name: Columbia Ave
+    types:
+    - route
+  - long_name: Lancaster
+    short_name: Lancaster
+    types:
+    - locality
+    - political
+  - long_name: Manor Township
+    short_name: Manor Township
+    types:
+    - administrative_area_level_3
+    - political
+  - long_name: Lancaster County
+    short_name: Lancaster County
+    types:
+    - administrative_area_level_2
+    - political
+  - long_name: Pennsylvania
+    short_name: PA
+    types:
+    - administrative_area_level_1
+    - political
+  - long_name: United States
+    short_name: US
+    types:
+    - country
+    - political
+  - long_name: '17603'
+    short_name: '17603'
+    types:
+    - postal_code
+  - long_name: '4108'
+    short_name: '4108'
+    types:
+    - postal_code_suffix
+  longitude: -76.36606739999999
+  name: Armstrong World Industries, Inc.
+  org_type: Private
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/3625052d06964ba2accc90930766b552
+  password_login_allowed: true
+  pilot_all_employees: false
+  postal_code: '17603'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: true
+  primary_activity_operator: false
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: false
+  updated_on: '2023-07-12T17:35:39.941724Z'
+  web_domain: armstrongceilings.com
+  website: www.armstrongceilings.com
+manufacturer_specific: true
+mass_per_declared_unit: 747.83 kg
+matched_plants_count: 1
+material_id: 31ce55327a2940588435a3085d9f1a76
+multiproduct: false
+my_capabilities: 1
+name: PULSE 400
+not_an_epd: false
+open_xpd_uuid: ec3k1zwu
+original_data_format: pdf_mixed
+original_ec3_link: https://buildingtransparency.org/ec3/epds/ec3k1zwu
+output_flows: {}
+owner:
+  name: cqd.io Admin
+  user_id: cqd.admin@buildingtransparency.org
+pcr:
+  alt_names:
+  - Product Category Rules for Electrical, Electronic and HVAC-R Products
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2022-07-26T23:17:55.975094Z'
+  date_of_issue: '2021-09-06'
+  date_validity_ends: '2026-09-06'
+  declared_units:
+  - 1 m
+  - 1 unit
+  - 1 kW
+  doc: https://register.pep-ecopassport.org/documents/public/PCR-4-EN
+  id: 5302782c7af74fa88bf8a5b4f552d205
+  is_failed: false
+  lcia_requirements:
+    EF 3.0:
+      impacts: []
+      jurisdiction:
+      - '150'
+      order: 1
+  name: Product Category Rules for Electrical, Electronic and HVAC-R Products
+  open_xpd_uuid: ec3qpee3
+  original_ec3_link: https://buildingtransparency.org/ec3/pcrs/ec3qpee3
+  product_classes: {}
+  short_link: buildingtransparency.org/p/ec3qpee337
+  short_name: Electrical, Electronic and HVAC-R Products
+  status: Published
+  updated_on: '2025-07-31T21:50:08.274194Z'
+  version: '4'
+plant_geography:
+- '001'
+plant_or_group:
+  categories: []
+  confirmable_fields: []
+  confirmed_fields: []
+  cqd_sync_unlocked: true
+  created_on: '2021-10-09T18:21:48.562380Z'
+  id: c1033eadeae44406bb1fc5defefa3cbf
+  is_failed: false
+  jurisdiction:
+  - '001'
+  name: Marietta, Macon
+  owned_by:
+    address: 2300 Columbia Ave, Lancaster, PA 17603, USA
+    address_line: 2300 Columbia Ave
+    admin_district: PA
+    admin_district2: Lancaster County
+    alt_names:
+    - Armstrong World Industries
+    - Armstrong World Industries, Inc.
+    attachments:
+      TransparencyCatalogURL: https://transparencycatalog.com/company/armstrong-ceilings
+    confirmable_fields: []
+    confirmed_fields: []
+    country: US
+    cqd_sync_unlocked: true
+    created_on: '2019-08-08T13:15:28.906027Z'
+    email_extensions:
+    - armstrongceilings.com
+    - armstrongceiling.com
+    enterprise: true
+    horizontal_logo: https://static.buildingtransparency.org/images/0ed164fb0bbf460c897a4da54c9201f0.png
+    id: 3625052d06964ba2accc90930766b552
+    image: https://static.buildingtransparency.org/images/5b2cb2ad215f4d5f9bf4e2500fc441e5.png
+    is_failed: false
+    latitude: 40.0396801
+    legal_name: Armstrong World Industries, Inc.
+    locality: Lancaster
+    location:
+    - long_name: '2300'
+      short_name: '2300'
+      types:
+      - street_number
+    - long_name: Columbia Avenue
+      short_name: Columbia Ave
+      types:
+      - route
+    - long_name: Lancaster
+      short_name: Lancaster
+      types:
+      - locality
+      - political
+    - long_name: Manor Township
+      short_name: Manor Township
+      types:
+      - administrative_area_level_3
+      - political
+    - long_name: Lancaster County
+      short_name: Lancaster County
+      types:
+      - administrative_area_level_2
+      - political
+    - long_name: Pennsylvania
+      short_name: PA
+      types:
+      - administrative_area_level_1
+      - political
+    - long_name: United States
+      short_name: US
+      types:
+      - country
+      - political
+    - long_name: '17603'
+      short_name: '17603'
+      types:
+      - postal_code
+    - long_name: '4108'
+      short_name: '4108'
+      types:
+      - postal_code_suffix
+    longitude: -76.36606739999999
+    name: Armstrong World Industries, Inc.
+    org_type: Private
+    original_ec3_link: https://buildingtransparency.org/ec3/organizations/3625052d06964ba2accc90930766b552
+    password_login_allowed: true
+    pilot_all_employees: false
+    postal_code: '17603'
+    primary_activity_builder: false
+    primary_activity_design: false
+    primary_activity_digitization_qa: false
+    primary_activity_education: false
+    primary_activity_epd_developer: false
+    primary_activity_forest_practices_certification: false
+    primary_activity_general_contractor: false
+    primary_activity_industry_association: false
+    primary_activity_manufacturer: true
+    primary_activity_operator: false
+    primary_activity_other: false
+    primary_activity_owner: false
+    primary_activity_performance_standards_issuer: false
+    primary_activity_subcontractor: false
+    primary_activity_sustainability_consulting: false
+    primary_activity_verifier: false
+    updated_on: '2023-07-12T17:35:39.941724Z'
+    web_domain: armstrongceilings.com
+    website: www.armstrongceilings.com
+  plants_count: 2
+  total_epds: 9
+  type: PlantGroup
+  updated_on: '2025-07-19T12:28:00.749946Z'
+plant_specific: false
+private: false
+product_classes:
+  PEP Ecopassport: EV Charging Infrastructures -> Public station on base -> DC station
+product_specific: true
+program_operator:
+  address: 17 Rue de l'Amiral Hamelin, Paris, 75116
+  address_line: 17 Rue de l'Amiral Hamelin
+  admin_district: "\xCEle-de-France"
+  admin_district2: Paris
+  alt_names:
+  - 'P.E.P. '
+  - P.E.P. Association
+  - PEP Ecopassport
+  - PEP ECOPASSPORT
+  confirmable_fields: []
+  confirmed_fields: []
+  country: FR
+  cqd_sync_unlocked: true
+  created_on: '2020-03-20T16:26:04.700448Z'
+  email_extensions:
+  - pep-ecopassport.org
+  enterprise: true
+  id: deed9ea7ead94df4b981dc9983a0fd67
+  is_failed: false
+  latitude: 48.86705
+  locality: Paris
+  location:
+    country: France
+    countryCode: FR
+    countryCodeISO3: FRA
+    countrySecondarySubdivision: Paris
+    countrySubdivision: "\xCEle-de-France"
+    freeformAddress: 17 Rue de l'Amiral Hamelin, Paris, 75116
+    localName: Paris
+    municipality: Paris
+    municipalitySubdivision: "16\xE8me Arrondissement"
+    postalCode: '75116'
+    streetName: Rue de l'Amiral Hamelin
+    streetNumber: '17'
+  longitude: 2.29208
+  name: Association P.E.P
+  original_ec3_link: https://buildingtransparency.org/ec3/organizations/deed9ea7ead94df4b981dc9983a0fd67
+  password_login_allowed: true
+  pilot_all_employees: false
+  po_geography:
+  - FR
+  postal_code: '75116'
+  primary_activity_builder: false
+  primary_activity_design: false
+  primary_activity_digitization_qa: false
+  primary_activity_education: false
+  primary_activity_epd_developer: false
+  primary_activity_forest_practices_certification: false
+  primary_activity_general_contractor: false
+  primary_activity_industry_association: false
+  primary_activity_manufacturer: false
+  primary_activity_operator: true
+  primary_activity_other: false
+  primary_activity_owner: false
+  primary_activity_performance_standards_issuer: false
+  primary_activity_subcontractor: false
+  primary_activity_sustainability_consulting: false
+  primary_activity_verifier: true
+  updated_on: '2025-05-16T14:29:39.996215Z'
+  web_domain: pep-ecopassport.org
+  website: http://www.pep-ecopassport.org/
+program_operator_fkey: MADI-00003
+reference_service_life: 10 year
+requires_ocr: false
+resource_uses: {}
+sanitizable: true
+short_link: buildingtransparency.org/e/ec3k1zwuxc
+stored_carbon_z: 0.2
+supply_chain_specific: 0.0
+third_party_verified: true
+updated_on: '2025-06-22T05:49:10.693279Z'
+use_stored_carbon: false
+warnings:
+  density:
+  - Not specified
+  developer:
+  - Missing link
+  developer_org:
+  - Missing link
+  impacts:
+  - PCR's required LCIA Method not found in the document
+  - AP impact not specified
+  - EP-FRESH impact not specified
+  - EP-MARINE impact not specified
+  - EP-TERRESTRIAL impact not specified
+  - POCP impact not specified
+  - B1_years are empty
+  - B2_years are empty
+  - B3_years are empty
+  - B4_years are empty
+  - B5_years are empty
+  - B6_years are empty
+  - B7_years are empty
+  verifier:
+  - Missing link
