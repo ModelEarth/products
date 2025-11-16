@@ -85,17 +85,32 @@ def get_zipcode_from_epd(epd):
     return zipcode
 
 # ✅ Output to products-data folder
-def create_folder_path(state, zipcode, display_name):
-    base_root = os.path.join("../../products-data")
-    # For India, organize strictly by category under 'IN/<category>'
-    if state == 'IN':
-        return os.path.join(base_root, 'IN', display_name)
-    # For US states: organize by country and category (e.g., US/Cement, US/Brick)
-    # Products might come from multiple states, so use category-based folders
-    if state.startswith('US-'):
-        return os.path.join(base_root, 'US', display_name)
-    # Default fallback
+# def create_folder_path(state, zipcode, display_name):
+#     base_root = os.path.join("../../products-data")
+#     # For India, organize strictly by category under 'IN/<category>'
+#     if state == 'IN':
+#         return os.path.join(base_root, 'IN', display_name)
+#     # For US states: organize by country and category (e.g., US/Cement, US/Brick)
+#     # Products might come from multiple states, so use category-based folders
+#     if state.startswith('US-'):
+#         return os.path.join(base_root, 'US', display_name)
+#     # Default fallback
+#     return os.path.join(base_root, state, display_name)
+
+def create_folder_path(state, display_name):
+    base_root = "../../products-data"
+
+    # India → IN/<category>
+    if state == "IN":
+        return os.path.join(base_root, "IN", display_name)
+
+    # All US states → US/<category>
+    if state.startswith("US-"):
+        return os.path.join(base_root, "US", display_name)
+
+    # Fallback: <country>/<category>
     return os.path.join(base_root, state, display_name)
+
 
 def save_json_to_yaml(state: str, json_data: list):
     filtered_data = remove_null_values(json_data)
@@ -103,93 +118,129 @@ def save_json_to_yaml(state: str, json_data: list):
         display_name = epd['category']['display_name'].replace(" ", "_")
         material_id = epd['material_id']
         zipcode = get_zipcode_from_epd(epd) or "unknown"
-        folder_path = create_folder_path(state, zipcode, display_name)
+        folder_path = create_folder_path(state, display_name)
         os.makedirs(folder_path, exist_ok=True)
         file_path = os.path.join(folder_path, f"{material_id}.yaml")
         with open(file_path, "w") as yaml_file:
             yaml.dump(epd, yaml_file, default_flow_style=False)
 
-def map_response(epd: dict) -> dict:
+# def map_response(epd: dict) -> dict:
+#     return {
+#         'Category_epd_name': epd['category']['openepd_name'],
+#         'Name': epd['name'],
+#         'ID': epd['open_xpd_uuid'],
+#         'Zip': epd['plant_or_group'].get('postal_code', None),
+#         'County': epd['plant_or_group'].get('admin_district2', None),
+#         'Address': epd['plant_or_group'].get('address', None),
+#         'Latitude': epd['plant_or_group'].get('latitude', None),
+#         'Longitude': epd['plant_or_group'].get('longitude', None)
+#     }
+
+def map_response(epd: dict, state: str) -> dict:
+    category_name = epd['category']['openepd_name']
+    display_name = epd['category']['display_name'].replace(" ", "_")
+    material_id = epd['open_xpd_uuid']
+
+    # Build detail file path exactly the same way your JSON/YAML files are written
+    if state == "IN":
+        detail_path = f"IN/{display_name}/{material_id}.yaml"
+    else:
+        detail_path = f"US/{display_name}/{material_id}.yaml"
+
     return {
-        'Category_epd_name': epd['category']['openepd_name'],
+        'Category': category_name,
+        'Display_Category': display_name,
         'Name': epd['name'],
-        'ID': epd['open_xpd_uuid'],
+        'ID': material_id,
         'Zip': epd['plant_or_group'].get('postal_code', None),
         'County': epd['plant_or_group'].get('admin_district2', None),
         'Address': epd['plant_or_group'].get('address', None),
         'Latitude': epd['plant_or_group'].get('latitude', None),
-        'Longitude': epd['plant_or_group'].get('longitude', None)
+        'Longitude': epd['plant_or_group'].get('longitude', None),
+        'Detail_Path': detail_path
     }
 
-def write_csv_others(title: str, epds: list):
-    os.makedirs("../../products-data", exist_ok=True)
-    with open(f"../../products-data/{title}.csv", "w") as csv_file:
-        writer = csv.writer(csv_file)
-        writer.writerow(["Name", "ID", "Zip", "County", "Address", "Latitude", "Longitude"])
-        for epd in epds:
-            writer.writerow([epd['Name'], epd['ID'], epd['Zip'], epd['County'], epd['Address'], epd['Latitude'], epd['Longitude']])
 
-def write_csv_cement(epds: list):
-    """Write cement rows. Instead of a single central CSV, write per-state cement CSVs and
-    save individual cement YAML files under profile/cement/US/<state>/. 
+# def write_csv_others(title: str, epds: list):
+#     os.makedirs("../../products-data", exist_ok=True)
+#     with open(f"../../products-data/{title}.csv", "w") as csv_file:
+#         writer = csv.writer(csv_file)
+#         # writer.writerow(["Name", "ID", "Zip", "County", "Address", "Latitude", "Longitude"])
+#         writer.writerow(["Category", "Name", "ID", "Zip", "County", "Address", "Latitude", "Longitude", "Detail_Path"])
+#         for epd in epds:
+#             # writer.writerow([epd['Name'], epd['ID'], epd['Zip'], epd['County'], epd['Address'], epd['Latitude'], epd['Longitude']])
+#             writer.writerow([
+#                 epd['Category'],
+#                 epd['Name'],
+#                 epd['ID'],
+#                 epd['Zip'],
+#                 epd['County'],
+#                 epd['Address'],
+#                 epd['Latitude'],
+#                 epd['Longitude'],
+#                 epd['Detail_Path']
+#             ])
+# def write_csv_cement(epds: list):
+#     """Write cement rows. Instead of a single central CSV, write per-state cement CSVs and
+#     save individual cement YAML files under profile/cement/US/<state>/. 
 
-    epds: list of mapped epd dicts (output from map_response)
-    """
-    # Ensure base folders exist
-    os.makedirs("../../products-data", exist_ok=True)
-    profile_cement_base = os.path.join("..", "..", "profile", "cement", "US")
-    os.makedirs(profile_cement_base, exist_ok=True)
+#     epds: list of mapped epd dicts (output from map_response)
+#     """
+#     # Ensure base folders exist
+#     os.makedirs("../../products-data", exist_ok=True)
+#     profile_cement_base = os.path.join("..", "..", "profile", "cement", "US")
+#     os.makedirs(profile_cement_base, exist_ok=True)
 
-    # Group by state (Zip field may be partial or None) - expect the caller to pass state separately
-    # To support the existing call signature, if epds includes a 'State' key use that; otherwise
-    # default to 'unknown'. However, product-footprints passes mapped epds and state separately
-    # so higher-level caller will call write_cement_state_files per-state.
-    # Here we provide a fallback append to central Cement.csv for unexpected calls.
-    if not epds:
-        return
+#     # Group by state (Zip field may be partial or None) - expect the caller to pass state separately
+#     # To support the existing call signature, if epds includes a 'State' key use that; otherwise
+#     # default to 'unknown'. However, product-footprints passes mapped epds and state separately
+#     # so higher-level caller will call write_cement_state_files per-state.
+#     # Here we provide a fallback append to central Cement.csv for unexpected calls.
+#     if not epds:
+#         return
 
-    # Fallback: if a pseudo 'State' key exists on first epd, use it to write a per-state CSV
-    first = epds[0]
-    state = first.get('State') or first.get('Plant_State') or 'unknown'
+#     # Fallback: if a pseudo 'State' key exists on first epd, use it to write a per-state CSV
+#     first = epds[0]
+#     state = first.get('State') or first.get('Plant_State') or 'unknown'
 
-    # Write per-state cement CSV in products-data and in profile/cement/US/<state>/Cement.csv
-    state_products_data_dir = os.path.join("../../products-data", state)
-    os.makedirs(state_products_data_dir, exist_ok=True)
-    state_profile_dir = os.path.join(profile_cement_base, state)
-    os.makedirs(state_profile_dir, exist_ok=True)
+#     # Write per-state cement CSV in products-data and in profile/cement/US/<state>/Cement.csv
+#     state_products_data_dir = os.path.join("../../products-data", state)
+#     os.makedirs(state_products_data_dir, exist_ok=True)
+#     state_profile_dir = os.path.join(profile_cement_base, state)
+#     os.makedirs(state_profile_dir, exist_ok=True)
 
-    products_data_csv = os.path.join(state_products_data_dir, 'Cement.csv')
-    profile_cement_csv = os.path.join(state_profile_dir, 'Cement.csv')
+#     products_data_csv = os.path.join(state_products_data_dir, 'Cement.csv')
+#     profile_cement_csv = os.path.join(state_profile_dir, 'Cement.csv')
 
-    # Append rows to both CSV locations
-    for csv_path in (products_data_csv, profile_cement_csv):
-        write_header = not os.path.exists(csv_path)
-        with open(csv_path, 'a') as csv_file:
-            writer = csv.writer(csv_file)
-            if write_header:
-                writer.writerow(["Name", "ID", "Zip", "County", "Address", "Latitude", "Longitude"])
-            for epd in epds:
-                writer.writerow([epd.get('Name',''), epd.get('ID',''), epd.get('Zip',''), epd.get('County',''), epd.get('Address',''), epd.get('Latitude',''), epd.get('Longitude','')])
+#     # Append rows to both CSV locations
+#     for csv_path in (products_data_csv, profile_cement_csv):
+#         write_header = not os.path.exists(csv_path)
+#         with open(csv_path, 'a') as csv_file:
+#             writer = csv.writer(csv_file)
+#             if write_header:
+#                 writer.writerow(["Name", "ID", "Zip", "County", "Address", "Latitude", "Longitude"])
+#             for epd in epds:
+#                 writer.writerow([epd.get('Name',''), epd.get('ID',''), epd.get('Zip',''), epd.get('County',''), epd.get('Address',''), epd.get('Latitude',''), epd.get('Longitude','')])
 
-    # Save individual YAMLs for each cement product under profile/cement/US/<state>/<material_id>.yaml
-    try:
-        # We need the original epd structured data to write YAML files. If caller passed mapped dicts only,
-        # we cannot dump full EPD; in that case skip YAML save. We detect full EPD by presence of 'Category_epd_name'.
-        # However our mapped epds are simple; product-footprints has access to full EPDs when calling save_json_to_yaml.
-        # To keep behavior safe, attempt to write minimal YAML with available fields.
-        for epd in epds:
-            mat_id = epd.get('ID') or epd.get('material_id')
-            if not mat_id:
-                continue
-            yaml_path = os.path.join(state_profile_dir, f"{mat_id}.yaml")
-            # Only write if not present to avoid overwriting existing full data
-            if not os.path.exists(yaml_path):
-                with open(yaml_path, 'w') as yf:
-                    # Dump the mapped dict as YAML (minimal)
-                    yaml.dump(epd, yf, default_flow_style=False)
-    except Exception:
-        # Do not fail the entire process for YAML write issues
-        pass
+#     # Save individual YAMLs for each cement product under profile/cement/US/<state>/<material_id>.yaml
+#     try:
+#         # We need the original epd structured data to write YAML files. If caller passed mapped dicts only,
+#         # we cannot dump full EPD; in that case skip YAML save. We detect full EPD by presence of 'Category_epd_name'.
+#         # However our mapped epds are simple; product-footprints has access to full EPDs when calling save_json_to_yaml.
+#         # To keep behavior safe, attempt to write minimal YAML with available fields.
+#         for epd in epds:
+#             mat_id = epd.get('ID') or epd.get('material_id')
+#             if not mat_id:
+#                 continue
+#             yaml_path = os.path.join(state_profile_dir, f"{mat_id}.yaml")
+#             # Only write if not present to avoid overwriting existing full data
+#             if not os.path.exists(yaml_path):
+#                 with open(yaml_path, 'w') as yf:
+#                     # Dump the mapped dict as YAML (minimal)
+#                     yaml.dump(epd, yf, default_flow_style=False)
+#     except Exception:
+#         # Do not fail the entire process for YAML write issues
+#         pass
 
 def write_epd_to_csv(epds: list, state: str):
     cement_list = []
@@ -197,17 +248,24 @@ def write_epd_to_csv(epds: list, state: str):
     for epd in epds:
         if epd is None:
             continue
-        category_name = epd['Category_epd_name'].lower()
+        # category_name = epd['Category_epd_name'].lower()
+        # if 'cement' in category_name:
+        #     # tag with state for downstream per-state cement handling
+        #     epd['State'] = state
+        #     cement_list.append(epd)
+        # else:
+        #     others_list.append(epd)
+        category_name = epd['Category'].lower()
         if 'cement' in category_name:
-            # tag with state for downstream per-state cement handling
             epd['State'] = state
             cement_list.append(epd)
         else:
             others_list.append(epd)
+
     # Write cement rows to per-state cement folders and CSVs
-    write_csv_cement(cement_list)
+    # write_csv_cement(cement_list)
     # Non-cement products remain written per-state under products-data
-    write_csv_others(state, others_list)
+    # write_csv_others(state, others_list)
 
 # Products CSV for India: maps region1 (IN) to region2 (US) with category_id and tariff_percent
 def write_products_csv(raw_epds: list, state: str):
@@ -284,8 +342,10 @@ if __name__ == "__main__":
         for state in states:
             print(f"Fetching and processing: {state}")
             results = fetch_epds(state, authorization)
+            print("COUNT = ", len(results))
             save_json_to_yaml(state, results)
             # Create products CSV for IN with region mapping and tariff rates
             write_products_csv(results, state)
-            mapped_results = [map_response(epd) for epd in results]
+            # mapped_results = [map_response(epd) for epd in results]
+            mapped_results = [map_response(epd, state) for epd in results]
             write_epd_to_csv(mapped_results, state)
