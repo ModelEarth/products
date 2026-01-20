@@ -1,0 +1,37 @@
+
+======================================================================
+EPD Impact Categories & Resource Use Analysis Report
+======================================================================
+
+Total EPDs analyzed: 500
+EPDs with GWP data: 489 (97.8%)
+EPDs with other impact categories: 0 (0.0%)
+EPDs with resource use data: 0 (0.0%)
+
+----------------------------------------------------------------------
+GWP Fields Found:
+----------------------------------------------------------------------
+  - gwp: 489 EPDs (97.8%)
+  - best_practice: 489 EPDs (97.8%)
+  - conservative_estimate: 489 EPDs (97.8%)
+  - lowest_plausible_gwp: 489 EPDs (97.8%)
+  - uncertainty_adjusted_gwp: 489 EPDs (97.8%)
+  - standard_deviation: 489 EPDs (97.8%)
+  - gwp_z: 489 EPDs (97.8%)
+  - biogenic_embodied_carbon_z: 489 EPDs (97.8%)
+  - stored_carbon_z: 489 EPDs (97.8%)
+  - category_pct10_gwp: 489 EPDs (97.8%)
+  - category_pct20_gwp: 489 EPDs (97.8%)
+  - category_pct30_gwp: 489 EPDs (97.8%)
+  - category_pct40_gwp: 489 EPDs (97.8%)
+  - category_pct50_gwp: 489 EPDs (97.8%)
+  - category_pct60_gwp: 489 EPDs (97.8%)
+  - category_pct70_gwp: 489 EPDs (97.8%)
+  - category_pct80_gwp: 489 EPDs (97.8%)
+  - category_pct90_gwp: 489 EPDs (97.8%)
+  - gwp_per_category_declared_unit: 483 EPDs (96.6%)
+  - gwp_per_kg: 478 EPDs (95.6%)
+
+----------------------------------------------------------------------
+Impact Categories Found:
+----------------------------------------------------------------------
