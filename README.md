@@ -333,3 +333,44 @@ Several scripts are available in `products/pull/` to analyze and test impact dat
 - **`test_impact_data_integration.py`**: Tests merge functionality and YAML structure
 
 For detailed documentation, see [EMISSIONS_DATA_DOCUMENTATION.md](pull/EMISSIONS_DATA_DOCUMENTATION.md).
+
+
+
+
+## Data Pipeline Nodes (products/pull)
+
+### prod_001 — EPD Data Fetcher (`product-footprints.py`)
+
+Fetches Environmental Product Declarations (EPDs) from the BuildingTransparency.org EC3 API  
+and saves them as YAML files organized by country and product category.
+
+**Outputs:**
+- YAML files written to:  
+  `products-data/{COUNTRY}/{CATEGORY}/*.yaml`
+
+These YAML files contain Environmental Product Declaration (EPD) data
+pulled from the BuildingTransparency.org EC3 API, organized by country
+and product category.
+
+This script builds the local EPD dataset used by downstream analysis scripts.
+
+
+
+### prod_002 — EPD Emissions Analyzer (`analyze_emissions_data.py`)
+
+Scans all downloaded EPD YAML files and documents which emissions-related fields  
+and impact categories are present across the dataset.
+
+**Outputs:**
+- `products/pull/emissions_analysis_report.txt`
+
+This report summarizes:
+- Coverage of GWP and related fields  
+- Presence of other impact categories (e.g., acidification, eutrophication, etc.)  
+- Presence of resource use data  
+- Breakdown by country and product category  
+
+The output file is intentionally retained in the repository because it is small  
+(~4 KB) and useful for validating dataset completeness.
+
+
