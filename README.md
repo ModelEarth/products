@@ -1,18 +1,11 @@
-[Profile Tools](../profile) and [IO Template](../io/template)
-
-
-TO DO: We're creating a cool UX for viewing and comparing [menus of product impacts](../profile/item/menu.html).  
-Here's an upcoming [product profile](../profile/item/index.html#layout=product). (Change to use this [raw yaml path for Accostic Ceilings](https://raw.githubusercontent.com/ModelEarth/products-data/refs/heads/main/US/Acoustical_Ceilings/61a3d3f6469b4e9baa9da7605650a63d.yaml).)
-
-[Getting Started](#start) as a code contributor
+[Impact Menus](../profile/item/) and [GEO Profiles](../io/template)
 
 # Environmental Product Data
 
 ## YAML File Structure
-The YAML details in the [products-data repo](https://github.com/modelearth/products-data/) contain CO2e impact data for building products pulled from BuildingTransparency.org. Each file represents a specific product's Environmental Product Declaration (EPD) with lifecycle assessment data.
+The YAML details in the [products-data repo](https://github.com/modelearth/products-data/) contain CO2e impact data for building products pulled from BuildingTransparency.org. Each file represents a specific product's Environmental Product Declaration (EPD) with lifecycle assessment data. [About Pull from BuildingTransparency.org](#start)
 
 **Most interesting:** the gwp_z parameter compares to category average.
-
 
 ### Global Warming Potential (GWP)
 The primary emission metric tracked is carbon footprint, measured in kgCO2e:
@@ -126,17 +119,17 @@ The following environmental impact metrics are frequently **not specified** in E
 - **POCP**: Photochemical Ozone Creation Potential
 
 
+<div id="start"></div>
+
 The following resource indicators may later be available in the `resource_uses` field (currently empty in most EC3 API responses):
 - Primary energy use (renewable / non-renewable)
 - Water use indicators
 - Waste generation and output flows
 
-<div id="start"></div>
-
 These missing fields indicate that many EPDs focus primarily on carbon emissions (GWP) rather than the full spectrum of environmental impacts.
 
 
-## Product Comparisons
+## About Pull from BuildingTransparency.org
 
 [See issue page on GitHub for additional details](https://github.com/ModelEarth/products/issues/1)
 
