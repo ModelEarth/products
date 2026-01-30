@@ -1,4 +1,5 @@
 import requests, json, csv, logging, yaml, time, os
+from pathlib import Path
 from functools import partial
 from myconfig import email, password
 from merge_impact_data import merge_impact_data, fetch_from_openepd_by_id, should_fetch_from_openepd
@@ -19,6 +20,53 @@ countries = ['IN', 'GB', 'DE', 'NL', 'CA', 'MX', 'CN']
 
 # Combine all regions
 states = us_states + countries
+
+def combine_csvs_for_country(country: str):
+    """Combine all category CSVs into a single all.csv file for a country"""
+    base_dir = Path.home() / "Documents" / "GitHub" / "products-data"
+    folder = base_dir / country
+    out = folder / "all.csv"
+    
+    if not folder.exists():
+        print(f"  Folder {folder} doesn't exist, skipping combine")
+        return
+    
+    files = sorted([p for p in folder.glob("*.csv") if p.name != "all.csv"])
+
+    if not files:
+        print(f"  No CSV files found in {folder}, skipping combine step")
+        return
+
+    header = None
+    rows_written = 0
+
+    with out.open("w", newline="", encoding="utf-8") as f_out:
+        writer = None
+        for path in files:
+            with path.open("r", newline="", encoding="utf-8") as f_in:
+                reader = csv.reader(f_in)
+                try:
+                    file_header = next(reader)
+                except StopIteration:
+                    continue
+
+                if header is None:
+                    header = file_header
+                    writer = csv.writer(f_out)
+                    writer.writerow(header)
+
+                for row in reader:
+                    writer.writerow(row)
+                    rows_written += 1
+
+    print(f"  ✓ Created {out.name} with {rows_written} rows")
+
+import argparse
+
+def parse_arguments():
+    parser = argparse.ArgumentParser(description='Pull product footprint data')
+    parser.add_argument('--country', type=str, help='Comma-separated country codes (e.g., US,IN,UK) or US state codes (e.g., US-CA,US-NY)')
+    return parser.parse_args()
 
 epds_url = "https://buildingtransparency.org/api/epds"
 openepd_url = "https://openepd.buildingtransparency.org/api/epds"
@@ -428,6 +476,19 @@ def write_products_csv(raw_epds: list, state: str):
 
 # ✅ MAIN SCRIPT
 if __name__ == "__main__":
+    args = parse_arguments()
+    
+    # Determine which regions to process
+    if args.country:
+        selected_regions = [c.strip().upper() for c in args.country.split(',')]
+        # Expand 'US' to all US states
+        if 'US' in selected_regions:
+            selected_regions.remove('US')
+            selected_regions.extend(us_states)
+    else:
+        selected_regions = states
+    
+    states = selected_regions  # Override the states list
     authorization = get_auth()
     if authorization:
         total_regions = len(states)
@@ -444,6 +505,9 @@ if __name__ == "__main__":
                 mapped_results = [map_response(epd) for epd in results]
                 write_epd_to_csv(mapped_results, state)
                 print(f"✓ Completed {state}: {len(results)} EPDs saved", flush=True)
+                # Combine CSVs into all.csv
+                country_code = state if not state.startswith('US-') else 'US'
+                combine_csvs_for_country(country_code)
             else:
                 print(f"⚠ Skipped {state}: No data available", flush=True)
         print(f"\n✓ All regions processed!", flush=True)
