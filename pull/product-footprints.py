@@ -22,44 +22,88 @@ countries = ['IN', 'GB', 'DE', 'NL', 'CA', 'MX', 'CN']
 states = us_states + countries
 
 def combine_csvs_for_country(country: str):
-    """Combine all category CSVs into a single all.csv file for a country"""
+    """Combine all category CSVs into all.csv, excluding cement categories"""
     base_dir = Path.home() / "Documents" / "GitHub" / "products-data"
     folder = base_dir / country
-    out = folder / "all.csv"
+    out_all = folder / "all.csv"
+    out_cement = base_dir / "Cement.csv"
     
     if not folder.exists():
         print(f"  Folder {folder} doesn't exist, skipping combine")
         return
     
-    files = sorted([p for p in folder.glob("*.csv") if p.name != "all.csv"])
-
-    if not files:
-        print(f"  No CSV files found in {folder}, skipping combine step")
+    # Get all CSV files
+    all_files = sorted([p for p in folder.glob("*.csv") if p.name != "all.csv"])
+    
+    if not all_files:
+        print(f"  No CSV files found, skipping combine")
         return
-
-    header = None
-    rows_written = 0
-
-    with out.open("w", newline="", encoding="utf-8") as f_out:
-        writer = None
-        for path in files:
-            with path.open("r", newline="", encoding="utf-8") as f_in:
-                reader = csv.reader(f_in)
-                try:
-                    file_header = next(reader)
-                except StopIteration:
-                    continue
-
-                if header is None:
-                    header = file_header
-                    writer = csv.writer(f_out)
-                    writer.writerow(header)
-
-                for row in reader:
-                    writer.writerow(row)
-                    rows_written += 1
-
-    print(f"  ✓ Created {out.name} with {rows_written} rows")
+    
+    # Separate cement files from regular files
+    cement_keywords = ['cement', 'ready_mix', 'concrete', 'mortar']
+    cement_files = []
+    regular_files = []
+    
+    for f in all_files:
+        filename_lower = f.stem.lower()
+        if any(keyword in filename_lower for keyword in cement_keywords):
+            cement_files.append(f)
+        else:
+            regular_files.append(f)
+    
+    print(f"  Found {len(regular_files)} regular files, {len(cement_files)} cement files")
+    
+    # Combine regular files into all.csv
+    if regular_files:
+        header = None
+        rows_written = 0
+        
+        with out_all.open("w", newline="", encoding="utf-8") as f_out:
+            writer = None
+            for path in regular_files:
+                with path.open("r", newline="", encoding="utf-8") as f_in:
+                    reader = csv.reader(f_in)
+                    try:
+                        file_header = next(reader)
+                    except StopIteration:
+                        continue
+                    
+                    if header is None:
+                        header = file_header
+                        writer = csv.writer(f_out)
+                        writer.writerow(header)
+                    
+                    for row in reader:
+                        writer.writerow(row)
+                        rows_written += 1
+        
+        print(f"  ✓ Created all.csv with {rows_written} rows (excludes cement)")
+    
+    # Combine cement files into Cement.csv
+    if cement_files:
+        header = None
+        cement_rows = 0
+        
+        with out_cement.open("w", newline="", encoding="utf-8") as f_out:
+            writer = None
+            for path in cement_files:
+                with path.open("r", newline="", encoding="utf-8") as f_in:
+                    reader = csv.reader(f_in)
+                    try:
+                        file_header = next(reader)
+                    except StopIteration:
+                        continue
+                    
+                    if header is None:
+                        header = file_header
+                        writer = csv.writer(f_out)
+                        writer.writerow(header)
+                    
+                    for row in reader:
+                        writer.writerow(row)
+                        cement_rows += 1
+        
+        print(f"  ✓ Created Cement.csv with {cement_rows} rows")
 
 import argparse
 
