@@ -326,6 +326,9 @@ def save_json_to_yaml(state: str, json_data: list, authorization=None):
     openepd_merged = 0
     
     for epd in filtered_data:
+        product_name = epd.get('name', '')
+        if product_name.startswith('#duplicate'):
+            continue
         display_name = epd['category']['display_name'].replace(" ", "_")
         material_id = epd['material_id']
         zipcode = get_zipcode_from_epd(epd) or "unknown"
