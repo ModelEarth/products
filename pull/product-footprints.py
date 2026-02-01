@@ -17,6 +17,7 @@ us_states = [
 
 # Additional countries
 countries = ['IN', 'GB', 'DE', 'NL', 'CA', 'MX', 'CN']
+european_countries = ['GB', 'DE', 'FR', 'ES', 'IT', 'NL', 'BE', 'AT', 'SE', 'DK', 'FI', 'NO', 'PL', 'CZ', 'PT', 'GR', 'IE', 'RO']
 
 # Combine all regions
 states = us_states + countries
@@ -110,6 +111,7 @@ import argparse
 def parse_arguments():
     parser = argparse.ArgumentParser(description='Pull product footprint data')
     parser.add_argument('--country', type=str, help='Comma-separated country codes (e.g., US,IN,UK) or US state codes (e.g., US-CA,US-NY)')
+    parser.add_argument('--europe', action='store_true', help='Pull all European countries')
     return parser.parse_args()
 
 epds_url = "https://buildingtransparency.org/api/epds"
@@ -523,14 +525,29 @@ if __name__ == "__main__":
     args = parse_arguments()
     
     # Determine which regions to process
+    # Determine which regions to process
+    selected_regions = []
+    
+    if args.europe:
+        # Add European countries
+        selected_regions.extend(european_countries)
+    
     if args.country:
-        selected_regions = [c.strip().upper() for c in args.country.split(',')]
+        # Add specified countries
+        countries_list = [c.strip().upper() for c in args.country.split(',')]
         # Expand 'US' to all US states
-        if 'US' in selected_regions:
-            selected_regions.remove('US')
-            selected_regions.extend(us_states)
-    else:
+        if 'US' in countries_list:
+            countries_list.remove('US')
+            countries_list.extend(us_states)
+        selected_regions.extend(countries_list)
+    
+    # If nothing specified, use defaults
+    if not selected_regions:
         selected_regions = states
+    
+    # Remove duplicates
+    selected_regions = list(dict.fromkeys(selected_regions))  # Preserves order
+    
     
     states = selected_regions  # Override the states list
     authorization = get_auth()
