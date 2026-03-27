@@ -28,7 +28,7 @@ def analyze_epd_file(yaml_file_path):
         'epd_id': epd.get('id', 'Unknown'),
         'material_id': epd.get('material_id', 'Unknown'),
         'gwp_fields': {},
-        'impact_values': {},
+        'levels': {},
         'resource_values': {}
     }
     
@@ -53,7 +53,7 @@ def analyze_epd_file(yaml_file_path):
     
     # Extract impact values if present
     if analysis['has_impacts']:
-        analysis['impact_values'] = epd.get('impacts', {})
+        analysis['levels'] = epd.get('impacts', {})
     
     # Extract resource use values if present
     if analysis['has_resource_uses']:
@@ -121,7 +121,7 @@ def scan_all_epds(max_files=None):
                         'file': str(yaml_file),
                         'epd_id': analysis['epd_id'],
                         'category': analysis['category'],
-                        'impacts': analysis['impact_values']
+                        'impacts': analysis['levels']
                     })
             
             if analysis['has_resource_uses']:
